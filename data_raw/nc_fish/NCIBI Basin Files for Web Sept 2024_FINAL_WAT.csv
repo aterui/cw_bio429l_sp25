@@ -1,0 +1,372 @@
+Basin,StationID,Waterbody,Station,County,Latitude,Longitude,Ecoregion,Drainage Area,Stream Index Number,Stream Classification,CC Num,Date,Scientific Name,Common Name,Family,Pollution Tolerance,Feeding Type,No Coll,Mult Ages,NCIBI Score,Bioclass
+WAT,LF1,Cove Cr,SR 1149,Watauga,36.25306,-81.81361,MT,31.9,8-15,C,2004-142,05/03/04,Cyprinella galactura,Whitetail Shiner,Cyprinidae,Intermediate,Insectivore,6,Yes,34,Not Rated
+WAT,LF2,Cranberry Cr,NC 194,Avery,36.16288,-81.95651,MT,9.8,8-22-16,C;Tr,2004-33,05/03/04,Campostoma anomalum,Central Stoneroller,Cyprinidae,Intermediate,Herbivore,2,No,28,Not Rated
+WAT,LF2,Cranberry Cr,NC 194,Avery,36.16288,-81.95651,MT,9.8,8-22-16,C;Tr,2004-33,05/03/04,Rhinichthys obtusus,Western Blacknose Dace,Cyprinidae,Intermediate,Insectivore,21,Yes,28,Not Rated
+WAT,LF2,Cranberry Cr,NC 194,Avery,36.16288,-81.95651,MT,9.8,8-22-16,C;Tr,2004-33,05/03/04,Catostomus commersonii,White Sucker,Catostomidae,Tolerant,Omnivore,3,Yes,28,Not Rated
+WAT,LF2,Cranberry Cr,NC 194,Avery,36.16288,-81.95651,MT,9.8,8-22-16,C;Tr,2004-33,05/03/04,Hypentelium nigricans,Northern Hogsucker,Catostomidae,Intermediate,Insectivore,3,Yes,28,Not Rated
+WAT,LF2,Cranberry Cr,NC 194,Avery,36.16288,-81.95651,MT,9.8,8-22-16,C;Tr,2004-33,05/03/04,Salmo trutta,Brown Trout,Salmonidae,Intermediate,Piscivore,35,Yes,28,Not Rated
+WAT,LF2,Cranberry Cr,NC 194,Avery,36.16288,-81.95651,MT,9.8,8-22-16,C;Tr,2004-33,05/03/04,Oncorhynchus mykiss,Rainbow Trout,Salmonidae,Intolerant,Insectivore,29,Yes,28,Not Rated
+WAT,LF3,Elk R,SR 1326,Avery,36.17159,-81.91700,MT,18.7,8-22-(14.5),B;Tr,2004-34,05/03/04,Ambloplites rupestris,Rock Bass,Centrarchidae,Intolerant,Piscivore,2,No,26,Not Rated
+WAT,LF3,Elk R,SR 1326,Avery,36.17159,-81.91700,MT,18.7,8-22-(14.5),B;Tr,2004-34,05/03/04,Rhinichthys obtusus,Western Blacknose Dace,Cyprinidae,Intermediate,Insectivore,34,Yes,26,Not Rated
+WAT,LF3,Elk R,SR 1326,Avery,36.17159,-81.91700,MT,18.7,8-22-(14.5),B;Tr,2004-34,05/03/04,Clinostomus funduloides,Rosyside Dace,Cyprinidae,Intermediate,Insectivore,2,No,26,Not Rated
+WAT,LF3,Elk R,SR 1326,Avery,36.17159,-81.91700,MT,18.7,8-22-(14.5),B;Tr,2004-34,05/03/04,Lepomis macrochirus,Bluegill,Centrarchidae,Intermediate,Insectivore,1,No,26,Not Rated
+WAT,LF3,Elk R,SR 1326,Avery,36.17159,-81.91700,MT,18.7,8-22-(14.5),B;Tr,2004-34,05/03/04,Lepomis auritus,Redbreast Sunfish,Centrarchidae,Tolerant,Insectivore,16,Yes,26,Not Rated
+WAT,LF3,Elk R,SR 1326,Avery,36.17159,-81.91700,MT,18.7,8-22-(14.5),B;Tr,2004-34,05/03/04,Hypentelium nigricans,Northern Hogsucker,Catostomidae,Intermediate,Insectivore,11,Yes,26,Not Rated
+WAT,LF3,Elk R,SR 1326,Avery,36.17159,-81.91700,MT,18.7,8-22-(14.5),B;Tr,2004-34,05/03/04,Catostomus commersonii,White Sucker,Catostomidae,Tolerant,Omnivore,24,Yes,26,Not Rated
+WAT,LF3,Elk R,SR 1326,Avery,36.17159,-81.91700,MT,18.7,8-22-(14.5),B;Tr,2004-34,05/03/04,Oncorhynchus mykiss,Rainbow Trout,Salmonidae,Intolerant,Insectivore,39,Yes,26,Not Rated
+WAT,LF3,Elk R,SR 1326,Avery,36.17159,-81.91700,MT,18.7,8-22-(14.5),B;Tr,2004-34,05/03/04,Salmo trutta,Brown Trout,Salmonidae,Intermediate,Piscivore,67,Yes,26,Not Rated
+WAT,LF3,Elk R,SR 1326,Avery,36.17159,-81.91700,MT,18.7,8-22-(14.5),B;Tr,2004-34,05/03/04,Campostoma anomalum,Central Stoneroller,Cyprinidae,Intermediate,Herbivore,111,Yes,26,Not Rated
+WAT,LF3,Elk R,SR 1326,Avery,36.17159,-81.91700,MT,18.7,8-22-(14.5),B;Tr,2004-34,05/03/04,Semotilus atromaculatus,Creek Chub,Cyprinidae,Tolerant,Insectivore,3,No,26,Not Rated
+WAT,LF4,Beech Cr,off SR 1312,Avery,36.25194,-81.90361,MT,15,8-20,C;Tr,2004-35,05/04/04,Lepomis auritus,Redbreast Sunfish,Centrarchidae,Tolerant,Insectivore,151,Yes,26,Not Rated
+WAT,LF4,Beech Cr,off SR 1312,Avery,36.25194,-81.90361,MT,15,8-20,C;Tr,2004-35,05/04/04,Rhinichthys cataractae,Longnose Dace,Cyprinidae,Intermediate,Insectivore,2,No,26,Not Rated
+WAT,LF4,Beech Cr,off SR 1312,Avery,36.25194,-81.90361,MT,15,8-20,C;Tr,2004-35,05/04/04,Rhinichthys obtusus,Western Blacknose Dace,Cyprinidae,Intermediate,Insectivore,106,Yes,26,Not Rated
+WAT,LF4,Beech Cr,off SR 1312,Avery,36.25194,-81.90361,MT,15,8-20,C;Tr,2004-35,05/04/04,Semotilus atromaculatus,Creek Chub,Cyprinidae,Tolerant,Insectivore,29,Yes,26,Not Rated
+WAT,LF4,Beech Cr,off SR 1312,Avery,36.25194,-81.90361,MT,15,8-20,C;Tr,2004-35,05/04/04,Salmo trutta,Brown Trout,Salmonidae,Intermediate,Piscivore,29,Yes,26,Not Rated
+WAT,LF4,Beech Cr,off SR 1312,Avery,36.25194,-81.90361,MT,15,8-20,C;Tr,2004-35,05/04/04,Hypentelium nigricans,Northern Hogsucker,Catostomidae,Intermediate,Insectivore,15,Yes,26,Not Rated
+WAT,LF4,Beech Cr,off SR 1312,Avery,36.25194,-81.90361,MT,15,8-20,C;Tr,2004-35,05/04/04,Oncorhynchus mykiss,Rainbow Trout,Salmonidae,Intolerant,Insectivore,21,Yes,26,Not Rated
+WAT,LF4,Beech Cr,off SR 1312,Avery,36.25194,-81.90361,MT,15,8-20,C;Tr,2004-35,05/04/04,Campostoma anomalum,Central Stoneroller,Cyprinidae,Intermediate,Herbivore,15,Yes,26,Not Rated
+WAT,LF5,Beaverdam Cr,SR 1202,Watauga,36.27861,-81.86833,MT,20.3,8-19,C;Tr,2004-36,05/04/04,Nocomis micropogon,River Chub,Cyprinidae,Intermediate,Omnivore,148,Yes,26,Poor
+WAT,LF5,Beaverdam Cr,SR 1202,Watauga,36.27861,-81.86833,MT,20.3,8-19,C;Tr,2004-36,05/04/04,Semotilus atromaculatus,Creek Chub,Cyprinidae,Tolerant,Insectivore,14,Yes,26,Poor
+WAT,LF5,Beaverdam Cr,SR 1202,Watauga,36.27861,-81.86833,MT,20.3,8-19,C;Tr,2004-36,05/04/04,Ambloplites rupestris,Rock Bass,Centrarchidae,Intolerant,Piscivore,2,No,26,Poor
+WAT,LF5,Beaverdam Cr,SR 1202,Watauga,36.27861,-81.86833,MT,20.3,8-19,C;Tr,2004-36,05/04/04,Luxilus coccogenis,Warpaint Shiner,Cyprinidae,Intermediate,Insectivore,1,No,26,Poor
+WAT,LF5,Beaverdam Cr,SR 1202,Watauga,36.27861,-81.86833,MT,20.3,8-19,C;Tr,2004-36,05/04/04,Oncorhynchus mykiss,Rainbow Trout,Salmonidae,Intolerant,Insectivore,2,No,26,Poor
+WAT,LF5,Beaverdam Cr,SR 1202,Watauga,36.27861,-81.86833,MT,20.3,8-19,C;Tr,2004-36,05/04/04,Hypentelium nigricans,Northern Hogsucker,Catostomidae,Intermediate,Insectivore,42,Yes,26,Poor
+WAT,LF5,Beaverdam Cr,SR 1202,Watauga,36.27861,-81.86833,MT,20.3,8-19,C;Tr,2004-36,05/04/04,Campostoma anomalum,Central Stoneroller,Cyprinidae,Intermediate,Herbivore,66,Yes,26,Poor
+WAT,LF5,Beaverdam Cr,SR 1202,Watauga,36.27861,-81.86833,MT,20.3,8-19,C;Tr,2004-36,05/04/04,Rhinichthys obtusus,Western Blacknose Dace,Cyprinidae,Intermediate,Insectivore,33,Yes,26,Poor
+WAT,LF6,Laurel Cr,SR 1123,Watauga,36.24937,-81.86027,MT,7,8-17,C;Tr,2004-37,05/04/04,Hypentelium nigricans,Northern Hogsucker,Catostomidae,Intermediate,Insectivore,8,Yes,34,Not Rated
+WAT,LF6,Laurel Cr,SR 1123,Watauga,36.24937,-81.86027,MT,7,8-17,C;Tr,2004-37,05/04/04,Rhinichthys obtusus,Western Blacknose Dace,Cyprinidae,Intermediate,Insectivore,69,Yes,34,Not Rated
+WAT,LF6,Laurel Cr,SR 1123,Watauga,36.24937,-81.86027,MT,7,8-17,C;Tr,2004-37,05/04/04,Campostoma anomalum,Central Stoneroller,Cyprinidae,Intermediate,Herbivore,21,Yes,34,Not Rated
+WAT,LF6,Laurel Cr,SR 1123,Watauga,36.24937,-81.86027,MT,7,8-17,C;Tr,2004-37,05/04/04,Salmo trutta,Brown Trout,Salmonidae,Intermediate,Piscivore,5,Yes,34,Not Rated
+WAT,LF1,Cove Cr,SR 1149,Watauga,36.25306,-81.81361,MT,31.9,8-15,C,2004-38,05/05/04,Cyprinella galactura,Whitetail Shiner,Cyprinidae,Intermediate,Insectivore,41,Yes,40,Good-Fair
+WAT,LF1,Cove Cr,SR 1149,Watauga,36.25306,-81.81361,MT,31.9,8-15,C,2004-38,05/05/04,Hypentelium nigricans,Northern Hogsucker,Catostomidae,Intermediate,Insectivore,22,Yes,40,Good-Fair
+WAT,LF1,Cove Cr,SR 1149,Watauga,36.25306,-81.81361,MT,31.9,8-15,C,2004-38,05/05/04,Notropis leuciodus,Tennessee Shiner,Cyprinidae,Intermediate,Insectivore,11,Yes,40,Good-Fair
+WAT,LF1,Cove Cr,SR 1149,Watauga,36.25306,-81.81361,MT,31.9,8-15,C,2004-38,05/05/04,Semotilus atromaculatus,Creek Chub,Cyprinidae,Tolerant,Insectivore,2,No,40,Good-Fair
+WAT,LF1,Cove Cr,SR 1149,Watauga,36.25306,-81.81361,MT,31.9,8-15,C,2004-38,05/05/04,Micropterus dolomieu,Smallmouth Bass,Centrarchidae,Intolerant,Piscivore,2,No,40,Good-Fair
+WAT,LF1,Cove Cr,SR 1149,Watauga,36.25306,-81.81361,MT,31.9,8-15,C,2004-38,05/05/04,Moxostoma duquesnei,Black Redhorse,Catostomidae,Intermediate,Insectivore,11,Yes,40,Good-Fair
+WAT,LF1,Cove Cr,SR 1149,Watauga,36.25306,-81.81361,MT,31.9,8-15,C,2004-38,05/05/04,Luxilus coccogenis,Warpaint Shiner,Cyprinidae,Intermediate,Insectivore,2,No,40,Good-Fair
+WAT,LF1,Cove Cr,SR 1149,Watauga,36.25306,-81.81361,MT,31.9,8-15,C,2004-38,05/05/04,Nocomis micropogon,River Chub,Cyprinidae,Intermediate,Omnivore,33,Yes,40,Good-Fair
+WAT,LF1,Cove Cr,SR 1149,Watauga,36.25306,-81.81361,MT,31.9,8-15,C,2004-38,05/05/04,Noturus insignis,Margined Madtom,Ictaluridae,Intermediate,Insectivore,28,Yes,40,Good-Fair
+WAT,LF1,Cove Cr,SR 1149,Watauga,36.25306,-81.81361,MT,31.9,8-15,C,2004-38,05/05/04,Lepomis auritus,Redbreast Sunfish,Centrarchidae,Tolerant,Insectivore,6,Yes,40,Good-Fair
+WAT,LF1,Cove Cr,SR 1149,Watauga,36.25306,-81.81361,MT,31.9,8-15,C,2004-38,05/05/04,Campostoma anomalum,Central Stoneroller,Cyprinidae,Intermediate,Herbivore,150,Yes,40,Good-Fair
+WAT,LF1,Cove Cr,SR 1149,Watauga,36.25306,-81.81361,MT,31.9,8-15,C,2004-38,05/05/04,Ambloplites rupestris,Rock Bass,Centrarchidae,Intolerant,Piscivore,21,Yes,40,Good-Fair
+WAT,LF1,Cove Cr,SR 1149,Watauga,36.25306,-81.81361,MT,31.9,8-15,C,2004-38,05/05/04,Salmo trutta,Brown Trout,Salmonidae,Intermediate,Piscivore,5,Yes,40,Good-Fair
+WAT,LF7,Dutch Cr,SR 1112/NC 194,Watauga,36.20912,-81.77823,MT,10.6,8-12-(1.5),C;Tr,2004-39,05/05/04,Lepomis auritus,Redbreast Sunfish,Centrarchidae,Tolerant,Insectivore,4,No,46,Good-Fair
+WAT,LF7,Dutch Cr,SR 1112/NC 194,Watauga,36.20912,-81.77823,MT,10.6,8-12-(1.5),C;Tr,2004-39,05/05/04,Luxilus coccogenis,Warpaint Shiner,Cyprinidae,Intermediate,Insectivore,4,Yes,46,Good-Fair
+WAT,LF7,Dutch Cr,SR 1112/NC 194,Watauga,36.20912,-81.77823,MT,10.6,8-12-(1.5),C;Tr,2004-39,05/05/04,Clinostomus funduloides,Rosyside Dace,Cyprinidae,Intermediate,Insectivore,1,No,46,Good-Fair
+WAT,LF7,Dutch Cr,SR 1112/NC 194,Watauga,36.20912,-81.77823,MT,10.6,8-12-(1.5),C;Tr,2004-39,05/05/04,Cyprinella galactura,Whitetail Shiner,Cyprinidae,Intermediate,Insectivore,2,No,46,Good-Fair
+WAT,LF7,Dutch Cr,SR 1112/NC 194,Watauga,36.20912,-81.77823,MT,10.6,8-12-(1.5),C;Tr,2004-39,05/05/04,Notropis leuciodus,Tennessee Shiner,Cyprinidae,Intermediate,Insectivore,26,Yes,46,Good-Fair
+WAT,LF7,Dutch Cr,SR 1112/NC 194,Watauga,36.20912,-81.77823,MT,10.6,8-12-(1.5),C;Tr,2004-39,05/05/04,Semotilus atromaculatus,Creek Chub,Cyprinidae,Tolerant,Insectivore,11,Yes,46,Good-Fair
+WAT,LF7,Dutch Cr,SR 1112/NC 194,Watauga,36.20912,-81.77823,MT,10.6,8-12-(1.5),C;Tr,2004-39,05/05/04,Etheostoma chlorobranchium,Greenfin Darter,Percidae,Intolerant,Insectivore,11,Yes,46,Good-Fair
+WAT,LF7,Dutch Cr,SR 1112/NC 194,Watauga,36.20912,-81.77823,MT,10.6,8-12-(1.5),C;Tr,2004-39,05/05/04,Chrosomus oreas,Mountain Redbelly Dace,Cyprinidae,Intermediate,Herbivore,34,Yes,46,Good-Fair
+WAT,LF7,Dutch Cr,SR 1112/NC 194,Watauga,36.20912,-81.77823,MT,10.6,8-12-(1.5),C;Tr,2004-39,05/05/04,Noturus insignis,Margined Madtom,Ictaluridae,Intermediate,Insectivore,55,Yes,46,Good-Fair
+WAT,LF7,Dutch Cr,SR 1112/NC 194,Watauga,36.20912,-81.77823,MT,10.6,8-12-(1.5),C;Tr,2004-39,05/05/04,Oncorhynchus mykiss,Rainbow Trout,Salmonidae,Intolerant,Insectivore,2,No,46,Good-Fair
+WAT,LF7,Dutch Cr,SR 1112/NC 194,Watauga,36.20912,-81.77823,MT,10.6,8-12-(1.5),C;Tr,2004-39,05/05/04,Catostomus commersonii,White Sucker,Catostomidae,Tolerant,Omnivore,2,No,46,Good-Fair
+WAT,LF7,Dutch Cr,SR 1112/NC 194,Watauga,36.20912,-81.77823,MT,10.6,8-12-(1.5),C;Tr,2004-39,05/05/04,Micropterus dolomieu,Smallmouth Bass,Centrarchidae,Intolerant,Piscivore,1,No,46,Good-Fair
+WAT,LF7,Dutch Cr,SR 1112/NC 194,Watauga,36.20912,-81.77823,MT,10.6,8-12-(1.5),C;Tr,2004-39,05/05/04,Nocomis micropogon,River Chub,Cyprinidae,Intermediate,Omnivore,143,Yes,46,Good-Fair
+WAT,LF7,Dutch Cr,SR 1112/NC 194,Watauga,36.20912,-81.77823,MT,10.6,8-12-(1.5),C;Tr,2004-39,05/05/04,Salmo trutta,Brown Trout,Salmonidae,Intermediate,Piscivore,13,Yes,46,Good-Fair
+WAT,LF7,Dutch Cr,SR 1112/NC 194,Watauga,36.20912,-81.77823,MT,10.6,8-12-(1.5),C;Tr,2004-39,05/05/04,Hypentelium nigricans,Northern Hogsucker,Catostomidae,Intermediate,Insectivore,27,Yes,46,Good-Fair
+WAT,LF7,Dutch Cr,SR 1112/NC 194,Watauga,36.20912,-81.77823,MT,10.6,8-12-(1.5),C;Tr,2004-39,05/05/04,Ambloplites rupestris,Rock Bass,Centrarchidae,Intolerant,Piscivore,32,Yes,46,Good-Fair
+WAT,LF7,Dutch Cr,SR 1112/NC 194,Watauga,36.20912,-81.77823,MT,10.6,8-12-(1.5),C;Tr,2004-39,05/05/04,Campostoma anomalum,Central Stoneroller,Cyprinidae,Intermediate,Herbivore,383,Yes,46,Good-Fair
+WAT,LF7,Dutch Cr,SR 1112/NC 194,Watauga,36.20912,-81.77823,MT,10.6,8-12-(1.5),C;Tr,2004-39,05/05/04,Moxostoma duquesnei,Black Redhorse,Catostomidae,Intermediate,Insectivore,23,Yes,46,Good-Fair
+WAT,LF7,Dutch Cr,SR 1112/NC 194,Watauga,36.20912,-81.77823,MT,10.6,8-12-(1.5),C;Tr,2004-39,05/05/04,Rhinichthys obtusus,Western Blacknose Dace,Cyprinidae,Intermediate,Insectivore,1,No,46,Good-Fair
+WAT,LF8,Laurel Fk,SR 1111,Watauga,36.19778,-81.74028,MT,7,8-10,C;Tr,2004-40,05/05/04,Nocomis micropogon,River Chub,Cyprinidae,Intermediate,Omnivore,5,Yes,22,Not Rated
+WAT,LF8,Laurel Fk,SR 1111,Watauga,36.19778,-81.74028,MT,7,8-10,C;Tr,2004-40,05/05/04,Salvelinus fontinalis,Brook Trout,Salmonidae,Intolerant,Insectivore,1,No,22,Not Rated
+WAT,LF8,Laurel Fk,SR 1111,Watauga,36.19778,-81.74028,MT,7,8-10,C;Tr,2004-40,05/05/04,Hypentelium nigricans,Northern Hogsucker,Catostomidae,Intermediate,Insectivore,1,No,22,Not Rated
+WAT,LF8,Laurel Fk,SR 1111,Watauga,36.19778,-81.74028,MT,7,8-10,C;Tr,2004-40,05/05/04,Rhinichthys obtusus,Western Blacknose Dace,Cyprinidae,Intermediate,Insectivore,12,Yes,22,Not Rated
+WAT,LF8,Laurel Fk,SR 1111,Watauga,36.19778,-81.74028,MT,7,8-10,C;Tr,2004-40,05/05/04,Lepomis auritus,Redbreast Sunfish,Centrarchidae,Tolerant,Insectivore,1,No,22,Not Rated
+WAT,LF8,Laurel Fk,SR 1111,Watauga,36.19778,-81.74028,MT,7,8-10,C;Tr,2004-40,05/05/04,Oncorhynchus mykiss,Rainbow Trout,Salmonidae,Intolerant,Insectivore,10,No,22,Not Rated
+WAT,LF8,Laurel Fk,SR 1111,Watauga,36.19778,-81.74028,MT,7,8-10,C;Tr,2004-40,05/05/04,Salmo trutta,Brown Trout,Salmonidae,Intermediate,Piscivore,20,Yes,22,Not Rated
+WAT,LF8,Laurel Fk,SR 1111,Watauga,36.19778,-81.74028,MT,7,8-10,C;Tr,2004-40,05/05/04,Campostoma anomalum,Central Stoneroller,Cyprinidae,Intermediate,Herbivore,31,Yes,22,Not Rated
+WAT,LF8,Laurel Fk,SR 1111,Watauga,36.19778,-81.74028,MT,7,8-10,C;Tr,2004-40,05/05/04,Catostomus commersonii,White Sucker,Catostomidae,Tolerant,Omnivore,26,Yes,22,Not Rated
+WAT,LF8,Laurel Fk,SR 1111,Watauga,36.19778,-81.74028,MT,7,8-10,C;Tr,2004-40,05/05/04,Semotilus atromaculatus,Creek Chub,Cyprinidae,Tolerant,Insectivore,1,No,22,Not Rated
+WAT,LF9,Watauga R,off SR 1557,Watauga,36.17406,-81.74418,MT,21.8,8-(1),"B;Tr,HQW",2004-41,05/06/04,Luxilus coccogenis,Warpaint Shiner,Cyprinidae,Intermediate,Insectivore,35,Yes,44,Good-Fair
+WAT,LF9,Watauga R,off SR 1557,Watauga,36.17406,-81.74418,MT,21.8,8-(1),"B;Tr,HQW",2004-41,05/06/04,Oncorhynchus mykiss,Rainbow Trout,Salmonidae,Intolerant,Insectivore,3,Yes,44,Good-Fair
+WAT,LF9,Watauga R,off SR 1557,Watauga,36.17406,-81.74418,MT,21.8,8-(1),"B;Tr,HQW",2004-41,05/06/04,Notemigonus crysoleucas,Golden Shiner,Cyprinidae,Tolerant,Omnivore,2,No,44,Good-Fair
+WAT,LF9,Watauga R,off SR 1557,Watauga,36.17406,-81.74418,MT,21.8,8-(1),"B;Tr,HQW",2004-41,05/06/04,Rhinichthys obtusus,Western Blacknose Dace,Cyprinidae,Intermediate,Insectivore,5,Yes,44,Good-Fair
+WAT,LF9,Watauga R,off SR 1557,Watauga,36.17406,-81.74418,MT,21.8,8-(1),"B;Tr,HQW",2004-41,05/06/04,Catostomus commersonii,White Sucker,Catostomidae,Tolerant,Omnivore,1,No,44,Good-Fair
+WAT,LF9,Watauga R,off SR 1557,Watauga,36.17406,-81.74418,MT,21.8,8-(1),"B;Tr,HQW",2004-41,05/06/04,Clinostomus funduloides,Rosyside Dace,Cyprinidae,Intermediate,Insectivore,17,Yes,44,Good-Fair
+WAT,LF9,Watauga R,off SR 1557,Watauga,36.17406,-81.74418,MT,21.8,8-(1),"B;Tr,HQW",2004-41,05/06/04,Semotilus atromaculatus,Creek Chub,Cyprinidae,Tolerant,Insectivore,2,No,44,Good-Fair
+WAT,LF9,Watauga R,off SR 1557,Watauga,36.17406,-81.74418,MT,21.8,8-(1),"B;Tr,HQW",2004-41,05/06/04,Etheostoma chlorobranchium,Greenfin Darter,Percidae,Intolerant,Insectivore,16,Yes,44,Good-Fair
+WAT,LF9,Watauga R,off SR 1557,Watauga,36.17406,-81.74418,MT,21.8,8-(1),"B;Tr,HQW",2004-41,05/06/04,Lepomis auritus,Redbreast Sunfish,Centrarchidae,Tolerant,Insectivore,18,Yes,44,Good-Fair
+WAT,LF9,Watauga R,off SR 1557,Watauga,36.17406,-81.74418,MT,21.8,8-(1),"B;Tr,HQW",2004-41,05/06/04,Ambloplites rupestris,Rock Bass,Centrarchidae,Intolerant,Piscivore,26,Yes,44,Good-Fair
+WAT,LF9,Watauga R,off SR 1557,Watauga,36.17406,-81.74418,MT,21.8,8-(1),"B;Tr,HQW",2004-41,05/06/04,Nocomis micropogon,River Chub,Cyprinidae,Intermediate,Omnivore,217,Yes,44,Good-Fair
+WAT,LF9,Watauga R,off SR 1557,Watauga,36.17406,-81.74418,MT,21.8,8-(1),"B;Tr,HQW",2004-41,05/06/04,Salvelinus fontinalis,Brook Trout,Salmonidae,Intolerant,Insectivore,1,No,44,Good-Fair
+WAT,LF9,Watauga R,off SR 1557,Watauga,36.17406,-81.74418,MT,21.8,8-(1),"B;Tr,HQW",2004-41,05/06/04,Hypentelium nigricans,Northern Hogsucker,Catostomidae,Intermediate,Insectivore,39,Yes,44,Good-Fair
+WAT,LF9,Watauga R,off SR 1557,Watauga,36.17406,-81.74418,MT,21.8,8-(1),"B;Tr,HQW",2004-41,05/06/04,Micropterus dolomieu,Smallmouth Bass,Centrarchidae,Intolerant,Piscivore,7,No,44,Good-Fair
+WAT,LF9,Watauga R,off SR 1557,Watauga,36.17406,-81.74418,MT,21.8,8-(1),"B;Tr,HQW",2004-41,05/06/04,Salmo trutta,Brown Trout,Salmonidae,Intermediate,Piscivore,12,Yes,44,Good-Fair
+WAT,LF9,Watauga R,off SR 1557,Watauga,36.17406,-81.74418,MT,21.8,8-(1),"B;Tr,HQW",2004-41,05/06/04,Campostoma anomalum,Central Stoneroller,Cyprinidae,Intermediate,Herbivore,62,Yes,44,Good-Fair
+WAT,LF10,Boone Fk,off SR 1558,Watauga,36.16722,-81.74528,MT,9.3,8-7,"C;Tr,ORW",2004-42,05/06/04,Salmo trutta,Brown Trout,Salmonidae,Intermediate,Piscivore,7,Yes,50,Good
+WAT,LF10,Boone Fk,off SR 1558,Watauga,36.16722,-81.74528,MT,9.3,8-7,"C;Tr,ORW",2004-42,05/06/04,Lepomis auritus,Redbreast Sunfish,Centrarchidae,Tolerant,Insectivore,3,No,50,Good
+WAT,LF10,Boone Fk,off SR 1558,Watauga,36.16722,-81.74528,MT,9.3,8-7,"C;Tr,ORW",2004-42,05/06/04,Clinostomus funduloides,Rosyside Dace,Cyprinidae,Intermediate,Insectivore,78,Yes,50,Good
+WAT,LF10,Boone Fk,off SR 1558,Watauga,36.16722,-81.74528,MT,9.3,8-7,"C;Tr,ORW",2004-42,05/06/04,Luxilus coccogenis,Warpaint Shiner,Cyprinidae,Intermediate,Insectivore,75,Yes,50,Good
+WAT,LF10,Boone Fk,off SR 1558,Watauga,36.16722,-81.74528,MT,9.3,8-7,"C;Tr,ORW",2004-42,05/06/04,Micropterus dolomieu,Smallmouth Bass,Centrarchidae,Intolerant,Piscivore,1,No,50,Good
+WAT,LF10,Boone Fk,off SR 1558,Watauga,36.16722,-81.74528,MT,9.3,8-7,"C;Tr,ORW",2004-42,05/06/04,Ambloplites rupestris,Rock Bass,Centrarchidae,Intolerant,Piscivore,10,Yes,50,Good
+WAT,LF10,Boone Fk,off SR 1558,Watauga,36.16722,-81.74528,MT,9.3,8-7,"C;Tr,ORW",2004-42,05/06/04,Etheostoma chlorobranchium,Greenfin Darter,Percidae,Intolerant,Insectivore,42,Yes,50,Good
+WAT,LF10,Boone Fk,off SR 1558,Watauga,36.16722,-81.74528,MT,9.3,8-7,"C;Tr,ORW",2004-42,05/06/04,Rhinichthys obtusus,Western Blacknose Dace,Cyprinidae,Intermediate,Insectivore,1,No,50,Good
+WAT,LF10,Boone Fk,off SR 1558,Watauga,36.16722,-81.74528,MT,9.3,8-7,"C;Tr,ORW",2004-42,05/06/04,Campostoma anomalum,Central Stoneroller,Cyprinidae,Intermediate,Herbivore,25,Yes,50,Good
+WAT,LF10,Boone Fk,off SR 1558,Watauga,36.16722,-81.74528,MT,9.3,8-7,"C;Tr,ORW",2004-42,05/06/04,Hypentelium nigricans,Northern Hogsucker,Catostomidae,Intermediate,Insectivore,37,Yes,50,Good
+WAT,LF10,Boone Fk,off SR 1558,Watauga,36.16722,-81.74528,MT,9.3,8-7,"C;Tr,ORW",2004-42,05/06/04,Nocomis micropogon,River Chub,Cyprinidae,Intermediate,Omnivore,97,Yes,50,Good
+WAT,LF10,Boone Fk,off SR 1558,Watauga,36.16722,-81.74528,MT,9.3,8-7,"C;Tr,ORW",2004-42,05/06/04,Catostomus commersonii,White Sucker,Catostomidae,Tolerant,Omnivore,3,Yes,50,Good
+WAT,LF1,Cove Cr,SR 1149,Watauga,36.25306,-81.81361,MT,31.9,8-15,C,2004-142,12/02/04,Notropis leuciodus,Tennessee Shiner,Cyprinidae,Intermediate,Insectivore,3,Yes,34,Not Rated
+WAT,LF1,Cove Cr,SR 1149,Watauga,36.25306,-81.81361,MT,31.9,8-15,C,2004-142,12/02/04,Ambloplites rupestris,Rock Bass,Centrarchidae,Intolerant,Piscivore,4,Yes,34,Not Rated
+WAT,LF1,Cove Cr,SR 1149,Watauga,36.25306,-81.81361,MT,31.9,8-15,C,2004-142,12/02/04,Campostoma anomalum,Central Stoneroller,Cyprinidae,Intermediate,Herbivore,313,Yes,34,Not Rated
+WAT,LF1,Cove Cr,SR 1149,Watauga,36.25306,-81.81361,MT,31.9,8-15,C,2004-142,12/02/04,Nocomis micropogon,River Chub,Cyprinidae,Intermediate,Omnivore,17,Yes,34,Not Rated
+WAT,LF1,Cove Cr,SR 1149,Watauga,36.25306,-81.81361,MT,31.9,8-15,C,2004-142,12/02/04,Noturus insignis,Margined Madtom,Ictaluridae,Intermediate,Insectivore,14,Yes,34,Not Rated
+WAT,LF1,Cove Cr,SR 1149,Watauga,36.25306,-81.81361,MT,31.9,8-15,C,2004-142,12/02/04,Semotilus atromaculatus,Creek Chub,Cyprinidae,Tolerant,Insectivore,10,No,34,Not Rated
+WAT,LF1,Cove Cr,SR 1149,Watauga,36.25306,-81.81361,MT,31.9,8-15,C,2004-142,12/02/04,Luxilus coccogenis,Warpaint Shiner,Cyprinidae,Intermediate,Insectivore,2,No,34,Not Rated
+WAT,LF1,Cove Cr,SR 1149,Watauga,36.25306,-81.81361,MT,31.9,8-15,C,2004-142,12/02/04,Oncorhynchus mykiss,Rainbow Trout,Salmonidae,Intolerant,Insectivore,1,No,34,Not Rated
+WAT,LF1,Cove Cr,SR 1149,Watauga,36.25306,-81.81361,MT,31.9,8-15,C,2004-142,12/02/04,Salmo trutta,Brown Trout,Salmonidae,Intermediate,Piscivore,2,No,34,Not Rated
+WAT,LF1,Cove Cr,SR 1149,Watauga,36.25306,-81.81361,MT,86.2,8-15,C,2004-142,12/02/04,Hypentelium nigricans,Northern Hogsucker,Catostomidae,Intermediate,Insectivore,27,Yes,34,Not Rated
+WAT,LF8,Laurel Fk,SR 1111,Watauga,36.19778,-81.74028,MT,7,8-10,C;Tr,2008-61,06/16/08,Clinostomus funduloides,Rosyside Dace,Cyprinidae,Intermediate,Insectivore,4,Yes,34,Not Rated
+WAT,LF8,Laurel Fk,SR 1111,Watauga,36.19778,-81.74028,MT,7,8-10,C;Tr,2008-61,06/16/08,Lepomis auritus,Redbreast Sunfish,Centrarchidae,Tolerant,Insectivore,16,Yes,34,Not Rated
+WAT,LF8,Laurel Fk,SR 1111,Watauga,36.19778,-81.74028,MT,7,8-10,C;Tr,2008-61,06/16/08,Moxostoma duquesnei,Black Redhorse,Catostomidae,Intermediate,Insectivore,1,No,34,Not Rated
+WAT,LF8,Laurel Fk,SR 1111,Watauga,36.19778,-81.74028,MT,7,8-10,C;Tr,2008-61,06/16/08,Semotilus atromaculatus,Creek Chub,Cyprinidae,Tolerant,Insectivore,2,No,34,Not Rated
+WAT,LF8,Laurel Fk,SR 1111,Watauga,36.19778,-81.74028,MT,7,8-10,C;Tr,2008-61,06/16/08,Rhinichthys obtusus,Western Blacknose Dace,Cyprinidae,Intermediate,Insectivore,18,Yes,34,Not Rated
+WAT,LF8,Laurel Fk,SR 1111,Watauga,36.19778,-81.74028,MT,7,8-10,C;Tr,2008-61,06/16/08,Catostomus commersonii,White Sucker,Catostomidae,Tolerant,Omnivore,4,Yes,34,Not Rated
+WAT,LF8,Laurel Fk,SR 1111,Watauga,36.19778,-81.74028,MT,7,8-10,C;Tr,2008-61,06/16/08,Hypentelium nigricans,Northern Hogsucker,Catostomidae,Intermediate,Insectivore,8,Yes,34,Not Rated
+WAT,LF8,Laurel Fk,SR 1111,Watauga,36.19778,-81.74028,MT,7,8-10,C;Tr,2008-61,06/16/08,Salmo trutta,Brown Trout,Salmonidae,Intermediate,Piscivore,43,Yes,34,Not Rated
+WAT,LF8,Laurel Fk,SR 1111,Watauga,36.19778,-81.74028,MT,7,8-10,C;Tr,2008-61,06/16/08,Campostoma anomalum,Central Stoneroller,Cyprinidae,Intermediate,Herbivore,73,Yes,34,Not Rated
+WAT,LF8,Laurel Fk,SR 1111,Watauga,36.19778,-81.74028,MT,7,8-10,C;Tr,2008-61,06/16/08,Nocomis micropogon,River Chub,Cyprinidae,Intermediate,Omnivore,5,No,34,Not Rated
+WAT,LF8,Laurel Fk,SR 1111,Watauga,36.19778,-81.74028,MT,7,8-10,C;Tr,2008-61,06/16/08,Oncorhynchus mykiss,Rainbow Trout,Salmonidae,Intolerant,Insectivore,57,Yes,34,Not Rated
+WAT,LF7,Dutch Cr,SR 1112/NC 194,Watauga,36.20912,-81.77823,MT,10.6,8-12-(1.5),C;Tr,2008-62,06/16/08,Lepomis auritus,Redbreast Sunfish,Centrarchidae,Tolerant,Insectivore,11,Yes,44,Good-Fair
+WAT,LF7,Dutch Cr,SR 1112/NC 194,Watauga,36.20912,-81.77823,MT,10.6,8-12-(1.5),C;Tr,2008-62,06/16/08,Etheostoma chlorobranchium,Greenfin Darter,Percidae,Intolerant,Insectivore,26,Yes,44,Good-Fair
+WAT,LF7,Dutch Cr,SR 1112/NC 194,Watauga,36.20912,-81.77823,MT,10.6,8-12-(1.5),C;Tr,2008-62,06/16/08,Clinostomus funduloides,Rosyside Dace,Cyprinidae,Intermediate,Insectivore,3,No,44,Good-Fair
+WAT,LF7,Dutch Cr,SR 1112/NC 194,Watauga,36.20912,-81.77823,MT,10.6,8-12-(1.5),C;Tr,2008-62,06/16/08,Oncorhynchus mykiss,Rainbow Trout,Salmonidae,Intolerant,Insectivore,1,No,44,Good-Fair
+WAT,LF7,Dutch Cr,SR 1112/NC 194,Watauga,36.20912,-81.77823,MT,10.6,8-12-(1.5),C;Tr,2008-62,06/16/08,Notropis leuciodus,Tennessee Shiner,Cyprinidae,Intermediate,Insectivore,24,Yes,44,Good-Fair
+WAT,LF7,Dutch Cr,SR 1112/NC 194,Watauga,36.20912,-81.77823,MT,10.6,8-12-(1.5),C;Tr,2008-62,06/16/08,Cyprinella galactura,Whitetail Shiner,Cyprinidae,Intermediate,Insectivore,4,Yes,44,Good-Fair
+WAT,LF7,Dutch Cr,SR 1112/NC 194,Watauga,36.20912,-81.77823,MT,10.6,8-12-(1.5),C;Tr,2008-62,06/16/08,Lepomis cyanellus,Green Sunfish,Centrarchidae,Tolerant,Insectivore,10,Yes,44,Good-Fair
+WAT,LF7,Dutch Cr,SR 1112/NC 194,Watauga,36.20912,-81.77823,MT,10.6,8-12-(1.5),C;Tr,2008-62,06/16/08,Semotilus atromaculatus,Creek Chub,Cyprinidae,Tolerant,Insectivore,7,Yes,44,Good-Fair
+WAT,LF7,Dutch Cr,SR 1112/NC 194,Watauga,36.20912,-81.77823,MT,10.6,8-12-(1.5),C;Tr,2008-62,06/16/08,Luxilus coccogenis,Warpaint Shiner,Cyprinidae,Intermediate,Insectivore,18,Yes,44,Good-Fair
+WAT,LF7,Dutch Cr,SR 1112/NC 194,Watauga,36.20912,-81.77823,MT,10.6,8-12-(1.5),C;Tr,2008-62,06/16/08,Salmo trutta,Brown Trout,Salmonidae,Intermediate,Piscivore,19,Yes,44,Good-Fair
+WAT,LF7,Dutch Cr,SR 1112/NC 194,Watauga,36.20912,-81.77823,MT,10.6,8-12-(1.5),C;Tr,2008-62,06/16/08,Rhinichthys obtusus,Western Blacknose Dace,Cyprinidae,Intermediate,Insectivore,12,Yes,44,Good-Fair
+WAT,LF7,Dutch Cr,SR 1112/NC 194,Watauga,36.20912,-81.77823,MT,10.6,8-12-(1.5),C;Tr,2008-62,06/16/08,Chrosomus oreas,Mountain Redbelly Dace,Cyprinidae,Intermediate,Herbivore,21,No,44,Good-Fair
+WAT,LF7,Dutch Cr,SR 1112/NC 194,Watauga,36.20912,-81.77823,MT,10.6,8-12-(1.5),C;Tr,2008-62,06/16/08,Moxostoma duquesnei,Black Redhorse,Catostomidae,Intermediate,Insectivore,11,Yes,44,Good-Fair
+WAT,LF7,Dutch Cr,SR 1112/NC 194,Watauga,36.20912,-81.77823,MT,10.6,8-12-(1.5),C;Tr,2008-62,06/16/08,Catostomus commersonii,White Sucker,Catostomidae,Tolerant,Omnivore,3,Yes,44,Good-Fair
+WAT,LF7,Dutch Cr,SR 1112/NC 194,Watauga,36.20912,-81.77823,MT,10.6,8-12-(1.5),C;Tr,2008-62,06/16/08,Noturus insignis,Margined Madtom,Ictaluridae,Intermediate,Insectivore,77,Yes,44,Good-Fair
+WAT,LF7,Dutch Cr,SR 1112/NC 194,Watauga,36.20912,-81.77823,MT,10.6,8-12-(1.5),C;Tr,2008-62,06/16/08,Micropterus dolomieu,Smallmouth Bass,Centrarchidae,Intolerant,Piscivore,4,Yes,44,Good-Fair
+WAT,LF7,Dutch Cr,SR 1112/NC 194,Watauga,36.20912,-81.77823,MT,10.6,8-12-(1.5),C;Tr,2008-62,06/16/08,Ambloplites rupestris,Rock Bass,Centrarchidae,Intolerant,Piscivore,32,Yes,44,Good-Fair
+WAT,LF7,Dutch Cr,SR 1112/NC 194,Watauga,36.20912,-81.77823,MT,10.6,8-12-(1.5),C;Tr,2008-62,06/16/08,Campostoma anomalum,Central Stoneroller,Cyprinidae,Intermediate,Herbivore,609,Yes,44,Good-Fair
+WAT,LF7,Dutch Cr,SR 1112/NC 194,Watauga,36.20912,-81.77823,MT,10.6,8-12-(1.5),C;Tr,2008-62,06/16/08,Nocomis micropogon,River Chub,Cyprinidae,Intermediate,Omnivore,244,Yes,44,Good-Fair
+WAT,LF7,Dutch Cr,SR 1112/NC 194,Watauga,36.20912,-81.77823,MT,10.6,8-12-(1.5),C;Tr,2008-62,06/16/08,Hypentelium nigricans,Northern Hogsucker,Catostomidae,Intermediate,Insectivore,34,Yes,44,Good-Fair
+WAT,LF11,Cove Cr,off SR 1121,Watauga,36.23945,-81.82140,MT,34.9,8-15,C,2008-63,06/17/08,Campostoma anomalum,Central Stoneroller,Cyprinidae,Intermediate,Herbivore,500,Yes,38,Fair
+WAT,LF11,Cove Cr,off SR 1121,Watauga,36.23945,-81.82140,MT,34.9,8-15,C,2008-63,06/17/08,Lepomis auritus,Redbreast Sunfish,Centrarchidae,Tolerant,Insectivore,38,Yes,38,Fair
+WAT,LF11,Cove Cr,off SR 1121,Watauga,36.23945,-81.82140,MT,34.9,8-15,C,2008-63,06/17/08,Luxilus coccogenis,Warpaint Shiner,Cyprinidae,Intermediate,Insectivore,11,Yes,38,Fair
+WAT,LF11,Cove Cr,off SR 1121,Watauga,36.23945,-81.82140,MT,34.9,8-15,C,2008-63,06/17/08,Lepomis cyanellus,Green Sunfish,Centrarchidae,Tolerant,Insectivore,10,No,38,Fair
+WAT,LF11,Cove Cr,off SR 1121,Watauga,36.23945,-81.82140,MT,34.9,8-15,C,2008-63,06/17/08,Salmo trutta,Brown Trout,Salmonidae,Intermediate,Piscivore,3,Yes,38,Fair
+WAT,LF11,Cove Cr,off SR 1121,Watauga,36.23945,-81.82140,MT,34.9,8-15,C,2008-63,06/17/08,Notropis leuciodus,Tennessee Shiner,Cyprinidae,Intermediate,Insectivore,134,Yes,38,Fair
+WAT,LF11,Cove Cr,off SR 1121,Watauga,36.23945,-81.82140,MT,34.9,8-15,C,2008-63,06/17/08,Hypentelium nigricans,Northern Hogsucker,Catostomidae,Intermediate,Insectivore,43,Yes,38,Fair
+WAT,LF11,Cove Cr,off SR 1121,Watauga,36.23945,-81.82140,MT,34.9,8-15,C,2008-63,06/17/08,Cyprinella galactura,Whitetail Shiner,Cyprinidae,Intermediate,Insectivore,221,Yes,38,Fair
+WAT,LF11,Cove Cr,off SR 1121,Watauga,36.23945,-81.82140,MT,34.9,8-15,C,2008-63,06/17/08,Noturus insignis,Margined Madtom,Ictaluridae,Intermediate,Insectivore,47,Yes,38,Fair
+WAT,LF11,Cove Cr,off SR 1121,Watauga,36.23945,-81.82140,MT,34.9,8-15,C,2008-63,06/17/08,Nocomis micropogon,River Chub,Cyprinidae,Intermediate,Omnivore,58,Yes,38,Fair
+WAT,LF11,Cove Cr,off SR 1121,Watauga,36.23945,-81.82140,MT,34.9,8-15,C,2008-63,06/17/08,Moxostoma duquesnei,Black Redhorse,Catostomidae,Intermediate,Insectivore,21,Yes,38,Fair
+WAT,LF11,Cove Cr,off SR 1121,Watauga,36.23945,-81.82140,MT,34.9,8-15,C,2008-63,06/17/08,Ambloplites rupestris,Rock Bass,Centrarchidae,Intolerant,Piscivore,45,Yes,38,Fair
+WAT,LF11,Cove Cr,off SR 1121,Watauga,36.23945,-81.82140,MT,34.9,8-15,C,2008-63,06/17/08,Micropterus dolomieu,Smallmouth Bass,Centrarchidae,Intolerant,Piscivore,12,Yes,38,Fair
+WAT,LF6,Laurel Cr,SR 1123,Watauga,36.24937,-81.86027,MT,7,8-17,C;Tr,2008-64,06/17/08,Semotilus atromaculatus,Creek Chub,Cyprinidae,Tolerant,Insectivore,2,No,36,Not Rated
+WAT,LF6,Laurel Cr,SR 1123,Watauga,36.24937,-81.86027,MT,7,8-17,C;Tr,2008-64,06/17/08,Hypentelium nigricans,Northern Hogsucker,Catostomidae,Intermediate,Insectivore,9,Yes,36,Not Rated
+WAT,LF6,Laurel Cr,SR 1123,Watauga,36.24937,-81.86027,MT,7,8-17,C;Tr,2008-64,06/17/08,Campostoma anomalum,Central Stoneroller,Cyprinidae,Intermediate,Herbivore,75,Yes,36,Not Rated
+WAT,LF6,Laurel Cr,SR 1123,Watauga,36.24937,-81.86027,MT,7,8-17,C;Tr,2008-64,06/17/08,Rhinichthys obtusus,Western Blacknose Dace,Cyprinidae,Intermediate,Insectivore,193,Yes,36,Not Rated
+WAT,LF6,Laurel Cr,SR 1123,Watauga,36.24937,-81.86027,MT,7,8-17,C;Tr,2008-64,06/17/08,Salmo trutta,Brown Trout,Salmonidae,Intermediate,Piscivore,11,Yes,36,Not Rated
+WAT,LF12,Beaverdam Cr,SR 1211,Watauga,36.29139,-81.83245,MT,11.7,8-19,C;Tr,2008-65,06/17/08,Ambloplites rupestris,Rock Bass,Centrarchidae,Intolerant,Piscivore,33,Yes,38,Fair
+WAT,LF12,Beaverdam Cr,SR 1211,Watauga,36.29139,-81.83245,MT,11.7,8-19,C;Tr,2008-65,06/17/08,Rhinichthys obtusus,Western Blacknose Dace,Cyprinidae,Intermediate,Insectivore,251,Yes,38,Fair
+WAT,LF12,Beaverdam Cr,SR 1211,Watauga,36.29139,-81.83245,MT,11.7,8-19,C;Tr,2008-65,06/17/08,Semotilus atromaculatus,Creek Chub,Cyprinidae,Tolerant,Insectivore,143,Yes,38,Fair
+WAT,LF12,Beaverdam Cr,SR 1211,Watauga,36.29139,-81.83245,MT,11.7,8-19,C;Tr,2008-65,06/17/08,Salvelinus fontinalis,Brook Trout,Salmonidae,Intolerant,Insectivore,1,No,38,Fair
+WAT,LF12,Beaverdam Cr,SR 1211,Watauga,36.29139,-81.83245,MT,11.7,8-19,C;Tr,2008-65,06/17/08,Salmo trutta,Brown Trout,Salmonidae,Intermediate,Piscivore,1,No,38,Fair
+WAT,LF12,Beaverdam Cr,SR 1211,Watauga,36.29139,-81.83245,MT,11.7,8-19,C;Tr,2008-65,06/17/08,Oncorhynchus mykiss,Rainbow Trout,Salmonidae,Intolerant,Insectivore,20,Yes,38,Fair
+WAT,LF12,Beaverdam Cr,SR 1211,Watauga,36.29139,-81.83245,MT,11.7,8-19,C;Tr,2008-65,06/17/08,Nocomis micropogon,River Chub,Cyprinidae,Intermediate,Omnivore,149,Yes,38,Fair
+WAT,LF12,Beaverdam Cr,SR 1211,Watauga,36.29139,-81.83245,MT,11.7,8-19,C;Tr,2008-65,06/17/08,Hypentelium nigricans,Northern Hogsucker,Catostomidae,Intermediate,Insectivore,61,Yes,38,Fair
+WAT,LF12,Beaverdam Cr,SR 1211,Watauga,36.29139,-81.83245,MT,11.7,8-19,C;Tr,2008-65,06/17/08,Campostoma anomalum,Central Stoneroller,Cyprinidae,Intermediate,Herbivore,205,Yes,38,Fair
+WAT,LF12,Beaverdam Cr,SR 1211,Watauga,36.29139,-81.83245,MT,11.7,8-19,C;Tr,2008-65,06/17/08,Lepomis cyanellus,Green Sunfish,Centrarchidae,Tolerant,Insectivore,5,Yes,38,Fair
+WAT,LF5,Beaverdam Cr,SR 1202,Watauga,36.27861,-81.86833,MT,20.3,8-19,C;Tr,2008-66,06/18/08,Luxilus coccogenis,Warpaint Shiner,Cyprinidae,Intermediate,Insectivore,2,No,36,Fair
+WAT,LF5,Beaverdam Cr,SR 1202,Watauga,36.27861,-81.86833,MT,20.3,8-19,C;Tr,2008-66,06/18/08,Campostoma anomalum,Central Stoneroller,Cyprinidae,Intermediate,Herbivore,108,Yes,36,Fair
+WAT,LF5,Beaverdam Cr,SR 1202,Watauga,36.27861,-81.86833,MT,20.3,8-19,C;Tr,2008-66,06/18/08,Ambloplites rupestris,Rock Bass,Centrarchidae,Intolerant,Piscivore,37,Yes,36,Fair
+WAT,LF5,Beaverdam Cr,SR 1202,Watauga,36.27861,-81.86833,MT,20.3,8-19,C;Tr,2008-66,06/18/08,Hypentelium nigricans,Northern Hogsucker,Catostomidae,Intermediate,Insectivore,95,Yes,36,Fair
+WAT,LF5,Beaverdam Cr,SR 1202,Watauga,36.27861,-81.86833,MT,20.3,8-19,C;Tr,2008-66,06/18/08,Nocomis micropogon,River Chub,Cyprinidae,Intermediate,Omnivore,131,Yes,36,Fair
+WAT,LF5,Beaverdam Cr,SR 1202,Watauga,36.27861,-81.86833,MT,20.3,8-19,C;Tr,2008-66,06/18/08,Rhinichthys obtusus,Western Blacknose Dace,Cyprinidae,Intermediate,Insectivore,133,Yes,36,Fair
+WAT,LF5,Beaverdam Cr,SR 1202,Watauga,36.27861,-81.86833,MT,20.3,8-19,C;Tr,2008-66,06/18/08,Semotilus atromaculatus,Creek Chub,Cyprinidae,Tolerant,Insectivore,51,Yes,36,Fair
+WAT,LF5,Beaverdam Cr,SR 1202,Watauga,36.27861,-81.86833,MT,20.3,8-19,C;Tr,2008-66,06/18/08,Oncorhynchus mykiss,Rainbow Trout,Salmonidae,Intolerant,Insectivore,8,No,36,Fair
+WAT,LF5,Beaverdam Cr,SR 1202,Watauga,36.27861,-81.86833,MT,20.3,8-19,C;Tr,2008-66,06/18/08,Salmo trutta,Brown Trout,Salmonidae,Intermediate,Piscivore,1,No,36,Fair
+WAT,LF4,Beech Cr,off SR 1312,Avery,36.25194,-81.90361,MT,15,8-20,C;Tr,2008-67,06/18/08,Oncorhynchus mykiss,Rainbow Trout,Salmonidae,Intolerant,Insectivore,29,Yes,36,Not Rated
+WAT,LF4,Beech Cr,off SR 1312,Avery,36.25194,-81.90361,MT,15,8-20,C;Tr,2008-67,06/18/08,Semotilus atromaculatus,Creek Chub,Cyprinidae,Tolerant,Insectivore,1,No,36,Not Rated
+WAT,LF4,Beech Cr,off SR 1312,Avery,36.25194,-81.90361,MT,15,8-20,C;Tr,2008-67,06/18/08,Lepomis auritus,Redbreast Sunfish,Centrarchidae,Tolerant,Insectivore,59,Yes,36,Not Rated
+WAT,LF4,Beech Cr,off SR 1312,Avery,36.25194,-81.90361,MT,15,8-20,C;Tr,2008-67,06/18/08,Rhinichthys obtusus,Western Blacknose Dace,Cyprinidae,Intermediate,Insectivore,90,Yes,36,Not Rated
+WAT,LF4,Beech Cr,off SR 1312,Avery,36.25194,-81.90361,MT,15,8-20,C;Tr,2008-67,06/18/08,Campostoma anomalum,Central Stoneroller,Cyprinidae,Intermediate,Herbivore,45,Yes,36,Not Rated
+WAT,LF4,Beech Cr,off SR 1312,Avery,36.25194,-81.90361,MT,15,8-20,C;Tr,2008-67,06/18/08,Hypentelium nigricans,Northern Hogsucker,Catostomidae,Intermediate,Insectivore,13,Yes,36,Not Rated
+WAT,LF4,Beech Cr,off SR 1312,Avery,36.25194,-81.90361,MT,15,8-20,C;Tr,2008-67,06/18/08,Salmo trutta,Brown Trout,Salmonidae,Intermediate,Piscivore,95,Yes,36,Not Rated
+WAT,LF13,Little Elk Cr,off SR 1305,Avery,36.16815,-81.96510,MT,4.4,8-22-17,C;Tr,2008-68,06/18/08,Catostomus commersonii,White Sucker,Catostomidae,Tolerant,Omnivore,7,Yes,34,Not Rated
+WAT,LF13,Little Elk Cr,off SR 1305,Avery,36.16815,-81.96510,MT,4.4,8-22-17,C;Tr,2008-68,06/18/08,Ambloplites rupestris,Rock Bass,Centrarchidae,Intolerant,Piscivore,5,Yes,34,Not Rated
+WAT,LF13,Little Elk Cr,off SR 1305,Avery,36.16815,-81.96510,MT,4.4,8-22-17,C;Tr,2008-68,06/18/08,Lepomis auritus,Redbreast Sunfish,Centrarchidae,Tolerant,Insectivore,3,Yes,34,Not Rated
+WAT,LF13,Little Elk Cr,off SR 1305,Avery,36.16815,-81.96510,MT,4.4,8-22-17,C;Tr,2008-68,06/18/08,Campostoma anomalum,Central Stoneroller,Cyprinidae,Intermediate,Herbivore,15,Yes,34,Not Rated
+WAT,LF13,Little Elk Cr,off SR 1305,Avery,36.16815,-81.96510,MT,4.4,8-22-17,C;Tr,2008-68,06/18/08,Rhinichthys obtusus,Western Blacknose Dace,Cyprinidae,Intermediate,Insectivore,348,Yes,34,Not Rated
+WAT,LF13,Little Elk Cr,off SR 1305,Avery,36.16815,-81.96510,MT,4.4,8-22-17,C;Tr,2008-68,06/18/08,Cottus bairdii,Mottled Sculpin,Cottidae,Intermediate,Insectivore,80,Yes,34,Not Rated
+WAT,LF13,Little Elk Cr,off SR 1305,Avery,36.16815,-81.96510,MT,4.4,8-22-17,C;Tr,2008-68,06/18/08,Salmo trutta,Brown Trout,Salmonidae,Intermediate,Piscivore,19,Yes,34,Not Rated
+WAT,LF13,Little Elk Cr,off SR 1305,Avery,36.16815,-81.96510,MT,4.4,8-22-17,C;Tr,2008-68,06/18/08,Hypentelium nigricans,Northern Hogsucker,Catostomidae,Intermediate,Insectivore,5,Yes,34,Not Rated
+WAT,LF2,Cranberry Cr,NC 194,Avery,36.16288,-81.95651,MT,9.8,8-22-16,C;Tr,2008-69,06/19/08,Catostomus commersonii,White Sucker,Catostomidae,Tolerant,Omnivore,4,Yes,28,Not Rated
+WAT,LF2,Cranberry Cr,NC 194,Avery,36.16288,-81.95651,MT,9.8,8-22-16,C;Tr,2008-69,06/19/08,Oncorhynchus mykiss,Rainbow Trout,Salmonidae,Intolerant,Insectivore,39,Yes,28,Not Rated
+WAT,LF2,Cranberry Cr,NC 194,Avery,36.16288,-81.95651,MT,9.8,8-22-16,C;Tr,2008-69,06/19/08,Salmo trutta,Brown Trout,Salmonidae,Intermediate,Piscivore,52,Yes,28,Not Rated
+WAT,LF2,Cranberry Cr,NC 194,Avery,36.16288,-81.95651,MT,9.8,8-22-16,C;Tr,2008-69,06/19/08,Rhinichthys obtusus,Western Blacknose Dace,Cyprinidae,Intermediate,Insectivore,36,Yes,28,Not Rated
+WAT,LF2,Cranberry Cr,NC 194,Avery,36.16288,-81.95651,MT,9.8,8-22-16,C;Tr,2008-69,06/19/08,Campostoma anomalum,Central Stoneroller,Cyprinidae,Intermediate,Herbivore,1,No,28,Not Rated
+WAT,LF2,Cranberry Cr,NC 194,Avery,36.16288,-81.95651,MT,9.8,8-22-16,C;Tr,2008-69,06/19/08,Hypentelium nigricans,Northern Hogsucker,Catostomidae,Intermediate,Insectivore,2,No,28,Not Rated
+WAT,LF3,Elk R,SR 1326,Avery,36.17159,-81.91700,MT,18.7,8-22-(14.5),B;Tr,2008-70,06/19/08,Campostoma anomalum,Central Stoneroller,Cyprinidae,Intermediate,Herbivore,614,Yes,28,Not Rated
+WAT,LF3,Elk R,SR 1326,Avery,36.17159,-81.91700,MT,18.7,8-22-(14.5),B;Tr,2008-70,06/19/08,Oncorhynchus mykiss,Rainbow Trout,Salmonidae,Intolerant,Insectivore,12,Yes,28,Not Rated
+WAT,LF3,Elk R,SR 1326,Avery,36.17159,-81.91700,MT,18.7,8-22-(14.5),B;Tr,2008-70,06/19/08,Lepomis macrochirus,Bluegill,Centrarchidae,Intermediate,Insectivore,1,No,28,Not Rated
+WAT,LF3,Elk R,SR 1326,Avery,36.17159,-81.91700,MT,18.7,8-22-(14.5),B;Tr,2008-70,06/19/08,Lepomis auritus,Redbreast Sunfish,Centrarchidae,Tolerant,Insectivore,7,Yes,28,Not Rated
+WAT,LF3,Elk R,SR 1326,Avery,36.17159,-81.91700,MT,18.7,8-22-(14.5),B;Tr,2008-70,06/19/08,Salmo trutta,Brown Trout,Salmonidae,Intermediate,Piscivore,50,Yes,28,Not Rated
+WAT,LF3,Elk R,SR 1326,Avery,36.17159,-81.91700,MT,18.7,8-22-(14.5),B;Tr,2008-70,06/19/08,Rhinichthys obtusus,Western Blacknose Dace,Cyprinidae,Intermediate,Insectivore,162,Yes,28,Not Rated
+WAT,LF3,Elk R,SR 1326,Avery,36.17159,-81.91700,MT,18.7,8-22-(14.5),B;Tr,2008-70,06/19/08,Catostomus commersonii,White Sucker,Catostomidae,Tolerant,Omnivore,29,Yes,28,Not Rated
+WAT,LF3,Elk R,SR 1326,Avery,36.17159,-81.91700,MT,18.7,8-22-(14.5),B;Tr,2008-70,06/19/08,Hypentelium nigricans,Northern Hogsucker,Catostomidae,Intermediate,Insectivore,31,Yes,28,Not Rated
+WAT,LF11,Cove Cr,off SR 1121,Watauga,36.23945,-81.82140,MT,34.9,8-15,C,2009-01,03/23/09,Ambloplites rupestris,Rock Bass,Centrarchidae,Intolerant,Piscivore,20,Yes,40,Good-Fair
+WAT,LF11,Cove Cr,off SR 1121,Watauga,36.23945,-81.82140,MT,34.9,8-15,C,2009-01,03/23/09,Luxilus coccogenis,Warpaint Shiner,Cyprinidae,Intermediate,Insectivore,1,No,40,Good-Fair
+WAT,LF11,Cove Cr,off SR 1121,Watauga,36.23945,-81.82140,MT,34.9,8-15,C,2009-01,03/23/09,Noturus insignis,Margined Madtom,Ictaluridae,Intermediate,Insectivore,102,Yes,40,Good-Fair
+WAT,LF11,Cove Cr,off SR 1121,Watauga,36.23945,-81.82140,MT,34.9,8-15,C,2009-01,03/23/09,Lepomis cyanellus,Green Sunfish,Centrarchidae,Tolerant,Insectivore,2,No,40,Good-Fair
+WAT,LF11,Cove Cr,off SR 1121,Watauga,36.23945,-81.82140,MT,34.9,8-15,C,2009-01,03/23/09,Micropterus dolomieu,Smallmouth Bass,Centrarchidae,Intolerant,Piscivore,6,No,40,Good-Fair
+WAT,LF11,Cove Cr,off SR 1121,Watauga,36.23945,-81.82140,MT,34.9,8-15,C,2009-01,03/23/09,Notropis leuciodus,Tennessee Shiner,Cyprinidae,Intermediate,Insectivore,14,Yes,40,Good-Fair
+WAT,LF11,Cove Cr,off SR 1121,Watauga,36.23945,-81.82140,MT,34.9,8-15,C,2009-01,03/23/09,Salmo trutta,Brown Trout,Salmonidae,Intermediate,Piscivore,1,No,40,Good-Fair
+WAT,LF11,Cove Cr,off SR 1121,Watauga,36.23945,-81.82140,MT,34.9,8-15,C,2009-01,03/23/09,Nocomis micropogon,River Chub,Cyprinidae,Intermediate,Omnivore,11,Yes,40,Good-Fair
+WAT,LF11,Cove Cr,off SR 1121,Watauga,36.23945,-81.82140,MT,34.9,8-15,C,2009-01,03/23/09,Moxostoma duquesnei,Black Redhorse,Catostomidae,Intermediate,Insectivore,2,No,40,Good-Fair
+WAT,LF11,Cove Cr,off SR 1121,Watauga,36.23945,-81.82140,MT,34.9,8-15,C,2009-01,03/23/09,Hypentelium nigricans,Northern Hogsucker,Catostomidae,Intermediate,Insectivore,23,Yes,40,Good-Fair
+WAT,LF11,Cove Cr,off SR 1121,Watauga,36.23945,-81.82140,MT,34.9,8-15,C,2009-01,03/23/09,Cyprinella galactura,Whitetail Shiner,Cyprinidae,Intermediate,Insectivore,185,Yes,40,Good-Fair
+WAT,LF11,Cove Cr,off SR 1121,Watauga,36.23945,-81.82140,MT,34.9,8-15,C,2009-01,03/23/09,Campostoma anomalum,Central Stoneroller,Cyprinidae,Intermediate,Herbivore,405,Yes,40,Good-Fair
+WAT,LF11,Cove Cr,off SR 1121,Watauga,36.23945,-81.82140,MT,34.9,8-15,C,2009-01,03/23/09,Semotilus atromaculatus,Creek Chub,Cyprinidae,Tolerant,Insectivore,2,No,40,Good-Fair
+WAT,LF11,Cove Cr,off SR 1121,Watauga,36.23945,-81.82140,MT,34.9,8-15,C,2009-01,03/23/09,Lepomis auritus,Redbreast Sunfish,Centrarchidae,Tolerant,Insectivore,3,Yes,40,Good-Fair
+WAT,LF5,Beaverdam Cr,SR 1202,Watauga,36.27861,-81.86833,MT,20.3,8-19,C;Tr,2009-02,03/23/09,Hypentelium nigricans,Northern Hogsucker,Catostomidae,Intermediate,Insectivore,46,Yes,32,Poor
+WAT,LF5,Beaverdam Cr,SR 1202,Watauga,36.27861,-81.86833,MT,20.3,8-19,C;Tr,2009-02,03/23/09,Luxilus coccogenis,Warpaint Shiner,Cyprinidae,Intermediate,Insectivore,5,Yes,32,Poor
+WAT,LF5,Beaverdam Cr,SR 1202,Watauga,36.27861,-81.86833,MT,20.3,8-19,C;Tr,2009-02,03/23/09,Ambloplites rupestris,Rock Bass,Centrarchidae,Intolerant,Piscivore,10,Yes,32,Poor
+WAT,LF5,Beaverdam Cr,SR 1202,Watauga,36.27861,-81.86833,MT,20.3,8-19,C;Tr,2009-02,03/23/09,Rhinichthys obtusus,Western Blacknose Dace,Cyprinidae,Intermediate,Insectivore,74,Yes,32,Poor
+WAT,LF5,Beaverdam Cr,SR 1202,Watauga,36.27861,-81.86833,MT,20.3,8-19,C;Tr,2009-02,03/23/09,Nocomis micropogon,River Chub,Cyprinidae,Intermediate,Omnivore,62,Yes,32,Poor
+WAT,LF5,Beaverdam Cr,SR 1202,Watauga,36.27861,-81.86833,MT,20.3,8-19,C;Tr,2009-02,03/23/09,Campostoma anomalum,Central Stoneroller,Cyprinidae,Intermediate,Herbivore,31,Yes,32,Poor
+WAT,LF5,Beaverdam Cr,SR 1202,Watauga,36.27861,-81.86833,MT,20.3,8-19,C;Tr,2009-02,03/23/09,Semotilus atromaculatus,Creek Chub,Cyprinidae,Tolerant,Insectivore,32,Yes,32,Poor
+WAT,LF17,Leroy Cr,off NC 194,Avery,36.15580,-81.88893,MT,1.2,8-22-9,C,2009-111,10/12/09,Salmo trutta,Brown Trout,Salmonidae,Intermediate,Piscivore,114,Yes,24,Not Rated
+WAT,LF17,Leroy Cr,off NC 194,Avery,36.15580,-81.88893,MT,1.2,8-22-9,C,2009-111,10/12/09,Oncorhynchus mykiss,Rainbow Trout,Salmonidae,Intolerant,Insectivore,18,No,24,Not Rated
+WAT,LF17,Leroy Cr,off NC 194,Avery,36.15580,-81.88893,MT,1.2,8-22-9,C,2009-111,10/12/09,Salvelinus fontinalis,Brook Trout,Salmonidae,Intolerant,Insectivore,12,No,24,Not Rated
+WAT,LF22,Clear Br,off NC 194,Avery,36.15409,-81.89622,MT,0.4,8-22-11,C,2009-112,10/12/09,Salvelinus fontinalis,Brook Trout,Salmonidae,Intolerant,Insectivore,78,Yes,24,Not Rated
+WAT,LF15,Cannon Br,off SR 1558,Watauga,36.15622,-81.73629,MT,0.6,8-7-5,C;ORW,2009-114,10/12/09,Salmo trutta,Brown Trout,Salmonidae,Intermediate,Piscivore,26,Yes,24,Not Rated
+WAT,LF23,W Fk Rube Cr,off SR 1222,Watauga,36.31465,-81.85107,MT,0.8,8-19-3-2,C,2009-115,10/13/09,Rhinichthys obtusus,Western Blacknose Dace,Cyprinidae,Intermediate,Insectivore,26,Yes,20,Not Rated
+WAT,LF23,W Fk Rube Cr,off SR 1222,Watauga,36.31465,-81.85107,MT,0.8,8-19-3-2,C,2009-115,10/13/09,Oncorhynchus mykiss,Rainbow Trout,Salmonidae,Intolerant,Insectivore,10,Yes,20,Not Rated
+WAT,LF23,W Fk Rube Cr,off SR 1222,Watauga,36.31465,-81.85107,MT,0.8,8-19-3-2,C,2009-115,10/13/09,Semotilus atromaculatus,Creek Chub,Cyprinidae,Tolerant,Insectivore,12,Yes,20,Not Rated
+WAT,LF19,Rube Cr,SR 1221,Watauga,36.29568,-81.84920,MT,4.6,8-19-3,C,2009-116,10/13/09,Oncorhynchus mykiss,Rainbow Trout,Salmonidae,Intolerant,Insectivore,22,Yes,22,Not Rated
+WAT,LF19,Rube Cr,SR 1221,Watauga,36.29568,-81.84920,MT,4.6,8-19-3,C,2009-116,10/13/09,Rhinichthys obtusus,Western Blacknose Dace,Cyprinidae,Intermediate,Insectivore,138,Yes,22,Not Rated
+WAT,LF19,Rube Cr,SR 1221,Watauga,36.29568,-81.84920,MT,4.6,8-19-3,C,2009-116,10/13/09,Hypentelium nigricans,Northern Hogsucker,Catostomidae,Intermediate,Insectivore,8,Yes,22,Not Rated
+WAT,LF19,Rube Cr,SR 1221,Watauga,36.29568,-81.84920,MT,4.6,8-19-3,C,2009-116,10/13/09,Semotilus atromaculatus,Creek Chub,Cyprinidae,Tolerant,Insectivore,38,Yes,22,Not Rated
+WAT,LF19,Rube Cr,SR 1221,Watauga,36.29568,-81.84920,MT,4.6,8-19-3,C,2009-116,10/13/09,Campostoma anomalum,Central Stoneroller,Cyprinidae,Intermediate,Herbivore,6,Yes,22,Not Rated
+WAT,LF21,Sharp Cr,SR 1306,Watauga,36.28929,-81.76910,MT,3.2,8-15-6,C,2009-117,10/13/09,Rhinichthys obtusus,Western Blacknose Dace,Cyprinidae,Intermediate,Insectivore,36,Yes,28,Not Rated
+WAT,LF21,Sharp Cr,SR 1306,Watauga,36.28929,-81.76910,MT,3.2,8-15-6,C,2009-117,10/13/09,Semotilus atromaculatus,Creek Chub,Cyprinidae,Tolerant,Insectivore,96,Yes,28,Not Rated
+WAT,LF21,Sharp Cr,SR 1306,Watauga,36.28929,-81.76910,MT,3.2,8-15-6,C,2009-117,10/13/09,Salmo trutta,Brown Trout,Salmonidae,Intermediate,Piscivore,126,Yes,28,Not Rated
+WAT,LF21,Sharp Cr,SR 1306,Watauga,36.28929,-81.76910,MT,3.2,8-15-6,C,2009-117,10/13/09,Campostoma anomalum,Central Stoneroller,Cyprinidae,Intermediate,Herbivore,114,Yes,28,Not Rated
+WAT,LF18,N Fk Cove Cr,SR 1233/1227,Watauga,36.31765,-81.76848,MT,2.7,8-15-2,C,2009-118,10/13/09,Salmo trutta,Brown Trout,Salmonidae,Intermediate,Piscivore,51,Yes,26,Not Rated
+WAT,LF18,N Fk Cove Cr,SR 1233/1227,Watauga,36.31765,-81.76848,MT,2.7,8-15-2,C,2009-118,10/13/09,Nocomis micropogon,River Chub,Cyprinidae,Intermediate,Omnivore,12,Yes,26,Not Rated
+WAT,LF18,N Fk Cove Cr,SR 1233/1227,Watauga,36.31765,-81.76848,MT,2.7,8-15-2,C,2009-118,10/13/09,Semotilus atromaculatus,Creek Chub,Cyprinidae,Tolerant,Insectivore,9,Yes,26,Not Rated
+WAT,LF18,N Fk Cove Cr,SR 1233/1227,Watauga,36.31765,-81.76848,MT,2.7,8-15-2,C,2009-118,10/13/09,Ambloplites rupestris,Rock Bass,Centrarchidae,Intolerant,Piscivore,3,No,26,Not Rated
+WAT,LF18,N Fk Cove Cr,SR 1233/1227,Watauga,36.31765,-81.76848,MT,2.7,8-15-2,C,2009-118,10/13/09,Hypentelium nigricans,Northern Hogsucker,Catostomidae,Intermediate,Insectivore,6,No,26,Not Rated
+WAT,LF18,N Fk Cove Cr,SR 1233/1227,Watauga,36.31765,-81.76848,MT,2.7,8-15-2,C,2009-118,10/13/09,Lepomis auritus,Redbreast Sunfish,Centrarchidae,Tolerant,Insectivore,15,Yes,26,Not Rated
+WAT,LF18,N Fk Cove Cr,SR 1233/1227,Watauga,36.31765,-81.76848,MT,2.7,8-15-2,C,2009-118,10/13/09,Rhinichthys obtusus,Western Blacknose Dace,Cyprinidae,Intermediate,Insectivore,84,Yes,26,Not Rated
+WAT,LF16,Harrison Br,off SR 1551,Watauga,36.19629,-81.70846,MT,0.5,8-10-1,C,2009-119,10/13/09,Micropterus salmoides,Largemouth Bass,Centrarchidae,Intermediate,Piscivore,6,Yes,26,Not Rated
+WAT,LF16,Harrison Br,off SR 1551,Watauga,36.19629,-81.70846,MT,0.5,8-10-1,C,2009-119,10/13/09,Rhinichthys obtusus,Western Blacknose Dace,Cyprinidae,Intermediate,Insectivore,48,Yes,26,Not Rated
+WAT,LF16,Harrison Br,off SR 1551,Watauga,36.19629,-81.70846,MT,0.5,8-10-1,C,2009-119,10/13/09,Salvelinus fontinalis,Brook Trout,Salmonidae,Intolerant,Insectivore,14,No,26,Not Rated
+WAT,LF16,Harrison Br,off SR 1551,Watauga,36.19629,-81.70846,MT,0.5,8-10-1,C,2009-119,10/13/09,Salmo trutta,Brown Trout,Salmonidae,Intermediate,Piscivore,2,No,26,Not Rated
+WAT,LF16,Harrison Br,off SR 1551,Watauga,36.19629,-81.70846,MT,0.5,8-10-1,C,2009-119,10/13/09,Oncorhynchus mykiss,Rainbow Trout,Salmonidae,Intolerant,Insectivore,14,Yes,26,Not Rated
+WAT,LF14,Beetree Cr,off SR 1558,Watauga,36.15535,-81.74565,MT,0.6,8-7-6,C;ORW,2009-120,10/13/09,Salmo trutta,Brown Trout,Salmonidae,Intermediate,Piscivore,10,Yes,24,Not Rated
+WAT,LF11,Cove Cr,off SR 1121,Watauga,36.23945,-81.82140,MT,34.9,8-15,C,2013-34,05/29/13,Moxostoma duquesnei,Black Redhorse,Catostomidae,Intermediate,Insectivore,5,Yes,46,Good-Fair
+WAT,LF11,Cove Cr,off SR 1121,Watauga,36.23945,-81.82140,MT,34.9,8-15,C,2013-34,05/29/13,Lepomis auritus,Redbreast Sunfish,Centrarchidae,Tolerant,Insectivore,7,Yes,46,Good-Fair
+WAT,LF11,Cove Cr,off SR 1121,Watauga,36.23945,-81.82140,MT,34.9,8-15,C,2013-34,05/29/13,Notropis leuciodus,Tennessee Shiner,Cyprinidae,Intermediate,Insectivore,32,Yes,46,Good-Fair
+WAT,LF11,Cove Cr,off SR 1121,Watauga,36.23945,-81.82140,MT,34.9,8-15,C,2013-34,05/29/13,Lepomis cyanellus,Green Sunfish,Centrarchidae,Tolerant,Insectivore,3,Yes,46,Good-Fair
+WAT,LF11,Cove Cr,off SR 1121,Watauga,36.23945,-81.82140,MT,34.9,8-15,C,2013-34,05/29/13,Hypentelium nigricans,Northern Hogsucker,Catostomidae,Intermediate,Insectivore,9,Yes,46,Good-Fair
+WAT,LF11,Cove Cr,off SR 1121,Watauga,36.23945,-81.82140,MT,34.9,8-15,C,2013-34,05/29/13,Percina aurantiaca,Tangerine Darter,Percidae,Intolerant,Insectivore,1,No,46,Good-Fair
+WAT,LF11,Cove Cr,off SR 1121,Watauga,36.23945,-81.82140,MT,34.9,8-15,C,2013-34,05/29/13,Micropterus dolomieu,Smallmouth Bass,Centrarchidae,Intolerant,Piscivore,3,Yes,46,Good-Fair
+WAT,LF11,Cove Cr,off SR 1121,Watauga,36.23945,-81.82140,MT,34.9,8-15,C,2013-34,05/29/13,Noturus insignis,Margined Madtom,Ictaluridae,Intermediate,Insectivore,47,Yes,46,Good-Fair
+WAT,LF11,Cove Cr,off SR 1121,Watauga,36.23945,-81.82140,MT,34.9,8-15,C,2013-34,05/29/13,Ambloplites rupestris,Rock Bass,Centrarchidae,Intolerant,Piscivore,31,Yes,46,Good-Fair
+WAT,LF11,Cove Cr,off SR 1121,Watauga,36.23945,-81.82140,MT,34.9,8-15,C,2013-34,05/29/13,Luxilus coccogenis,Warpaint Shiner,Cyprinidae,Intermediate,Insectivore,3,No,46,Good-Fair
+WAT,LF11,Cove Cr,off SR 1121,Watauga,36.23945,-81.82140,MT,34.9,8-15,C,2013-34,05/29/13,Nocomis micropogon,River Chub,Cyprinidae,Intermediate,Omnivore,29,Yes,46,Good-Fair
+WAT,LF11,Cove Cr,off SR 1121,Watauga,36.23945,-81.82140,MT,34.9,8-15,C,2013-34,05/29/13,Cyprinella galactura,Whitetail Shiner,Cyprinidae,Intermediate,Insectivore,49,Yes,46,Good-Fair
+WAT,LF11,Cove Cr,off SR 1121,Watauga,36.23945,-81.82140,MT,34.9,8-15,C,2013-34,05/29/13,Campostoma anomalum,Central Stoneroller,Cyprinidae,Intermediate,Herbivore,34,Yes,46,Good-Fair
+WAT,LF5,Beaverdam Cr,SR 1202,Watauga,36.27861,-81.86833,MT,20.3,8-19,C;Tr,2013-35,05/30/13,Oncorhynchus mykiss,Rainbow Trout,Salmonidae,Intolerant,Insectivore,1,No,32,Poor
+WAT,LF5,Beaverdam Cr,SR 1202,Watauga,36.27861,-81.86833,MT,20.3,8-19,C;Tr,2013-35,05/30/13,Rhinichthys obtusus,Western Blacknose Dace,Cyprinidae,Intermediate,Insectivore,50,Yes,32,Poor
+WAT,LF5,Beaverdam Cr,SR 1202,Watauga,36.27861,-81.86833,MT,20.3,8-19,C;Tr,2013-35,05/30/13,Nocomis micropogon,River Chub,Cyprinidae,Intermediate,Omnivore,120,Yes,32,Poor
+WAT,LF5,Beaverdam Cr,SR 1202,Watauga,36.27861,-81.86833,MT,20.3,8-19,C;Tr,2013-35,05/30/13,Luxilus coccogenis,Warpaint Shiner,Cyprinidae,Intermediate,Insectivore,25,Yes,32,Poor
+WAT,LF5,Beaverdam Cr,SR 1202,Watauga,36.27861,-81.86833,MT,20.3,8-19,C;Tr,2013-35,05/30/13,Ambloplites rupestris,Rock Bass,Centrarchidae,Intolerant,Piscivore,23,Yes,32,Poor
+WAT,LF5,Beaverdam Cr,SR 1202,Watauga,36.27861,-81.86833,MT,20.3,8-19,C;Tr,2013-35,05/30/13,Hypentelium nigricans,Northern Hogsucker,Catostomidae,Intermediate,Insectivore,19,Yes,32,Poor
+WAT,LF5,Beaverdam Cr,SR 1202,Watauga,36.27861,-81.86833,MT,20.3,8-19,C;Tr,2013-35,05/30/13,Semotilus atromaculatus,Creek Chub,Cyprinidae,Tolerant,Insectivore,7,Yes,32,Poor
+WAT,LF5,Beaverdam Cr,SR 1202,Watauga,36.27861,-81.86833,MT,20.3,8-19,C;Tr,2013-35,05/30/13,Campostoma anomalum,Central Stoneroller,Cyprinidae,Intermediate,Herbivore,9,Yes,32,Poor
+WAT,LF5,Beaverdam Cr,SR 1202,Watauga,36.27861,-81.86833,MT,20.3,8-19,C;Tr,2013-35,05/30/13,Lepomis cyanellus,Green Sunfish,Centrarchidae,Tolerant,Insectivore,1,No,32,Poor
+WAT,LF7,Dutch Cr,SR 1112/NC 194,Watauga,36.20912,-81.77823,MT,10.6,8-12-(1.5),C;Tr,2013-36,05/30/13,Luxilus coccogenis,Warpaint Shiner,Cyprinidae,Intermediate,Insectivore,14,Yes,46,Good-Fair
+WAT,LF7,Dutch Cr,SR 1112/NC 194,Watauga,36.20912,-81.77823,MT,10.6,8-12-(1.5),C;Tr,2013-36,05/30/13,Catostomus commersonii,White Sucker,Catostomidae,Tolerant,Omnivore,1,No,46,Good-Fair
+WAT,LF7,Dutch Cr,SR 1112/NC 194,Watauga,36.20912,-81.77823,MT,10.6,8-12-(1.5),C;Tr,2013-36,05/30/13,Lepomis cyanellus,Green Sunfish,Centrarchidae,Tolerant,Insectivore,2,No,46,Good-Fair
+WAT,LF7,Dutch Cr,SR 1112/NC 194,Watauga,36.20912,-81.77823,MT,10.6,8-12-(1.5),C;Tr,2013-36,05/30/13,Notropis leuciodus,Tennessee Shiner,Cyprinidae,Intermediate,Insectivore,31,Yes,46,Good-Fair
+WAT,LF7,Dutch Cr,SR 1112/NC 194,Watauga,36.20912,-81.77823,MT,10.6,8-12-(1.5),C;Tr,2013-36,05/30/13,Semotilus atromaculatus,Creek Chub,Cyprinidae,Tolerant,Insectivore,5,Yes,46,Good-Fair
+WAT,LF7,Dutch Cr,SR 1112/NC 194,Watauga,36.20912,-81.77823,MT,10.6,8-12-(1.5),C;Tr,2013-36,05/30/13,Chrosomus oreas,Mountain Redbelly Dace,Cyprinidae,Intermediate,Herbivore,3,No,46,Good-Fair
+WAT,LF7,Dutch Cr,SR 1112/NC 194,Watauga,36.20912,-81.77823,MT,10.6,8-12-(1.5),C;Tr,2013-36,05/30/13,Micropterus dolomieu,Smallmouth Bass,Centrarchidae,Intolerant,Piscivore,5,Yes,46,Good-Fair
+WAT,LF7,Dutch Cr,SR 1112/NC 194,Watauga,36.20912,-81.77823,MT,10.6,8-12-(1.5),C;Tr,2013-36,05/30/13,Moxostoma duquesnei,Black Redhorse,Catostomidae,Intermediate,Insectivore,12,Yes,46,Good-Fair
+WAT,LF7,Dutch Cr,SR 1112/NC 194,Watauga,36.20912,-81.77823,MT,10.6,8-12-(1.5),C;Tr,2013-36,05/30/13,Ambloplites rupestris,Rock Bass,Centrarchidae,Intolerant,Piscivore,51,Yes,46,Good-Fair
+WAT,LF7,Dutch Cr,SR 1112/NC 194,Watauga,36.20912,-81.77823,MT,10.6,8-12-(1.5),C;Tr,2013-36,05/30/13,Lepomis auritus,Redbreast Sunfish,Centrarchidae,Tolerant,Insectivore,4,Yes,46,Good-Fair
+WAT,LF7,Dutch Cr,SR 1112/NC 194,Watauga,36.20912,-81.77823,MT,10.6,8-12-(1.5),C;Tr,2013-36,05/30/13,Cyprinella galactura,Whitetail Shiner,Cyprinidae,Intermediate,Insectivore,3,No,46,Good-Fair
+WAT,LF7,Dutch Cr,SR 1112/NC 194,Watauga,36.20912,-81.77823,MT,10.6,8-12-(1.5),C;Tr,2013-36,05/30/13,Nocomis micropogon,River Chub,Cyprinidae,Intermediate,Omnivore,103,Yes,46,Good-Fair
+WAT,LF7,Dutch Cr,SR 1112/NC 194,Watauga,36.20912,-81.77823,MT,10.6,8-12-(1.5),C;Tr,2013-36,05/30/13,Noturus insignis,Margined Madtom,Ictaluridae,Intermediate,Insectivore,44,Yes,46,Good-Fair
+WAT,LF7,Dutch Cr,SR 1112/NC 194,Watauga,36.20912,-81.77823,MT,10.6,8-12-(1.5),C;Tr,2013-36,05/30/13,Salmo trutta,Brown Trout,Salmonidae,Intermediate,Piscivore,2,No,46,Good-Fair
+WAT,LF7,Dutch Cr,SR 1112/NC 194,Watauga,36.20912,-81.77823,MT,10.6,8-12-(1.5),C;Tr,2013-36,05/30/13,Hypentelium nigricans,Northern Hogsucker,Catostomidae,Intermediate,Insectivore,33,Yes,46,Good-Fair
+WAT,LF7,Dutch Cr,SR 1112/NC 194,Watauga,36.20912,-81.77823,MT,10.6,8-12-(1.5),C;Tr,2013-36,05/30/13,Campostoma anomalum,Central Stoneroller,Cyprinidae,Intermediate,Herbivore,289,Yes,46,Good-Fair
+WAT,LF7,Dutch Cr,SR 1112/NC 194,Watauga,36.20912,-81.77823,MT,10.6,8-12-(1.5),C;Tr,2013-36,05/30/13,Etheostoma chlorobranchium,Greenfin Darter,Percidae,Intolerant,Insectivore,23,Yes,46,Good-Fair
+WAT,LF9,Watauga R,off SR 1557,Watauga,36.17406,-81.74418,MT,21.8,8-(1),"B;Tr,HQW",2013-37,05/30/13,Etheostoma chlorobranchium,Greenfin Darter,Percidae,Intolerant,Insectivore,73,Yes,46,Good-Fair
+WAT,LF9,Watauga R,off SR 1557,Watauga,36.17406,-81.74418,MT,21.8,8-(1),"B;Tr,HQW",2013-37,05/30/13,Catostomus commersonii,White Sucker,Catostomidae,Tolerant,Omnivore,2,No,46,Good-Fair
+WAT,LF9,Watauga R,off SR 1557,Watauga,36.17406,-81.74418,MT,21.8,8-(1),"B;Tr,HQW",2013-37,05/30/13,Lepomis auritus,Redbreast Sunfish,Centrarchidae,Tolerant,Insectivore,3,Yes,46,Good-Fair
+WAT,LF9,Watauga R,off SR 1557,Watauga,36.17406,-81.74418,MT,21.8,8-(1),"B;Tr,HQW",2013-37,05/30/13,Luxilus coccogenis,Warpaint Shiner,Cyprinidae,Intermediate,Insectivore,40,Yes,46,Good-Fair
+WAT,LF9,Watauga R,off SR 1557,Watauga,36.17406,-81.74418,MT,21.8,8-(1),"B;Tr,HQW",2013-37,05/30/13,Oncorhynchus mykiss,Rainbow Trout,Salmonidae,Intolerant,Insectivore,1,No,46,Good-Fair
+WAT,LF9,Watauga R,off SR 1557,Watauga,36.17406,-81.74418,MT,21.8,8-(1),"B;Tr,HQW",2013-37,05/30/13,Rhinichthys obtusus,Western Blacknose Dace,Cyprinidae,Intermediate,Insectivore,3,Yes,46,Good-Fair
+WAT,LF9,Watauga R,off SR 1557,Watauga,36.17406,-81.74418,MT,21.8,8-(1),"B;Tr,HQW",2013-37,05/30/13,Lepomis macrochirus,Bluegill,Centrarchidae,Intermediate,Insectivore,1,No,46,Good-Fair
+WAT,LF9,Watauga R,off SR 1557,Watauga,36.17406,-81.74418,MT,21.8,8-(1),"B;Tr,HQW",2013-37,05/30/13,Micropterus dolomieu,Smallmouth Bass,Centrarchidae,Intolerant,Piscivore,3,Yes,46,Good-Fair
+WAT,LF9,Watauga R,off SR 1557,Watauga,36.17406,-81.74418,MT,21.8,8-(1),"B;Tr,HQW",2013-37,05/30/13,Ambloplites rupestris,Rock Bass,Centrarchidae,Intolerant,Piscivore,21,Yes,46,Good-Fair
+WAT,LF9,Watauga R,off SR 1557,Watauga,36.17406,-81.74418,MT,21.8,8-(1),"B;Tr,HQW",2013-37,05/30/13,Clinostomus funduloides,Rosyside Dace,Cyprinidae,Intermediate,Insectivore,12,No,46,Good-Fair
+WAT,LF9,Watauga R,off SR 1557,Watauga,36.17406,-81.74418,MT,21.8,8-(1),"B;Tr,HQW",2013-37,05/30/13,Hypentelium nigricans,Northern Hogsucker,Catostomidae,Intermediate,Insectivore,27,Yes,46,Good-Fair
+WAT,LF9,Watauga R,off SR 1557,Watauga,36.17406,-81.74418,MT,21.8,8-(1),"B;Tr,HQW",2013-37,05/30/13,Campostoma anomalum,Central Stoneroller,Cyprinidae,Intermediate,Herbivore,96,Yes,46,Good-Fair
+WAT,LF9,Watauga R,off SR 1557,Watauga,36.17406,-81.74418,MT,21.8,8-(1),"B;Tr,HQW",2013-37,05/30/13,Nocomis micropogon,River Chub,Cyprinidae,Intermediate,Omnivore,64,Yes,46,Good-Fair
+WAT,LF9,Watauga R,off SR 1557,Watauga,36.17406,-81.74418,MT,21.8,8-(1),"B;Tr,HQW",2013-37,05/30/13,Moxostoma duquesnei,Black Redhorse,Catostomidae,Intermediate,Insectivore,5,Yes,46,Good-Fair
+WAT,LF10,Boone Fk,off SR 1558,Watauga,36.16722,-81.74528,MT,9.3,8-7,"C;Tr,ORW",2018-31,06/22/18,Nocomis micropogon,River Chub,Cyprinidae,Intermediate,Omnivore,68,Yes,46,Good-Fair
+WAT,LF10,Boone Fk,off SR 1558,Watauga,36.16722,-81.74528,MT,9.3,8-7,"C;Tr,ORW",2018-31,06/22/18,Luxilus coccogenis,Warpaint Shiner,Cyprinidae,Intermediate,Insectivore,6,Yes,46,Good-Fair
+WAT,LF10,Boone Fk,off SR 1558,Watauga,36.16722,-81.74528,MT,9.3,8-7,"C;Tr,ORW",2018-31,06/22/18,Salmo trutta,Brown Trout,Salmonidae,Intermediate,Piscivore,1,No,46,Good-Fair
+WAT,LF10,Boone Fk,off SR 1558,Watauga,36.16722,-81.74528,MT,9.3,8-7,"C;Tr,ORW",2018-31,06/22/18,Clinostomus funduloides,Rosyside Dace,Cyprinidae,Intermediate,Insectivore,74,Yes,46,Good-Fair
+WAT,LF10,Boone Fk,off SR 1558,Watauga,36.16722,-81.74528,MT,9.3,8-7,"C;Tr,ORW",2018-31,06/22/18,Etheostoma chlorobranchium,Greenfin Darter,Percidae,Intolerant,Insectivore,73,Yes,46,Good-Fair
+WAT,LF10,Boone Fk,off SR 1558,Watauga,36.16722,-81.74528,MT,9.3,8-7,"C;Tr,ORW",2018-31,06/22/18,Semotilus atromaculatus,Creek Chub,Cyprinidae,Tolerant,Insectivore,1,No,46,Good-Fair
+WAT,LF10,Boone Fk,off SR 1558,Watauga,36.16722,-81.74528,MT,9.3,8-7,"C;Tr,ORW",2018-31,06/22/18,Campostoma anomalum,Central Stoneroller,Cyprinidae,Intermediate,Herbivore,29,Yes,46,Good-Fair
+WAT,LF10,Boone Fk,off SR 1558,Watauga,36.16722,-81.74528,MT,9.3,8-7,"C;Tr,ORW",2018-31,06/22/18,Lepomis auritus,Redbreast Sunfish,Centrarchidae,Tolerant,Insectivore,5,Yes,46,Good-Fair
+WAT,LF10,Boone Fk,off SR 1558,Watauga,36.16722,-81.74528,MT,9.3,8-7,"C;Tr,ORW",2018-31,06/22/18,Lepomis cyanellus,Green Sunfish,Centrarchidae,Tolerant,Insectivore,4,Yes,46,Good-Fair
+WAT,LF10,Boone Fk,off SR 1558,Watauga,36.16722,-81.74528,MT,9.3,8-7,"C;Tr,ORW",2018-31,06/22/18,Hypentelium nigricans,Northern Hogsucker,Catostomidae,Intermediate,Insectivore,10,Yes,46,Good-Fair
+WAT,LF10,Boone Fk,off SR 1558,Watauga,36.16722,-81.74528,MT,9.3,8-7,"C;Tr,ORW",2018-31,06/22/18,Oncorhynchus mykiss,Rainbow Trout,Salmonidae,Intolerant,Insectivore,1,No,46,Good-Fair
+WAT,LF10,Boone Fk,off SR 1558,Watauga,36.16722,-81.74528,MT,9.3,8-7,"C;Tr,ORW",2018-31,06/22/18,Ambloplites rupestris,Rock Bass,Centrarchidae,Intolerant,Piscivore,17,Yes,46,Good-Fair
+WAT,LF10,Boone Fk,off SR 1558,Watauga,36.16722,-81.74528,MT,9.3,8-7,"C;Tr,ORW",2018-31,06/22/18,Micropterus dolomieu,Smallmouth Bass,Centrarchidae,Intolerant,Piscivore,1,No,46,Good-Fair
+WAT,LF7,Dutch Cr,SR 1112/NC 194,Watauga,36.20912,-81.77823,MT,10.6,8-12-(1.5),C;Tr,2018-32,06/28/18,Notropis leuciodus,Tennessee Shiner,Cyprinidae,Intermediate,Insectivore,49,Yes,46,Good-Fair
+WAT,LF7,Dutch Cr,SR 1112/NC 194,Watauga,36.20912,-81.77823,MT,10.6,8-12-(1.5),C;Tr,2018-32,06/28/18,Chrosomus oreas,Mountain Redbelly Dace,Cyprinidae,Intermediate,Herbivore,2,No,46,Good-Fair
+WAT,LF7,Dutch Cr,SR 1112/NC 194,Watauga,36.20912,-81.77823,MT,10.6,8-12-(1.5),C;Tr,2018-32,06/28/18,Etheostoma chlorobranchium,Greenfin Darter,Percidae,Intolerant,Insectivore,6,Yes,46,Good-Fair
+WAT,LF7,Dutch Cr,SR 1112/NC 194,Watauga,36.20912,-81.77823,MT,10.6,8-12-(1.5),C;Tr,2018-32,06/28/18,Clinostomus funduloides,Rosyside Dace,Cyprinidae,Intermediate,Insectivore,1,No,46,Good-Fair
+WAT,LF7,Dutch Cr,SR 1112/NC 194,Watauga,36.20912,-81.77823,MT,10.6,8-12-(1.5),C;Tr,2018-32,06/28/18,Rhinichthys obtusus,Western Blacknose Dace,Cyprinidae,Intermediate,Insectivore,4,Yes,46,Good-Fair
+WAT,LF7,Dutch Cr,SR 1112/NC 194,Watauga,36.20912,-81.77823,MT,10.6,8-12-(1.5),C;Tr,2018-32,06/28/18,Semotilus atromaculatus,Creek Chub,Cyprinidae,Tolerant,Insectivore,3,Yes,46,Good-Fair
+WAT,LF7,Dutch Cr,SR 1112/NC 194,Watauga,36.20912,-81.77823,MT,10.6,8-12-(1.5),C;Tr,2018-32,06/28/18,Luxilus coccogenis,Warpaint Shiner,Cyprinidae,Intermediate,Insectivore,56,Yes,46,Good-Fair
+WAT,LF7,Dutch Cr,SR 1112/NC 194,Watauga,36.20912,-81.77823,MT,10.6,8-12-(1.5),C;Tr,2018-32,06/28/18,Campostoma anomalum,Central Stoneroller,Cyprinidae,Intermediate,Herbivore,216,Yes,46,Good-Fair
+WAT,LF7,Dutch Cr,SR 1112/NC 194,Watauga,36.20912,-81.77823,MT,10.6,8-12-(1.5),C;Tr,2018-32,06/28/18,Nocomis micropogon,River Chub,Cyprinidae,Intermediate,Omnivore,71,Yes,46,Good-Fair
+WAT,LF7,Dutch Cr,SR 1112/NC 194,Watauga,36.20912,-81.77823,MT,10.6,8-12-(1.5),C;Tr,2018-32,06/28/18,Oncorhynchus mykiss,Rainbow Trout,Salmonidae,Intolerant,Insectivore,1,No,46,Good-Fair
+WAT,LF7,Dutch Cr,SR 1112/NC 194,Watauga,36.20912,-81.77823,MT,10.6,8-12-(1.5),C;Tr,2018-32,06/28/18,Noturus insignis,Margined Madtom,Ictaluridae,Intermediate,Insectivore,58,Yes,46,Good-Fair
+WAT,LF7,Dutch Cr,SR 1112/NC 194,Watauga,36.20912,-81.77823,MT,10.6,8-12-(1.5),C;Tr,2018-32,06/28/18,Cyprinella galactura,Whitetail Shiner,Cyprinidae,Intermediate,Insectivore,2,No,46,Good-Fair
+WAT,LF7,Dutch Cr,SR 1112/NC 194,Watauga,36.20912,-81.77823,MT,10.6,8-12-(1.5),C;Tr,2018-32,06/28/18,Salmo trutta,Brown Trout,Salmonidae,Intermediate,Piscivore,1,No,46,Good-Fair
+WAT,LF7,Dutch Cr,SR 1112/NC 194,Watauga,36.20912,-81.77823,MT,10.6,8-12-(1.5),C;Tr,2018-32,06/28/18,Lepomis auritus,Redbreast Sunfish,Centrarchidae,Tolerant,Insectivore,1,No,46,Good-Fair
+WAT,LF7,Dutch Cr,SR 1112/NC 194,Watauga,36.20912,-81.77823,MT,10.6,8-12-(1.5),C;Tr,2018-32,06/28/18,Moxostoma duquesnei,Black Redhorse,Catostomidae,Intermediate,Insectivore,10,Yes,46,Good-Fair
+WAT,LF7,Dutch Cr,SR 1112/NC 194,Watauga,36.20912,-81.77823,MT,10.6,8-12-(1.5),C;Tr,2018-32,06/28/18,Hypentelium nigricans,Northern Hogsucker,Catostomidae,Intermediate,Insectivore,11,Yes,46,Good-Fair
+WAT,LF7,Dutch Cr,SR 1112/NC 194,Watauga,36.20912,-81.77823,MT,10.6,8-12-(1.5),C;Tr,2018-32,06/28/18,Micropterus dolomieu,Smallmouth Bass,Centrarchidae,Intolerant,Piscivore,3,Yes,46,Good-Fair
+WAT,LF7,Dutch Cr,SR 1112/NC 194,Watauga,36.20912,-81.77823,MT,10.6,8-12-(1.5),C;Tr,2018-32,06/28/18,Lepomis cyanellus,Green Sunfish,Centrarchidae,Tolerant,Insectivore,1,No,46,Good-Fair
+WAT,LF7,Dutch Cr,SR 1112/NC 194,Watauga,36.20912,-81.77823,MT,10.6,8-12-(1.5),C;Tr,2018-32,06/28/18,Ambloplites rupestris,Rock Bass,Centrarchidae,Intolerant,Piscivore,40,Yes,46,Good-Fair
+WAT,LF11,Cove Cr,off SR 1121,Watauga,36.23945,-81.82140,MT,34.9,8-15,C,2018-33,06/28/18,Noturus insignis,Margined Madtom,Ictaluridae,Intermediate,Insectivore,80,Yes,44,Good-Fair
+WAT,LF11,Cove Cr,off SR 1121,Watauga,36.23945,-81.82140,MT,34.9,8-15,C,2018-33,06/28/18,Notropis leuciodus,Tennessee Shiner,Cyprinidae,Intermediate,Insectivore,15,Yes,44,Good-Fair
+WAT,LF11,Cove Cr,off SR 1121,Watauga,36.23945,-81.82140,MT,34.9,8-15,C,2018-33,06/28/18,Salmo trutta,Brown Trout,Salmonidae,Intermediate,Piscivore,3,Yes,44,Good-Fair
+WAT,LF11,Cove Cr,off SR 1121,Watauga,36.23945,-81.82140,MT,34.9,8-15,C,2018-33,06/28/18,Lepomis auritus,Redbreast Sunfish,Centrarchidae,Tolerant,Insectivore,5,Yes,44,Good-Fair
+WAT,LF11,Cove Cr,off SR 1121,Watauga,36.23945,-81.82140,MT,34.9,8-15,C,2018-33,06/28/18,Lepomis cyanellus,Green Sunfish,Centrarchidae,Tolerant,Insectivore,8,Yes,44,Good-Fair
+WAT,LF11,Cove Cr,off SR 1121,Watauga,36.23945,-81.82140,MT,34.9,8-15,C,2018-33,06/28/18,Cyprinella galactura,Whitetail Shiner,Cyprinidae,Intermediate,Insectivore,11,Yes,44,Good-Fair
+WAT,LF11,Cove Cr,off SR 1121,Watauga,36.23945,-81.82140,MT,34.9,8-15,C,2018-33,06/28/18,Ambloplites rupestris,Rock Bass,Centrarchidae,Intolerant,Piscivore,32,Yes,44,Good-Fair
+WAT,LF11,Cove Cr,off SR 1121,Watauga,36.23945,-81.82140,MT,34.9,8-15,C,2018-33,06/28/18,Campostoma anomalum,Central Stoneroller,Cyprinidae,Intermediate,Herbivore,26,Yes,44,Good-Fair
+WAT,LF11,Cove Cr,off SR 1121,Watauga,36.23945,-81.82140,MT,34.9,8-15,C,2018-33,06/28/18,Nocomis micropogon,River Chub,Cyprinidae,Intermediate,Omnivore,45,Yes,44,Good-Fair
+WAT,LF11,Cove Cr,off SR 1121,Watauga,36.23945,-81.82140,MT,34.9,8-15,C,2018-33,06/28/18,Hypentelium nigricans,Northern Hogsucker,Catostomidae,Intermediate,Insectivore,9,Yes,44,Good-Fair
+WAT,LF11,Cove Cr,off SR 1121,Watauga,36.23945,-81.82140,MT,34.9,8-15,C,2018-33,06/28/18,Moxostoma duquesnei,Black Redhorse,Catostomidae,Intermediate,Insectivore,13,Yes,44,Good-Fair
+WAT,LF11,Cove Cr,off SR 1121,Watauga,36.23945,-81.82140,MT,34.9,8-15,C,2018-33,06/28/18,Micropterus dolomieu,Smallmouth Bass,Centrarchidae,Intolerant,Piscivore,2,No,44,Good-Fair
+WAT,LF5,Beaverdam Cr,SR 1202,Watauga,36.27861,-81.86833,MT,20.3,8-19,C;Tr,2018-34,06/29/18,Rhinichthys obtusus,Western Blacknose Dace,Cyprinidae,Intermediate,Insectivore,53,Yes,34,Fair
+WAT,LF5,Beaverdam Cr,SR 1202,Watauga,36.27861,-81.86833,MT,20.3,8-19,C;Tr,2018-34,06/29/18,Oncorhynchus mykiss,Rainbow Trout,Salmonidae,Intolerant,Insectivore,2,No,34,Fair
+WAT,LF5,Beaverdam Cr,SR 1202,Watauga,36.27861,-81.86833,MT,20.3,8-19,C;Tr,2018-34,06/29/18,Hypentelium nigricans,Northern Hogsucker,Catostomidae,Intermediate,Insectivore,22,Yes,34,Fair
+WAT,LF5,Beaverdam Cr,SR 1202,Watauga,36.27861,-81.86833,MT,20.3,8-19,C;Tr,2018-34,06/29/18,Ambloplites rupestris,Rock Bass,Centrarchidae,Intolerant,Piscivore,52,Yes,34,Fair
+WAT,LF5,Beaverdam Cr,SR 1202,Watauga,36.27861,-81.86833,MT,20.3,8-19,C;Tr,2018-34,06/29/18,Nocomis micropogon,River Chub,Cyprinidae,Intermediate,Omnivore,66,Yes,34,Fair
+WAT,LF5,Beaverdam Cr,SR 1202,Watauga,36.27861,-81.86833,MT,20.3,8-19,C;Tr,2018-34,06/29/18,Campostoma anomalum,Central Stoneroller,Cyprinidae,Intermediate,Herbivore,22,Yes,34,Fair
+WAT,LF5,Beaverdam Cr,SR 1202,Watauga,36.27861,-81.86833,MT,20.3,8-19,C;Tr,2018-34,06/29/18,Lepomis auritus,Redbreast Sunfish,Centrarchidae,Tolerant,Insectivore,1,No,34,Fair
+WAT,LF5,Beaverdam Cr,SR 1202,Watauga,36.27861,-81.86833,MT,20.3,8-19,C;Tr,2018-34,06/29/18,Semotilus atromaculatus,Creek Chub,Cyprinidae,Tolerant,Insectivore,43,Yes,34,Fair

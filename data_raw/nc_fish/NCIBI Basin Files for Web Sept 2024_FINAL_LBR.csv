@@ -1,0 +1,833 @@
+Basin,StationID,Waterbody,Station,County,Latitude,Longitude,Ecoregion,Drainage Area,Stream Index Number,Stream Classification,CC Num,Date,Scientific Name,Common Name,Family,Pollution Tolerance,Feeding Type,No Coll,Mult Ages,NCIBI Score,Bioclass
+LBR,IF31,Rocky Ford Br,SR 1424,Richmond,35.12333,-79.65667,SH,5.7,14-2-6-1,WS-II;ORW,90-09,08/20/90,Notropis cummingsae,Dusky Shiner,Cyprinidae,Intermediate,Insectivore,10,YES,10,Not Rated
+LBR,IF31,Rocky Ford Br,SR 1424,Richmond,35.12333,-79.65667,SH,5.7,14-2-6-1,WS-II;ORW,90-09,08/20/90,Esox americanus,Redfin Pickerel,Esocidae,Intermediate,Piscivore,3,NO,10,Not Rated
+LBR,IF31,Rocky Ford Br,SR 1424,Richmond,35.12333,-79.65667,SH,5.7,14-2-6-1,WS-II;ORW,90-09,08/20/90,Noturus insignis,Margined Madtom,Ictaluridae,Intermediate,Insectivore,1,NO,10,Not Rated
+LBR,IF31,Rocky Ford Br,SR 1424,Richmond,35.12333,-79.65667,SH,5.7,14-2-6-1,WS-II;ORW,90-09,08/20/90,Nocomis leptocephalus,Bluehead Chub,Cyprinidae,Intermediate,Omnivore,29,YES,10,Not Rated
+LBR,IF31,Rocky Ford Br,SR 1424,Richmond,35.12333,-79.65667,SH,5.7,14-2-6-1,WS-II;ORW,90-09,08/20/90,Semotilus lumbee,Sandhills Chub,Cyprinidae,Intolerant,Insectivore,5,YES,10,Not Rated
+LBR,IF31,Rocky Ford Br,SR 1424,Richmond,35.12333,-79.65667,SH,5.7,14-2-6-1,WS-II;ORW,90-09,08/20/90,Lepomis auritus,Redbreast Sunfish,Centrarchidae,Tolerant,Insectivore,4,YES,10,Not Rated
+LBR,IF31,Rocky Ford Br,SR 1424,Richmond,35.12333,-79.65667,SH,5.7,14-2-6-1,WS-II;ORW,90-09,08/20/90,Acantharchus pomotis,Mud Sunfish,Centrarchidae,Intermediate,Insectivore,2,NO,10,Not Rated
+LBR,IF31,Rocky Ford Br,SR 1424,Richmond,35.12333,-79.65667,SH,5.7,14-2-6-1,WS-II;ORW,90-09,08/20/90,Ameiurus platycephalus,Flat Bullhead,Ictaluridae,Tolerant,Insectivore,1,NO,10,Not Rated
+LBR,IF31,Rocky Ford Br,SR 1424,Richmond,35.12333,-79.65667,SH,5.7,14-2-6-1,WS-II;ORW,90-09,08/20/90,Lepomis macrochirus,Bluegill,Centrarchidae,Intermediate,Insectivore,1,NO,10,Not Rated
+LBR,IF31,Rocky Ford Br,SR 1424,Richmond,35.12333,-79.65667,SH,5.7,14-2-6-1,WS-II;ORW,90-09,08/20/90,Gambusia holbrooki,Eastern Mosquitofish,Poecilidae,Tolerant,Insectivore,1,NO,10,Not Rated
+LBR,IF31,Rocky Ford Br,SR 1424,Richmond,35.12333,-79.65667,SH,86.2,14-2-6-1,WS-II;ORW,90-09,08/20/90,Aphredoderus sayanus,Pirate Perch,Aphredoderidae,Intermediate,Insectivore,1,NO,10,Not Rated
+LBR,IF31,Rocky Ford Br,SR 1424,Richmond,35.12333,-79.65667,SH,5.7,14-2-6-1,WS-II;ORW,90-09,08/20/90,Anguilla rostrata,American Eel,Anguillidae,Intermediate,Piscivore,3,YES,10,Not Rated
+LBR,IF4,Back Swp,SR 1003,Robeson,34.62041,-79.19264,CC,15.4,14-8-(2.5),WS-IV;Sw,91-20,07/24/91,Lepomis gibbosus,Pumpkinseed,Centrarchidae,Intermediate,Insectivore,1,NO,34,Not Rated
+LBR,IF4,Back Swp,SR 1003,Robeson,34.62041,-79.19264,CC,15.4,14-8-(2.5),WS-IV;Sw,91-20,07/24/91,Lepomis punctatus,Spotted Sunfish,Centrarchidae,Intermediate,Insectivore,15,YES,34,Not Rated
+LBR,IF4,Back Swp,SR 1003,Robeson,34.62041,-79.19264,CC,15.4,14-8-(2.5),WS-IV;Sw,91-20,07/24/91,Lepomis auritus,Redbreast Sunfish,Centrarchidae,Tolerant,Insectivore,12,YES,34,Not Rated
+LBR,IF4,Back Swp,SR 1003,Robeson,34.62041,-79.19264,CC,15.4,14-8-(2.5),WS-IV;Sw,91-20,07/24/91,Notropis cummingsae,Dusky Shiner,Cyprinidae,Intermediate,Insectivore,5,YES,34,Not Rated
+LBR,IF4,Back Swp,SR 1003,Robeson,34.62041,-79.19264,CC,15.4,14-8-(2.5),WS-IV;Sw,91-20,07/24/91,Gambusia holbrooki,Eastern Mosquitofish,Poecilidae,Tolerant,Insectivore,4,YES,34,Not Rated
+LBR,IF4,Back Swp,SR 1003,Robeson,34.62041,-79.19264,CC,15.4,14-8-(2.5),WS-IV;Sw,91-20,07/24/91,Noturus gyrinus,Tadpole Madtom,Ictaluridae,Intermediate,Insectivore,1,NO,34,Not Rated
+LBR,IF4,Back Swp,SR 1003,Robeson,34.62041,-79.19264,CC,15.4,14-8-(2.5),WS-IV;Sw,91-20,07/24/91,Esox niger,Chain Pickerel,Esocidae,Intermediate,Piscivore,1,NO,34,Not Rated
+LBR,IF4,Back Swp,SR 1003,Robeson,34.62041,-79.19264,CC,15.4,14-8-(2.5),WS-IV;Sw,91-20,07/24/91,Erimyzon oblongus,Creek Chubsucker,Catostomidae,Intermediate,Omnivore,1,NO,34,Not Rated
+LBR,IF4,Back Swp,SR 1003,Robeson,34.62041,-79.19264,CC,15.4,14-8-(2.5),WS-IV;Sw,91-20,07/24/91,Enneacanthus gloriosus,Bluespotted Sunfish,Centrarchidae,Intermediate,Insectivore,1,NO,34,Not Rated
+LBR,IF4,Back Swp,SR 1003,Robeson,34.62041,-79.19264,CC,15.4,14-8-(2.5),WS-IV;Sw,91-20,07/24/91,Elassoma zonatum,Banded Pygmy Sunfish,Elassomatidae,Intermediate,Insectivore,1,NO,34,Not Rated
+LBR,IF4,Back Swp,SR 1003,Robeson,34.62041,-79.19264,CC,15.4,14-8-(2.5),WS-IV;Sw,91-20,07/24/91,Amia calva,Bowfin,Amiidae,Tolerant,Piscivore,1,NO,34,Not Rated
+LBR,IF4,Back Swp,SR 1003,Robeson,34.62041,-79.19264,CC,15.4,14-8-(2.5),WS-IV;Sw,91-20,07/24/91,Ameiurus brunneus,Snail Bullhead,Ictaluridae,Intermediate,Insectivore,1,NO,34,Not Rated
+LBR,IF4,Back Swp,SR 1003,Robeson,34.62041,-79.19264,CC,15.4,14-8-(2.5),WS-IV;Sw,91-20,07/24/91,Anguilla rostrata,American Eel,Anguillidae,Intermediate,Piscivore,2,NO,34,Not Rated
+LBR,IF3,Ashepole Swp,SR 2455,Robeson,34.44667,-79.16611,CS,76.7,14-30,C;Sw,91-21,07/25/91,Umbra pygmaea,Eastern Mudminnow,Umbridae,Intermediate,Insectivore,1,NO,32,Not Rated
+LBR,IF3,Ashepole Swp,SR 2455,Robeson,34.44667,-79.16611,CS,76.7,14-30,C;Sw,91-21,07/25/91,Esox americanus,Redfin Pickerel,Esocidae,Intermediate,Piscivore,15,YES,32,Not Rated
+LBR,IF3,Ashepole Swp,SR 2455,Robeson,34.44667,-79.16611,CS,76.7,14-30,C;Sw,91-21,07/25/91,Gambusia holbrooki,Eastern Mosquitofish,Poecilidae,Tolerant,Insectivore,13,YES,32,Not Rated
+LBR,IF3,Ashepole Swp,SR 2455,Robeson,34.44667,-79.16611,CS,76.7,14-30,C;Sw,91-21,07/25/91,Anguilla rostrata,American Eel,Anguillidae,Intermediate,Piscivore,12,YES,32,Not Rated
+LBR,IF3,Ashepole Swp,SR 2455,Robeson,34.44667,-79.16611,CS,76.7,14-30,C;Sw,91-21,07/25/91,Lepomis punctatus,Spotted Sunfish,Centrarchidae,Intermediate,Insectivore,6,YES,32,Not Rated
+LBR,IF3,Ashepole Swp,SR 2455,Robeson,34.44667,-79.16611,CS,76.7,14-30,C;Sw,91-21,07/25/91,Notropis cummingsae,Dusky Shiner,Cyprinidae,Intermediate,Insectivore,2,NO,32,Not Rated
+LBR,IF3,Ashepole Swp,SR 2455,Robeson,34.44667,-79.16611,CS,76.7,14-30,C;Sw,91-21,07/25/91,Lepomis macrochirus,Bluegill,Centrarchidae,Intermediate,Insectivore,2,NO,32,Not Rated
+LBR,IF3,Ashepole Swp,SR 2455,Robeson,34.44667,-79.16611,CS,76.7,14-30,C;Sw,91-21,07/25/91,Lepomis gulosus,Warmouth,Centrarchidae,Intermediate,Insectivore,1,NO,32,Not Rated
+LBR,IF3,Ashepole Swp,SR 2455,Robeson,34.44667,-79.16611,CS,76.7,14-30,C;Sw,91-21,07/25/91,Etheostoma serrifer,Sawcheek Darter,Percidae,Intolerant,Insectivore,1,NO,32,Not Rated
+LBR,IF3,Ashepole Swp,SR 2455,Robeson,34.44667,-79.16611,CS,76.7,14-30,C;Sw,91-21,07/25/91,Etheostoma olmstedi,Tessellated Darter,Percidae,Intermediate,Insectivore,1,NO,32,Not Rated
+LBR,IF3,Ashepole Swp,SR 2455,Robeson,34.44667,-79.16611,CS,76.7,14-30,C;Sw,91-21,07/25/91,Chologaster cornuta,Swampfish,Amblyopsidae,Intermediate,Insectivore,1,NO,32,Not Rated
+LBR,IF3,Ashepole Swp,SR 2455,Robeson,34.44667,-79.16611,CS,76.7,14-30,C;Sw,91-21,07/25/91,Centrarchus macropterus,Flier,Centrarchidae,Intermediate,Insectivore,1,NO,32,Not Rated
+LBR,IF3,Ashepole Swp,SR 2455,Robeson,34.44667,-79.16611,CS,76.7,14-30,C;Sw,91-21,07/25/91,Acantharchus pomotis,Mud Sunfish,Centrarchidae,Intermediate,Insectivore,1,NO,32,Not Rated
+LBR,IF3,Ashepole Swp,SR 2455,Robeson,34.44667,-79.16611,CS,76.7,14-30,C;Sw,91-21,07/25/91,Amia calva,Bowfin,Amiidae,Tolerant,Piscivore,2,NO,32,Not Rated
+LBR,IF3,Ashepole Swp,SR 2455,Robeson,34.44667,-79.16611,CS,76.7,14-30,C;Sw,91-21,07/25/91,Lepomis gibbosus,Pumpkinseed,Centrarchidae,Intermediate,Insectivore,2,NO,32,Not Rated
+LBR,IF24,Little Shoeheel Cr,SR 1405,Scotland,34.86806,-79.39889,SH,9.4,14-34-3,C;Sw,91-25,09/30/91,Lepomis microlophus,Redear Sunfish,Centrarchidae,Intermediate,Insectivore,2,NO,5,Not Rated
+LBR,IF24,Little Shoeheel Cr,SR 1405,Scotland,34.86806,-79.39889,SH,9.4,14-34-3,C;Sw,91-25,09/30/91,Esox americanus,Redfin Pickerel,Esocidae,Intermediate,Piscivore,22,YES,5,Not Rated
+LBR,IF24,Little Shoeheel Cr,SR 1405,Scotland,34.86806,-79.39889,SH,9.4,14-34-3,C;Sw,91-25,09/30/91,Aphredoderus sayanus,Pirate Perch,Aphredoderidae,Intermediate,Insectivore,9,YES,5,Not Rated
+LBR,IF24,Little Shoeheel Cr,SR 1405,Scotland,34.86806,-79.39889,SH,9.4,14-34-3,C;Sw,91-25,09/30/91,Ameiurus natalis,Yellow Bullhead,Ictaluridae,Tolerant,Omnivore,9,YES,5,Not Rated
+LBR,IF24,Little Shoeheel Cr,SR 1405,Scotland,34.86806,-79.39889,SH,9.4,14-34-3,C;Sw,91-25,09/30/91,Acantharchus pomotis,Mud Sunfish,Centrarchidae,Intermediate,Insectivore,7,YES,5,Not Rated
+LBR,IF24,Little Shoeheel Cr,SR 1405,Scotland,34.86806,-79.39889,SH,9.4,14-34-3,C;Sw,91-25,09/30/91,Lepomis macrochirus,Bluegill,Centrarchidae,Intermediate,Insectivore,5,YES,5,Not Rated
+LBR,IF24,Little Shoeheel Cr,SR 1405,Scotland,34.86806,-79.39889,SH,9.4,14-34-3,C;Sw,91-25,09/30/91,Erimyzon oblongus,Creek Chubsucker,Catostomidae,Intermediate,Omnivore,3,YES,5,Not Rated
+LBR,IF24,Little Shoeheel Cr,SR 1405,Scotland,34.86806,-79.39889,SH,9.4,14-34-3,C;Sw,91-25,09/30/91,Umbra pygmaea,Eastern Mudminnow,Umbridae,Intermediate,Insectivore,1,NO,5,Not Rated
+LBR,IF24,Little Shoeheel Cr,SR 1405,Scotland,34.86806,-79.39889,SH,9.4,14-34-3,C;Sw,91-25,09/30/91,Notemigonus crysoleucas,Golden Shiner,Cyprinidae,Tolerant,Omnivore,1,NO,5,Not Rated
+LBR,IF24,Little Shoeheel Cr,SR 1405,Scotland,34.86806,-79.39889,SH,9.4,14-34-3,C;Sw,91-25,09/30/91,Lepomis gulosus,Warmouth,Centrarchidae,Intermediate,Insectivore,1,NO,5,Not Rated
+LBR,IF24,Little Shoeheel Cr,SR 1405,Scotland,34.86806,-79.39889,SH,9.4,14-34-3,C;Sw,91-25,09/30/91,Enneacanthus gloriosus,Bluespotted Sunfish,Centrarchidae,Intermediate,Insectivore,1,NO,5,Not Rated
+LBR,IF24,Little Shoeheel Cr,SR 1405,Scotland,34.86806,-79.39889,SH,9.4,14-34-3,C;Sw,91-25,09/30/91,Gambusia holbrooki,Eastern Mosquitofish,Poecilidae,Tolerant,Insectivore,5,YES,5,Not Rated
+LBR,IF16,Gum Swp,NC 71,Robeson,34.79250,-79.28333,CS,8.3,14-5,C,91-26,09/30/91,Erimyzon oblongus,Creek Chubsucker,Catostomidae,Intermediate,Omnivore,4,NO,32,Not Rated
+LBR,IF16,Gum Swp,NC 71,Robeson,34.79250,-79.28333,CS,8.3,14-5,C,91-26,09/30/91,Chologaster cornuta,Swampfish,Amblyopsidae,Intermediate,Insectivore,1,NO,32,Not Rated
+LBR,IF16,Gum Swp,NC 71,Robeson,34.79250,-79.28333,CS,8.3,14-5,C,91-26,09/30/91,Esox americanus,Redfin Pickerel,Esocidae,Intermediate,Piscivore,28,YES,32,Not Rated
+LBR,IF16,Gum Swp,NC 71,Robeson,34.79250,-79.28333,CS,8.3,14-5,C,91-26,09/30/91,Aphredoderus sayanus,Pirate Perch,Aphredoderidae,Intermediate,Insectivore,25,NO,32,Not Rated
+LBR,IF16,Gum Swp,NC 71,Robeson,34.79250,-79.28333,CS,8.3,14-5,C,91-26,09/30/91,Ameiurus natalis,Yellow Bullhead,Ictaluridae,Tolerant,Omnivore,13,YES,32,Not Rated
+LBR,IF16,Gum Swp,NC 71,Robeson,34.79250,-79.28333,CS,8.3,14-5,C,91-26,09/30/91,Acantharchus pomotis,Mud Sunfish,Centrarchidae,Intermediate,Insectivore,9,YES,32,Not Rated
+LBR,IF16,Gum Swp,NC 71,Robeson,34.79250,-79.28333,CS,8.3,14-5,C,91-26,09/30/91,Gambusia holbrooki,Eastern Mosquitofish,Poecilidae,Tolerant,Insectivore,4,NO,32,Not Rated
+LBR,IF16,Gum Swp,NC 71,Robeson,34.79250,-79.28333,CS,8.3,14-5,C,91-26,09/30/91,Ameiurus nebulosus,Brown Bullhead,Ictaluridae,Tolerant,Omnivore,1,NO,32,Not Rated
+LBR,IF16,Gum Swp,NC 71,Robeson,34.79250,-79.28333,CS,8.3,14-5,C,91-26,09/30/91,Lepomis gibbosus,Pumpkinseed,Centrarchidae,Intermediate,Insectivore,1,NO,32,Not Rated
+LBR,IF16,Gum Swp,NC 71,Robeson,34.79250,-79.28333,CS,8.3,14-5,C,91-26,09/30/91,Lepomis macrochirus,Bluegill,Centrarchidae,Intermediate,Insectivore,1,NO,32,Not Rated
+LBR,IF16,Gum Swp,NC 71,Robeson,34.79250,-79.28333,CS,8.3,14-5,C,91-26,09/30/91,Anguilla rostrata,American Eel,Anguillidae,Intermediate,Piscivore,1,NO,32,Not Rated
+LBR,IF16,Gum Swp,NC 71,Robeson,34.79250,-79.28333,CS,8.3,14-5,C,91-26,09/30/91,Amia calva,Bowfin,Amiidae,Tolerant,Piscivore,1,NO,32,Not Rated
+LBR,IF16,Gum Swp,NC 71,Robeson,34.79250,-79.28333,CS,8.3,14-5,C,91-26,09/30/91,Esox niger,Chain Pickerel,Esocidae,Intermediate,Piscivore,2,NO,32,Not Rated
+LBR,IF23,Juniper Cr,SR 1928,Columbus,34.15417,-78.53222,CS,150,15-7,C;Sw,91-32,12/11/91,Fundulus lineolatus,Lined Topminnow,Fundulidae,Intermediate,Insectivore,2,NO,38,Not Rated
+LBR,IF23,Juniper Cr,SR 1928,Columbus,34.15417,-78.53222,CS,150,15-7,C;Sw,91-32,12/11/91,Gambusia holbrooki,Eastern Mosquitofish,Poecilidae,Tolerant,Insectivore,13,YES,38,Not Rated
+LBR,IF23,Juniper Cr,SR 1928,Columbus,34.15417,-78.53222,CS,150,15-7,C;Sw,91-32,12/11/91,Enneacanthus gloriosus,Bluespotted Sunfish,Centrarchidae,Intermediate,Insectivore,13,YES,38,Not Rated
+LBR,IF23,Juniper Cr,SR 1928,Columbus,34.15417,-78.53222,CS,150,15-7,C;Sw,91-32,12/11/91,Aphredoderus sayanus,Pirate Perch,Aphredoderidae,Intermediate,Insectivore,10,YES,38,Not Rated
+LBR,IF23,Juniper Cr,SR 1928,Columbus,34.15417,-78.53222,CS,150,15-7,C;Sw,91-32,12/11/91,Elassoma zonatum,Banded Pygmy Sunfish,Elassomatidae,Intermediate,Insectivore,8,NO,38,Not Rated
+LBR,IF23,Juniper Cr,SR 1928,Columbus,34.15417,-78.53222,CS,150,15-7,C;Sw,91-32,12/11/91,Etheostoma serrifer,Sawcheek Darter,Percidae,Intolerant,Insectivore,6,NO,38,Not Rated
+LBR,IF23,Juniper Cr,SR 1928,Columbus,34.15417,-78.53222,CS,150,15-7,C;Sw,91-32,12/11/91,Ameiurus natalis,Yellow Bullhead,Ictaluridae,Tolerant,Omnivore,4,NO,38,Not Rated
+LBR,IF23,Juniper Cr,SR 1928,Columbus,34.15417,-78.53222,CS,150,15-7,C;Sw,91-32,12/11/91,Lepomis gulosus,Warmouth,Centrarchidae,Intermediate,Insectivore,2,NO,38,Not Rated
+LBR,IF23,Juniper Cr,SR 1928,Columbus,34.15417,-78.53222,CS,150,15-7,C;Sw,91-32,12/11/91,Esox americanus,Redfin Pickerel,Esocidae,Intermediate,Piscivore,2,NO,38,Not Rated
+LBR,IF23,Juniper Cr,SR 1928,Columbus,34.15417,-78.53222,CS,150,15-7,C;Sw,91-32,12/11/91,Centrarchus macropterus,Flier,Centrarchidae,Intermediate,Insectivore,2,NO,38,Not Rated
+LBR,IF23,Juniper Cr,SR 1928,Columbus,34.15417,-78.53222,CS,150,15-7,C;Sw,91-32,12/11/91,Umbra pygmaea,Eastern Mudminnow,Umbridae,Intermediate,Insectivore,1,NO,38,Not Rated
+LBR,IF23,Juniper Cr,SR 1928,Columbus,34.15417,-78.53222,CS,150,15-7,C;Sw,91-32,12/11/91,Lepomis auritus,Redbreast Sunfish,Centrarchidae,Tolerant,Insectivore,1,NO,38,Not Rated
+LBR,IF23,Juniper Cr,SR 1928,Columbus,34.15417,-78.53222,CS,150,15-7,C;Sw,91-32,12/11/91,Etheostoma fusiforme,Swamp Dater,Percidae,Intermediate,Insectivore,1,NO,38,Not Rated
+LBR,IF23,Juniper Cr,SR 1928,Columbus,34.15417,-78.53222,CS,150,15-7,C;Sw,91-32,12/11/91,Chologaster cornuta,Swampfish,Amblyopsidae,Intermediate,Insectivore,1,NO,38,Not Rated
+LBR,IF23,Juniper Cr,SR 1928,Columbus,34.15417,-78.53222,CS,150,15-7,C;Sw,91-32,12/11/91,Esox niger,Chain Pickerel,Esocidae,Intermediate,Piscivore,3,NO,38,Not Rated
+LBR,IF32,Royal Oak Swp,NC 211,Brunswick,34.03361,-78.28009,CN,22,15-25-1-12,C;Sw,92-11,04/25/92,Notropis cummingsae,Dusky Shiner,Cyprinidae,Intermediate,Insectivore,40,YES,40,Not Rated
+LBR,IF32,Royal Oak Swp,NC 211,Brunswick,34.03361,-78.28009,CN,22,15-25-1-12,C;Sw,92-11,04/25/92,Noturus insignis,Margined Madtom,Ictaluridae,Intermediate,Insectivore,5,YES,40,Not Rated
+LBR,IF32,Royal Oak Swp,NC 211,Brunswick,34.03361,-78.28009,CN,22,15-25-1-12,C;Sw,92-11,04/25/92,Lepomis punctatus,Spotted Sunfish,Centrarchidae,Intermediate,Insectivore,6,YES,40,Not Rated
+LBR,IF32,Royal Oak Swp,NC 211,Brunswick,34.03361,-78.28009,CN,22,15-25-1-12,C;Sw,92-11,04/25/92,Anguilla rostrata,American Eel,Anguillidae,Intermediate,Piscivore,63,YES,40,Not Rated
+LBR,IF32,Royal Oak Swp,NC 211,Brunswick,34.03361,-78.28009,CN,22,15-25-1-12,C;Sw,92-11,04/25/92,Enneacanthus gloriosus,Bluespotted Sunfish,Centrarchidae,Intermediate,Insectivore,10,YES,40,Not Rated
+LBR,IF32,Royal Oak Swp,NC 211,Brunswick,34.03361,-78.28009,CN,22,15-25-1-12,C;Sw,92-11,04/25/92,Micropterus salmoides,Largemouth Bass,Centrarchidae,Intermediate,Piscivore,1,NO,40,Not Rated
+LBR,IF32,Royal Oak Swp,NC 211,Brunswick,34.03361,-78.28009,CN,22,15-25-1-12,C;Sw,92-11,04/25/92,Notropis chalybaeus,Ironcolor Shiner,Cyprinidae,Intolerant,Insectivore,10,NO,40,Not Rated
+LBR,IF32,Royal Oak Swp,NC 211,Brunswick,34.03361,-78.28009,CN,22,15-25-1-12,C;Sw,92-11,04/25/92,Aphredoderus sayanus,Pirate Perch,Aphredoderidae,Intermediate,Insectivore,27,YES,40,Not Rated
+LBR,IF32,Royal Oak Swp,NC 211,Brunswick,34.03361,-78.28009,CN,22,15-25-1-12,C;Sw,92-11,04/25/92,Lepomis gulosus,Warmouth,Centrarchidae,Intermediate,Insectivore,5,YES,40,Not Rated
+LBR,IF32,Royal Oak Swp,NC 211,Brunswick,34.03361,-78.28009,CN,22,15-25-1-12,C;Sw,92-11,04/25/92,Esox americanus,Redfin Pickerel,Esocidae,Intermediate,Piscivore,18,YES,40,Not Rated
+LBR,IF32,Royal Oak Swp,NC 211,Brunswick,34.03361,-78.28009,CN,22,15-25-1-12,C;Sw,92-11,04/25/92,Ameiurus natalis,Yellow Bullhead,Ictaluridae,Tolerant,Omnivore,1,NO,40,Not Rated
+LBR,IF32,Royal Oak Swp,NC 211,Brunswick,34.03361,-78.28009,CN,22,15-25-1-12,C;Sw,92-11,04/25/92,Lepomis auritus,Redbreast Sunfish,Centrarchidae,Tolerant,Insectivore,3,NO,40,Not Rated
+LBR,IF32,Royal Oak Swp,NC 211,Brunswick,34.03361,-78.28009,CN,22,15-25-1-12,C;Sw,92-11,04/25/92,Lepomis gibbosus,Pumpkinseed,Centrarchidae,Intermediate,Insectivore,2,NO,40,Not Rated
+LBR,IF32,Royal Oak Swp,NC 211,Brunswick,34.03361,-78.28009,CN,22,15-25-1-12,C;Sw,92-11,04/25/92,Erimyzon oblongus,Creek Chubsucker,Catostomidae,Intermediate,Omnivore,1,NO,40,Not Rated
+LBR,IF32,Royal Oak Swp,NC 211,Brunswick,34.03361,-78.28009,CN,22,15-25-1-12,C;Sw,92-11,04/25/92,Etheostoma olmstedi,Tessellated Darter,Percidae,Intermediate,Insectivore,1,NO,40,Not Rated
+LBR,IF32,Royal Oak Swp,NC 211,Brunswick,34.03361,-78.28009,CN,22,15-25-1-12,C;Sw,92-11,04/25/92,Gambusia holbrooki,Eastern Mosquitofish,Poecilidae,Tolerant,Insectivore,1,NO,40,Not Rated
+LBR,IF32,Royal Oak Swp,NC 211,Brunswick,34.03361,-78.28009,CN,22,15-25-1-12,C;Sw,92-11,04/25/92,Ameiurus platycephalus,Flat Bullhead,Ictaluridae,Tolerant,Insectivore,2,NO,40,Not Rated
+LBR,IF32,Royal Oak Swp,NC 211,Brunswick,34.03361,-78.28009,CN,22,15-25-1-12,C;Sw,92-11,04/25/92,Notemigonus crysoleucas,Golden Shiner,Cyprinidae,Tolerant,Omnivore,2,NO,40,Not Rated
+LBR,IF32,Royal Oak Swp,NC 211,Brunswick,34.03361,-78.28009,CN,22,15-25-1-12,C;Sw,92-11,04/25/92,Noturus gyrinus,Tadpole Madtom,Ictaluridae,Intermediate,Insectivore,2,NO,40,Not Rated
+LBR,IF25,Lockwoods Folly R,US 17,Brunswick,34.04676,-78.17855,CN,12.3,15-25-1-(1),C;Sw,92-09,04/28/92,Lepomis gulosus,Warmouth,Centrarchidae,Intermediate,Insectivore,4,YES,38,Not Rated
+LBR,IF25,Lockwoods Folly R,US 17,Brunswick,34.04676,-78.17855,CN,12.3,15-25-1-(1),C;Sw,92-09,04/28/92,Esox americanus,Redfin Pickerel,Esocidae,Intermediate,Piscivore,8,YES,38,Not Rated
+LBR,IF25,Lockwoods Folly R,US 17,Brunswick,34.04676,-78.17855,CN,12.3,15-25-1-(1),C;Sw,92-09,04/28/92,Gambusia holbrooki,Eastern Mosquitofish,Poecilidae,Tolerant,Insectivore,100,YES,38,Not Rated
+LBR,IF25,Lockwoods Folly R,US 17,Brunswick,34.04676,-78.17855,CN,12.3,15-25-1-(1),C;Sw,92-09,04/28/92,Anguilla rostrata,American Eel,Anguillidae,Intermediate,Piscivore,10,YES,38,Not Rated
+LBR,IF25,Lockwoods Folly R,US 17,Brunswick,34.04676,-78.17855,CN,12.3,15-25-1-(1),C;Sw,92-09,04/28/92,Aphredoderus sayanus,Pirate Perch,Aphredoderidae,Intermediate,Insectivore,9,YES,38,Not Rated
+LBR,IF25,Lockwoods Folly R,US 17,Brunswick,34.04676,-78.17855,CN,12.3,15-25-1-(1),C;Sw,92-09,04/28/92,Lepomis microlophus,Redear Sunfish,Centrarchidae,Intermediate,Insectivore,1,NO,38,Not Rated
+LBR,IF25,Lockwoods Folly R,US 17,Brunswick,34.04676,-78.17855,CN,12.3,15-25-1-(1),C;Sw,92-09,04/28/92,Notemigonus crysoleucas,Golden Shiner,Cyprinidae,Tolerant,Omnivore,3,YES,38,Not Rated
+LBR,IF25,Lockwoods Folly R,US 17,Brunswick,34.04676,-78.17855,CN,12.3,15-25-1-(1),C;Sw,92-09,04/28/92,Erimyzon oblongus,Creek Chubsucker,Catostomidae,Intermediate,Omnivore,3,NO,38,Not Rated
+LBR,IF25,Lockwoods Folly R,US 17,Brunswick,34.04676,-78.17855,CN,12.3,15-25-1-(1),C;Sw,92-09,04/28/92,Lepomis punctatus,Spotted Sunfish,Centrarchidae,Intermediate,Insectivore,2,NO,38,Not Rated
+LBR,IF25,Lockwoods Folly R,US 17,Brunswick,34.04676,-78.17855,CN,12.3,15-25-1-(1),C;Sw,92-09,04/28/92,Enneacanthus gloriosus,Bluespotted Sunfish,Centrarchidae,Intermediate,Insectivore,9,YES,38,Not Rated
+LBR,IF25,Lockwoods Folly R,US 17,Brunswick,34.04676,-78.17855,CN,12.3,15-25-1-(1),C;Sw,92-09,04/28/92,Notropis cummingsae,Dusky Shiner,Cyprinidae,Intermediate,Insectivore,3,NO,38,Not Rated
+LBR,IF9,Cool Run,US 17,Brunswick,33.95222,-78.46500,CC,3.2,15-25-2-3,C;Sw,92-10,04/28/92,Esox americanus,Redfin Pickerel,Esocidae,Intermediate,Piscivore,15,YES,46,Not Rated
+LBR,IF9,Cool Run,US 17,Brunswick,33.95222,-78.46500,CC,3.2,15-25-2-3,C;Sw,92-10,04/28/92,Gambusia holbrooki,Eastern Mosquitofish,Poecilidae,Tolerant,Insectivore,74,YES,46,Not Rated
+LBR,IF9,Cool Run,US 17,Brunswick,33.95222,-78.46500,CC,3.2,15-25-2-3,C;Sw,92-10,04/28/92,Enneacanthus gloriosus,Bluespotted Sunfish,Centrarchidae,Intermediate,Insectivore,74,YES,46,Not Rated
+LBR,IF9,Cool Run,US 17,Brunswick,33.95222,-78.46500,CC,3.2,15-25-2-3,C;Sw,92-10,04/28/92,Notemigonus crysoleucas,Golden Shiner,Cyprinidae,Tolerant,Omnivore,49,YES,46,Not Rated
+LBR,IF9,Cool Run,US 17,Brunswick,33.95222,-78.46500,CC,3.2,15-25-2-3,C;Sw,92-10,04/28/92,Lepomis macrochirus,Bluegill,Centrarchidae,Intermediate,Insectivore,29,YES,46,Not Rated
+LBR,IF9,Cool Run,US 17,Brunswick,33.95222,-78.46500,CC,3.2,15-25-2-3,C;Sw,92-10,04/28/92,Aphredoderus sayanus,Pirate Perch,Aphredoderidae,Intermediate,Insectivore,17,YES,46,Not Rated
+LBR,IF9,Cool Run,US 17,Brunswick,33.95222,-78.46500,CC,3.2,15-25-2-3,C;Sw,92-10,04/28/92,Lepomis gulosus,Warmouth,Centrarchidae,Intermediate,Insectivore,8,YES,46,Not Rated
+LBR,IF9,Cool Run,US 17,Brunswick,33.95222,-78.46500,CC,3.2,15-25-2-3,C;Sw,92-10,04/28/92,Ameiurus natalis,Yellow Bullhead,Ictaluridae,Tolerant,Omnivore,5,YES,46,Not Rated
+LBR,IF9,Cool Run,US 17,Brunswick,33.95222,-78.46500,CC,3.2,15-25-2-3,C;Sw,92-10,04/28/92,Erimyzon oblongus,Creek Chubsucker,Catostomidae,Intermediate,Omnivore,2,NO,46,Not Rated
+LBR,IF9,Cool Run,US 17,Brunswick,33.95222,-78.46500,CC,3.2,15-25-2-3,C;Sw,92-10,04/28/92,Anguilla rostrata,American Eel,Anguillidae,Intermediate,Piscivore,2,NO,46,Not Rated
+LBR,IF9,Cool Run,US 17,Brunswick,33.95222,-78.46500,CC,3.2,15-25-2-3,C;Sw,92-10,04/28/92,Umbra pygmaea,Eastern Mudminnow,Umbridae,Intermediate,Insectivore,1,NO,46,Not Rated
+LBR,IF9,Cool Run,US 17,Brunswick,33.95222,-78.46500,CC,3.2,15-25-2-3,C;Sw,92-10,04/28/92,Acantharchus pomotis,Mud Sunfish,Centrarchidae,Intermediate,Insectivore,1,NO,46,Not Rated
+LBR,IF9,Cool Run,US 17,Brunswick,33.95222,-78.46500,CC,3.2,15-25-2-3,C;Sw,92-10,04/28/92,Lepomis gibbosus,Pumpkinseed,Centrarchidae,Intermediate,Insectivore,9,YES,46,Not Rated
+LBR,IF9,Cool Run,US 17,Brunswick,33.95222,-78.46500,CC,3.2,15-25-2-3,C;Sw,92-10,04/28/92,Centrarchus macropterus,Flier,Centrarchidae,Intermediate,Insectivore,42,YES,46,Not Rated
+LBR,IF26,Monie Swp,SR 1006,Columbus,34.12361,-78.70500,CS,76,15-17-1-12,C;Sw,92-12,04/29/92,Gambusia holbrooki,Eastern Mosquitofish,Poecilidae,Tolerant,Insectivore,15,YES,32,Not Rated
+LBR,IF26,Monie Swp,SR 1006,Columbus,34.12361,-78.70500,CS,76,15-17-1-12,C;Sw,92-12,04/29/92,Erimyzon oblongus,Creek Chubsucker,Catostomidae,Intermediate,Omnivore,5,YES,32,Not Rated
+LBR,IF26,Monie Swp,SR 1006,Columbus,34.12361,-78.70500,CS,76,15-17-1-12,C;Sw,92-12,04/29/92,Enneacanthus gloriosus,Bluespotted Sunfish,Centrarchidae,Intermediate,Insectivore,14,YES,32,Not Rated
+LBR,IF26,Monie Swp,SR 1006,Columbus,34.12361,-78.70500,CS,76,15-17-1-12,C;Sw,92-12,04/29/92,Aphredoderus sayanus,Pirate Perch,Aphredoderidae,Intermediate,Insectivore,9,YES,32,Not Rated
+LBR,IF26,Monie Swp,SR 1006,Columbus,34.12361,-78.70500,CS,76,15-17-1-12,C;Sw,92-12,04/29/92,Acantharchus pomotis,Mud Sunfish,Centrarchidae,Intermediate,Insectivore,7,NO,32,Not Rated
+LBR,IF26,Monie Swp,SR 1006,Columbus,34.12361,-78.70500,CS,76,15-17-1-12,C;Sw,92-12,04/29/92,Lepomis macrochirus,Bluegill,Centrarchidae,Intermediate,Insectivore,5,YES,32,Not Rated
+LBR,IF26,Monie Swp,SR 1006,Columbus,34.12361,-78.70500,CS,76,15-17-1-12,C;Sw,92-12,04/29/92,Esox americanus,Redfin Pickerel,Esocidae,Intermediate,Piscivore,34,YES,32,Not Rated
+LBR,IF26,Monie Swp,SR 1006,Columbus,34.12361,-78.70500,CS,76,15-17-1-12,C;Sw,92-12,04/29/92,Lepomis gibbosus,Pumpkinseed,Centrarchidae,Intermediate,Insectivore,1,NO,32,Not Rated
+LBR,IF26,Monie Swp,SR 1006,Columbus,34.12361,-78.70500,CS,76,15-17-1-12,C;Sw,92-12,04/29/92,Amia calva,Bowfin,Amiidae,Tolerant,Piscivore,3,NO,32,Not Rated
+LBR,IF26,Monie Swp,SR 1006,Columbus,34.12361,-78.70500,CS,76,15-17-1-12,C;Sw,92-12,04/29/92,Micropterus salmoides,Largemouth Bass,Centrarchidae,Intermediate,Piscivore,2,NO,32,Not Rated
+LBR,IF26,Monie Swp,SR 1006,Columbus,34.12361,-78.70500,CS,76,15-17-1-12,C;Sw,92-12,04/29/92,Lepomis punctatus,Spotted Sunfish,Centrarchidae,Intermediate,Insectivore,2,NO,32,Not Rated
+LBR,IF26,Monie Swp,SR 1006,Columbus,34.12361,-78.70500,CS,76,15-17-1-12,C;Sw,92-12,04/29/92,Lepomis gulosus,Warmouth,Centrarchidae,Intermediate,Insectivore,2,NO,32,Not Rated
+LBR,IF26,Monie Swp,SR 1006,Columbus,34.12361,-78.70500,CS,76,15-17-1-12,C;Sw,92-12,04/29/92,Centrarchus macropterus,Flier,Centrarchidae,Intermediate,Insectivore,2,NO,32,Not Rated
+LBR,IF26,Monie Swp,SR 1006,Columbus,34.12361,-78.70500,CS,76,15-17-1-12,C;Sw,92-12,04/29/92,Ameiurus natalis,Yellow Bullhead,Ictaluridae,Tolerant,Omnivore,2,NO,32,Not Rated
+LBR,IF26,Monie Swp,SR 1006,Columbus,34.12361,-78.70500,CS,76,15-17-1-12,C;Sw,92-12,04/29/92,Notemigonus crysoleucas,Golden Shiner,Cyprinidae,Tolerant,Omnivore,3,NO,32,Not Rated
+LBR,IF14,Grissett Swp,SR 1141,Columbus,34.08472,-78.71444,CS,69,15-17-1-(5),C;Sw,92-13,04/29/92,Notropis cummingsae,Dusky Shiner,Cyprinidae,Intermediate,Insectivore,6,YES,48,Not Rated
+LBR,IF14,Grissett Swp,SR 1141,Columbus,34.08472,-78.71444,CS,69,15-17-1-(5),C;Sw,92-13,04/29/92,Lepomis punctatus,Spotted Sunfish,Centrarchidae,Intermediate,Insectivore,8,YES,48,Not Rated
+LBR,IF14,Grissett Swp,SR 1141,Columbus,34.08472,-78.71444,CS,69,15-17-1-(5),C;Sw,92-13,04/29/92,Erimyzon oblongus,Creek Chubsucker,Catostomidae,Intermediate,Omnivore,11,YES,48,Not Rated
+LBR,IF14,Grissett Swp,SR 1141,Columbus,34.08472,-78.71444,CS,69,15-17-1-(5),C;Sw,92-13,04/29/92,Notemigonus crysoleucas,Golden Shiner,Cyprinidae,Tolerant,Omnivore,35,YES,48,Not Rated
+LBR,IF14,Grissett Swp,SR 1141,Columbus,34.08472,-78.71444,CS,69,15-17-1-(5),C;Sw,92-13,04/29/92,Esox americanus,Redfin Pickerel,Esocidae,Intermediate,Piscivore,36,YES,48,Not Rated
+LBR,IF14,Grissett Swp,SR 1141,Columbus,34.08472,-78.71444,CS,69,15-17-1-(5),C;Sw,92-13,04/29/92,Aphredoderus sayanus,Pirate Perch,Aphredoderidae,Intermediate,Insectivore,5,NO,48,Not Rated
+LBR,IF14,Grissett Swp,SR 1141,Columbus,34.08472,-78.71444,CS,69,15-17-1-(5),C;Sw,92-13,04/29/92,Gambusia holbrooki,Eastern Mosquitofish,Poecilidae,Tolerant,Insectivore,130,YES,48,Not Rated
+LBR,IF14,Grissett Swp,SR 1141,Columbus,34.08472,-78.71444,CS,69,15-17-1-(5),C;Sw,92-13,04/29/92,Amia calva,Bowfin,Amiidae,Tolerant,Piscivore,3,NO,48,Not Rated
+LBR,IF14,Grissett Swp,SR 1141,Columbus,34.08472,-78.71444,CS,69,15-17-1-(5),C;Sw,92-13,04/29/92,Enneacanthus gloriosus,Bluespotted Sunfish,Centrarchidae,Intermediate,Insectivore,43,YES,48,Not Rated
+LBR,IF14,Grissett Swp,SR 1141,Columbus,34.08472,-78.71444,CS,69,15-17-1-(5),C;Sw,92-13,04/29/92,Anguilla rostrata,American Eel,Anguillidae,Intermediate,Piscivore,1,NO,48,Not Rated
+LBR,IF14,Grissett Swp,SR 1141,Columbus,34.08472,-78.71444,CS,69,15-17-1-(5),C;Sw,92-13,04/29/92,Acantharchus pomotis,Mud Sunfish,Centrarchidae,Intermediate,Insectivore,4,NO,48,Not Rated
+LBR,IF14,Grissett Swp,SR 1141,Columbus,34.08472,-78.71444,CS,69,15-17-1-(5),C;Sw,92-13,04/29/92,Lepomis gulosus,Warmouth,Centrarchidae,Intermediate,Insectivore,2,NO,48,Not Rated
+LBR,IF14,Grissett Swp,SR 1141,Columbus,34.08472,-78.71444,CS,69,15-17-1-(5),C;Sw,92-13,04/29/92,Micropterus salmoides,Largemouth Bass,Centrarchidae,Intermediate,Piscivore,1,NO,48,Not Rated
+LBR,IF14,Grissett Swp,SR 1141,Columbus,34.08472,-78.71444,CS,69,15-17-1-(5),C;Sw,92-13,04/29/92,Etheostoma serrifer,Sawcheek Darter,Percidae,Intolerant,Insectivore,1,NO,48,Not Rated
+LBR,IF14,Grissett Swp,SR 1141,Columbus,34.08472,-78.71444,CS,69,15-17-1-(5),C;Sw,92-13,04/29/92,Elassoma zonatum,Banded Pygmy Sunfish,Elassomatidae,Intermediate,Insectivore,1,NO,48,Not Rated
+LBR,IF14,Grissett Swp,SR 1141,Columbus,34.08472,-78.71444,CS,69,15-17-1-(5),C;Sw,92-13,04/29/92,Centrarchus macropterus,Flier,Centrarchidae,Intermediate,Insectivore,1,NO,48,Not Rated
+LBR,IF14,Grissett Swp,SR 1141,Columbus,34.08472,-78.71444,CS,69,15-17-1-(5),C;Sw,92-13,04/29/92,Ameiurus natalis,Yellow Bullhead,Ictaluridae,Tolerant,Omnivore,4,NO,48,Not Rated
+LBR,IF33,Toms Fork Cr,SR 1118,Columbus,34.12194,-78.77194,CS,16,15-17-1-10,C;Sw,92-14,04/29/92,Lepomis gibbosus,Pumpkinseed,Centrarchidae,Intermediate,Insectivore,4,YES,38,Not Rated
+LBR,IF33,Toms Fork Cr,SR 1118,Columbus,34.12194,-78.77194,CS,16,15-17-1-10,C;Sw,92-14,04/29/92,Gambusia holbrooki,Eastern Mosquitofish,Poecilidae,Tolerant,Insectivore,55,YES,38,Not Rated
+LBR,IF33,Toms Fork Cr,SR 1118,Columbus,34.12194,-78.77194,CS,16,15-17-1-10,C;Sw,92-14,04/29/92,Esox americanus,Redfin Pickerel,Esocidae,Intermediate,Piscivore,46,YES,38,Not Rated
+LBR,IF33,Toms Fork Cr,SR 1118,Columbus,34.12194,-78.77194,CS,16,15-17-1-10,C;Sw,92-14,04/29/92,Erimyzon oblongus,Creek Chubsucker,Catostomidae,Intermediate,Omnivore,29,YES,38,Not Rated
+LBR,IF33,Toms Fork Cr,SR 1118,Columbus,34.12194,-78.77194,CS,16,15-17-1-10,C;Sw,92-14,04/29/92,Notemigonus crysoleucas,Golden Shiner,Cyprinidae,Tolerant,Omnivore,21,YES,38,Not Rated
+LBR,IF33,Toms Fork Cr,SR 1118,Columbus,34.12194,-78.77194,CS,16,15-17-1-10,C;Sw,92-14,04/29/92,Ameiurus natalis,Yellow Bullhead,Ictaluridae,Tolerant,Omnivore,16,YES,38,Not Rated
+LBR,IF33,Toms Fork Cr,SR 1118,Columbus,34.12194,-78.77194,CS,16,15-17-1-10,C;Sw,92-14,04/29/92,Acantharchus pomotis,Mud Sunfish,Centrarchidae,Intermediate,Insectivore,11,NO,38,Not Rated
+LBR,IF33,Toms Fork Cr,SR 1118,Columbus,34.12194,-78.77194,CS,16,15-17-1-10,C;Sw,92-14,04/29/92,Notropis cummingsae,Dusky Shiner,Cyprinidae,Intermediate,Insectivore,6,NO,38,Not Rated
+LBR,IF33,Toms Fork Cr,SR 1118,Columbus,34.12194,-78.77194,CS,16,15-17-1-10,C;Sw,92-14,04/29/92,Enneacanthus gloriosus,Bluespotted Sunfish,Centrarchidae,Intermediate,Insectivore,10,YES,38,Not Rated
+LBR,IF33,Toms Fork Cr,SR 1118,Columbus,34.12194,-78.77194,CS,16,15-17-1-10,C;Sw,92-14,04/29/92,Lepomis gulosus,Warmouth,Centrarchidae,Intermediate,Insectivore,2,NO,38,Not Rated
+LBR,IF33,Toms Fork Cr,SR 1118,Columbus,34.12194,-78.77194,CS,16,15-17-1-10,C;Sw,92-14,04/29/92,Centrarchus macropterus,Flier,Centrarchidae,Intermediate,Insectivore,1,NO,38,Not Rated
+LBR,IF33,Toms Fork Cr,SR 1118,Columbus,34.12194,-78.77194,CS,16,15-17-1-10,C;Sw,92-14,04/29/92,Aphredoderus sayanus,Pirate Perch,Aphredoderidae,Intermediate,Insectivore,15,YES,38,Not Rated
+LBR,IF29,Porter Swp,SR 1503,Columbus,34.36028,-78.96250,CS,65,14-27,C;Sw,92-15,04/29/92,Notemigonus crysoleucas,Golden Shiner,Cyprinidae,Tolerant,Omnivore,2,NO,36,Not Rated
+LBR,IF29,Porter Swp,SR 1503,Columbus,34.36028,-78.96250,CS,65,14-27,C;Sw,92-15,04/29/92,Gambusia holbrooki,Eastern Mosquitofish,Poecilidae,Tolerant,Insectivore,118,YES,36,Not Rated
+LBR,IF29,Porter Swp,SR 1503,Columbus,34.36028,-78.96250,CS,65,14-27,C;Sw,92-15,04/29/92,Centrarchus macropterus,Flier,Centrarchidae,Intermediate,Insectivore,16,NO,36,Not Rated
+LBR,IF29,Porter Swp,SR 1503,Columbus,34.36028,-78.96250,CS,65,14-27,C;Sw,92-15,04/29/92,Esox americanus,Redfin Pickerel,Esocidae,Intermediate,Piscivore,14,YES,36,Not Rated
+LBR,IF29,Porter Swp,SR 1503,Columbus,34.36028,-78.96250,CS,65,14-27,C;Sw,92-15,04/29/92,Umbra pygmaea,Eastern Mudminnow,Umbridae,Intermediate,Insectivore,4,YES,36,Not Rated
+LBR,IF29,Porter Swp,SR 1503,Columbus,34.36028,-78.96250,CS,65,14-27,C;Sw,92-15,04/29/92,Lepomis gulosus,Warmouth,Centrarchidae,Intermediate,Insectivore,4,YES,36,Not Rated
+LBR,IF29,Porter Swp,SR 1503,Columbus,34.36028,-78.96250,CS,65,14-27,C;Sw,92-15,04/29/92,Aphredoderus sayanus,Pirate Perch,Aphredoderidae,Intermediate,Insectivore,3,NO,36,Not Rated
+LBR,IF29,Porter Swp,SR 1503,Columbus,34.36028,-78.96250,CS,65,14-27,C;Sw,92-15,04/29/92,Lepomis gibbosus,Pumpkinseed,Centrarchidae,Intermediate,Insectivore,2,NO,36,Not Rated
+LBR,IF29,Porter Swp,SR 1503,Columbus,34.36028,-78.96250,CS,65,14-27,C;Sw,92-15,04/29/92,Esox niger,Chain Pickerel,Esocidae,Intermediate,Piscivore,2,NO,36,Not Rated
+LBR,IF29,Porter Swp,SR 1503,Columbus,34.36028,-78.96250,CS,65,14-27,C;Sw,92-15,04/29/92,Acantharchus pomotis,Mud Sunfish,Centrarchidae,Intermediate,Insectivore,2,NO,36,Not Rated
+LBR,IF29,Porter Swp,SR 1503,Columbus,34.36028,-78.96250,CS,65,14-27,C;Sw,92-15,04/29/92,Erimyzon oblongus,Creek Chubsucker,Catostomidae,Intermediate,Omnivore,1,NO,36,Not Rated
+LBR,IF29,Porter Swp,SR 1503,Columbus,34.36028,-78.96250,CS,65,14-27,C;Sw,92-15,04/29/92,Amia calva,Bowfin,Amiidae,Tolerant,Piscivore,1,NO,36,Not Rated
+LBR,IF29,Porter Swp,SR 1503,Columbus,34.36028,-78.96250,CS,65,14-27,C;Sw,92-15,04/29/92,Enneacanthus gloriosus,Bluespotted Sunfish,Centrarchidae,Intermediate,Insectivore,3,YES,36,Not Rated
+LBR,IF7,Brown Marsh Swp,SR 1760,Bladen,34.47500,-78.63278,CS,52.4,15-4-1-1,C;Sw,92-35,08/11/92,Lepomis gulosus,Warmouth,Centrarchidae,Intermediate,Insectivore,2,NO,36,Not Rated
+LBR,IF7,Brown Marsh Swp,SR 1760,Bladen,34.47500,-78.63278,CS,52.4,15-4-1-1,C;Sw,92-35,08/11/92,Esox americanus,Redfin Pickerel,Esocidae,Intermediate,Piscivore,2,NO,36,Not Rated
+LBR,IF7,Brown Marsh Swp,SR 1760,Bladen,34.47500,-78.63278,CS,52.4,15-4-1-1,C;Sw,92-35,08/11/92,Gambusia holbrooki,Eastern Mosquitofish,Poecilidae,Tolerant,Insectivore,25,YES,36,Not Rated
+LBR,IF7,Brown Marsh Swp,SR 1760,Bladen,34.47500,-78.63278,CS,52.4,15-4-1-1,C;Sw,92-35,08/11/92,Enneacanthus gloriosus,Bluespotted Sunfish,Centrarchidae,Intermediate,Insectivore,14,YES,36,Not Rated
+LBR,IF7,Brown Marsh Swp,SR 1760,Bladen,34.47500,-78.63278,CS,52.4,15-4-1-1,C;Sw,92-35,08/11/92,Amia calva,Bowfin,Amiidae,Tolerant,Piscivore,5,NO,36,Not Rated
+LBR,IF7,Brown Marsh Swp,SR 1760,Bladen,34.47500,-78.63278,CS,52.4,15-4-1-1,C;Sw,92-35,08/11/92,Notemigonus crysoleucas,Golden Shiner,Cyprinidae,Tolerant,Omnivore,3,YES,36,Not Rated
+LBR,IF7,Brown Marsh Swp,SR 1760,Bladen,34.47500,-78.63278,CS,52.4,15-4-1-1,C;Sw,92-35,08/11/92,Ameiurus natalis,Yellow Bullhead,Ictaluridae,Tolerant,Omnivore,1,NO,36,Not Rated
+LBR,IF7,Brown Marsh Swp,SR 1760,Bladen,34.47500,-78.63278,CS,52.4,15-4-1-1,C;Sw,92-35,08/11/92,Erimyzon oblongus,Creek Chubsucker,Catostomidae,Intermediate,Omnivore,2,NO,36,Not Rated
+LBR,IF7,Brown Marsh Swp,SR 1760,Bladen,34.47500,-78.63278,CS,52.4,15-4-1-1,C;Sw,92-35,08/11/92,Lepomis macrochirus,Bluegill,Centrarchidae,Intermediate,Insectivore,1,NO,36,Not Rated
+LBR,IF7,Brown Marsh Swp,SR 1760,Bladen,34.47500,-78.63278,CS,52.4,15-4-1-1,C;Sw,92-35,08/11/92,Elassoma zonatum,Banded Pygmy Sunfish,Elassomatidae,Intermediate,Insectivore,1,NO,36,Not Rated
+LBR,IF7,Brown Marsh Swp,SR 1760,Bladen,34.47500,-78.63278,CS,52.4,15-4-1-1,C;Sw,92-35,08/11/92,Centrarchus macropterus,Flier,Centrarchidae,Intermediate,Insectivore,1,NO,36,Not Rated
+LBR,IF7,Brown Marsh Swp,SR 1760,Bladen,34.47500,-78.63278,CS,52.4,15-4-1-1,C;Sw,92-35,08/11/92,Aphredoderus sayanus,Pirate Perch,Aphredoderidae,Intermediate,Insectivore,3,NO,36,Not Rated
+LBR,IF3,Ashepole Swp,SR 2455,Robeson,34.44667,-79.16611,CS,76.7,14-30,C;Sw,92-39,10/22/92,Lepomis gibbosus,Pumpkinseed,Centrarchidae,Intermediate,Insectivore,1,NO,34,Not Rated
+LBR,IF3,Ashepole Swp,SR 2455,Robeson,34.44667,-79.16611,CS,76.7,14-30,C;Sw,92-39,10/22/92,Erimyzon oblongus,Creek Chubsucker,Catostomidae,Intermediate,Omnivore,7,NO,34,Not Rated
+LBR,IF3,Ashepole Swp,SR 2455,Robeson,34.44667,-79.16611,CS,76.7,14-30,C;Sw,92-39,10/22/92,Amia calva,Bowfin,Amiidae,Tolerant,Piscivore,7,YES,34,Not Rated
+LBR,IF3,Ashepole Swp,SR 2455,Robeson,34.44667,-79.16611,CS,76.7,14-30,C;Sw,92-39,10/22/92,Enneacanthus gloriosus,Bluespotted Sunfish,Centrarchidae,Intermediate,Insectivore,6,YES,34,Not Rated
+LBR,IF3,Ashepole Swp,SR 2455,Robeson,34.44667,-79.16611,CS,76.7,14-30,C;Sw,92-39,10/22/92,Lepomis punctatus,Spotted Sunfish,Centrarchidae,Intermediate,Insectivore,3,NO,34,Not Rated
+LBR,IF3,Ashepole Swp,SR 2455,Robeson,34.44667,-79.16611,CS,76.7,14-30,C;Sw,92-39,10/22/92,Notropis maculatus,Taillight Shiner,Cyprinidae,Intolerant,Insectivore,1,NO,34,Not Rated
+LBR,IF3,Ashepole Swp,SR 2455,Robeson,34.44667,-79.16611,CS,76.7,14-30,C;Sw,92-39,10/22/92,Notemigonus crysoleucas,Golden Shiner,Cyprinidae,Tolerant,Omnivore,1,NO,34,Not Rated
+LBR,IF3,Ashepole Swp,SR 2455,Robeson,34.44667,-79.16611,CS,76.7,14-30,C;Sw,92-39,10/22/92,Lepomis gulosus,Warmouth,Centrarchidae,Intermediate,Insectivore,1,NO,34,Not Rated
+LBR,IF3,Ashepole Swp,SR 2455,Robeson,34.44667,-79.16611,CS,76.7,14-30,C;Sw,92-39,10/22/92,Gambusia holbrooki,Eastern Mosquitofish,Poecilidae,Tolerant,Insectivore,13,YES,34,Not Rated
+LBR,IF3,Ashepole Swp,SR 2455,Robeson,34.44667,-79.16611,CS,76.7,14-30,C;Sw,92-39,10/22/92,Esox americanus,Redfin Pickerel,Esocidae,Intermediate,Piscivore,1,NO,34,Not Rated
+LBR,IF3,Ashepole Swp,SR 2455,Robeson,34.44667,-79.16611,CS,76.7,14-30,C;Sw,92-39,10/22/92,Chologaster cornuta,Swampfish,Amblyopsidae,Intermediate,Insectivore,1,NO,34,Not Rated
+LBR,IF3,Ashepole Swp,SR 2455,Robeson,34.44667,-79.16611,CS,76.7,14-30,C;Sw,92-39,10/22/92,Aphredoderus sayanus,Pirate Perch,Aphredoderidae,Intermediate,Insectivore,1,NO,34,Not Rated
+LBR,IF3,Ashepole Swp,SR 2455,Robeson,34.44667,-79.16611,CS,76.7,14-30,C;Sw,92-39,10/22/92,Anguilla rostrata,American Eel,Anguillidae,Intermediate,Piscivore,1,NO,34,Not Rated
+LBR,IF3,Ashepole Swp,SR 2455,Robeson,34.44667,-79.16611,CS,76.7,14-30,C;Sw,92-39,10/22/92,Ameiurus natalis,Yellow Bullhead,Ictaluridae,Tolerant,Omnivore,1,NO,34,Not Rated
+LBR,IF3,Ashepole Swp,SR 2455,Robeson,34.44667,-79.16611,CS,76.7,14-30,C;Sw,92-39,10/22/92,Lepomis macrochirus,Bluegill,Centrarchidae,Intermediate,Insectivore,1,NO,34,Not Rated
+LBR,IF28,Naked Cr,SR 1003,Richmond,35.08194,-79.58944,SH,38.6,14-2-6,WS-II;ORW,96-01,03/25/96,Etheostoma mariae,Pinewoods Darter,Percidae,Intolerant,Insectivore,3,NO,10,Good-Fair
+LBR,IF28,Naked Cr,SR 1003,Richmond,35.08194,-79.58944,SH,38.6,14-2-6,WS-II;ORW,96-01,03/25/96,Noturus insignis,Margined Madtom,Ictaluridae,Intermediate,Insectivore,16,YES,10,Good-Fair
+LBR,IF28,Naked Cr,SR 1003,Richmond,35.08194,-79.58944,SH,38.6,14-2-6,WS-II;ORW,96-01,03/25/96,Anguilla rostrata,American Eel,Anguillidae,Intermediate,Piscivore,4,YES,10,Good-Fair
+LBR,IF28,Naked Cr,SR 1003,Richmond,35.08194,-79.58944,SH,38.6,14-2-6,WS-II;ORW,96-01,03/25/96,Notropis cummingsae,Dusky Shiner,Cyprinidae,Intermediate,Insectivore,3,YES,10,Good-Fair
+LBR,IF28,Naked Cr,SR 1003,Richmond,35.08194,-79.58944,SH,38.6,14-2-6,WS-II;ORW,96-01,03/25/96,Erimyzon oblongus,Creek Chubsucker,Catostomidae,Intermediate,Omnivore,2,NO,10,Good-Fair
+LBR,IF28,Naked Cr,SR 1003,Richmond,35.08194,-79.58944,SH,38.6,14-2-6,WS-II;ORW,96-01,03/25/96,Lepomis auritus,Redbreast Sunfish,Centrarchidae,Tolerant,Insectivore,1,NO,10,Good-Fair
+LBR,IF28,Naked Cr,SR 1003,Richmond,35.08194,-79.58944,SH,38.6,14-2-6,WS-II;ORW,96-01,03/25/96,Etheostoma olmstedi,Tessellated Darter,Percidae,Intermediate,Insectivore,1,NO,10,Good-Fair
+LBR,IF28,Naked Cr,SR 1003,Richmond,35.08194,-79.58944,SH,38.6,14-2-6,WS-II;ORW,96-01,03/25/96,Aphredoderus sayanus,Pirate Perch,Aphredoderidae,Intermediate,Insectivore,3,NO,10,Good-Fair
+LBR,IF11,Drowning Cr,NC 73,Moore,35.18778,-79.64861,SH,31.9,14-2-(1),"WS-II;Sw,HQW",96-02,03/25/96,Anguilla rostrata,American Eel,Anguillidae,Intermediate,Piscivore,2,NO,9,Good-Fair
+LBR,IF11,Drowning Cr,NC 73,Moore,35.18778,-79.64861,SH,31.9,14-2-(1),"WS-II;Sw,HQW",96-02,03/25/96,Noturus insignis,Margined Madtom,Ictaluridae,Intermediate,Insectivore,14,YES,9,Good-Fair
+LBR,IF11,Drowning Cr,NC 73,Moore,35.18778,-79.64861,SH,31.9,14-2-(1),"WS-II;Sw,HQW",96-02,03/25/96,Notropis cummingsae,Dusky Shiner,Cyprinidae,Intermediate,Insectivore,11,YES,9,Good-Fair
+LBR,IF11,Drowning Cr,NC 73,Moore,35.18778,-79.64861,SH,31.9,14-2-(1),"WS-II;Sw,HQW",96-02,03/25/96,Etheostoma olmstedi,Tessellated Darter,Percidae,Intermediate,Insectivore,4,YES,9,Good-Fair
+LBR,IF11,Drowning Cr,NC 73,Moore,35.18778,-79.64861,SH,31.9,14-2-(1),"WS-II;Sw,HQW",96-02,03/25/96,Nocomis leptocephalus,Bluehead Chub,Cyprinidae,Intermediate,Omnivore,3,NO,9,Good-Fair
+LBR,IF11,Drowning Cr,NC 73,Moore,35.18778,-79.64861,SH,31.9,14-2-(1),"WS-II;Sw,HQW",96-02,03/25/96,Notropis chiliticus,Redlip Shiner,Cyprinidae,Intermediate,Insectivore,2,NO,9,Good-Fair
+LBR,IF11,Drowning Cr,NC 73,Moore,35.18778,-79.64861,SH,31.9,14-2-(1),"WS-II;Sw,HQW",96-02,03/25/96,Lepomis auritus,Redbreast Sunfish,Centrarchidae,Tolerant,Insectivore,2,NO,9,Good-Fair
+LBR,IF11,Drowning Cr,NC 73,Moore,35.18778,-79.64861,SH,31.9,14-2-(1),"WS-II;Sw,HQW",96-02,03/25/96,Ameiurus platycephalus,Flat Bullhead,Ictaluridae,Tolerant,Insectivore,2,NO,9,Good-Fair
+LBR,IF11,Drowning Cr,NC 73,Moore,35.18778,-79.64861,SH,31.9,14-2-(1),"WS-II;Sw,HQW",96-02,03/25/96,Minytrema melanops,Spotted Sucker,Catostomidae,Intermediate,Insectivore,1,NO,9,Good-Fair
+LBR,IF11,Drowning Cr,NC 73,Moore,35.18778,-79.64861,SH,31.9,14-2-(1),"WS-II;Sw,HQW",96-02,03/25/96,Aphredoderus sayanus,Pirate Perch,Aphredoderidae,Intermediate,Insectivore,1,NO,9,Good-Fair
+LBR,IF11,Drowning Cr,NC 73,Moore,35.18778,-79.64861,SH,31.9,14-2-(1),"WS-II;Sw,HQW",96-02,03/25/96,Ameiurus natalis,Yellow Bullhead,Ictaluridae,Tolerant,Omnivore,1,NO,9,Good-Fair
+LBR,IF11,Drowning Cr,NC 73,Moore,35.18778,-79.64861,SH,31.9,14-2-(1),"WS-II;Sw,HQW",96-02,03/25/96,Lepomis macrochirus,Bluegill,Centrarchidae,Intermediate,Insectivore,2,NO,9,Good-Fair
+LBR,IF24,Little Shoeheel Cr,SR 1405,Scotland,34.86806,-79.39889,SH,9.4,14-34-3,C;Sw,96-03,03/25/96,Micropterus salmoides,Largemouth Bass,Centrarchidae,Intermediate,Piscivore,1,NO,5,Poor
+LBR,IF24,Little Shoeheel Cr,SR 1405,Scotland,34.86806,-79.39889,SH,9.4,14-34-3,C;Sw,96-03,03/25/96,Erimyzon oblongus,Creek Chubsucker,Catostomidae,Intermediate,Omnivore,3,YES,5,Poor
+LBR,IF24,Little Shoeheel Cr,SR 1405,Scotland,34.86806,-79.39889,SH,9.4,14-34-3,C;Sw,96-03,03/25/96,Lepomis macrochirus,Bluegill,Centrarchidae,Intermediate,Insectivore,6,YES,5,Poor
+LBR,IF24,Little Shoeheel Cr,SR 1405,Scotland,34.86806,-79.39889,SH,9.4,14-34-3,C;Sw,96-03,03/25/96,Esox americanus,Redfin Pickerel,Esocidae,Intermediate,Piscivore,1,NO,5,Poor
+LBR,IF24,Little Shoeheel Cr,SR 1405,Scotland,34.86806,-79.39889,SH,9.4,14-34-3,C;Sw,96-03,03/25/96,Aphredoderus sayanus,Pirate Perch,Aphredoderidae,Intermediate,Insectivore,1,NO,5,Poor
+LBR,IF24,Little Shoeheel Cr,SR 1405,Scotland,34.86806,-79.39889,SH,9.4,14-34-3,C;Sw,96-03,03/25/96,Lepomis gulosus,Warmouth,Centrarchidae,Intermediate,Insectivore,1,NO,5,Poor
+LBR,IF16,Gum Swp,NC 71,Robeson,34.79250,-79.28333,CS,8.3,14-5,C,96-04,03/26/96,Esox americanus,Redfin Pickerel,Esocidae,Intermediate,Piscivore,18,YES,30,Not Rated
+LBR,IF16,Gum Swp,NC 71,Robeson,34.79250,-79.28333,CS,8.3,14-5,C,96-04,03/26/96,Lepomis marginatus,Dollar Sunfish,Centrarchidae,Intermediate,Insectivore,1,NO,30,Not Rated
+LBR,IF16,Gum Swp,NC 71,Robeson,34.79250,-79.28333,CS,8.3,14-5,C,96-04,03/26/96,Erimyzon oblongus,Creek Chubsucker,Catostomidae,Intermediate,Omnivore,60,YES,30,Not Rated
+LBR,IF16,Gum Swp,NC 71,Robeson,34.79250,-79.28333,CS,8.3,14-5,C,96-04,03/26/96,Centrarchus macropterus,Flier,Centrarchidae,Intermediate,Insectivore,15,YES,30,Not Rated
+LBR,IF16,Gum Swp,NC 71,Robeson,34.79250,-79.28333,CS,8.3,14-5,C,96-04,03/26/96,Acantharchus pomotis,Mud Sunfish,Centrarchidae,Intermediate,Insectivore,8,YES,30,Not Rated
+LBR,IF16,Gum Swp,NC 71,Robeson,34.79250,-79.28333,CS,8.3,14-5,C,96-04,03/26/96,Aphredoderus sayanus,Pirate Perch,Aphredoderidae,Intermediate,Insectivore,6,YES,30,Not Rated
+LBR,IF16,Gum Swp,NC 71,Robeson,34.79250,-79.28333,CS,8.3,14-5,C,96-04,03/26/96,Enneacanthus gloriosus,Bluespotted Sunfish,Centrarchidae,Intermediate,Insectivore,4,YES,30,Not Rated
+LBR,IF16,Gum Swp,NC 71,Robeson,34.79250,-79.28333,CS,8.3,14-5,C,96-04,03/26/96,Ameiurus natalis,Yellow Bullhead,Ictaluridae,Tolerant,Omnivore,3,YES,30,Not Rated
+LBR,IF16,Gum Swp,NC 71,Robeson,34.79250,-79.28333,CS,8.3,14-5,C,96-04,03/26/96,Anguilla rostrata,American Eel,Anguillidae,Intermediate,Piscivore,2,NO,30,Not Rated
+LBR,IF4,Back Swp,SR 1003,Robeson,34.62041,-79.19264,CC,15.4,14-8-(2.5),WS-IV;Sw,96-05,03/26/96,Esox americanus,Redfin Pickerel,Esocidae,Intermediate,Piscivore,5,YES,46,Not Rated
+LBR,IF4,Back Swp,SR 1003,Robeson,34.62041,-79.19264,CC,15.4,14-8-(2.5),WS-IV;Sw,96-05,03/26/96,Enneacanthus gloriosus,Bluespotted Sunfish,Centrarchidae,Intermediate,Insectivore,35,YES,46,Not Rated
+LBR,IF4,Back Swp,SR 1003,Robeson,34.62041,-79.19264,CC,15.4,14-8-(2.5),WS-IV;Sw,96-05,03/26/96,Aphredoderus sayanus,Pirate Perch,Aphredoderidae,Intermediate,Insectivore,33,YES,46,Not Rated
+LBR,IF4,Back Swp,SR 1003,Robeson,34.62041,-79.19264,CC,15.4,14-8-(2.5),WS-IV;Sw,96-05,03/26/96,Anguilla rostrata,American Eel,Anguillidae,Intermediate,Piscivore,26,YES,46,Not Rated
+LBR,IF4,Back Swp,SR 1003,Robeson,34.62041,-79.19264,CC,15.4,14-8-(2.5),WS-IV;Sw,96-05,03/26/96,Notropis petersoni,Coastal Shiner,Cyprinidae,Intermediate,Insectivore,23,YES,46,Not Rated
+LBR,IF4,Back Swp,SR 1003,Robeson,34.62041,-79.19264,CC,15.4,14-8-(2.5),WS-IV;Sw,96-05,03/26/96,Lepomis auritus,Redbreast Sunfish,Centrarchidae,Tolerant,Insectivore,17,YES,46,Not Rated
+LBR,IF4,Back Swp,SR 1003,Robeson,34.62041,-79.19264,CC,15.4,14-8-(2.5),WS-IV;Sw,96-05,03/26/96,Etheostoma olmstedi,Tessellated Darter,Percidae,Intermediate,Insectivore,14,YES,46,Not Rated
+LBR,IF4,Back Swp,SR 1003,Robeson,34.62041,-79.19264,CC,15.4,14-8-(2.5),WS-IV;Sw,96-05,03/26/96,Micropterus salmoides,Largemouth Bass,Centrarchidae,Intermediate,Piscivore,13,YES,46,Not Rated
+LBR,IF4,Back Swp,SR 1003,Robeson,34.62041,-79.19264,CC,15.4,14-8-(2.5),WS-IV;Sw,96-05,03/26/96,Erimyzon oblongus,Creek Chubsucker,Catostomidae,Intermediate,Omnivore,12,YES,46,Not Rated
+LBR,IF4,Back Swp,SR 1003,Robeson,34.62041,-79.19264,CC,15.4,14-8-(2.5),WS-IV;Sw,96-05,03/26/96,Lepomis punctatus,Spotted Sunfish,Centrarchidae,Intermediate,Insectivore,9,YES,46,Not Rated
+LBR,IF4,Back Swp,SR 1003,Robeson,34.62041,-79.19264,CC,15.4,14-8-(2.5),WS-IV;Sw,96-05,03/26/96,Notropis cummingsae,Dusky Shiner,Cyprinidae,Intermediate,Insectivore,52,YES,46,Not Rated
+LBR,IF4,Back Swp,SR 1003,Robeson,34.62041,-79.19264,CC,15.4,14-8-(2.5),WS-IV;Sw,96-05,03/26/96,Esox niger,Chain Pickerel,Esocidae,Intermediate,Piscivore,1,NO,46,Not Rated
+LBR,IF4,Back Swp,SR 1003,Robeson,34.62041,-79.19264,CC,15.4,14-8-(2.5),WS-IV;Sw,96-05,03/26/96,Noturus insignis,Margined Madtom,Ictaluridae,Intermediate,Insectivore,2,NO,46,Not Rated
+LBR,IF4,Back Swp,SR 1003,Robeson,34.62041,-79.19264,CC,15.4,14-8-(2.5),WS-IV;Sw,96-05,03/26/96,Elassoma zonatum,Banded Pygmy Sunfish,Elassomatidae,Intermediate,Insectivore,1,NO,46,Not Rated
+LBR,IF4,Back Swp,SR 1003,Robeson,34.62041,-79.19264,CC,15.4,14-8-(2.5),WS-IV;Sw,96-05,03/26/96,Etheostoma serrifer,Sawcheek Darter,Percidae,Intolerant,Insectivore,1,NO,46,Not Rated
+LBR,IF4,Back Swp,SR 1003,Robeson,34.62041,-79.19264,CC,15.4,14-8-(2.5),WS-IV;Sw,96-05,03/26/96,Lepomis gibbosus,Pumpkinseed,Centrarchidae,Intermediate,Insectivore,1,NO,46,Not Rated
+LBR,IF4,Back Swp,SR 1003,Robeson,34.62041,-79.19264,CC,15.4,14-8-(2.5),WS-IV;Sw,96-05,03/26/96,Lepomis marginatus,Dollar Sunfish,Centrarchidae,Intermediate,Insectivore,1,NO,46,Not Rated
+LBR,IF4,Back Swp,SR 1003,Robeson,34.62041,-79.19264,CC,15.4,14-8-(2.5),WS-IV;Sw,96-05,03/26/96,Noturus gyrinus,Tadpole Madtom,Ictaluridae,Intermediate,Insectivore,1,NO,46,Not Rated
+LBR,IF4,Back Swp,SR 1003,Robeson,34.62041,-79.19264,CC,15.4,14-8-(2.5),WS-IV;Sw,96-05,03/26/96,Perca flavescens,Yellow Perch,Percidae,Intermediate,Piscivore,1,NO,46,Not Rated
+LBR,IF4,Back Swp,SR 1003,Robeson,34.62041,-79.19264,CC,15.4,14-8-(2.5),WS-IV;Sw,96-05,03/26/96,Enneacanthus chaetodon,Blackbanded Sunfish,Centrarchidae,Intermediate,Insectivore,2,NO,46,Not Rated
+LBR,IF4,Back Swp,SR 1003,Robeson,34.62041,-79.19264,CC,15.4,14-8-(2.5),WS-IV;Sw,96-05,03/26/96,Lepomis gulosus,Warmouth,Centrarchidae,Intermediate,Insectivore,2,NO,46,Not Rated
+LBR,IF4,Back Swp,SR 1003,Robeson,34.62041,-79.19264,CC,15.4,14-8-(2.5),WS-IV;Sw,96-05,03/26/96,Acantharchus pomotis,Mud Sunfish,Centrarchidae,Intermediate,Insectivore,1,NO,46,Not Rated
+LBR,IF2,Ashepole Swp,NC 41,Robeson,34.41194,-79.12222,CS,93,14-30,C;Sw,96-06,03/26/96,Lepomis gulosus,Warmouth,Centrarchidae,Intermediate,Insectivore,1,NO,42,Not Rated
+LBR,IF2,Ashepole Swp,NC 41,Robeson,34.41194,-79.12222,CS,93,14-30,C;Sw,96-06,03/26/96,Lepomis punctatus,Spotted Sunfish,Centrarchidae,Intermediate,Insectivore,2,NO,42,Not Rated
+LBR,IF2,Ashepole Swp,NC 41,Robeson,34.41194,-79.12222,CS,93,14-30,C;Sw,96-06,03/26/96,Lepomis microlophus,Redear Sunfish,Centrarchidae,Intermediate,Insectivore,4,YES,42,Not Rated
+LBR,IF2,Ashepole Swp,NC 41,Robeson,34.41194,-79.12222,CS,93,14-30,C;Sw,96-06,03/26/96,Lepomis macrochirus,Bluegill,Centrarchidae,Intermediate,Insectivore,4,YES,42,Not Rated
+LBR,IF2,Ashepole Swp,NC 41,Robeson,34.41194,-79.12222,CS,93,14-30,C;Sw,96-06,03/26/96,Erimyzon oblongus,Creek Chubsucker,Catostomidae,Intermediate,Omnivore,4,NO,42,Not Rated
+LBR,IF2,Ashepole Swp,NC 41,Robeson,34.41194,-79.12222,CS,93,14-30,C;Sw,96-06,03/26/96,Chologaster cornuta,Swampfish,Amblyopsidae,Intermediate,Insectivore,4,YES,42,Not Rated
+LBR,IF2,Ashepole Swp,NC 41,Robeson,34.41194,-79.12222,CS,93,14-30,C;Sw,96-06,03/26/96,Notropis chalybaeus,Ironcolor Shiner,Cyprinidae,Intolerant,Insectivore,2,NO,42,Not Rated
+LBR,IF2,Ashepole Swp,NC 41,Robeson,34.41194,-79.12222,CS,93,14-30,C;Sw,96-06,03/26/96,Esox americanus,Redfin Pickerel,Esocidae,Intermediate,Piscivore,2,NO,42,Not Rated
+LBR,IF2,Ashepole Swp,NC 41,Robeson,34.41194,-79.12222,CS,93,14-30,C;Sw,96-06,03/26/96,Amia calva,Bowfin,Amiidae,Tolerant,Piscivore,2,NO,42,Not Rated
+LBR,IF2,Ashepole Swp,NC 41,Robeson,34.41194,-79.12222,CS,93,14-30,C;Sw,96-06,03/26/96,Micropterus salmoides,Largemouth Bass,Centrarchidae,Intermediate,Piscivore,1,NO,42,Not Rated
+LBR,IF2,Ashepole Swp,NC 41,Robeson,34.41194,-79.12222,CS,93,14-30,C;Sw,96-06,03/26/96,Aphredoderus sayanus,Pirate Perch,Aphredoderidae,Intermediate,Insectivore,6,YES,42,Not Rated
+LBR,IF2,Ashepole Swp,NC 41,Robeson,34.41194,-79.12222,CS,93,14-30,C;Sw,96-06,03/26/96,Enneacanthus gloriosus,Bluespotted Sunfish,Centrarchidae,Intermediate,Insectivore,1,NO,42,Not Rated
+LBR,IF2,Ashepole Swp,NC 41,Robeson,34.41194,-79.12222,CS,93,14-30,C;Sw,96-06,03/26/96,Ameiurus natalis,Yellow Bullhead,Ictaluridae,Tolerant,Omnivore,1,NO,42,Not Rated
+LBR,IF2,Ashepole Swp,NC 41,Robeson,34.41194,-79.12222,CS,93,14-30,C;Sw,96-06,03/26/96,Umbra pygmaea,Eastern Mudminnow,Umbridae,Intermediate,Insectivore,1,NO,42,Not Rated
+LBR,IF6,Brown Marsh Swp,SR 1700,Bladen,34.52222,-78.64333,CS,43,15-4-1-1,C;Sw,96-07,03/27/96,Notemigonus crysoleucas,Golden Shiner,Cyprinidae,Tolerant,Omnivore,3,NO,36,Not Rated
+LBR,IF6,Brown Marsh Swp,SR 1700,Bladen,34.52222,-78.64333,CS,43,15-4-1-1,C;Sw,96-07,03/27/96,Enneacanthus gloriosus,Bluespotted Sunfish,Centrarchidae,Intermediate,Insectivore,20,YES,36,Not Rated
+LBR,IF6,Brown Marsh Swp,SR 1700,Bladen,34.52222,-78.64333,CS,43,15-4-1-1,C;Sw,96-07,03/27/96,Centrarchus macropterus,Flier,Centrarchidae,Intermediate,Insectivore,8,YES,36,Not Rated
+LBR,IF6,Brown Marsh Swp,SR 1700,Bladen,34.52222,-78.64333,CS,43,15-4-1-1,C;Sw,96-07,03/27/96,Gambusia holbrooki,Eastern Mosquitofish,Poecilidae,Tolerant,Insectivore,4,YES,36,Not Rated
+LBR,IF6,Brown Marsh Swp,SR 1700,Bladen,34.52222,-78.64333,CS,43,15-4-1-1,C;Sw,96-07,03/27/96,Aphredoderus sayanus,Pirate Perch,Aphredoderidae,Intermediate,Insectivore,3,NO,36,Not Rated
+LBR,IF6,Brown Marsh Swp,SR 1700,Bladen,34.52222,-78.64333,CS,43,15-4-1-1,C;Sw,96-07,03/27/96,Lepomis gulosus,Warmouth,Centrarchidae,Intermediate,Insectivore,1,NO,36,Not Rated
+LBR,IF6,Brown Marsh Swp,SR 1700,Bladen,34.52222,-78.64333,CS,43,15-4-1-1,C;Sw,96-07,03/27/96,Elassoma zonatum,Banded Pygmy Sunfish,Elassomatidae,Intermediate,Insectivore,2,NO,36,Not Rated
+LBR,IF6,Brown Marsh Swp,SR 1700,Bladen,34.52222,-78.64333,CS,43,15-4-1-1,C;Sw,96-07,03/27/96,Erimyzon oblongus,Creek Chubsucker,Catostomidae,Intermediate,Omnivore,3,YES,36,Not Rated
+LBR,IF12,Friar Swp,SR 1740,Columbus,34.36778,-78.46056,CS,21.5,15-2-6-3,C;Sw:+,96-08,03/27/96,Aphredoderus sayanus,Pirate Perch,Aphredoderidae,Intermediate,Insectivore,4,YES,32,Not Rated
+LBR,IF12,Friar Swp,SR 1740,Columbus,34.36778,-78.46056,CS,21.5,15-2-6-3,C;Sw:+,96-08,03/27/96,Enneacanthus gloriosus,Bluespotted Sunfish,Centrarchidae,Intermediate,Insectivore,12,YES,32,Not Rated
+LBR,IF12,Friar Swp,SR 1740,Columbus,34.36778,-78.46056,CS,21.5,15-2-6-3,C;Sw:+,96-08,03/27/96,Esox americanus,Redfin Pickerel,Esocidae,Intermediate,Piscivore,11,YES,32,Not Rated
+LBR,IF12,Friar Swp,SR 1740,Columbus,34.36778,-78.46056,CS,21.5,15-2-6-3,C;Sw:+,96-08,03/27/96,Centrarchus macropterus,Flier,Centrarchidae,Intermediate,Insectivore,4,YES,32,Not Rated
+LBR,IF12,Friar Swp,SR 1740,Columbus,34.36778,-78.46056,CS,21.5,15-2-6-3,C;Sw:+,96-08,03/27/96,Lepomis gulosus,Warmouth,Centrarchidae,Intermediate,Insectivore,3,YES,32,Not Rated
+LBR,IF12,Friar Swp,SR 1740,Columbus,34.36778,-78.46056,CS,21.5,15-2-6-3,C;Sw:+,96-08,03/27/96,Ameiurus natalis,Yellow Bullhead,Ictaluridae,Tolerant,Omnivore,3,YES,32,Not Rated
+LBR,IF12,Friar Swp,SR 1740,Columbus,34.36778,-78.46056,CS,21.5,15-2-6-3,C;Sw:+,96-08,03/27/96,Perca flavescens,Yellow Perch,Percidae,Intermediate,Piscivore,1,NO,32,Not Rated
+LBR,IF12,Friar Swp,SR 1740,Columbus,34.36778,-78.46056,CS,21.5,15-2-6-3,C;Sw:+,96-08,03/27/96,Lepisosteus osseus,Longnose Gar,Lepisosteidae,Tolerant,Piscivore,1,NO,32,Not Rated
+LBR,IF12,Friar Swp,SR 1740,Columbus,34.36778,-78.46056,CS,21.5,15-2-6-3,C;Sw:+,96-08,03/27/96,Erimyzon oblongus,Creek Chubsucker,Catostomidae,Intermediate,Omnivore,1,NO,32,Not Rated
+LBR,IF12,Friar Swp,SR 1740,Columbus,34.36778,-78.46056,CS,21.5,15-2-6-3,C;Sw:+,96-08,03/27/96,Gambusia holbrooki,Eastern Mosquitofish,Poecilidae,Tolerant,Insectivore,4,YES,32,Not Rated
+LBR,IF29,Porter Swp,SR 1503,Columbus,34.36028,-78.96250,CS,65,14-27,C;Sw,96-09,03/27/96,Lepomis gulosus,Warmouth,Centrarchidae,Intermediate,Insectivore,5,YES,42,Not Rated
+LBR,IF29,Porter Swp,SR 1503,Columbus,34.36028,-78.96250,CS,65,14-27,C;Sw,96-09,03/27/96,Gambusia holbrooki,Eastern Mosquitofish,Poecilidae,Tolerant,Insectivore,28,YES,42,Not Rated
+LBR,IF29,Porter Swp,SR 1503,Columbus,34.36028,-78.96250,CS,65,14-27,C;Sw,96-09,03/27/96,Enneacanthus gloriosus,Bluespotted Sunfish,Centrarchidae,Intermediate,Insectivore,14,YES,42,Not Rated
+LBR,IF29,Porter Swp,SR 1503,Columbus,34.36028,-78.96250,CS,65,14-27,C;Sw,96-09,03/27/96,Esox americanus,Redfin Pickerel,Esocidae,Intermediate,Piscivore,10,YES,42,Not Rated
+LBR,IF29,Porter Swp,SR 1503,Columbus,34.36028,-78.96250,CS,65,14-27,C;Sw,96-09,03/27/96,Aphredoderus sayanus,Pirate Perch,Aphredoderidae,Intermediate,Insectivore,8,NO,42,Not Rated
+LBR,IF29,Porter Swp,SR 1503,Columbus,34.36028,-78.96250,CS,65,14-27,C;Sw,96-09,03/27/96,Erimyzon oblongus,Creek Chubsucker,Catostomidae,Intermediate,Omnivore,7,YES,42,Not Rated
+LBR,IF29,Porter Swp,SR 1503,Columbus,34.36028,-78.96250,CS,65,14-27,C;Sw,96-09,03/27/96,Centrarchus macropterus,Flier,Centrarchidae,Intermediate,Insectivore,6,YES,42,Not Rated
+LBR,IF29,Porter Swp,SR 1503,Columbus,34.36028,-78.96250,CS,65,14-27,C;Sw,96-09,03/27/96,Lepomis gibbosus,Pumpkinseed,Centrarchidae,Intermediate,Insectivore,3,YES,42,Not Rated
+LBR,IF29,Porter Swp,SR 1503,Columbus,34.36028,-78.96250,CS,65,14-27,C;Sw,96-09,03/27/96,Lepomis punctatus,Spotted Sunfish,Centrarchidae,Intermediate,Insectivore,2,NO,42,Not Rated
+LBR,IF29,Porter Swp,SR 1503,Columbus,34.36028,-78.96250,CS,65,14-27,C;Sw,96-09,03/27/96,Amia calva,Bowfin,Amiidae,Tolerant,Piscivore,2,NO,42,Not Rated
+LBR,IF29,Porter Swp,SR 1503,Columbus,34.36028,-78.96250,CS,65,14-27,C;Sw,96-09,03/27/96,Acantharchus pomotis,Mud Sunfish,Centrarchidae,Intermediate,Insectivore,2,NO,42,Not Rated
+LBR,IF29,Porter Swp,SR 1503,Columbus,34.36028,-78.96250,CS,65,14-27,C;Sw,96-09,03/27/96,Umbra pygmaea,Eastern Mudminnow,Umbridae,Intermediate,Insectivore,1,NO,42,Not Rated
+LBR,IF29,Porter Swp,SR 1503,Columbus,34.36028,-78.96250,CS,65,14-27,C;Sw,96-09,03/27/96,Ameiurus natalis,Yellow Bullhead,Ictaluridae,Tolerant,Omnivore,1,NO,42,Not Rated
+LBR,IF29,Porter Swp,SR 1503,Columbus,34.36028,-78.96250,CS,65,14-27,C;Sw,96-09,03/27/96,Notemigonus crysoleucas,Golden Shiner,Cyprinidae,Tolerant,Omnivore,4,NO,42,Not Rated
+LBR,IF9,Cool Run,US 17,Brunswick,33.95222,-78.46500,CC,3.2,15-25-2-3,C;Sw,96-10,04/02/96,Gambusia holbrooki,Eastern Mosquitofish,Poecilidae,Tolerant,Insectivore,2,NO,34,Not Rated
+LBR,IF9,Cool Run,US 17,Brunswick,33.95222,-78.46500,CC,3.2,15-25-2-3,C;Sw,96-10,04/02/96,Lepomis macrochirus,Bluegill,Centrarchidae,Intermediate,Insectivore,15,YES,34,Not Rated
+LBR,IF9,Cool Run,US 17,Brunswick,33.95222,-78.46500,CC,3.2,15-25-2-3,C;Sw,96-10,04/02/96,Esox americanus,Redfin Pickerel,Esocidae,Intermediate,Piscivore,12,YES,34,Not Rated
+LBR,IF9,Cool Run,US 17,Brunswick,33.95222,-78.46500,CC,3.2,15-25-2-3,C;Sw,96-10,04/02/96,Enneacanthus gloriosus,Bluespotted Sunfish,Centrarchidae,Intermediate,Insectivore,8,YES,34,Not Rated
+LBR,IF9,Cool Run,US 17,Brunswick,33.95222,-78.46500,CC,3.2,15-25-2-3,C;Sw,96-10,04/02/96,Lepomis gulosus,Warmouth,Centrarchidae,Intermediate,Insectivore,6,YES,34,Not Rated
+LBR,IF9,Cool Run,US 17,Brunswick,33.95222,-78.46500,CC,3.2,15-25-2-3,C;Sw,96-10,04/02/96,Anguilla rostrata,American Eel,Anguillidae,Intermediate,Piscivore,6,YES,34,Not Rated
+LBR,IF9,Cool Run,US 17,Brunswick,33.95222,-78.46500,CC,3.2,15-25-2-3,C;Sw,96-10,04/02/96,Notemigonus crysoleucas,Golden Shiner,Cyprinidae,Tolerant,Omnivore,2,NO,34,Not Rated
+LBR,IF9,Cool Run,US 17,Brunswick,33.95222,-78.46500,CC,3.2,15-25-2-3,C;Sw,96-10,04/02/96,Centrarchus macropterus,Flier,Centrarchidae,Intermediate,Insectivore,2,NO,34,Not Rated
+LBR,IF9,Cool Run,US 17,Brunswick,33.95222,-78.46500,CC,3.2,15-25-2-3,C;Sw,96-10,04/02/96,Lepomis gibbosus,Pumpkinseed,Centrarchidae,Intermediate,Insectivore,1,NO,34,Not Rated
+LBR,IF9,Cool Run,US 17,Brunswick,33.95222,-78.46500,CC,3.2,15-25-2-3,C;Sw,96-10,04/02/96,Erimyzon oblongus,Creek Chubsucker,Catostomidae,Intermediate,Omnivore,1,NO,34,Not Rated
+LBR,IF9,Cool Run,US 17,Brunswick,33.95222,-78.46500,CC,3.2,15-25-2-3,C;Sw,96-10,04/02/96,Aphredoderus sayanus,Pirate Perch,Aphredoderidae,Intermediate,Insectivore,1,NO,34,Not Rated
+LBR,IF9,Cool Run,US 17,Brunswick,33.95222,-78.46500,CC,3.2,15-25-2-3,C;Sw,96-10,04/02/96,Ameiurus natalis,Yellow Bullhead,Ictaluridae,Tolerant,Omnivore,1,NO,34,Not Rated
+LBR,IF9,Cool Run,US 17,Brunswick,33.95222,-78.46500,CC,3.2,15-25-2-3,C;Sw,96-10,04/02/96,Acantharchus pomotis,Mud Sunfish,Centrarchidae,Intermediate,Insectivore,5,NO,34,Not Rated
+LBR,IF25,Lockwoods Folly R,US 17,Brunswick,34.04676,-78.17855,CN,12.3,15-25-1-(1),C;Sw,96-11,04/02/96,Notropis chalybaeus,Ironcolor Shiner,Cyprinidae,Intolerant,Insectivore,1,NO,34,Not Rated
+LBR,IF25,Lockwoods Folly R,US 17,Brunswick,34.04676,-78.17855,CN,12.3,15-25-1-(1),C;Sw,96-11,04/02/96,Lepomis punctatus,Spotted Sunfish,Centrarchidae,Intermediate,Insectivore,2,NO,34,Not Rated
+LBR,IF25,Lockwoods Folly R,US 17,Brunswick,34.04676,-78.17855,CN,12.3,15-25-1-(1),C;Sw,96-11,04/02/96,Gambusia holbrooki,Eastern Mosquitofish,Poecilidae,Tolerant,Insectivore,18,YES,34,Not Rated
+LBR,IF25,Lockwoods Folly R,US 17,Brunswick,34.04676,-78.17855,CN,12.3,15-25-1-(1),C;Sw,96-11,04/02/96,Lepomis gulosus,Warmouth,Centrarchidae,Intermediate,Insectivore,2,NO,34,Not Rated
+LBR,IF25,Lockwoods Folly R,US 17,Brunswick,34.04676,-78.17855,CN,12.3,15-25-1-(1),C;Sw,96-11,04/02/96,Esox americanus,Redfin Pickerel,Esocidae,Intermediate,Piscivore,2,NO,34,Not Rated
+LBR,IF25,Lockwoods Folly R,US 17,Brunswick,34.04676,-78.17855,CN,12.3,15-25-1-(1),C;Sw,96-11,04/02/96,Anguilla rostrata,American Eel,Anguillidae,Intermediate,Piscivore,2,NO,34,Not Rated
+LBR,IF25,Lockwoods Folly R,US 17,Brunswick,34.04676,-78.17855,CN,12.3,15-25-1-(1),C;Sw,96-11,04/02/96,Lepomis gibbosus,Pumpkinseed,Centrarchidae,Intermediate,Insectivore,1,NO,34,Not Rated
+LBR,IF25,Lockwoods Folly R,US 17,Brunswick,34.04676,-78.17855,CN,12.3,15-25-1-(1),C;Sw,96-11,04/02/96,Erimyzon oblongus,Creek Chubsucker,Catostomidae,Intermediate,Omnivore,1,NO,34,Not Rated
+LBR,IF25,Lockwoods Folly R,US 17,Brunswick,34.04676,-78.17855,CN,12.3,15-25-1-(1),C;Sw,96-11,04/02/96,Enneacanthus gloriosus,Bluespotted Sunfish,Centrarchidae,Intermediate,Insectivore,1,NO,34,Not Rated
+LBR,IF25,Lockwoods Folly R,US 17,Brunswick,34.04676,-78.17855,CN,12.3,15-25-1-(1),C;Sw,96-11,04/02/96,Centrarchus macropterus,Flier,Centrarchidae,Intermediate,Insectivore,1,NO,34,Not Rated
+LBR,IF25,Lockwoods Folly R,US 17,Brunswick,34.04676,-78.17855,CN,12.3,15-25-1-(1),C;Sw,96-11,04/02/96,Ameiurus natalis,Yellow Bullhead,Ictaluridae,Tolerant,Omnivore,1,NO,34,Not Rated
+LBR,IF25,Lockwoods Folly R,US 17,Brunswick,34.04676,-78.17855,CN,12.3,15-25-1-(1),C;Sw,96-11,04/02/96,Lepomis macrochirus,Bluegill,Centrarchidae,Intermediate,Insectivore,1,NO,34,Not Rated
+LBR,IF28,Naked Cr,SR 1003,Richmond,35.08194,-79.58944,SH,38.6,14-2-6,WS-II;ORW,96-65,05/31/96,Etheostoma olmstedi,Tessellated Darter,Percidae,Intermediate,Insectivore,7,YES,13,Excellent
+LBR,IF28,Naked Cr,SR 1003,Richmond,35.08194,-79.58944,SH,38.6,14-2-6,WS-II;ORW,96-65,05/31/96,Notropis cummingsae,Dusky Shiner,Cyprinidae,Intermediate,Insectivore,30,YES,13,Excellent
+LBR,IF28,Naked Cr,SR 1003,Richmond,35.08194,-79.58944,SH,38.6,14-2-6,WS-II;ORW,96-65,05/31/96,Noturus insignis,Margined Madtom,Ictaluridae,Intermediate,Insectivore,22,YES,13,Excellent
+LBR,IF28,Naked Cr,SR 1003,Richmond,35.08194,-79.58944,SH,38.6,14-2-6,WS-II;ORW,96-65,05/31/96,Erimyzon oblongus,Creek Chubsucker,Catostomidae,Intermediate,Omnivore,1,NO,13,Excellent
+LBR,IF28,Naked Cr,SR 1003,Richmond,35.08194,-79.58944,SH,38.6,14-2-6,WS-II;ORW,96-65,05/31/96,Anguilla rostrata,American Eel,Anguillidae,Intermediate,Piscivore,8,YES,13,Excellent
+LBR,IF28,Naked Cr,SR 1003,Richmond,35.08194,-79.58944,SH,38.6,14-2-6,WS-II;ORW,96-65,05/31/96,Esox americanus,Redfin Pickerel,Esocidae,Intermediate,Piscivore,4,YES,13,Excellent
+LBR,IF28,Naked Cr,SR 1003,Richmond,35.08194,-79.58944,SH,38.6,14-2-6,WS-II;ORW,96-65,05/31/96,Aphredoderus sayanus,Pirate Perch,Aphredoderidae,Intermediate,Insectivore,4,YES,13,Excellent
+LBR,IF28,Naked Cr,SR 1003,Richmond,35.08194,-79.58944,SH,38.6,14-2-6,WS-II;ORW,96-65,05/31/96,Ameiurus platycephalus,Flat Bullhead,Ictaluridae,Tolerant,Insectivore,4,YES,13,Excellent
+LBR,IF28,Naked Cr,SR 1003,Richmond,35.08194,-79.58944,SH,38.6,14-2-6,WS-II;ORW,96-65,05/31/96,Lepomis marginatus,Dollar Sunfish,Centrarchidae,Intermediate,Insectivore,2,NO,13,Excellent
+LBR,IF28,Naked Cr,SR 1003,Richmond,35.08194,-79.58944,SH,38.6,14-2-6,WS-II;ORW,96-65,05/31/96,Etheostoma mariae,Pinewoods Darter,Percidae,Intolerant,Insectivore,2,NO,13,Excellent
+LBR,IF28,Naked Cr,SR 1003,Richmond,35.08194,-79.58944,SH,38.6,14-2-6,WS-II;ORW,96-65,05/31/96,Umbra pygmaea,Eastern Mudminnow,Umbridae,Intermediate,Insectivore,1,NO,13,Excellent
+LBR,IF28,Naked Cr,SR 1003,Richmond,35.08194,-79.58944,SH,38.6,14-2-6,WS-II;ORW,96-65,05/31/96,Noturus gyrinus,Tadpole Madtom,Ictaluridae,Intermediate,Insectivore,1,NO,13,Excellent
+LBR,IF28,Naked Cr,SR 1003,Richmond,35.08194,-79.58944,SH,38.6,14-2-6,WS-II;ORW,96-65,05/31/96,Minytrema melanops,Spotted Sucker,Catostomidae,Intermediate,Insectivore,1,NO,13,Excellent
+LBR,IF28,Naked Cr,SR 1003,Richmond,35.08194,-79.58944,SH,38.6,14-2-6,WS-II;ORW,96-65,05/31/96,Lepomis gibbosus,Pumpkinseed,Centrarchidae,Intermediate,Insectivore,1,NO,13,Excellent
+LBR,IF28,Naked Cr,SR 1003,Richmond,35.08194,-79.58944,SH,38.6,14-2-6,WS-II;ORW,96-65,05/31/96,Percina crassa,Piedmont Darter,Percidae,Intolerant,Insectivore,2,NO,13,Excellent
+LBR,IF28,Naked Cr,SR 1003,Richmond,35.08194,-79.58944,SH,38.6,14-2-6,WS-II;ORW,96-65,05/31/96,Lepomis auritus,Redbreast Sunfish,Centrarchidae,Tolerant,Insectivore,8,YES,13,Excellent
+LBR,IF11,Drowning Cr,NC 73,Moore,35.18778,-79.64861,SH,31.9,14-2-(1),"WS-II;Sw,HQW",96-66,05/31/96,Lepomis macrochirus,Bluegill,Centrarchidae,Intermediate,Insectivore,1,NO,12,Good
+LBR,IF11,Drowning Cr,NC 73,Moore,35.18778,-79.64861,SH,31.9,14-2-(1),"WS-II;Sw,HQW",96-66,05/31/96,Lepomis auritus,Redbreast Sunfish,Centrarchidae,Tolerant,Insectivore,15,YES,12,Good
+LBR,IF11,Drowning Cr,NC 73,Moore,35.18778,-79.64861,SH,31.9,14-2-(1),"WS-II;Sw,HQW",96-66,05/31/96,Etheostoma olmstedi,Tessellated Darter,Percidae,Intermediate,Insectivore,11,YES,12,Good
+LBR,IF11,Drowning Cr,NC 73,Moore,35.18778,-79.64861,SH,31.9,14-2-(1),"WS-II;Sw,HQW",96-66,05/31/96,Noturus insignis,Margined Madtom,Ictaluridae,Intermediate,Insectivore,9,YES,12,Good
+LBR,IF11,Drowning Cr,NC 73,Moore,35.18778,-79.64861,SH,31.9,14-2-(1),"WS-II;Sw,HQW",96-66,05/31/96,Anguilla rostrata,American Eel,Anguillidae,Intermediate,Piscivore,8,YES,12,Good
+LBR,IF11,Drowning Cr,NC 73,Moore,35.18778,-79.64861,SH,31.9,14-2-(1),"WS-II;Sw,HQW",96-66,05/31/96,Ameiurus platycephalus,Flat Bullhead,Ictaluridae,Tolerant,Insectivore,6,YES,12,Good
+LBR,IF11,Drowning Cr,NC 73,Moore,35.18778,-79.64861,SH,31.9,14-2-(1),"WS-II;Sw,HQW",96-66,05/31/96,Etheostoma mariae,Pinewoods Darter,Percidae,Intolerant,Insectivore,4,YES,12,Good
+LBR,IF11,Drowning Cr,NC 73,Moore,35.18778,-79.64861,SH,31.9,14-2-(1),"WS-II;Sw,HQW",96-66,05/31/96,Esox americanus,Redfin Pickerel,Esocidae,Intermediate,Piscivore,4,NO,12,Good
+LBR,IF11,Drowning Cr,NC 73,Moore,35.18778,-79.64861,SH,31.9,14-2-(1),"WS-II;Sw,HQW",96-66,05/31/96,Aphredoderus sayanus,Pirate Perch,Aphredoderidae,Intermediate,Insectivore,4,NO,12,Good
+LBR,IF11,Drowning Cr,NC 73,Moore,35.18778,-79.64861,SH,31.9,14-2-(1),"WS-II;Sw,HQW",96-66,05/31/96,Lepomis marginatus,Dollar Sunfish,Centrarchidae,Intermediate,Insectivore,2,NO,12,Good
+LBR,IF11,Drowning Cr,NC 73,Moore,35.18778,-79.64861,SH,31.9,14-2-(1),"WS-II;Sw,HQW",96-66,05/31/96,Nocomis leptocephalus,Bluehead Chub,Cyprinidae,Intermediate,Omnivore,1,NO,12,Good
+LBR,IF11,Drowning Cr,NC 73,Moore,35.18778,-79.64861,SH,31.9,14-2-(1),"WS-II;Sw,HQW",96-66,05/31/96,Esox niger,Chain Pickerel,Esocidae,Intermediate,Piscivore,1,NO,12,Good
+LBR,IF11,Drowning Cr,NC 73,Moore,35.18778,-79.64861,SH,31.9,14-2-(1),"WS-II;Sw,HQW",96-66,05/31/96,Ameiurus natalis,Yellow Bullhead,Ictaluridae,Tolerant,Omnivore,1,NO,12,Good
+LBR,IF11,Drowning Cr,NC 73,Moore,35.18778,-79.64861,SH,31.9,14-2-(1),"WS-II;Sw,HQW",96-66,05/31/96,Notropis cummingsae,Dusky Shiner,Cyprinidae,Intermediate,Insectivore,19,YES,12,Good
+LBR,IF11,Drowning Cr,NC 73,Moore,35.18778,-79.64861,SH,31.9,14-2-(1),"WS-II;Sw,HQW",96-66,05/31/96,Percina crassa,Piedmont Darter,Percidae,Intolerant,Insectivore,1,NO,12,Good
+LBR,IF32,Royal Oak Swp,NC 211,Brunswick,34.03361,-78.28009,CN,22,15-25-1-12,C;Sw,2001-44,05/21/01,Lepomis marginatus,Dollar Sunfish,Centrarchidae,Intermediate,Insectivore,5,YES,46,Not Rated
+LBR,IF32,Royal Oak Swp,NC 211,Brunswick,34.03361,-78.28009,CN,22,15-25-1-12,C;Sw,2001-44,05/21/01,Gambusia holbrooki,Eastern Mosquitofish,Poecilidae,Tolerant,Insectivore,9,YES,46,Not Rated
+LBR,IF32,Royal Oak Swp,NC 211,Brunswick,34.03361,-78.28009,CN,22,15-25-1-12,C;Sw,2001-44,05/21/01,Etheostoma olmstedi,Tessellated Darter,Percidae,Intermediate,Insectivore,6,YES,46,Not Rated
+LBR,IF32,Royal Oak Swp,NC 211,Brunswick,34.03361,-78.28009,CN,22,15-25-1-12,C;Sw,2001-44,05/21/01,Notropis petersoni,Coastal Shiner,Cyprinidae,Intermediate,Insectivore,5,YES,46,Not Rated
+LBR,IF32,Royal Oak Swp,NC 211,Brunswick,34.03361,-78.28009,CN,22,15-25-1-12,C;Sw,2001-44,05/21/01,Lepomis gibbosus,Pumpkinseed,Centrarchidae,Intermediate,Insectivore,5,NO,46,Not Rated
+LBR,IF32,Royal Oak Swp,NC 211,Brunswick,34.03361,-78.28009,CN,22,15-25-1-12,C;Sw,2001-44,05/21/01,Erimyzon oblongus,Creek Chubsucker,Catostomidae,Intermediate,Omnivore,5,NO,46,Not Rated
+LBR,IF32,Royal Oak Swp,NC 211,Brunswick,34.03361,-78.28009,CN,22,15-25-1-12,C;Sw,2001-44,05/21/01,Esox americanus,Redfin Pickerel,Esocidae,Intermediate,Piscivore,4,YES,46,Not Rated
+LBR,IF32,Royal Oak Swp,NC 211,Brunswick,34.03361,-78.28009,CN,22,15-25-1-12,C;Sw,2001-44,05/21/01,Ameiurus natalis,Yellow Bullhead,Ictaluridae,Tolerant,Omnivore,2,NO,46,Not Rated
+LBR,IF32,Royal Oak Swp,NC 211,Brunswick,34.03361,-78.28009,CN,22,15-25-1-12,C;Sw,2001-44,05/21/01,Lepomis macrochirus,Bluegill,Centrarchidae,Intermediate,Insectivore,12,YES,46,Not Rated
+LBR,IF32,Royal Oak Swp,NC 211,Brunswick,34.03361,-78.28009,CN,22,15-25-1-12,C;Sw,2001-44,05/21/01,Lepomis punctatus,Spotted Sunfish,Centrarchidae,Intermediate,Insectivore,26,YES,46,Not Rated
+LBR,IF32,Royal Oak Swp,NC 211,Brunswick,34.03361,-78.28009,CN,22,15-25-1-12,C;Sw,2001-44,05/21/01,Enneacanthus gloriosus,Bluespotted Sunfish,Centrarchidae,Intermediate,Insectivore,49,YES,46,Not Rated
+LBR,IF32,Royal Oak Swp,NC 211,Brunswick,34.03361,-78.28009,CN,22,15-25-1-12,C;Sw,2001-44,05/21/01,Anguilla rostrata,American Eel,Anguillidae,Intermediate,Piscivore,50,YES,46,Not Rated
+LBR,IF32,Royal Oak Swp,NC 211,Brunswick,34.03361,-78.28009,CN,22,15-25-1-12,C;Sw,2001-44,05/21/01,Notropis cummingsae,Dusky Shiner,Cyprinidae,Intermediate,Insectivore,56,YES,46,Not Rated
+LBR,IF32,Royal Oak Swp,NC 211,Brunswick,34.03361,-78.28009,CN,22,15-25-1-12,C;Sw,2001-44,05/21/01,Notropis chalybaeus,Ironcolor Shiner,Cyprinidae,Intolerant,Insectivore,63,YES,46,Not Rated
+LBR,IF32,Royal Oak Swp,NC 211,Brunswick,34.03361,-78.28009,CN,22,15-25-1-12,C;Sw,2001-44,05/21/01,Lepomis auritus,Redbreast Sunfish,Centrarchidae,Tolerant,Insectivore,19,YES,46,Not Rated
+LBR,IF32,Royal Oak Swp,NC 211,Brunswick,34.03361,-78.28009,CN,22,15-25-1-12,C;Sw,2001-44,05/21/01,Aphredoderus sayanus,Pirate Perch,Aphredoderidae,Intermediate,Insectivore,10,YES,46,Not Rated
+LBR,IF13,Gapway Swp,SR 1356,Columbus,34.26972,-79.00500,CC,35.8,14-31,C;Sw,2001-45,05/22/01,Erimyzon oblongus,Creek Chubsucker,Catostomidae,Intermediate,Omnivore,2,NO,46,Not Rated
+LBR,IF13,Gapway Swp,SR 1356,Columbus,34.26972,-79.00500,CC,35.8,14-31,C;Sw,2001-45,05/22/01,Enneacanthus gloriosus,Bluespotted Sunfish,Centrarchidae,Intermediate,Insectivore,6,YES,46,Not Rated
+LBR,IF13,Gapway Swp,SR 1356,Columbus,34.26972,-79.00500,CC,35.8,14-31,C;Sw,2001-45,05/22/01,Labidesthes sicculus,Brook Silverside,Atherinidae,Intermediate,Insectivore,6,NO,46,Not Rated
+LBR,IF13,Gapway Swp,SR 1356,Columbus,34.26972,-79.00500,CC,35.8,14-31,C;Sw,2001-45,05/22/01,Lepomis punctatus,Spotted Sunfish,Centrarchidae,Intermediate,Insectivore,7,YES,46,Not Rated
+LBR,IF13,Gapway Swp,SR 1356,Columbus,34.26972,-79.00500,CC,35.8,14-31,C;Sw,2001-45,05/22/01,Esox americanus,Redfin Pickerel,Esocidae,Intermediate,Piscivore,10,YES,46,Not Rated
+LBR,IF13,Gapway Swp,SR 1356,Columbus,34.26972,-79.00500,CC,35.8,14-31,C;Sw,2001-45,05/22/01,Lepomis gulosus,Warmouth,Centrarchidae,Intermediate,Insectivore,10,YES,46,Not Rated
+LBR,IF13,Gapway Swp,SR 1356,Columbus,34.26972,-79.00500,CC,35.8,14-31,C;Sw,2001-45,05/22/01,Anguilla rostrata,American Eel,Anguillidae,Intermediate,Piscivore,11,YES,46,Not Rated
+LBR,IF13,Gapway Swp,SR 1356,Columbus,34.26972,-79.00500,CC,35.8,14-31,C;Sw,2001-45,05/22/01,Lepomis marginatus,Dollar Sunfish,Centrarchidae,Intermediate,Insectivore,11,YES,46,Not Rated
+LBR,IF13,Gapway Swp,SR 1356,Columbus,34.26972,-79.00500,CC,35.8,14-31,C;Sw,2001-45,05/22/01,Notropis petersoni,Coastal Shiner,Cyprinidae,Intermediate,Insectivore,16,YES,46,Not Rated
+LBR,IF13,Gapway Swp,SR 1356,Columbus,34.26972,-79.00500,CC,35.8,14-31,C;Sw,2001-45,05/22/01,Lepomis auritus,Redbreast Sunfish,Centrarchidae,Tolerant,Insectivore,30,YES,46,Not Rated
+LBR,IF13,Gapway Swp,SR 1356,Columbus,34.26972,-79.00500,CC,35.8,14-31,C;Sw,2001-45,05/22/01,Gambusia holbrooki,Eastern Mosquitofish,Poecilidae,Tolerant,Insectivore,34,YES,46,Not Rated
+LBR,IF13,Gapway Swp,SR 1356,Columbus,34.26972,-79.00500,CC,35.8,14-31,C;Sw,2001-45,05/22/01,Etheostoma serrifer,Sawcheek Darter,Percidae,Intolerant,Insectivore,1,NO,46,Not Rated
+LBR,IF13,Gapway Swp,SR 1356,Columbus,34.26972,-79.00500,CC,35.8,14-31,C;Sw,2001-45,05/22/01,Etheostoma olmstedi,Tessellated Darter,Percidae,Intermediate,Insectivore,3,YES,46,Not Rated
+LBR,IF13,Gapway Swp,SR 1356,Columbus,34.26972,-79.00500,CC,35.8,14-31,C;Sw,2001-45,05/22/01,Ameiurus platycephalus,Flat Bullhead,Ictaluridae,Tolerant,Insectivore,1,NO,46,Not Rated
+LBR,IF13,Gapway Swp,SR 1356,Columbus,34.26972,-79.00500,CC,35.8,14-31,C;Sw,2001-45,05/22/01,Aphredoderus sayanus,Pirate Perch,Aphredoderidae,Intermediate,Insectivore,3,NO,46,Not Rated
+LBR,IF13,Gapway Swp,SR 1356,Columbus,34.26972,-79.00500,CC,35.8,14-31,C;Sw,2001-45,05/22/01,Lepomis gibbosus,Pumpkinseed,Centrarchidae,Intermediate,Insectivore,2,NO,46,Not Rated
+LBR,IF13,Gapway Swp,SR 1356,Columbus,34.26972,-79.00500,CC,35.8,14-31,C;Sw,2001-45,05/22/01,Lepomis macrochirus,Bluegill,Centrarchidae,Intermediate,Insectivore,3,NO,46,Not Rated
+LBR,IF4,Back Swp,SR 1003,Robeson,34.62041,-79.19264,CC,15.4,14-8-(2.5),WS-IV;Sw,2001-46,05/22/01,Aphredoderus sayanus,Pirate Perch,Aphredoderidae,Intermediate,Insectivore,42,YES,52,Not Rated
+LBR,IF4,Back Swp,SR 1003,Robeson,34.62041,-79.19264,CC,15.4,14-8-(2.5),WS-IV;Sw,2001-46,05/22/01,Ameiurus natalis,Yellow Bullhead,Ictaluridae,Tolerant,Omnivore,1,NO,52,Not Rated
+LBR,IF4,Back Swp,SR 1003,Robeson,34.62041,-79.19264,CC,15.4,14-8-(2.5),WS-IV;Sw,2001-46,05/22/01,Centrarchus macropterus,Flier,Centrarchidae,Intermediate,Insectivore,1,NO,52,Not Rated
+LBR,IF4,Back Swp,SR 1003,Robeson,34.62041,-79.19264,CC,15.4,14-8-(2.5),WS-IV;Sw,2001-46,05/22/01,Lepomis punctatus,Spotted Sunfish,Centrarchidae,Intermediate,Insectivore,3,YES,52,Not Rated
+LBR,IF4,Back Swp,SR 1003,Robeson,34.62041,-79.19264,CC,15.4,14-8-(2.5),WS-IV;Sw,2001-46,05/22/01,Notropis chalybaeus,Ironcolor Shiner,Cyprinidae,Intolerant,Insectivore,3,NO,52,Not Rated
+LBR,IF4,Back Swp,SR 1003,Robeson,34.62041,-79.19264,CC,15.4,14-8-(2.5),WS-IV;Sw,2001-46,05/22/01,Notropis cummingsae,Dusky Shiner,Cyprinidae,Intermediate,Insectivore,148,YES,52,Not Rated
+LBR,IF4,Back Swp,SR 1003,Robeson,34.62041,-79.19264,CC,15.4,14-8-(2.5),WS-IV;Sw,2001-46,05/22/01,Anguilla rostrata,American Eel,Anguillidae,Intermediate,Piscivore,4,YES,52,Not Rated
+LBR,IF4,Back Swp,SR 1003,Robeson,34.62041,-79.19264,CC,15.4,14-8-(2.5),WS-IV;Sw,2001-46,05/22/01,Erimyzon oblongus,Creek Chubsucker,Catostomidae,Intermediate,Omnivore,46,YES,52,Not Rated
+LBR,IF4,Back Swp,SR 1003,Robeson,34.62041,-79.19264,CC,15.4,14-8-(2.5),WS-IV;Sw,2001-46,05/22/01,Etheostoma serrifer,Sawcheek Darter,Percidae,Intolerant,Insectivore,2,NO,52,Not Rated
+LBR,IF4,Back Swp,SR 1003,Robeson,34.62041,-79.19264,CC,15.4,14-8-(2.5),WS-IV;Sw,2001-46,05/22/01,Etheostoma olmstedi,Tessellated Darter,Percidae,Intermediate,Insectivore,33,YES,52,Not Rated
+LBR,IF4,Back Swp,SR 1003,Robeson,34.62041,-79.19264,CC,15.4,14-8-(2.5),WS-IV;Sw,2001-46,05/22/01,Lepomis auritus,Redbreast Sunfish,Centrarchidae,Tolerant,Insectivore,29,YES,52,Not Rated
+LBR,IF4,Back Swp,SR 1003,Robeson,34.62041,-79.19264,CC,15.4,14-8-(2.5),WS-IV;Sw,2001-46,05/22/01,Esox americanus,Redfin Pickerel,Esocidae,Intermediate,Piscivore,12,YES,52,Not Rated
+LBR,IF4,Back Swp,SR 1003,Robeson,34.62041,-79.19264,CC,15.4,14-8-(2.5),WS-IV;Sw,2001-46,05/22/01,Esox niger,Chain Pickerel,Esocidae,Intermediate,Piscivore,8,YES,52,Not Rated
+LBR,IF4,Back Swp,SR 1003,Robeson,34.62041,-79.19264,CC,15.4,14-8-(2.5),WS-IV;Sw,2001-46,05/22/01,Gambusia holbrooki,Eastern Mosquitofish,Poecilidae,Tolerant,Insectivore,6,YES,52,Not Rated
+LBR,IF4,Back Swp,SR 1003,Robeson,34.62041,-79.19264,CC,15.4,14-8-(2.5),WS-IV;Sw,2001-46,05/22/01,Lepomis gibbosus,Pumpkinseed,Centrarchidae,Intermediate,Insectivore,5,NO,52,Not Rated
+LBR,IF4,Back Swp,SR 1003,Robeson,34.62041,-79.19264,CC,15.4,14-8-(2.5),WS-IV;Sw,2001-46,05/22/01,Enneacanthus gloriosus,Bluespotted Sunfish,Centrarchidae,Intermediate,Insectivore,4,NO,52,Not Rated
+LBR,IF4,Back Swp,SR 1003,Robeson,34.62041,-79.19264,CC,15.4,14-8-(2.5),WS-IV;Sw,2001-46,05/22/01,Notropis petersoni,Coastal Shiner,Cyprinidae,Intermediate,Insectivore,47,YES,52,Not Rated
+LBR,IF4,Back Swp,SR 1003,Robeson,34.62041,-79.19264,CC,15.4,14-8-(2.5),WS-IV;Sw,2001-46,05/22/01,Micropterus salmoides,Largemouth Bass,Centrarchidae,Intermediate,Piscivore,3,NO,52,Not Rated
+LBR,IF5,Big Shoeheel Cr,SR 1433,Scotland,34.80389,-79.37667,SH,21.3,14-34,C;Sw,2001-47,05/23/01,Esox americanus,Redfin Pickerel,Esocidae,Intermediate,Piscivore,1,NO,9,Good-Fair
+LBR,IF5,Big Shoeheel Cr,SR 1433,Scotland,34.80389,-79.37667,SH,21.3,14-34,C;Sw,2001-47,05/23/01,Lepomis gulosus,Warmouth,Centrarchidae,Intermediate,Insectivore,1,NO,9,Good-Fair
+LBR,IF5,Big Shoeheel Cr,SR 1433,Scotland,34.80389,-79.37667,SH,21.3,14-34,C;Sw,2001-47,05/23/01,Lepomis punctatus,Spotted Sunfish,Centrarchidae,Intermediate,Insectivore,1,NO,9,Good-Fair
+LBR,IF5,Big Shoeheel Cr,SR 1433,Scotland,34.80389,-79.37667,SH,21.3,14-34,C;Sw,2001-47,05/23/01,Lepomis macrochirus,Bluegill,Centrarchidae,Intermediate,Insectivore,3,NO,9,Good-Fair
+LBR,IF5,Big Shoeheel Cr,SR 1433,Scotland,34.80389,-79.37667,SH,21.3,14-34,C;Sw,2001-47,05/23/01,Lepomis auritus,Redbreast Sunfish,Centrarchidae,Tolerant,Insectivore,7,YES,9,Good-Fair
+LBR,IF5,Big Shoeheel Cr,SR 1433,Scotland,34.80389,-79.37667,SH,21.3,14-34,C;Sw,2001-47,05/23/01,Notropis cummingsae,Dusky Shiner,Cyprinidae,Intermediate,Insectivore,10,YES,9,Good-Fair
+LBR,IF21,Jordan Cr,SR 1324,Scotland,34.87056,-79.48528,SH,10.4,14-34-4-(2),C;Sw,2001-48,05/23/01,Ameiurus natalis,Yellow Bullhead,Ictaluridae,Tolerant,Omnivore,3,NO,13,Excellent
+LBR,IF21,Jordan Cr,SR 1324,Scotland,34.87056,-79.48528,SH,10.4,14-34-4-(2),C;Sw,2001-48,05/23/01,Notropis cummingsae,Dusky Shiner,Cyprinidae,Intermediate,Insectivore,49,YES,13,Excellent
+LBR,IF21,Jordan Cr,SR 1324,Scotland,34.87056,-79.48528,SH,10.4,14-34-4-(2),C;Sw,2001-48,05/23/01,Noturus insignis,Margined Madtom,Ictaluridae,Intermediate,Insectivore,10,YES,13,Excellent
+LBR,IF21,Jordan Cr,SR 1324,Scotland,34.87056,-79.48528,SH,10.4,14-34-4-(2),C;Sw,2001-48,05/23/01,Etheostoma mariae,Pinewoods Darter,Percidae,Intolerant,Insectivore,10,YES,13,Excellent
+LBR,IF21,Jordan Cr,SR 1324,Scotland,34.87056,-79.48528,SH,10.4,14-34-4-(2),C;Sw,2001-48,05/23/01,Erimyzon oblongus,Creek Chubsucker,Catostomidae,Intermediate,Omnivore,3,NO,13,Excellent
+LBR,IF21,Jordan Cr,SR 1324,Scotland,34.87056,-79.48528,SH,10.4,14-34-4-(2),C;Sw,2001-48,05/23/01,Fundulus lineolatus,Lined Topminnow,Fundulidae,Intermediate,Insectivore,2,NO,13,Excellent
+LBR,IF21,Jordan Cr,SR 1324,Scotland,34.87056,-79.48528,SH,10.4,14-34-4-(2),C;Sw,2001-48,05/23/01,Aphredoderus sayanus,Pirate Perch,Aphredoderidae,Intermediate,Insectivore,2,NO,13,Excellent
+LBR,IF21,Jordan Cr,SR 1324,Scotland,34.87056,-79.48528,SH,10.4,14-34-4-(2),C;Sw,2001-48,05/23/01,Esox americanus,Redfin Pickerel,Esocidae,Intermediate,Piscivore,1,NO,13,Excellent
+LBR,IF21,Jordan Cr,SR 1324,Scotland,34.87056,-79.48528,SH,10.4,14-34-4-(2),C;Sw,2001-48,05/23/01,Etheostoma olmstedi,Tessellated Darter,Percidae,Intermediate,Insectivore,4,YES,13,Excellent
+LBR,IF22,Juniper Cr,SR 1405,Scotland,34.85500,-79.43028,SH,22.5,14-34-4-3,C;Sw,2001-49,05/23/01,Notropis cummingsae,Dusky Shiner,Cyprinidae,Intermediate,Insectivore,13,YES,11,Good
+LBR,IF22,Juniper Cr,SR 1405,Scotland,34.85500,-79.43028,SH,22.5,14-34-4-3,C;Sw,2001-49,05/23/01,Esox americanus,Redfin Pickerel,Esocidae,Intermediate,Piscivore,4,NO,11,Good
+LBR,IF22,Juniper Cr,SR 1405,Scotland,34.85500,-79.43028,SH,22.5,14-34-4-3,C;Sw,2001-49,05/23/01,Etheostoma olmstedi,Tessellated Darter,Percidae,Intermediate,Insectivore,1,NO,11,Good
+LBR,IF22,Juniper Cr,SR 1405,Scotland,34.85500,-79.43028,SH,22.5,14-34-4-3,C;Sw,2001-49,05/23/01,Lepomis gulosus,Warmouth,Centrarchidae,Intermediate,Insectivore,1,NO,11,Good
+LBR,IF22,Juniper Cr,SR 1405,Scotland,34.85500,-79.43028,SH,22.5,14-34-4-3,C;Sw,2001-49,05/23/01,Noturus insignis,Margined Madtom,Ictaluridae,Intermediate,Insectivore,1,NO,11,Good
+LBR,IF22,Juniper Cr,SR 1405,Scotland,34.85500,-79.43028,SH,22.5,14-34-4-3,C;Sw,2001-49,05/23/01,Erimyzon oblongus,Creek Chubsucker,Catostomidae,Intermediate,Omnivore,3,YES,11,Good
+LBR,IF22,Juniper Cr,SR 1405,Scotland,34.85500,-79.43028,SH,22.5,14-34-4-3,C;Sw,2001-49,05/23/01,Anguilla rostrata,American Eel,Anguillidae,Intermediate,Piscivore,2,NO,11,Good
+LBR,IF20,Joes Cr,NC 79,Scotland,34.76528,-79.57556,SH,31.4,14-32-14,C;Sw,2001-50,05/24/01,Etheostoma olmstedi,Tessellated Darter,Percidae,Intermediate,Insectivore,13,YES,13,Excellent
+LBR,IF20,Joes Cr,NC 79,Scotland,34.76528,-79.57556,SH,31.4,14-32-14,C;Sw,2001-50,05/24/01,Minytrema melanops,Spotted Sucker,Catostomidae,Intermediate,Insectivore,3,YES,13,Excellent
+LBR,IF20,Joes Cr,NC 79,Scotland,34.76528,-79.57556,SH,31.4,14-32-14,C;Sw,2001-50,05/24/01,Etheostoma mariae,Pinewoods Darter,Percidae,Intolerant,Insectivore,2,NO,13,Excellent
+LBR,IF20,Joes Cr,NC 79,Scotland,34.76528,-79.57556,SH,31.4,14-32-14,C;Sw,2001-50,05/24/01,Micropterus salmoides,Largemouth Bass,Centrarchidae,Intermediate,Piscivore,1,NO,13,Excellent
+LBR,IF20,Joes Cr,NC 79,Scotland,34.76528,-79.57556,SH,31.4,14-32-14,C;Sw,2001-50,05/24/01,Lepomis marginatus,Dollar Sunfish,Centrarchidae,Intermediate,Insectivore,1,NO,13,Excellent
+LBR,IF20,Joes Cr,NC 79,Scotland,34.76528,-79.57556,SH,31.4,14-32-14,C;Sw,2001-50,05/24/01,Lepomis gulosus,Warmouth,Centrarchidae,Intermediate,Insectivore,1,NO,13,Excellent
+LBR,IF20,Joes Cr,NC 79,Scotland,34.76528,-79.57556,SH,31.4,14-32-14,C;Sw,2001-50,05/24/01,Lepomis auritus,Redbreast Sunfish,Centrarchidae,Tolerant,Insectivore,1,NO,13,Excellent
+LBR,IF20,Joes Cr,NC 79,Scotland,34.76528,-79.57556,SH,31.4,14-32-14,C;Sw,2001-50,05/24/01,Gambusia holbrooki,Eastern Mosquitofish,Poecilidae,Tolerant,Insectivore,1,NO,13,Excellent
+LBR,IF20,Joes Cr,NC 79,Scotland,34.76528,-79.57556,SH,31.4,14-32-14,C;Sw,2001-50,05/24/01,Notropis cummingsae,Dusky Shiner,Cyprinidae,Intermediate,Insectivore,61,YES,13,Excellent
+LBR,IF20,Joes Cr,NC 79,Scotland,34.76528,-79.57556,SH,31.4,14-32-14,C;Sw,2001-50,05/24/01,Enneacanthus gloriosus,Bluespotted Sunfish,Centrarchidae,Intermediate,Insectivore,1,NO,13,Excellent
+LBR,IF20,Joes Cr,NC 79,Scotland,34.76528,-79.57556,SH,31.4,14-32-14,C;Sw,2001-50,05/24/01,Erimyzon oblongus,Creek Chubsucker,Catostomidae,Intermediate,Omnivore,1,NO,13,Excellent
+LBR,IF20,Joes Cr,NC 79,Scotland,34.76528,-79.57556,SH,31.4,14-32-14,C;Sw,2001-50,05/24/01,Esox americanus,Redfin Pickerel,Esocidae,Intermediate,Piscivore,1,NO,13,Excellent
+LBR,IF20,Joes Cr,NC 79,Scotland,34.76528,-79.57556,SH,31.4,14-32-14,C;Sw,2001-50,05/24/01,Fundulus lineolatus,Lined Topminnow,Fundulidae,Intermediate,Insectivore,1,NO,13,Excellent
+LBR,IF15,Gum Swamp Cr,SR 1344,Scotland,34.92944,-79.57306,SH,16,14-32-(1),C,2001-51,05/24/01,Notropis cummingsae,Dusky Shiner,Cyprinidae,Intermediate,Insectivore,65,YES,12,Good
+LBR,IF15,Gum Swamp Cr,SR 1344,Scotland,34.92944,-79.57306,SH,16,14-32-(1),C,2001-51,05/24/01,Esox americanus,Redfin Pickerel,Esocidae,Intermediate,Piscivore,1,NO,12,Good
+LBR,IF15,Gum Swamp Cr,SR 1344,Scotland,34.92944,-79.57306,SH,16,14-32-(1),C,2001-51,05/24/01,Fundulus lineolatus,Lined Topminnow,Fundulidae,Intermediate,Insectivore,13,YES,12,Good
+LBR,IF15,Gum Swamp Cr,SR 1344,Scotland,34.92944,-79.57306,SH,16,14-32-(1),C,2001-51,05/24/01,Etheostoma mariae,Pinewoods Darter,Percidae,Intolerant,Insectivore,7,NO,12,Good
+LBR,IF15,Gum Swamp Cr,SR 1344,Scotland,34.92944,-79.57306,SH,16,14-32-(1),C,2001-51,05/24/01,Enneacanthus gloriosus,Bluespotted Sunfish,Centrarchidae,Intermediate,Insectivore,5,YES,12,Good
+LBR,IF15,Gum Swamp Cr,SR 1344,Scotland,34.92944,-79.57306,SH,16,14-32-(1),C,2001-51,05/24/01,Esox niger,Chain Pickerel,Esocidae,Intermediate,Piscivore,3,YES,12,Good
+LBR,IF15,Gum Swamp Cr,SR 1344,Scotland,34.92944,-79.57306,SH,16,14-32-(1),C,2001-51,05/24/01,Noturus insignis,Margined Madtom,Ictaluridae,Intermediate,Insectivore,4,YES,12,Good
+LBR,IF15,Gum Swamp Cr,SR 1344,Scotland,34.92944,-79.57306,SH,16,14-32-(1),C,2001-51,05/24/01,Aphredoderus sayanus,Pirate Perch,Aphredoderidae,Intermediate,Insectivore,2,NO,12,Good
+LBR,IF8,Buffalo Cr,SR 1203,Hoke,34.97528,-79.35806,SH,10.5,14-2.5,C,2001-52,06/05/01,Acantharchus pomotis,Mud Sunfish,Centrarchidae,Intermediate,Insectivore,4,YES,13,Excellent
+LBR,IF8,Buffalo Cr,SR 1203,Hoke,34.97528,-79.35806,SH,10.5,14-2.5,C,2001-52,06/05/01,Ameiurus natalis,Yellow Bullhead,Ictaluridae,Tolerant,Omnivore,6,YES,13,Excellent
+LBR,IF8,Buffalo Cr,SR 1203,Hoke,34.97528,-79.35806,SH,10.5,14-2.5,C,2001-52,06/05/01,Lepomis marginatus,Dollar Sunfish,Centrarchidae,Intermediate,Insectivore,5,YES,13,Excellent
+LBR,IF8,Buffalo Cr,SR 1203,Hoke,34.97528,-79.35806,SH,10.5,14-2.5,C,2001-52,06/05/01,Noturus gyrinus,Tadpole Madtom,Ictaluridae,Intermediate,Insectivore,10,YES,13,Excellent
+LBR,IF8,Buffalo Cr,SR 1203,Hoke,34.97528,-79.35806,SH,10.5,14-2.5,C,2001-52,06/05/01,Lepomis gulosus,Warmouth,Centrarchidae,Intermediate,Insectivore,1,NO,13,Excellent
+LBR,IF8,Buffalo Cr,SR 1203,Hoke,34.97528,-79.35806,SH,10.5,14-2.5,C,2001-52,06/05/01,Chologaster cornuta,Swampfish,Amblyopsidae,Intermediate,Insectivore,2,NO,13,Excellent
+LBR,IF8,Buffalo Cr,SR 1203,Hoke,34.97528,-79.35806,SH,10.5,14-2.5,C,2001-52,06/05/01,Etheostoma olmstedi,Tessellated Darter,Percidae,Intermediate,Insectivore,2,NO,13,Excellent
+LBR,IF8,Buffalo Cr,SR 1203,Hoke,34.97528,-79.35806,SH,10.5,14-2.5,C,2001-52,06/05/01,Lepomis auritus,Redbreast Sunfish,Centrarchidae,Tolerant,Insectivore,2,NO,13,Excellent
+LBR,IF8,Buffalo Cr,SR 1203,Hoke,34.97528,-79.35806,SH,10.5,14-2.5,C,2001-52,06/05/01,Esox americanus,Redfin Pickerel,Esocidae,Intermediate,Piscivore,3,NO,13,Excellent
+LBR,IF8,Buffalo Cr,SR 1203,Hoke,34.97528,-79.35806,SH,10.5,14-2.5,C,2001-52,06/05/01,Anguilla rostrata,American Eel,Anguillidae,Intermediate,Piscivore,6,YES,13,Excellent
+LBR,IF8,Buffalo Cr,SR 1203,Hoke,34.97528,-79.35806,SH,10.5,14-2.5,C,2001-52,06/05/01,Noturus insignis,Margined Madtom,Ictaluridae,Intermediate,Insectivore,13,YES,13,Excellent
+LBR,IF8,Buffalo Cr,SR 1203,Hoke,34.97528,-79.35806,SH,10.5,14-2.5,C,2001-52,06/05/01,Erimyzon oblongus,Creek Chubsucker,Catostomidae,Intermediate,Omnivore,14,YES,13,Excellent
+LBR,IF8,Buffalo Cr,SR 1203,Hoke,34.97528,-79.35806,SH,10.5,14-2.5,C,2001-52,06/05/01,Notropis cummingsae,Dusky Shiner,Cyprinidae,Intermediate,Insectivore,19,YES,13,Excellent
+LBR,IF8,Buffalo Cr,SR 1203,Hoke,34.97528,-79.35806,SH,10.5,14-2.5,C,2001-52,06/05/01,Aphredoderus sayanus,Pirate Perch,Aphredoderidae,Intermediate,Insectivore,23,YES,13,Excellent
+LBR,IF8,Buffalo Cr,SR 1203,Hoke,34.97528,-79.35806,SH,10.5,14-2.5,C,2001-52,06/05/01,Esox niger,Chain Pickerel,Esocidae,Intermediate,Piscivore,6,YES,13,Excellent
+LBR,IF8,Buffalo Cr,SR 1203,Hoke,34.97528,-79.35806,SH,10.5,14-2.5,C,2001-52,06/05/01,Etheostoma mariae,Pinewoods Darter,Percidae,Intolerant,Insectivore,10,YES,13,Excellent
+LBR,IF8,Buffalo Cr,SR 1203,Hoke,34.97528,-79.35806,SH,10.5,14-2.5,C,2001-52,06/05/01,Enneacanthus gloriosus,Bluespotted Sunfish,Centrarchidae,Intermediate,Insectivore,8,YES,13,Excellent
+LBR,IF8,Buffalo Cr,SR 1203,Hoke,34.97528,-79.35806,SH,10.5,14-2.5,C,2001-52,06/05/01,Lepomis punctatus,Spotted Sunfish,Centrarchidae,Intermediate,Insectivore,2,NO,13,Excellent
+LBR,IF27,Mountain Cr,SR 1215,Hoke,35.01417,-79.39056,SH,9.9,14-2-16-(2),C,2001-53,06/05/01,Etheostoma mariae,Pinewoods Darter,Percidae,Intolerant,Insectivore,5,YES,14,Excellent
+LBR,IF27,Mountain Cr,SR 1215,Hoke,35.01417,-79.39056,SH,9.9,14-2-16-(2),C,2001-53,06/05/01,Semotilus lumbee,Sandhills Chub,Cyprinidae,Intolerant,Insectivore,2,NO,14,Excellent
+LBR,IF27,Mountain Cr,SR 1215,Hoke,35.01417,-79.39056,SH,9.9,14-2-16-(2),C,2001-53,06/05/01,Ameiurus natalis,Yellow Bullhead,Ictaluridae,Tolerant,Omnivore,1,NO,14,Excellent
+LBR,IF27,Mountain Cr,SR 1215,Hoke,35.01417,-79.39056,SH,9.9,14-2-16-(2),C,2001-53,06/05/01,Aphredoderus sayanus,Pirate Perch,Aphredoderidae,Intermediate,Insectivore,1,NO,14,Excellent
+LBR,IF27,Mountain Cr,SR 1215,Hoke,35.01417,-79.39056,SH,9.9,14-2-16-(2),C,2001-53,06/05/01,Erimyzon oblongus,Creek Chubsucker,Catostomidae,Intermediate,Omnivore,1,NO,14,Excellent
+LBR,IF27,Mountain Cr,SR 1215,Hoke,35.01417,-79.39056,SH,9.9,14-2-16-(2),C,2001-53,06/05/01,Esox americanus,Redfin Pickerel,Esocidae,Intermediate,Piscivore,1,NO,14,Excellent
+LBR,IF27,Mountain Cr,SR 1215,Hoke,35.01417,-79.39056,SH,9.9,14-2-16-(2),C,2001-53,06/05/01,Esox niger,Chain Pickerel,Esocidae,Intermediate,Piscivore,1,NO,14,Excellent
+LBR,IF27,Mountain Cr,SR 1215,Hoke,35.01417,-79.39056,SH,9.9,14-2-16-(2),C,2001-53,06/05/01,Noturus gyrinus,Tadpole Madtom,Ictaluridae,Intermediate,Insectivore,1,NO,14,Excellent
+LBR,IF27,Mountain Cr,SR 1215,Hoke,35.01417,-79.39056,SH,9.9,14-2-16-(2),C,2001-53,06/05/01,Ameiurus platycephalus,Flat Bullhead,Ictaluridae,Tolerant,Insectivore,2,NO,14,Excellent
+LBR,IF27,Mountain Cr,SR 1215,Hoke,35.01417,-79.39056,SH,9.9,14-2-16-(2),C,2001-53,06/05/01,Anguilla rostrata,American Eel,Anguillidae,Intermediate,Piscivore,9,YES,14,Excellent
+LBR,IF27,Mountain Cr,SR 1215,Hoke,35.01417,-79.39056,SH,9.9,14-2-16-(2),C,2001-53,06/05/01,Noturus insignis,Margined Madtom,Ictaluridae,Intermediate,Insectivore,2,NO,14,Excellent
+LBR,IF27,Mountain Cr,SR 1215,Hoke,35.01417,-79.39056,SH,9.9,14-2-16-(2),C,2001-53,06/05/01,Etheostoma olmstedi,Tessellated Darter,Percidae,Intermediate,Insectivore,7,YES,14,Excellent
+LBR,IF27,Mountain Cr,SR 1215,Hoke,35.01417,-79.39056,SH,9.9,14-2-16-(2),C,2001-53,06/05/01,Notropis cummingsae,Dusky Shiner,Cyprinidae,Intermediate,Insectivore,96,YES,14,Excellent
+LBR,IF27,Mountain Cr,SR 1215,Hoke,35.01417,-79.39056,SH,9.9,14-2-16-(2),C,2001-53,06/05/01,Lepomis auritus,Redbreast Sunfish,Centrarchidae,Tolerant,Insectivore,2,NO,14,Excellent
+LBR,IF30,Quewhiffle Cr,SR 1225,Hoke,35.04889,-79.41694,SH,17.8,14-2-14,C,2001-54,06/05/01,Anguilla rostrata,American Eel,Anguillidae,Intermediate,Piscivore,4,YES,10,Good-Fair
+LBR,IF30,Quewhiffle Cr,SR 1225,Hoke,35.04889,-79.41694,SH,17.8,14-2-14,C,2001-54,06/05/01,Etheostoma mariae,Pinewoods Darter,Percidae,Intolerant,Insectivore,4,YES,10,Good-Fair
+LBR,IF30,Quewhiffle Cr,SR 1225,Hoke,35.04889,-79.41694,SH,17.8,14-2-14,C,2001-54,06/05/01,Esox niger,Chain Pickerel,Esocidae,Intermediate,Piscivore,1,NO,10,Good-Fair
+LBR,IF30,Quewhiffle Cr,SR 1225,Hoke,35.04889,-79.41694,SH,17.8,14-2-14,C,2001-54,06/05/01,Etheostoma olmstedi,Tessellated Darter,Percidae,Intermediate,Insectivore,1,NO,10,Good-Fair
+LBR,IF30,Quewhiffle Cr,SR 1225,Hoke,35.04889,-79.41694,SH,17.8,14-2-14,C,2001-54,06/05/01,Lepomis auritus,Redbreast Sunfish,Centrarchidae,Tolerant,Insectivore,1,NO,10,Good-Fair
+LBR,IF30,Quewhiffle Cr,SR 1225,Hoke,35.04889,-79.41694,SH,17.8,14-2-14,C,2001-54,06/05/01,Lepomis gulosus,Warmouth,Centrarchidae,Intermediate,Insectivore,1,NO,10,Good-Fair
+LBR,IF30,Quewhiffle Cr,SR 1225,Hoke,35.04889,-79.41694,SH,17.8,14-2-14,C,2001-54,06/05/01,Notropis cummingsae,Dusky Shiner,Cyprinidae,Intermediate,Insectivore,1,NO,10,Good-Fair
+LBR,IF11,Drowning Cr,NC 73,Moore,35.18778,-79.64861,SH,31.9,14-2-(1),"WS-II;Sw,HQW",2001-55,06/06/01,Anguilla rostrata,American Eel,Anguillidae,Intermediate,Piscivore,4,YES,13,Excellent
+LBR,IF11,Drowning Cr,NC 73,Moore,35.18778,-79.64861,SH,31.9,14-2-(1),"WS-II;Sw,HQW",2001-55,06/06/01,Aphredoderus sayanus,Pirate Perch,Aphredoderidae,Intermediate,Insectivore,1,NO,13,Excellent
+LBR,IF11,Drowning Cr,NC 73,Moore,35.18778,-79.64861,SH,31.9,14-2-(1),"WS-II;Sw,HQW",2001-55,06/06/01,Lepomis gulosus,Warmouth,Centrarchidae,Intermediate,Insectivore,1,NO,13,Excellent
+LBR,IF11,Drowning Cr,NC 73,Moore,35.18778,-79.64861,SH,31.9,14-2-(1),"WS-II;Sw,HQW",2001-55,06/06/01,Percina crassa,Piedmont Darter,Percidae,Intolerant,Insectivore,1,NO,13,Excellent
+LBR,IF11,Drowning Cr,NC 73,Moore,35.18778,-79.64861,SH,31.9,14-2-(1),"WS-II;Sw,HQW",2001-55,06/06/01,Lepomis macrochirus,Bluegill,Centrarchidae,Intermediate,Insectivore,2,NO,13,Excellent
+LBR,IF11,Drowning Cr,NC 73,Moore,35.18778,-79.64861,SH,31.9,14-2-(1),"WS-II;Sw,HQW",2001-55,06/06/01,Micropterus salmoides,Largemouth Bass,Centrarchidae,Intermediate,Piscivore,2,NO,13,Excellent
+LBR,IF11,Drowning Cr,NC 73,Moore,35.18778,-79.64861,SH,31.9,14-2-(1),"WS-II;Sw,HQW",2001-55,06/06/01,Semotilus lumbee,Sandhills Chub,Cyprinidae,Intolerant,Insectivore,2,NO,13,Excellent
+LBR,IF11,Drowning Cr,NC 73,Moore,35.18778,-79.64861,SH,31.9,14-2-(1),"WS-II;Sw,HQW",2001-55,06/06/01,Centrarchus macropterus,Flier,Centrarchidae,Intermediate,Insectivore,1,NO,13,Excellent
+LBR,IF11,Drowning Cr,NC 73,Moore,35.18778,-79.64861,SH,31.9,14-2-(1),"WS-II;Sw,HQW",2001-55,06/06/01,Notropis chiliticus,Redlip Shiner,Cyprinidae,Intermediate,Insectivore,3,NO,13,Excellent
+LBR,IF11,Drowning Cr,NC 73,Moore,35.18778,-79.64861,SH,31.9,14-2-(1),"WS-II;Sw,HQW",2001-55,06/06/01,Notropis cummingsae,Dusky Shiner,Cyprinidae,Intermediate,Insectivore,22,YES,13,Excellent
+LBR,IF11,Drowning Cr,NC 73,Moore,35.18778,-79.64861,SH,31.9,14-2-(1),"WS-II;Sw,HQW",2001-55,06/06/01,Lepomis auritus,Redbreast Sunfish,Centrarchidae,Tolerant,Insectivore,4,YES,13,Excellent
+LBR,IF11,Drowning Cr,NC 73,Moore,35.18778,-79.64861,SH,31.9,14-2-(1),"WS-II;Sw,HQW",2001-55,06/06/01,Lepomis gibbosus,Pumpkinseed,Centrarchidae,Intermediate,Insectivore,4,YES,13,Excellent
+LBR,IF11,Drowning Cr,NC 73,Moore,35.18778,-79.64861,SH,31.9,14-2-(1),"WS-II;Sw,HQW",2001-55,06/06/01,Lepomis marginatus,Dollar Sunfish,Centrarchidae,Intermediate,Insectivore,4,YES,13,Excellent
+LBR,IF11,Drowning Cr,NC 73,Moore,35.18778,-79.64861,SH,31.9,14-2-(1),"WS-II;Sw,HQW",2001-55,06/06/01,Noturus insignis,Margined Madtom,Ictaluridae,Intermediate,Insectivore,6,YES,13,Excellent
+LBR,IF11,Drowning Cr,NC 73,Moore,35.18778,-79.64861,SH,31.9,14-2-(1),"WS-II;Sw,HQW",2001-55,06/06/01,Nocomis leptocephalus,Bluehead Chub,Cyprinidae,Intermediate,Omnivore,8,YES,13,Excellent
+LBR,IF11,Drowning Cr,NC 73,Moore,35.18778,-79.64861,SH,31.9,14-2-(1),"WS-II;Sw,HQW",2001-55,06/06/01,Esox americanus,Redfin Pickerel,Esocidae,Intermediate,Piscivore,9,YES,13,Excellent
+LBR,IF11,Drowning Cr,NC 73,Moore,35.18778,-79.64861,SH,31.9,14-2-(1),"WS-II;Sw,HQW",2001-55,06/06/01,Etheostoma olmstedi,Tessellated Darter,Percidae,Intermediate,Insectivore,9,YES,13,Excellent
+LBR,IF11,Drowning Cr,NC 73,Moore,35.18778,-79.64861,SH,31.9,14-2-(1),"WS-II;Sw,HQW",2001-55,06/06/01,Erimyzon oblongus,Creek Chubsucker,Catostomidae,Intermediate,Omnivore,3,NO,13,Excellent
+LBR,IF19,Jackson Cr,SR 1122,Moore,35.19167,-79.61861,SH,18.1,14-2-5,WS-II;HQW,2001-56,06/06/01,Lepomis auritus,Redbreast Sunfish,Centrarchidae,Tolerant,Insectivore,3,NO,13,Excellent
+LBR,IF19,Jackson Cr,SR 1122,Moore,35.19167,-79.61861,SH,18.1,14-2-5,WS-II;HQW,2001-56,06/06/01,Aphredoderus sayanus,Pirate Perch,Aphredoderidae,Intermediate,Insectivore,6,YES,13,Excellent
+LBR,IF19,Jackson Cr,SR 1122,Moore,35.19167,-79.61861,SH,18.1,14-2-5,WS-II;HQW,2001-56,06/06/01,Anguilla rostrata,American Eel,Anguillidae,Intermediate,Piscivore,5,YES,13,Excellent
+LBR,IF19,Jackson Cr,SR 1122,Moore,35.19167,-79.61861,SH,18.1,14-2-5,WS-II;HQW,2001-56,06/06/01,Esox niger,Chain Pickerel,Esocidae,Intermediate,Piscivore,6,YES,13,Excellent
+LBR,IF19,Jackson Cr,SR 1122,Moore,35.19167,-79.61861,SH,18.1,14-2-5,WS-II;HQW,2001-56,06/06/01,Etheostoma olmstedi,Tessellated Darter,Percidae,Intermediate,Insectivore,5,YES,13,Excellent
+LBR,IF19,Jackson Cr,SR 1122,Moore,35.19167,-79.61861,SH,18.1,14-2-5,WS-II;HQW,2001-56,06/06/01,Lepomis marginatus,Dollar Sunfish,Centrarchidae,Intermediate,Insectivore,4,YES,13,Excellent
+LBR,IF19,Jackson Cr,SR 1122,Moore,35.19167,-79.61861,SH,18.1,14-2-5,WS-II;HQW,2001-56,06/06/01,Esox americanus,Redfin Pickerel,Esocidae,Intermediate,Piscivore,2,NO,13,Excellent
+LBR,IF19,Jackson Cr,SR 1122,Moore,35.19167,-79.61861,SH,18.1,14-2-5,WS-II;HQW,2001-56,06/06/01,Noturus insignis,Margined Madtom,Ictaluridae,Intermediate,Insectivore,1,NO,13,Excellent
+LBR,IF19,Jackson Cr,SR 1122,Moore,35.19167,-79.61861,SH,18.1,14-2-5,WS-II;HQW,2001-56,06/06/01,Lepomis gulosus,Warmouth,Centrarchidae,Intermediate,Insectivore,1,NO,13,Excellent
+LBR,IF19,Jackson Cr,SR 1122,Moore,35.19167,-79.61861,SH,18.1,14-2-5,WS-II;HQW,2001-56,06/06/01,Enneacanthus gloriosus,Bluespotted Sunfish,Centrarchidae,Intermediate,Insectivore,1,NO,13,Excellent
+LBR,IF19,Jackson Cr,SR 1122,Moore,35.19167,-79.61861,SH,18.1,14-2-5,WS-II;HQW,2001-56,06/06/01,Ameiurus platycephalus,Flat Bullhead,Ictaluridae,Tolerant,Insectivore,1,NO,13,Excellent
+LBR,IF19,Jackson Cr,SR 1122,Moore,35.19167,-79.61861,SH,18.1,14-2-5,WS-II;HQW,2001-56,06/06/01,Acantharchus pomotis,Mud Sunfish,Centrarchidae,Intermediate,Insectivore,1,NO,13,Excellent
+LBR,IF19,Jackson Cr,SR 1122,Moore,35.19167,-79.61861,SH,18.1,14-2-5,WS-II;HQW,2001-56,06/06/01,Erimyzon oblongus,Creek Chubsucker,Catostomidae,Intermediate,Omnivore,2,NO,13,Excellent
+LBR,IF19,Jackson Cr,SR 1122,Moore,35.19167,-79.61861,SH,18.1,14-2-5,WS-II;HQW,2001-56,06/06/01,Notropis cummingsae,Dusky Shiner,Cyprinidae,Intermediate,Insectivore,33,YES,13,Excellent
+LBR,IF28,Naked Cr,SR 1003,Richmond,35.08194,-79.58944,SH,38.6,14-2-6,WS-II;ORW,2001-57,06/06/01,Ameiurus platycephalus,Flat Bullhead,Ictaluridae,Tolerant,Insectivore,1,NO,14,Excellent
+LBR,IF28,Naked Cr,SR 1003,Richmond,35.08194,-79.58944,SH,38.6,14-2-6,WS-II;ORW,2001-57,06/06/01,Etheostoma olmstedi,Tessellated Darter,Percidae,Intermediate,Insectivore,3,YES,14,Excellent
+LBR,IF28,Naked Cr,SR 1003,Richmond,35.08194,-79.58944,SH,38.6,14-2-6,WS-II;ORW,2001-57,06/06/01,Anguilla rostrata,American Eel,Anguillidae,Intermediate,Piscivore,3,YES,14,Excellent
+LBR,IF28,Naked Cr,SR 1003,Richmond,35.08194,-79.58944,SH,38.6,14-2-6,WS-II;ORW,2001-57,06/06/01,Nocomis leptocephalus,Bluehead Chub,Cyprinidae,Intermediate,Omnivore,2,NO,14,Excellent
+LBR,IF28,Naked Cr,SR 1003,Richmond,35.08194,-79.58944,SH,38.6,14-2-6,WS-II;ORW,2001-57,06/06/01,Percina crassa,Piedmont Darter,Percidae,Intolerant,Insectivore,1,NO,14,Excellent
+LBR,IF28,Naked Cr,SR 1003,Richmond,35.08194,-79.58944,SH,38.6,14-2-6,WS-II;ORW,2001-57,06/06/01,Minytrema melanops,Spotted Sucker,Catostomidae,Intermediate,Insectivore,1,NO,14,Excellent
+LBR,IF28,Naked Cr,SR 1003,Richmond,35.08194,-79.58944,SH,38.6,14-2-6,WS-II;ORW,2001-57,06/06/01,Etheostoma mariae,Pinewoods Darter,Percidae,Intolerant,Insectivore,1,NO,14,Excellent
+LBR,IF28,Naked Cr,SR 1003,Richmond,35.08194,-79.58944,SH,38.6,14-2-6,WS-II;ORW,2001-57,06/06/01,Noturus insignis,Margined Madtom,Ictaluridae,Intermediate,Insectivore,17,YES,14,Excellent
+LBR,IF28,Naked Cr,SR 1003,Richmond,35.08194,-79.58944,SH,38.6,14-2-6,WS-II;ORW,2001-57,06/06/01,Lepomis auritus,Redbreast Sunfish,Centrarchidae,Tolerant,Insectivore,6,YES,14,Excellent
+LBR,IF28,Naked Cr,SR 1003,Richmond,35.08194,-79.58944,SH,38.6,14-2-6,WS-II;ORW,2001-57,06/06/01,Lepomis marginatus,Dollar Sunfish,Centrarchidae,Intermediate,Insectivore,1,NO,14,Excellent
+LBR,IF28,Naked Cr,SR 1003,Richmond,35.08194,-79.58944,SH,38.6,14-2-6,WS-II;ORW,2001-57,06/06/01,Aphredoderus sayanus,Pirate Perch,Aphredoderidae,Intermediate,Insectivore,3,YES,14,Excellent
+LBR,IF28,Naked Cr,SR 1003,Richmond,35.08194,-79.58944,SH,38.6,14-2-6,WS-II;ORW,2001-57,06/06/01,Notropis cummingsae,Dusky Shiner,Cyprinidae,Intermediate,Insectivore,66,YES,14,Excellent
+LBR,IF1,Aberdeen Cr,SR 1105,Moore,35.09694,-79.45611,SH,28.4,14-2-11-(6),C,2001-58,06/07/01,Lepomis macrochirus,Bluegill,Centrarchidae,Intermediate,Insectivore,7,NO,11,Good
+LBR,IF1,Aberdeen Cr,SR 1105,Moore,35.09694,-79.45611,SH,28.4,14-2-11-(6),C,2001-58,06/07/01,Notropis cummingsae,Dusky Shiner,Cyprinidae,Intermediate,Insectivore,37,YES,11,Good
+LBR,IF1,Aberdeen Cr,SR 1105,Moore,35.09694,-79.45611,SH,28.4,14-2-11-(6),C,2001-58,06/07/01,Lepomis auritus,Redbreast Sunfish,Centrarchidae,Tolerant,Insectivore,18,YES,11,Good
+LBR,IF1,Aberdeen Cr,SR 1105,Moore,35.09694,-79.45611,SH,28.4,14-2-11-(6),C,2001-58,06/07/01,Etheostoma olmstedi,Tessellated Darter,Percidae,Intermediate,Insectivore,5,YES,11,Good
+LBR,IF1,Aberdeen Cr,SR 1105,Moore,35.09694,-79.45611,SH,28.4,14-2-11-(6),C,2001-58,06/07/01,Lepomis punctatus,Spotted Sunfish,Centrarchidae,Intermediate,Insectivore,4,YES,11,Good
+LBR,IF1,Aberdeen Cr,SR 1105,Moore,35.09694,-79.45611,SH,28.4,14-2-11-(6),C,2001-58,06/07/01,Noturus insignis,Margined Madtom,Ictaluridae,Intermediate,Insectivore,3,YES,11,Good
+LBR,IF1,Aberdeen Cr,SR 1105,Moore,35.09694,-79.45611,SH,28.4,14-2-11-(6),C,2001-58,06/07/01,Anguilla rostrata,American Eel,Anguillidae,Intermediate,Piscivore,3,YES,11,Good
+LBR,IF1,Aberdeen Cr,SR 1105,Moore,35.09694,-79.45611,SH,28.4,14-2-11-(6),C,2001-58,06/07/01,Lepomis marginatus,Dollar Sunfish,Centrarchidae,Intermediate,Insectivore,2,NO,11,Good
+LBR,IF1,Aberdeen Cr,SR 1105,Moore,35.09694,-79.45611,SH,28.4,14-2-11-(6),C,2001-58,06/07/01,Labidesthes sicculus,Brook Silverside,Atherinidae,Intermediate,Insectivore,2,NO,11,Good
+LBR,IF1,Aberdeen Cr,SR 1105,Moore,35.09694,-79.45611,SH,28.4,14-2-11-(6),C,2001-58,06/07/01,Esox niger,Chain Pickerel,Esocidae,Intermediate,Piscivore,2,NO,11,Good
+LBR,IF1,Aberdeen Cr,SR 1105,Moore,35.09694,-79.45611,SH,28.4,14-2-11-(6),C,2001-58,06/07/01,Lepomis microlophus,Redear Sunfish,Centrarchidae,Intermediate,Insectivore,1,NO,11,Good
+LBR,IF1,Aberdeen Cr,SR 1105,Moore,35.09694,-79.45611,SH,28.4,14-2-11-(6),C,2001-58,06/07/01,Esox americanus,Redfin Pickerel,Esocidae,Intermediate,Piscivore,1,NO,11,Good
+LBR,IF1,Aberdeen Cr,SR 1105,Moore,35.09694,-79.45611,SH,28.4,14-2-11-(6),C,2001-58,06/07/01,Erimyzon oblongus,Creek Chubsucker,Catostomidae,Intermediate,Omnivore,1,NO,11,Good
+LBR,IF1,Aberdeen Cr,SR 1105,Moore,35.09694,-79.45611,SH,28.4,14-2-11-(6),C,2001-58,06/07/01,Aphredoderus sayanus,Pirate Perch,Aphredoderidae,Intermediate,Insectivore,1,NO,11,Good
+LBR,IF1,Aberdeen Cr,SR 1105,Moore,35.09694,-79.45611,SH,28.4,14-2-11-(6),C,2001-58,06/07/01,Nocomis leptocephalus,Bluehead Chub,Cyprinidae,Intermediate,Omnivore,2,NO,11,Good
+LBR,IF10,Deep Cr,SR 1113,Moore,35.12306,-79.54278,SH,19.8,14-2-10-1-(1),"WS-II;B,HQW",2001-59,06/07/01,Elassoma zonatum,Banded Pygmy Sunfish,Elassomatidae,Intermediate,Insectivore,1,NO,14,Excellent
+LBR,IF10,Deep Cr,SR 1113,Moore,35.12306,-79.54278,SH,19.8,14-2-10-1-(1),"WS-II;B,HQW",2001-59,06/07/01,Etheostoma olmstedi,Tessellated Darter,Percidae,Intermediate,Insectivore,8,YES,14,Excellent
+LBR,IF10,Deep Cr,SR 1113,Moore,35.12306,-79.54278,SH,19.8,14-2-10-1-(1),"WS-II;B,HQW",2001-59,06/07/01,Etheostoma mariae,Pinewoods Darter,Percidae,Intolerant,Insectivore,6,YES,14,Excellent
+LBR,IF10,Deep Cr,SR 1113,Moore,35.12306,-79.54278,SH,19.8,14-2-10-1-(1),"WS-II;B,HQW",2001-59,06/07/01,Noturus insignis,Margined Madtom,Ictaluridae,Intermediate,Insectivore,3,YES,14,Excellent
+LBR,IF10,Deep Cr,SR 1113,Moore,35.12306,-79.54278,SH,19.8,14-2-10-1-(1),"WS-II;B,HQW",2001-59,06/07/01,Esox americanus,Redfin Pickerel,Esocidae,Intermediate,Piscivore,2,NO,14,Excellent
+LBR,IF10,Deep Cr,SR 1113,Moore,35.12306,-79.54278,SH,19.8,14-2-10-1-(1),"WS-II;B,HQW",2001-59,06/07/01,Semotilus lumbee,Sandhills Chub,Cyprinidae,Intolerant,Insectivore,1,NO,14,Excellent
+LBR,IF10,Deep Cr,SR 1113,Moore,35.12306,-79.54278,SH,19.8,14-2-10-1-(1),"WS-II;B,HQW",2001-59,06/07/01,Erimyzon oblongus,Creek Chubsucker,Catostomidae,Intermediate,Omnivore,1,NO,14,Excellent
+LBR,IF10,Deep Cr,SR 1113,Moore,35.12306,-79.54278,SH,19.8,14-2-10-1-(1),"WS-II;B,HQW",2001-59,06/07/01,Notropis cummingsae,Dusky Shiner,Cyprinidae,Intermediate,Insectivore,17,YES,14,Excellent
+LBR,IF10,Deep Cr,SR 1113,Moore,35.12306,-79.54278,SH,19.8,14-2-10-1-(1),"WS-II;B,HQW",2006-54,05/22/06,Esox americanus,Redfin Pickerel,Esocidae,Intermediate,Piscivore,1,No,14,Excellent
+LBR,IF10,Deep Cr,SR 1113,Moore,35.12306,-79.54278,SH,19.8,14-2-10-1-(1),"WS-II;B,HQW",2006-54,05/22/06,Lepomis auritus,Redbreast Sunfish,Centrarchidae,Tolerant,Insectivore,6,No,14,Excellent
+LBR,IF10,Deep Cr,SR 1113,Moore,35.12306,-79.54278,SH,19.8,14-2-10-1-(1),"WS-II;B,HQW",2006-54,05/22/06,Erimyzon oblongus,Creek Chubsucker,Catostomidae,Intermediate,Omnivore,1,No,14,Excellent
+LBR,IF10,Deep Cr,SR 1113,Moore,35.12306,-79.54278,SH,19.8,14-2-10-1-(1),"WS-II;B,HQW",2006-54,05/22/06,Etheostoma olmstedi,Tessellated Darter,Percidae,Intermediate,Insectivore,2,No,14,Excellent
+LBR,IF10,Deep Cr,SR 1113,Moore,35.12306,-79.54278,SH,19.8,14-2-10-1-(1),"WS-II;B,HQW",2006-54,05/22/06,Notropis cummingsae,Dusky Shiner,Cyprinidae,Intermediate,Insectivore,11,Yes,14,Excellent
+LBR,IF10,Deep Cr,SR 1113,Moore,35.12306,-79.54278,SH,19.8,14-2-10-1-(1),"WS-II;B,HQW",2006-54,05/22/06,Aphredoderus sayanus,Pirate Perch,Aphredoderidae,Intermediate,Insectivore,2,No,14,Excellent
+LBR,IF10,Deep Cr,SR 1113,Moore,35.12306,-79.54278,SH,19.8,14-2-10-1-(1),"WS-II;B,HQW",2006-54,05/22/06,Anguilla rostrata,American Eel,Anguillidae,Intermediate,Piscivore,1,No,14,Excellent
+LBR,IF10,Deep Cr,SR 1113,Moore,35.12306,-79.54278,SH,19.8,14-2-10-1-(1),"WS-II;B,HQW",2006-54,05/22/06,Noturus insignis,Margined Madtom,Ictaluridae,Intermediate,Insectivore,1,No,14,Excellent
+LBR,IF10,Deep Cr,SR 1113,Moore,35.12306,-79.54278,SH,19.8,14-2-10-1-(1),"WS-II;B,HQW",2006-54,05/22/06,Esox niger,Chain Pickerel,Esocidae,Intermediate,Piscivore,1,No,14,Excellent
+LBR,IF10,Deep Cr,SR 1113,Moore,35.12306,-79.54278,SH,19.8,14-2-10-1-(1),"WS-II;B,HQW",2006-54,05/22/06,Etheostoma mariae,Pinewoods Darter,Percidae,Intolerant,Insectivore,8,Yes,14,Excellent
+LBR,IF10,Deep Cr,SR 1113,Moore,35.12306,-79.54278,SH,19.8,14-2-10-1-(1),"WS-II;B,HQW",2006-54,05/22/06,Minytrema melanops,Spotted Sucker,Catostomidae,Intermediate,Insectivore,1,No,14,Excellent
+LBR,IF10,Deep Cr,SR 1113,Moore,35.12306,-79.54278,SH,19.8,14-2-10-1-(1),"WS-II;B,HQW",2006-54,05/22/06,Semotilus lumbee,Sandhills Chub,Cyprinidae,Intolerant,Insectivore,1,No,14,Excellent
+LBR,IF19,Jackson Cr,SR 1122,Moore,35.19167,-79.61861,SH,18.1,14-2-5,WS-II;HQW,2006-55,05/22/06,Noturus gyrinus,Tadpole Madtom,Ictaluridae,Intermediate,Insectivore,1,No,14,Excellent
+LBR,IF19,Jackson Cr,SR 1122,Moore,35.19167,-79.61861,SH,18.1,14-2-5,WS-II;HQW,2006-55,05/22/06,Etheostoma mariae,Pinewoods Darter,Percidae,Intolerant,Insectivore,1,No,14,Excellent
+LBR,IF19,Jackson Cr,SR 1122,Moore,35.19167,-79.61861,SH,18.1,14-2-5,WS-II;HQW,2006-55,05/22/06,Elassoma zonatum,Banded Pygmy Sunfish,Elassomatidae,Intermediate,Insectivore,1,No,14,Excellent
+LBR,IF19,Jackson Cr,SR 1122,Moore,35.19167,-79.61861,SH,18.1,14-2-5,WS-II;HQW,2006-55,05/22/06,Notropis cummingsae,Dusky Shiner,Cyprinidae,Intermediate,Insectivore,24,Yes,14,Excellent
+LBR,IF19,Jackson Cr,SR 1122,Moore,35.19167,-79.61861,SH,18.1,14-2-5,WS-II;HQW,2006-55,05/22/06,Etheostoma olmstedi,Tessellated Darter,Percidae,Intermediate,Insectivore,2,No,14,Excellent
+LBR,IF19,Jackson Cr,SR 1122,Moore,35.19167,-79.61861,SH,18.1,14-2-5,WS-II;HQW,2006-55,05/22/06,Lepomis gulosus,Warmouth,Centrarchidae,Intermediate,Insectivore,1,No,14,Excellent
+LBR,IF19,Jackson Cr,SR 1122,Moore,35.19167,-79.61861,SH,18.1,14-2-5,WS-II;HQW,2006-55,05/22/06,Minytrema melanops,Spotted Sucker,Catostomidae,Intermediate,Insectivore,1,No,14,Excellent
+LBR,IF19,Jackson Cr,SR 1122,Moore,35.19167,-79.61861,SH,18.1,14-2-5,WS-II;HQW,2006-55,05/22/06,Esox americanus,Redfin Pickerel,Esocidae,Intermediate,Piscivore,3,Yes,14,Excellent
+LBR,IF19,Jackson Cr,SR 1122,Moore,35.19167,-79.61861,SH,18.1,14-2-5,WS-II;HQW,2006-55,05/22/06,Lepomis marginatus,Dollar Sunfish,Centrarchidae,Intermediate,Insectivore,5,Yes,14,Excellent
+LBR,IF19,Jackson Cr,SR 1122,Moore,35.19167,-79.61861,SH,18.1,14-2-5,WS-II;HQW,2006-55,05/22/06,Enneacanthus gloriosus,Bluespotted Sunfish,Centrarchidae,Intermediate,Insectivore,1,No,14,Excellent
+LBR,IF19,Jackson Cr,SR 1122,Moore,35.19167,-79.61861,SH,18.1,14-2-5,WS-II;HQW,2006-55,05/22/06,Anguilla rostrata,American Eel,Anguillidae,Intermediate,Piscivore,3,Yes,14,Excellent
+LBR,IF19,Jackson Cr,SR 1122,Moore,35.19167,-79.61861,SH,18.1,14-2-5,WS-II;HQW,2006-55,05/22/06,Esox niger,Chain Pickerel,Esocidae,Intermediate,Piscivore,5,Yes,14,Excellent
+LBR,IF19,Jackson Cr,SR 1122,Moore,35.19167,-79.61861,SH,18.1,14-2-5,WS-II;HQW,2006-55,05/22/06,Noturus insignis,Margined Madtom,Ictaluridae,Intermediate,Insectivore,1,No,14,Excellent
+LBR,IF19,Jackson Cr,SR 1122,Moore,35.19167,-79.61861,SH,18.1,14-2-5,WS-II;HQW,2006-55,05/22/06,Aphredoderus sayanus,Pirate Perch,Aphredoderidae,Intermediate,Insectivore,5,Yes,14,Excellent
+LBR,IF19,Jackson Cr,SR 1122,Moore,35.19167,-79.61861,SH,18.1,14-2-5,WS-II;HQW,2006-55,05/22/06,Lepomis auritus,Redbreast Sunfish,Centrarchidae,Tolerant,Insectivore,5,Yes,14,Excellent
+LBR,IF19,Jackson Cr,SR 1122,Moore,35.19167,-79.61861,SH,18.1,14-2-5,WS-II;HQW,2006-55,05/22/06,Erimyzon oblongus,Creek Chubsucker,Catostomidae,Intermediate,Omnivore,3,No,14,Excellent
+LBR,IF19,Jackson Cr,SR 1122,Moore,35.19167,-79.61861,SH,18.1,14-2-5,WS-II;HQW,2006-55,05/22/06,Semotilus lumbee,Sandhills Chub,Cyprinidae,Intolerant,Insectivore,3,No,14,Excellent
+LBR,IF11,Drowning Cr,NC 73,Moore,35.18778,-79.64861,SH,31.9,14-2-(1),"WS-II;Sw,HQW",2006-56,05/22/06,Nocomis leptocephalus,Bluehead Chub,Cyprinidae,Intermediate,Omnivore,15,Yes,12,Good
+LBR,IF11,Drowning Cr,NC 73,Moore,35.18778,-79.64861,SH,31.9,14-2-(1),"WS-II;Sw,HQW",2006-56,05/22/06,Lepomis marginatus,Dollar Sunfish,Centrarchidae,Intermediate,Insectivore,2,No,12,Good
+LBR,IF11,Drowning Cr,NC 73,Moore,35.18778,-79.64861,SH,31.9,14-2-(1),"WS-II;Sw,HQW",2006-56,05/22/06,Notropis petersoni,Coastal Shiner,Cyprinidae,Intermediate,Insectivore,4,Yes,12,Good
+LBR,IF11,Drowning Cr,NC 73,Moore,35.18778,-79.64861,SH,31.9,14-2-(1),"WS-II;Sw,HQW",2006-56,05/22/06,Elassoma zonatum,Banded Pygmy Sunfish,Elassomatidae,Intermediate,Insectivore,1,No,12,Good
+LBR,IF11,Drowning Cr,NC 73,Moore,35.18778,-79.64861,SH,31.9,14-2-(1),"WS-II;Sw,HQW",2006-56,05/22/06,Semotilus lumbee,Sandhills Chub,Cyprinidae,Intolerant,Insectivore,2,No,12,Good
+LBR,IF11,Drowning Cr,NC 73,Moore,35.18778,-79.64861,SH,31.9,14-2-(1),"WS-II;Sw,HQW",2006-56,05/22/06,Etheostoma mariae,Pinewoods Darter,Percidae,Intolerant,Insectivore,2,No,12,Good
+LBR,IF11,Drowning Cr,NC 73,Moore,35.18778,-79.64861,SH,31.9,14-2-(1),"WS-II;Sw,HQW",2006-56,05/22/06,Lepomis gulosus,Warmouth,Centrarchidae,Intermediate,Insectivore,1,No,12,Good
+LBR,IF11,Drowning Cr,NC 73,Moore,35.18778,-79.64861,SH,31.9,14-2-(1),"WS-II;Sw,HQW",2006-56,05/22/06,Etheostoma olmstedi,Tessellated Darter,Percidae,Intermediate,Insectivore,8,Yes,12,Good
+LBR,IF11,Drowning Cr,NC 73,Moore,35.18778,-79.64861,SH,31.9,14-2-(1),"WS-II;Sw,HQW",2006-56,05/22/06,Esox americanus,Redfin Pickerel,Esocidae,Intermediate,Piscivore,4,No,12,Good
+LBR,IF11,Drowning Cr,NC 73,Moore,35.18778,-79.64861,SH,31.9,14-2-(1),"WS-II;Sw,HQW",2006-56,05/22/06,Notropis cummingsae,Dusky Shiner,Cyprinidae,Intermediate,Insectivore,60,Yes,12,Good
+LBR,IF11,Drowning Cr,NC 73,Moore,35.18778,-79.64861,SH,31.9,14-2-(1),"WS-II;Sw,HQW",2006-56,05/22/06,Lepomis auritus,Redbreast Sunfish,Centrarchidae,Tolerant,Insectivore,8,Yes,12,Good
+LBR,IF11,Drowning Cr,NC 73,Moore,35.18778,-79.64861,SH,31.9,14-2-(1),"WS-II;Sw,HQW",2006-56,05/22/06,Minytrema melanops,Spotted Sucker,Catostomidae,Intermediate,Insectivore,2,No,12,Good
+LBR,IF11,Drowning Cr,NC 73,Moore,35.18778,-79.64861,SH,31.9,14-2-(1),"WS-II;Sw,HQW",2006-56,05/22/06,Esox niger,Chain Pickerel,Esocidae,Intermediate,Piscivore,1,No,12,Good
+LBR,IF11,Drowning Cr,NC 73,Moore,35.18778,-79.64861,SH,31.9,14-2-(1),"WS-II;Sw,HQW",2006-56,05/22/06,Ameiurus platycephalus,Flat Bullhead,Ictaluridae,Tolerant,Insectivore,1,No,12,Good
+LBR,IF11,Drowning Cr,NC 73,Moore,35.18778,-79.64861,SH,31.9,14-2-(1),"WS-II;Sw,HQW",2006-56,05/22/06,Lepomis macrochirus,Bluegill,Centrarchidae,Intermediate,Insectivore,7,Yes,12,Good
+LBR,IF11,Drowning Cr,NC 73,Moore,35.18778,-79.64861,SH,31.9,14-2-(1),"WS-II;Sw,HQW",2006-56,05/22/06,Anguilla rostrata,American Eel,Anguillidae,Intermediate,Piscivore,4,Yes,12,Good
+LBR,IF11,Drowning Cr,NC 73,Moore,35.18778,-79.64861,SH,31.9,14-2-(1),"WS-II;Sw,HQW",2006-56,05/22/06,Noturus insignis,Margined Madtom,Ictaluridae,Intermediate,Insectivore,14,Yes,12,Good
+LBR,IF11,Drowning Cr,NC 73,Moore,35.18778,-79.64861,SH,31.9,14-2-(1),"WS-II;Sw,HQW",2006-56,05/22/06,Aphredoderus sayanus,Pirate Perch,Aphredoderidae,Intermediate,Insectivore,5,Yes,12,Good
+LBR,IF11,Drowning Cr,NC 73,Moore,35.18778,-79.64861,SH,31.9,14-2-(1),"WS-II;Sw,HQW",2006-56,05/22/06,Erimyzon oblongus,Creek Chubsucker,Catostomidae,Intermediate,Omnivore,1,No,12,Good
+LBR,IF11,Drowning Cr,NC 73,Moore,35.18778,-79.64861,SH,31.9,14-2-(1),"WS-II;Sw,HQW",2006-56,05/22/06,Notropis chiliticus,Redlip Shiner,Cyprinidae,Intermediate,Insectivore,13,Yes,12,Good
+LBR,IF28,Naked Cr,SR 1003,Richmond,35.08194,-79.58944,SH,38.6,14-2-6,WS-II;ORW,2006-57,05/22/06,Enneacanthus gloriosus,Bluespotted Sunfish,Centrarchidae,Intermediate,Insectivore,1,No,14,Excellent
+LBR,IF28,Naked Cr,SR 1003,Richmond,35.08194,-79.58944,SH,38.6,14-2-6,WS-II;ORW,2006-57,05/22/06,Etheostoma olmstedi,Tessellated Darter,Percidae,Intermediate,Insectivore,8,Yes,14,Excellent
+LBR,IF28,Naked Cr,SR 1003,Richmond,35.08194,-79.58944,SH,38.6,14-2-6,WS-II;ORW,2006-57,05/22/06,Etheostoma mariae,Pinewoods Darter,Percidae,Intolerant,Insectivore,3,Yes,14,Excellent
+LBR,IF28,Naked Cr,SR 1003,Richmond,35.08194,-79.58944,SH,38.6,14-2-6,WS-II;ORW,2006-57,05/22/06,Notropis petersoni,Coastal Shiner,Cyprinidae,Intermediate,Insectivore,1,No,14,Excellent
+LBR,IF28,Naked Cr,SR 1003,Richmond,35.08194,-79.58944,SH,38.6,14-2-6,WS-II;ORW,2006-57,05/22/06,Aphredoderus sayanus,Pirate Perch,Aphredoderidae,Intermediate,Insectivore,1,No,14,Excellent
+LBR,IF28,Naked Cr,SR 1003,Richmond,35.08194,-79.58944,SH,38.6,14-2-6,WS-II;ORW,2006-57,05/22/06,Lepomis gulosus,Warmouth,Centrarchidae,Intermediate,Insectivore,1,No,14,Excellent
+LBR,IF28,Naked Cr,SR 1003,Richmond,35.08194,-79.58944,SH,38.6,14-2-6,WS-II;ORW,2006-57,05/22/06,Acantharchus pomotis,Mud Sunfish,Centrarchidae,Intermediate,Insectivore,1,No,14,Excellent
+LBR,IF28,Naked Cr,SR 1003,Richmond,35.08194,-79.58944,SH,38.6,14-2-6,WS-II;ORW,2006-57,05/22/06,Percina crassa,Piedmont Darter,Percidae,Intolerant,Insectivore,2,No,14,Excellent
+LBR,IF28,Naked Cr,SR 1003,Richmond,35.08194,-79.58944,SH,38.6,14-2-6,WS-II;ORW,2006-57,05/22/06,Minytrema melanops,Spotted Sucker,Catostomidae,Intermediate,Insectivore,4,Yes,14,Excellent
+LBR,IF28,Naked Cr,SR 1003,Richmond,35.08194,-79.58944,SH,38.6,14-2-6,WS-II;ORW,2006-57,05/22/06,Lepomis auritus,Redbreast Sunfish,Centrarchidae,Tolerant,Insectivore,6,Yes,14,Excellent
+LBR,IF28,Naked Cr,SR 1003,Richmond,35.08194,-79.58944,SH,38.6,14-2-6,WS-II;ORW,2006-57,05/22/06,Noturus insignis,Margined Madtom,Ictaluridae,Intermediate,Insectivore,11,Yes,14,Excellent
+LBR,IF28,Naked Cr,SR 1003,Richmond,35.08194,-79.58944,SH,38.6,14-2-6,WS-II;ORW,2006-57,05/22/06,Amia calva,Bowfin,Amiidae,Tolerant,Piscivore,1,No,14,Excellent
+LBR,IF28,Naked Cr,SR 1003,Richmond,35.08194,-79.58944,SH,38.6,14-2-6,WS-II;ORW,2006-57,05/22/06,Anguilla rostrata,American Eel,Anguillidae,Intermediate,Piscivore,4,Yes,14,Excellent
+LBR,IF28,Naked Cr,SR 1003,Richmond,35.08194,-79.58944,SH,38.6,14-2-6,WS-II;ORW,2006-57,05/22/06,Notropis cummingsae,Dusky Shiner,Cyprinidae,Intermediate,Insectivore,39,Yes,14,Excellent
+LBR,IF28,Naked Cr,SR 1003,Richmond,35.08194,-79.58944,SH,38.6,14-2-6,WS-II;ORW,2006-57,05/22/06,Esox americanus,Redfin Pickerel,Esocidae,Intermediate,Piscivore,4,No,14,Excellent
+LBR,IF28,Naked Cr,SR 1003,Richmond,35.08194,-79.58944,SH,38.6,14-2-6,WS-II;ORW,2006-57,05/22/06,Ameiurus platycephalus,Flat Bullhead,Ictaluridae,Tolerant,Insectivore,1,No,14,Excellent
+LBR,IF28,Naked Cr,SR 1003,Richmond,35.08194,-79.58944,SH,38.6,14-2-6,WS-II;ORW,2006-57,05/22/06,Esox niger,Chain Pickerel,Esocidae,Intermediate,Piscivore,1,No,14,Excellent
+LBR,IF1,Aberdeen Cr,SR 1105,Moore,35.09694,-79.45611,SH,28.4,14-2-11-(6),C,2006-58,05/23/06,Aphredoderus sayanus,Pirate Perch,Aphredoderidae,Intermediate,Insectivore,1,No,8,Fair
+LBR,IF1,Aberdeen Cr,SR 1105,Moore,35.09694,-79.45611,SH,28.4,14-2-11-(6),C,2006-58,05/23/06,Lepomis gulosus,Warmouth,Centrarchidae,Intermediate,Insectivore,1,No,8,Fair
+LBR,IF1,Aberdeen Cr,SR 1105,Moore,35.09694,-79.45611,SH,28.4,14-2-11-(6),C,2006-58,05/23/06,Lepomis auritus,Redbreast Sunfish,Centrarchidae,Tolerant,Insectivore,5,Yes,8,Fair
+LBR,IF1,Aberdeen Cr,SR 1105,Moore,35.09694,-79.45611,SH,28.4,14-2-11-(6),C,2006-58,05/23/06,Minytrema melanops,Spotted Sucker,Catostomidae,Intermediate,Insectivore,1,No,8,Fair
+LBR,IF1,Aberdeen Cr,SR 1105,Moore,35.09694,-79.45611,SH,28.4,14-2-11-(6),C,2006-58,05/23/06,Esox niger,Chain Pickerel,Esocidae,Intermediate,Piscivore,1,No,8,Fair
+LBR,IF1,Aberdeen Cr,SR 1105,Moore,35.09694,-79.45611,SH,28.4,14-2-11-(6),C,2006-58,05/23/06,Labidesthes sicculus,Brook Silverside,Atherinidae,Intermediate,Insectivore,1,No,8,Fair
+LBR,IF1,Aberdeen Cr,SR 1105,Moore,35.09694,-79.45611,SH,28.4,14-2-11-(6),C,2006-58,05/23/06,Micropterus salmoides,Largemouth Bass,Centrarchidae,Intermediate,Piscivore,1,No,8,Fair
+LBR,IF1,Aberdeen Cr,SR 1105,Moore,35.09694,-79.45611,SH,28.4,14-2-11-(6),C,2006-58,05/23/06,Etheostoma olmstedi,Tessellated Darter,Percidae,Intermediate,Insectivore,2,No,8,Fair
+LBR,IF1,Aberdeen Cr,SR 1105,Moore,35.09694,-79.45611,SH,28.4,14-2-11-(6),C,2006-58,05/23/06,Notemigonus crysoleucas,Golden Shiner,Cyprinidae,Tolerant,Omnivore,1,No,8,Fair
+LBR,IF1,Aberdeen Cr,SR 1105,Moore,35.09694,-79.45611,SH,28.4,14-2-11-(6),C,2006-58,05/23/06,Erimyzon oblongus,Creek Chubsucker,Catostomidae,Intermediate,Omnivore,1,No,8,Fair
+LBR,IF1,Aberdeen Cr,SR 1105,Moore,35.09694,-79.45611,SH,28.4,14-2-11-(6),C,2006-58,05/23/06,Noturus insignis,Margined Madtom,Ictaluridae,Intermediate,Insectivore,1,No,8,Fair
+LBR,IF1,Aberdeen Cr,SR 1105,Moore,35.09694,-79.45611,SH,28.4,14-2-11-(6),C,2006-58,05/23/06,Lepomis macrochirus,Bluegill,Centrarchidae,Intermediate,Insectivore,2,No,8,Fair
+LBR,IF1,Aberdeen Cr,SR 1105,Moore,35.09694,-79.45611,SH,28.4,14-2-11-(6),C,2006-58,05/23/06,Notropis cummingsae,Dusky Shiner,Cyprinidae,Intermediate,Insectivore,6,Yes,8,Fair
+LBR,IF1,Aberdeen Cr,SR 1105,Moore,35.09694,-79.45611,SH,28.4,14-2-11-(6),C,2006-58,05/23/06,Ameiurus platycephalus,Flat Bullhead,Ictaluridae,Tolerant,Insectivore,1,No,8,Fair
+LBR,IF1,Aberdeen Cr,SR 1105,Moore,35.09694,-79.45611,SH,28.4,14-2-11-(6),C,2006-58,05/23/06,Anguilla rostrata,American Eel,Anguillidae,Intermediate,Piscivore,2,No,8,Fair
+LBR,IF18,Horse Cr,SR 1112,Moore,35.13222,-79.49222,SH,10.7,14-2-10,WS-II;HQW,2006-59,05/23/06,Semotilus lumbee,Sandhills Chub,Cyprinidae,Intolerant,Insectivore,4,Yes,14,Excellent
+LBR,IF18,Horse Cr,SR 1112,Moore,35.13222,-79.49222,SH,10.7,14-2-10,WS-II;HQW,2006-59,05/23/06,Etheostoma serrifer,Sawcheek Darter,Percidae,Intolerant,Insectivore,2,No,14,Excellent
+LBR,IF18,Horse Cr,SR 1112,Moore,35.13222,-79.49222,SH,10.7,14-2-10,WS-II;HQW,2006-59,05/23/06,Ameiurus natalis,Yellow Bullhead,Ictaluridae,Tolerant,Omnivore,1,No,14,Excellent
+LBR,IF18,Horse Cr,SR 1112,Moore,35.13222,-79.49222,SH,10.7,14-2-10,WS-II;HQW,2006-59,05/23/06,Lepomis auritus,Redbreast Sunfish,Centrarchidae,Tolerant,Insectivore,2,No,14,Excellent
+LBR,IF18,Horse Cr,SR 1112,Moore,35.13222,-79.49222,SH,10.7,14-2-10,WS-II;HQW,2006-59,05/23/06,Aphredoderus sayanus,Pirate Perch,Aphredoderidae,Intermediate,Insectivore,2,No,14,Excellent
+LBR,IF18,Horse Cr,SR 1112,Moore,35.13222,-79.49222,SH,10.7,14-2-10,WS-II;HQW,2006-59,05/23/06,Acantharchus pomotis,Mud Sunfish,Centrarchidae,Intermediate,Insectivore,1,No,14,Excellent
+LBR,IF18,Horse Cr,SR 1112,Moore,35.13222,-79.49222,SH,10.7,14-2-10,WS-II;HQW,2006-59,05/23/06,Esox americanus,Redfin Pickerel,Esocidae,Intermediate,Piscivore,3,Yes,14,Excellent
+LBR,IF18,Horse Cr,SR 1112,Moore,35.13222,-79.49222,SH,10.7,14-2-10,WS-II;HQW,2006-59,05/23/06,Enneacanthus gloriosus,Bluespotted Sunfish,Centrarchidae,Intermediate,Insectivore,1,No,14,Excellent
+LBR,IF18,Horse Cr,SR 1112,Moore,35.13222,-79.49222,SH,10.7,14-2-10,WS-II;HQW,2006-59,05/23/06,Lepomis gulosus,Warmouth,Centrarchidae,Intermediate,Insectivore,1,No,14,Excellent
+LBR,IF18,Horse Cr,SR 1112,Moore,35.13222,-79.49222,SH,10.7,14-2-10,WS-II;HQW,2006-59,05/23/06,Etheostoma olmstedi,Tessellated Darter,Percidae,Intermediate,Insectivore,4,No,14,Excellent
+LBR,IF18,Horse Cr,SR 1112,Moore,35.13222,-79.49222,SH,10.7,14-2-10,WS-II;HQW,2006-59,05/23/06,Etheostoma mariae,Pinewoods Darter,Percidae,Intolerant,Insectivore,9,Yes,14,Excellent
+LBR,IF18,Horse Cr,SR 1112,Moore,35.13222,-79.49222,SH,10.7,14-2-10,WS-II;HQW,2006-59,05/23/06,Noturus insignis,Margined Madtom,Ictaluridae,Intermediate,Insectivore,2,No,14,Excellent
+LBR,IF18,Horse Cr,SR 1112,Moore,35.13222,-79.49222,SH,10.7,14-2-10,WS-II;HQW,2006-59,05/23/06,Lepomis macrochirus,Bluegill,Centrarchidae,Intermediate,Insectivore,2,No,14,Excellent
+LBR,IF18,Horse Cr,SR 1112,Moore,35.13222,-79.49222,SH,10.7,14-2-10,WS-II;HQW,2006-59,05/23/06,Elassoma zonatum,Banded Pygmy Sunfish,Elassomatidae,Intermediate,Insectivore,1,No,14,Excellent
+LBR,IF18,Horse Cr,SR 1112,Moore,35.13222,-79.49222,SH,10.7,14-2-10,WS-II;HQW,2006-59,05/23/06,Erimyzon oblongus,Creek Chubsucker,Catostomidae,Intermediate,Omnivore,16,Yes,14,Excellent
+LBR,IF18,Horse Cr,SR 1112,Moore,35.13222,-79.49222,SH,10.7,14-2-10,WS-II;HQW,2006-59,05/23/06,Lepomis marginatus,Dollar Sunfish,Centrarchidae,Intermediate,Insectivore,8,Yes,14,Excellent
+LBR,IF18,Horse Cr,SR 1112,Moore,35.13222,-79.49222,SH,10.7,14-2-10,WS-II;HQW,2006-59,05/23/06,Esox niger,Chain Pickerel,Esocidae,Intermediate,Piscivore,1,No,14,Excellent
+LBR,IF18,Horse Cr,SR 1112,Moore,35.13222,-79.49222,SH,10.7,14-2-10,WS-II;HQW,2006-59,05/23/06,Notropis cummingsae,Dusky Shiner,Cyprinidae,Intermediate,Insectivore,52,Yes,14,Excellent
+LBR,IF30,Quewhiffle Cr,SR 1225,Hoke,35.04889,-79.41694,SH,17.8,14-2-14,C,2006-60,05/23/06,Etheostoma mariae,Pinewoods Darter,Percidae,Intolerant,Insectivore,8,Yes,12,Good
+LBR,IF30,Quewhiffle Cr,SR 1225,Hoke,35.04889,-79.41694,SH,17.8,14-2-14,C,2006-60,05/23/06,Chologaster cornuta,Swampfish,Amblyopsidae,Intermediate,Insectivore,1,No,12,Good
+LBR,IF30,Quewhiffle Cr,SR 1225,Hoke,35.04889,-79.41694,SH,17.8,14-2-14,C,2006-60,05/23/06,Elassoma zonatum,Banded Pygmy Sunfish,Elassomatidae,Intermediate,Insectivore,1,No,12,Good
+LBR,IF30,Quewhiffle Cr,SR 1225,Hoke,35.04889,-79.41694,SH,17.8,14-2-14,C,2006-60,05/23/06,Etheostoma olmstedi,Tessellated Darter,Percidae,Intermediate,Insectivore,1,No,12,Good
+LBR,IF30,Quewhiffle Cr,SR 1225,Hoke,35.04889,-79.41694,SH,17.8,14-2-14,C,2006-60,05/23/06,Notropis cummingsae,Dusky Shiner,Cyprinidae,Intermediate,Insectivore,2,No,12,Good
+LBR,IF30,Quewhiffle Cr,SR 1225,Hoke,35.04889,-79.41694,SH,17.8,14-2-14,C,2006-60,05/23/06,Acantharchus pomotis,Mud Sunfish,Centrarchidae,Intermediate,Insectivore,1,No,12,Good
+LBR,IF30,Quewhiffle Cr,SR 1225,Hoke,35.04889,-79.41694,SH,17.8,14-2-14,C,2006-60,05/23/06,Ameiurus natalis,Yellow Bullhead,Ictaluridae,Tolerant,Omnivore,1,No,12,Good
+LBR,IF27,Mountain Cr,SR 1215,Hoke,35.01417,-79.39056,SH,9.9,14-2-16-(2),C,2006-61,05/24/06,Semotilus lumbee,Sandhills Chub,Cyprinidae,Intolerant,Insectivore,3,Yes,11,Good
+LBR,IF27,Mountain Cr,SR 1215,Hoke,35.01417,-79.39056,SH,9.9,14-2-16-(2),C,2006-61,05/24/06,Lepomis auritus,Redbreast Sunfish,Centrarchidae,Tolerant,Insectivore,3,Yes,11,Good
+LBR,IF27,Mountain Cr,SR 1215,Hoke,35.01417,-79.39056,SH,9.9,14-2-16-(2),C,2006-61,05/24/06,Ameiurus natalis,Yellow Bullhead,Ictaluridae,Tolerant,Omnivore,3,No,11,Good
+LBR,IF27,Mountain Cr,SR 1215,Hoke,35.01417,-79.39056,SH,9.9,14-2-16-(2),C,2006-61,05/24/06,Erimyzon oblongus,Creek Chubsucker,Catostomidae,Intermediate,Omnivore,2,No,11,Good
+LBR,IF27,Mountain Cr,SR 1215,Hoke,35.01417,-79.39056,SH,9.9,14-2-16-(2),C,2006-61,05/24/06,Anguilla rostrata,American Eel,Anguillidae,Intermediate,Piscivore,1,No,11,Good
+LBR,IF27,Mountain Cr,SR 1215,Hoke,35.01417,-79.39056,SH,9.9,14-2-16-(2),C,2006-61,05/24/06,Etheostoma mariae,Pinewoods Darter,Percidae,Intolerant,Insectivore,3,Yes,11,Good
+LBR,IF27,Mountain Cr,SR 1215,Hoke,35.01417,-79.39056,SH,9.9,14-2-16-(2),C,2006-61,05/24/06,Noturus insignis,Margined Madtom,Ictaluridae,Intermediate,Insectivore,5,Yes,11,Good
+LBR,IF27,Mountain Cr,SR 1215,Hoke,35.01417,-79.39056,SH,9.9,14-2-16-(2),C,2006-61,05/24/06,Notropis cummingsae,Dusky Shiner,Cyprinidae,Intermediate,Insectivore,239,Yes,11,Good
+LBR,IF27,Mountain Cr,SR 1215,Hoke,35.01417,-79.39056,SH,9.9,14-2-16-(2),C,2006-61,05/24/06,Lepomis marginatus,Dollar Sunfish,Centrarchidae,Intermediate,Insectivore,1,No,11,Good
+LBR,IF27,Mountain Cr,SR 1215,Hoke,35.01417,-79.39056,SH,9.9,14-2-16-(2),C,2006-61,05/24/06,Aphredoderus sayanus,Pirate Perch,Aphredoderidae,Intermediate,Insectivore,3,No,11,Good
+LBR,IF5,Big Shoeheel Cr,SR 1433,Scotland,34.80389,-79.37667,SH,21.3,14-34,C;Sw,2006-62,05/24/06,Ameiurus brunneus,Snail Bullhead,Ictaluridae,Intermediate,Insectivore,1,No,12,Good
+LBR,IF5,Big Shoeheel Cr,SR 1433,Scotland,34.80389,-79.37667,SH,21.3,14-34,C;Sw,2006-62,05/24/06,Enneacanthus gloriosus,Bluespotted Sunfish,Centrarchidae,Intermediate,Insectivore,1,No,12,Good
+LBR,IF5,Big Shoeheel Cr,SR 1433,Scotland,34.80389,-79.37667,SH,21.3,14-34,C;Sw,2006-62,05/24/06,Lepomis macrochirus,Bluegill,Centrarchidae,Intermediate,Insectivore,3,Yes,12,Good
+LBR,IF5,Big Shoeheel Cr,SR 1433,Scotland,34.80389,-79.37667,SH,21.3,14-34,C;Sw,2006-62,05/24/06,Semotilus lumbee,Sandhills Chub,Cyprinidae,Intolerant,Insectivore,1,No,12,Good
+LBR,IF5,Big Shoeheel Cr,SR 1433,Scotland,34.80389,-79.37667,SH,21.3,14-34,C;Sw,2006-62,05/24/06,Umbra pygmaea,Eastern Mudminnow,Umbridae,Intermediate,Insectivore,1,No,12,Good
+LBR,IF5,Big Shoeheel Cr,SR 1433,Scotland,34.80389,-79.37667,SH,21.3,14-34,C;Sw,2006-62,05/24/06,Lepomis punctatus,Spotted Sunfish,Centrarchidae,Intermediate,Insectivore,2,No,12,Good
+LBR,IF5,Big Shoeheel Cr,SR 1433,Scotland,34.80389,-79.37667,SH,21.3,14-34,C;Sw,2006-62,05/24/06,Etheostoma olmstedi,Tessellated Darter,Percidae,Intermediate,Insectivore,3,Yes,12,Good
+LBR,IF5,Big Shoeheel Cr,SR 1433,Scotland,34.80389,-79.37667,SH,21.3,14-34,C;Sw,2006-62,05/24/06,Centrarchus macropterus,Flier,Centrarchidae,Intermediate,Insectivore,1,No,12,Good
+LBR,IF5,Big Shoeheel Cr,SR 1433,Scotland,34.80389,-79.37667,SH,21.3,14-34,C;Sw,2006-62,05/24/06,Noturus insignis,Margined Madtom,Ictaluridae,Intermediate,Insectivore,4,Yes,12,Good
+LBR,IF5,Big Shoeheel Cr,SR 1433,Scotland,34.80389,-79.37667,SH,21.3,14-34,C;Sw,2006-62,05/24/06,Notropis cummingsae,Dusky Shiner,Cyprinidae,Intermediate,Insectivore,56,Yes,12,Good
+LBR,IF5,Big Shoeheel Cr,SR 1433,Scotland,34.80389,-79.37667,SH,21.3,14-34,C;Sw,2006-62,05/24/06,Minytrema melanops,Spotted Sucker,Catostomidae,Intermediate,Insectivore,4,Yes,12,Good
+LBR,IF5,Big Shoeheel Cr,SR 1433,Scotland,34.80389,-79.37667,SH,21.3,14-34,C;Sw,2006-62,05/24/06,Anguilla rostrata,American Eel,Anguillidae,Intermediate,Piscivore,1,No,12,Good
+LBR,IF5,Big Shoeheel Cr,SR 1433,Scotland,34.80389,-79.37667,SH,21.3,14-34,C;Sw,2006-62,05/24/06,Lepomis auritus,Redbreast Sunfish,Centrarchidae,Tolerant,Insectivore,10,Yes,12,Good
+LBR,IF5,Big Shoeheel Cr,SR 1433,Scotland,34.80389,-79.37667,SH,21.3,14-34,C;Sw,2006-62,05/24/06,Lepomis gulosus,Warmouth,Centrarchidae,Intermediate,Insectivore,2,No,12,Good
+LBR,IF21,Jordan Cr,SR 1324,Scotland,34.87056,-79.48528,SH,10.4,14-34-4-(2),C;Sw,2006-63,05/24/06,Ameiurus natalis,Yellow Bullhead,Ictaluridae,Tolerant,Omnivore,3,Yes,14,Excellent
+LBR,IF21,Jordan Cr,SR 1324,Scotland,34.87056,-79.48528,SH,10.4,14-34-4-(2),C;Sw,2006-63,05/24/06,Anguilla rostrata,American Eel,Anguillidae,Intermediate,Piscivore,1,No,14,Excellent
+LBR,IF21,Jordan Cr,SR 1324,Scotland,34.87056,-79.48528,SH,10.4,14-34-4-(2),C;Sw,2006-63,05/24/06,Fundulus lineolatus,Lined Topminnow,Fundulidae,Intermediate,Insectivore,2,No,14,Excellent
+LBR,IF21,Jordan Cr,SR 1324,Scotland,34.87056,-79.48528,SH,10.4,14-34-4-(2),C;Sw,2006-63,05/24/06,Micropterus salmoides,Largemouth Bass,Centrarchidae,Intermediate,Piscivore,1,No,14,Excellent
+LBR,IF21,Jordan Cr,SR 1324,Scotland,34.87056,-79.48528,SH,10.4,14-34-4-(2),C;Sw,2006-63,05/24/06,Etheostoma olmstedi,Tessellated Darter,Percidae,Intermediate,Insectivore,12,Yes,14,Excellent
+LBR,IF21,Jordan Cr,SR 1324,Scotland,34.87056,-79.48528,SH,10.4,14-34-4-(2),C;Sw,2006-63,05/24/06,Enneacanthus gloriosus,Bluespotted Sunfish,Centrarchidae,Intermediate,Insectivore,2,No,14,Excellent
+LBR,IF21,Jordan Cr,SR 1324,Scotland,34.87056,-79.48528,SH,10.4,14-34-4-(2),C;Sw,2006-63,05/24/06,Notropis cummingsae,Dusky Shiner,Cyprinidae,Intermediate,Insectivore,27,Yes,14,Excellent
+LBR,IF21,Jordan Cr,SR 1324,Scotland,34.87056,-79.48528,SH,10.4,14-34-4-(2),C;Sw,2006-63,05/24/06,Noturus insignis,Margined Madtom,Ictaluridae,Intermediate,Insectivore,3,Yes,14,Excellent
+LBR,IF21,Jordan Cr,SR 1324,Scotland,34.87056,-79.48528,SH,10.4,14-34-4-(2),C;Sw,2006-63,05/24/06,Erimyzon oblongus,Creek Chubsucker,Catostomidae,Intermediate,Omnivore,1,No,14,Excellent
+LBR,IF21,Jordan Cr,SR 1324,Scotland,34.87056,-79.48528,SH,10.4,14-34-4-(2),C;Sw,2006-63,05/24/06,Esox americanus,Redfin Pickerel,Esocidae,Intermediate,Piscivore,3,Yes,14,Excellent
+LBR,IF21,Jordan Cr,SR 1324,Scotland,34.87056,-79.48528,SH,10.4,14-34-4-(2),C;Sw,2006-63,05/24/06,Lepomis marginatus,Dollar Sunfish,Centrarchidae,Intermediate,Insectivore,8,Yes,14,Excellent
+LBR,IF21,Jordan Cr,SR 1324,Scotland,34.87056,-79.48528,SH,10.4,14-34-4-(2),C;Sw,2006-63,05/24/06,Esox niger,Chain Pickerel,Esocidae,Intermediate,Piscivore,5,Yes,14,Excellent
+LBR,IF21,Jordan Cr,SR 1324,Scotland,34.87056,-79.48528,SH,10.4,14-34-4-(2),C;Sw,2006-63,05/24/06,Aphredoderus sayanus,Pirate Perch,Aphredoderidae,Intermediate,Insectivore,3,No,14,Excellent
+LBR,IF21,Jordan Cr,SR 1324,Scotland,34.87056,-79.48528,SH,10.4,14-34-4-(2),C;Sw,2006-63,05/24/06,Etheostoma mariae,Pinewoods Darter,Percidae,Intolerant,Insectivore,5,Yes,14,Excellent
+LBR,IF15,Gum Swamp Cr,SR 1344,Scotland,34.92944,-79.57306,SH,16,14-32-(1),C,2006-64,05/25/06,Notropis cummingsae,Dusky Shiner,Cyprinidae,Intermediate,Insectivore,12,Yes,13,Excellent
+LBR,IF15,Gum Swamp Cr,SR 1344,Scotland,34.92944,-79.57306,SH,16,14-32-(1),C,2006-64,05/25/06,Etheostoma olmstedi,Tessellated Darter,Percidae,Intermediate,Insectivore,1,No,13,Excellent
+LBR,IF15,Gum Swamp Cr,SR 1344,Scotland,34.92944,-79.57306,SH,16,14-32-(1),C,2006-64,05/25/06,Aphredoderus sayanus,Pirate Perch,Aphredoderidae,Intermediate,Insectivore,4,Yes,13,Excellent
+LBR,IF15,Gum Swamp Cr,SR 1344,Scotland,34.92944,-79.57306,SH,16,14-32-(1),C,2006-64,05/25/06,Acantharchus pomotis,Mud Sunfish,Centrarchidae,Intermediate,Insectivore,2,No,13,Excellent
+LBR,IF15,Gum Swamp Cr,SR 1344,Scotland,34.92944,-79.57306,SH,16,14-32-(1),C,2006-64,05/25/06,Noturus insignis,Margined Madtom,Ictaluridae,Intermediate,Insectivore,5,Yes,13,Excellent
+LBR,IF15,Gum Swamp Cr,SR 1344,Scotland,34.92944,-79.57306,SH,16,14-32-(1),C,2006-64,05/25/06,Esox americanus,Redfin Pickerel,Esocidae,Intermediate,Piscivore,1,No,13,Excellent
+LBR,IF15,Gum Swamp Cr,SR 1344,Scotland,34.92944,-79.57306,SH,16,14-32-(1),C,2006-64,05/25/06,Lepomis marginatus,Dollar Sunfish,Centrarchidae,Intermediate,Insectivore,3,No,13,Excellent
+LBR,IF15,Gum Swamp Cr,SR 1344,Scotland,34.92944,-79.57306,SH,16,14-32-(1),C,2006-64,05/25/06,Etheostoma mariae,Pinewoods Darter,Percidae,Intolerant,Insectivore,21,Yes,13,Excellent
+LBR,IF15,Gum Swamp Cr,SR 1344,Scotland,34.92944,-79.57306,SH,16,14-32-(1),C,2006-64,05/25/06,Esox niger,Chain Pickerel,Esocidae,Intermediate,Piscivore,3,Yes,13,Excellent
+LBR,IF15,Gum Swamp Cr,SR 1344,Scotland,34.92944,-79.57306,SH,16,14-32-(1),C,2006-64,05/25/06,Enneacanthus gloriosus,Bluespotted Sunfish,Centrarchidae,Intermediate,Insectivore,1,No,13,Excellent
+LBR,IF15,Gum Swamp Cr,SR 1344,Scotland,34.92944,-79.57306,SH,16,14-32-(1),C,2006-64,05/25/06,Ameiurus natalis,Yellow Bullhead,Ictaluridae,Tolerant,Omnivore,1,No,13,Excellent
+LBR,IF20,Joes Cr,NC 79,Scotland,34.76528,-79.57556,SH,31.4,14-32-14,C;Sw,2006-65,05/25/06,Lepomis macrochirus,Bluegill,Centrarchidae,Intermediate,Insectivore,4,Yes,12,Good
+LBR,IF20,Joes Cr,NC 79,Scotland,34.76528,-79.57556,SH,31.4,14-32-14,C;Sw,2006-65,05/25/06,Etheostoma mariae,Pinewoods Darter,Percidae,Intolerant,Insectivore,3,No,12,Good
+LBR,IF20,Joes Cr,NC 79,Scotland,34.76528,-79.57556,SH,31.4,14-32-14,C;Sw,2006-65,05/25/06,Aphredoderus sayanus,Pirate Perch,Aphredoderidae,Intermediate,Insectivore,1,No,12,Good
+LBR,IF20,Joes Cr,NC 79,Scotland,34.76528,-79.57556,SH,31.4,14-32-14,C;Sw,2006-65,05/25/06,Lepomis gulosus,Warmouth,Centrarchidae,Intermediate,Insectivore,2,No,12,Good
+LBR,IF20,Joes Cr,NC 79,Scotland,34.76528,-79.57556,SH,31.4,14-32-14,C;Sw,2006-65,05/25/06,Umbra pygmaea,Eastern Mudminnow,Umbridae,Intermediate,Insectivore,1,No,12,Good
+LBR,IF20,Joes Cr,NC 79,Scotland,34.76528,-79.57556,SH,31.4,14-32-14,C;Sw,2006-65,05/25/06,Esox americanus,Redfin Pickerel,Esocidae,Intermediate,Piscivore,1,No,12,Good
+LBR,IF20,Joes Cr,NC 79,Scotland,34.76528,-79.57556,SH,31.4,14-32-14,C;Sw,2006-65,05/25/06,Micropterus salmoides,Largemouth Bass,Centrarchidae,Intermediate,Piscivore,3,Yes,12,Good
+LBR,IF20,Joes Cr,NC 79,Scotland,34.76528,-79.57556,SH,31.4,14-32-14,C;Sw,2006-65,05/25/06,Etheostoma olmstedi,Tessellated Darter,Percidae,Intermediate,Insectivore,19,Yes,12,Good
+LBR,IF20,Joes Cr,NC 79,Scotland,34.76528,-79.57556,SH,31.4,14-32-14,C;Sw,2006-65,05/25/06,Lepomis auritus,Redbreast Sunfish,Centrarchidae,Tolerant,Insectivore,9,Yes,12,Good
+LBR,IF20,Joes Cr,NC 79,Scotland,34.76528,-79.57556,SH,31.4,14-32-14,C;Sw,2006-65,05/25/06,Notropis cummingsae,Dusky Shiner,Cyprinidae,Intermediate,Insectivore,98,Yes,12,Good
+LBR,IF20,Joes Cr,NC 79,Scotland,34.76528,-79.57556,SH,31.4,14-32-14,C;Sw,2006-65,05/25/06,Anguilla rostrata,American Eel,Anguillidae,Intermediate,Piscivore,3,No,12,Good
+LBR,IF20,Joes Cr,NC 79,Scotland,34.76528,-79.57556,SH,31.4,14-32-14,C;Sw,2006-65,05/25/06,Minytrema melanops,Spotted Sucker,Catostomidae,Intermediate,Insectivore,1,No,12,Good
+LBR,IF20,Joes Cr,NC 79,Scotland,34.76528,-79.57556,SH,31.4,14-32-14,C;Sw,2006-65,05/25/06,Noturus insignis,Margined Madtom,Ictaluridae,Intermediate,Insectivore,4,Yes,12,Good
+LBR,IF20,Joes Cr,NC 79,Scotland,34.76528,-79.57556,SH,31.4,14-32-14,C;Sw,2006-65,05/25/06,Gambusia holbrooki,Eastern Mosquitofish,Poecilidae,Tolerant,Insectivore,5,Yes,12,Good
+LBR,IF22,Juniper Cr,SR 1405,Scotland,34.85500,-79.43028,SH,22.5,14-34-4-3,C;Sw,2006-66,05/25/06,Esox americanus,Redfin Pickerel,Esocidae,Intermediate,Piscivore,3,Yes,13,Excellent
+LBR,IF22,Juniper Cr,SR 1405,Scotland,34.85500,-79.43028,SH,22.5,14-34-4-3,C;Sw,2006-66,05/25/06,Anguilla rostrata,American Eel,Anguillidae,Intermediate,Piscivore,2,No,13,Excellent
+LBR,IF22,Juniper Cr,SR 1405,Scotland,34.85500,-79.43028,SH,22.5,14-34-4-3,C;Sw,2006-66,05/25/06,Etheostoma olmstedi,Tessellated Darter,Percidae,Intermediate,Insectivore,3,Yes,13,Excellent
+LBR,IF22,Juniper Cr,SR 1405,Scotland,34.85500,-79.43028,SH,22.5,14-34-4-3,C;Sw,2006-66,05/25/06,Etheostoma mariae,Pinewoods Darter,Percidae,Intolerant,Insectivore,6,Yes,13,Excellent
+LBR,IF22,Juniper Cr,SR 1405,Scotland,34.85500,-79.43028,SH,22.5,14-34-4-3,C;Sw,2006-66,05/25/06,Aphredoderus sayanus,Pirate Perch,Aphredoderidae,Intermediate,Insectivore,1,No,13,Excellent
+LBR,IF22,Juniper Cr,SR 1405,Scotland,34.85500,-79.43028,SH,22.5,14-34-4-3,C;Sw,2006-66,05/25/06,Lepomis marginatus,Dollar Sunfish,Centrarchidae,Intermediate,Insectivore,1,No,13,Excellent
+LBR,IF22,Juniper Cr,SR 1405,Scotland,34.85500,-79.43028,SH,22.5,14-34-4-3,C;Sw,2006-66,05/25/06,Ameiurus natalis,Yellow Bullhead,Ictaluridae,Tolerant,Omnivore,1,No,13,Excellent
+LBR,IF22,Juniper Cr,SR 1405,Scotland,34.85500,-79.43028,SH,22.5,14-34-4-3,C;Sw,2006-66,05/25/06,Noturus insignis,Margined Madtom,Ictaluridae,Intermediate,Insectivore,6,Yes,13,Excellent
+LBR,IF22,Juniper Cr,SR 1405,Scotland,34.85500,-79.43028,SH,22.5,14-34-4-3,C;Sw,2006-66,05/25/06,Notropis cummingsae,Dusky Shiner,Cyprinidae,Intermediate,Insectivore,128,Yes,13,Excellent
+LBR,IF22,Juniper Cr,SR 1405,Scotland,34.85500,-79.43028,SH,22.5,14-34-4-3,C;Sw,2006-66,05/25/06,Esox niger,Chain Pickerel,Esocidae,Intermediate,Piscivore,1,No,13,Excellent
+LBR,IF22,Juniper Cr,SR 1405,Scotland,34.85500,-79.43028,SH,22.5,14-34-4-3,C;Sw,2006-66,05/25/06,Acantharchus pomotis,Mud Sunfish,Centrarchidae,Intermediate,Insectivore,1,No,13,Excellent
+LBR,IF22,Juniper Cr,SR 1405,Scotland,34.85500,-79.43028,SH,22.5,14-34-4-3,C;Sw,2006-66,05/25/06,Erimyzon oblongus,Creek Chubsucker,Catostomidae,Intermediate,Omnivore,1,No,13,Excellent
+LBR,IF34,Hills Cr,SR 1400,Scotland,34.98289,-79.40504,SH,6,14-2-18,C,2013-77,10/17/13,Ameiurus brunneus,Snail Bullhead,Ictaluridae,Intermediate,Insectivore,1,No,13,Excellent
+LBR,IF34,Hills Cr,SR 1400,Scotland,34.98289,-79.40504,SH,6,14-2-18,C,2013-77,10/17/13,Etheostoma mariae,Pinewoods Darter,Percidae,Intolerant,Insectivore,4,Yes,13,Excellent
+LBR,IF34,Hills Cr,SR 1400,Scotland,34.98289,-79.40504,SH,6,14-2-18,C,2013-77,10/17/13,Lepomis marginatus,Dollar Sunfish,Centrarchidae,Intermediate,Insectivore,1,No,13,Excellent
+LBR,IF34,Hills Cr,SR 1400,Scotland,34.98289,-79.40504,SH,6,14-2-18,C,2013-77,10/17/13,Acantharchus pomotis,Mud Sunfish,Centrarchidae,Intermediate,Insectivore,3,Yes,13,Excellent
+LBR,IF34,Hills Cr,SR 1400,Scotland,34.98289,-79.40504,SH,6,14-2-18,C,2013-77,10/17/13,Anguilla rostrata,American Eel,Anguillidae,Intermediate,Piscivore,1,No,13,Excellent
+LBR,IF34,Hills Cr,SR 1400,Scotland,34.98289,-79.40504,SH,6,14-2-18,C,2013-77,10/17/13,Aphredoderus sayanus,Pirate Perch,Aphredoderidae,Intermediate,Insectivore,9,Yes,13,Excellent
+LBR,IF34,Hills Cr,SR 1400,Scotland,34.98289,-79.40504,SH,6,14-2-18,C,2013-77,10/17/13,Notropis cummingsae,Dusky Shiner,Cyprinidae,Intermediate,Insectivore,38,Yes,13,Excellent
+LBR,IF34,Hills Cr,SR 1400,Scotland,34.98289,-79.40504,SH,6,14-2-18,C,2013-77,10/17/13,Esox niger,Chain Pickerel,Esocidae,Intermediate,Piscivore,2,No,13,Excellent
+LBR,IF34,Hills Cr,SR 1400,Scotland,34.98289,-79.40504,SH,6,14-2-18,C,2013-77,10/17/13,Esox americanus,Redfin Pickerel,Esocidae,Intermediate,Piscivore,3,No,13,Excellent
+LBR,IF34,Hills Cr,SR 1400,Scotland,34.98289,-79.40504,SH,6,14-2-18,C,2013-77,10/17/13,Ameiurus natalis,Yellow Bullhead,Ictaluridae,Tolerant,Omnivore,2,No,13,Excellent
+LBR,IF34,Hills Cr,SR 1400,Scotland,34.98289,-79.40504,SH,6,14-2-18,C,2013-77,10/17/13,Erimyzon oblongus,Creek Chubsucker,Catostomidae,Intermediate,Omnivore,1,No,13,Excellent
+LBR,IF35,Juniper Cr,US 15/501,Scotland,34.88394,-79.45198,SH,19.5,14-34-4-3,C;Sw,2013-78,10/17/13,Etheostoma olmstedi,Tessellated Darter,Percidae,Intermediate,Insectivore,3,Yes,14,Excellent
+LBR,IF35,Juniper Cr,US 15/501,Scotland,34.88394,-79.45198,SH,19.5,14-34-4-3,C;Sw,2013-78,10/17/13,Aphredoderus sayanus,Pirate Perch,Aphredoderidae,Intermediate,Insectivore,2,No,14,Excellent
+LBR,IF35,Juniper Cr,US 15/501,Scotland,34.88394,-79.45198,SH,19.5,14-34-4-3,C;Sw,2013-78,10/17/13,Lepomis marginatus,Dollar Sunfish,Centrarchidae,Intermediate,Insectivore,1,No,14,Excellent
+LBR,IF35,Juniper Cr,US 15/501,Scotland,34.88394,-79.45198,SH,19.5,14-34-4-3,C;Sw,2013-78,10/17/13,Noturus insignis,Margined Madtom,Ictaluridae,Intermediate,Insectivore,3,No,14,Excellent
+LBR,IF35,Juniper Cr,US 15/501,Scotland,34.88394,-79.45198,SH,19.5,14-34-4-3,C;Sw,2013-78,10/17/13,Centrarchus macropterus,Flier,Centrarchidae,Intermediate,Insectivore,2,No,14,Excellent
+LBR,IF35,Juniper Cr,US 15/501,Scotland,34.88394,-79.45198,SH,19.5,14-34-4-3,C;Sw,2013-78,10/17/13,Notropis cummingsae,Dusky Shiner,Cyprinidae,Intermediate,Insectivore,12,No,14,Excellent
+LBR,IF35,Juniper Cr,US 15/501,Scotland,34.88394,-79.45198,SH,19.5,14-34-4-3,C;Sw,2013-78,10/17/13,Esox niger,Chain Pickerel,Esocidae,Intermediate,Piscivore,2,No,14,Excellent
+LBR,IF35,Juniper Cr,US 15/501,Scotland,34.88394,-79.45198,SH,19.5,14-34-4-3,C;Sw,2013-78,10/17/13,Esox americanus,Redfin Pickerel,Esocidae,Intermediate,Piscivore,3,Yes,14,Excellent
+LBR,IF35,Juniper Cr,US 15/501,Scotland,34.88394,-79.45198,SH,19.5,14-34-4-3,C;Sw,2013-78,10/17/13,Anguilla rostrata,American Eel,Anguillidae,Intermediate,Piscivore,3,Yes,14,Excellent
+LBR,IF35,Juniper Cr,US 15/501,Scotland,34.88394,-79.45198,SH,19.5,14-34-4-3,C;Sw,2013-78,10/17/13,Ameiurus brunneus,Snail Bullhead,Ictaluridae,Intermediate,Insectivore,1,No,14,Excellent
+LBR,IF35,Juniper Cr,US 15/501,Scotland,34.88394,-79.45198,SH,19.5,14-34-4-3,C;Sw,2013-78,10/17/13,Etheostoma mariae,Pinewoods Darter,Percidae,Intolerant,Insectivore,3,Yes,14,Excellent
+LBR,IF19,Jackson Cr,SR 1122,Moore,35.19167,-79.61861,SH,18.1,14-2-5,WS-II;HQW,2016-29,05/02/16,Umbra pygmaea,Eastern Mudminnow,Umbridae,Intermediate,Insectivore,1,No,14,Excellent
+LBR,IF19,Jackson Cr,SR 1122,Moore,35.19167,-79.61861,SH,18.1,14-2-5,WS-II;HQW,2016-29,05/02/16,Notropis cummingsae,Dusky Shiner,Cyprinidae,Intermediate,Insectivore,11,Yes,14,Excellent
+LBR,IF19,Jackson Cr,SR 1122,Moore,35.19167,-79.61861,SH,18.1,14-2-5,WS-II;HQW,2016-29,05/02/16,Elassoma zonatum,Banded Pygmy Sunfish,Elassomatidae,Intermediate,Insectivore,2,No,14,Excellent
+LBR,IF19,Jackson Cr,SR 1122,Moore,35.19167,-79.61861,SH,18.1,14-2-5,WS-II;HQW,2016-29,05/02/16,Lepomis marginatus,Dollar Sunfish,Centrarchidae,Intermediate,Insectivore,1,No,14,Excellent
+LBR,IF19,Jackson Cr,SR 1122,Moore,35.19167,-79.61861,SH,18.1,14-2-5,WS-II;HQW,2016-29,05/02/16,Esox americanus,Redfin Pickerel,Esocidae,Intermediate,Piscivore,5,Yes,14,Excellent
+LBR,IF19,Jackson Cr,SR 1122,Moore,35.19167,-79.61861,SH,18.1,14-2-5,WS-II;HQW,2016-29,05/02/16,Etheostoma olmstedi,Tessellated Darter,Percidae,Intermediate,Insectivore,2,No,14,Excellent
+LBR,IF19,Jackson Cr,SR 1122,Moore,35.19167,-79.61861,SH,18.1,14-2-5,WS-II;HQW,2016-29,05/02/16,Noturus insignis,Margined Madtom,Ictaluridae,Intermediate,Insectivore,3,Yes,14,Excellent
+LBR,IF19,Jackson Cr,SR 1122,Moore,35.19167,-79.61861,SH,18.1,14-2-5,WS-II;HQW,2016-29,05/02/16,Esox niger,Chain Pickerel,Esocidae,Intermediate,Piscivore,2,No,14,Excellent
+LBR,IF19,Jackson Cr,SR 1122,Moore,35.19167,-79.61861,SH,18.1,14-2-5,WS-II;HQW,2016-29,05/02/16,Etheostoma mariae,Pinewoods Darter,Percidae,Intolerant,Insectivore,3,Yes,14,Excellent
+LBR,IF11,Drowning Cr,NC 73,Moore,35.18778,-79.64861,SH,31.9,14-2-(1),"WS-II;Sw,HQW",2016-30,05/02/16,Anguilla rostrata,American Eel,Anguillidae,Intermediate,Piscivore,2,No,11,Good
+LBR,IF11,Drowning Cr,NC 73,Moore,35.18778,-79.64861,SH,31.9,14-2-(1),"WS-II;Sw,HQW",2016-30,05/02/16,Micropterus salmoides,Largemouth Bass,Centrarchidae,Intermediate,Piscivore,2,No,11,Good
+LBR,IF11,Drowning Cr,NC 73,Moore,35.18778,-79.64861,SH,31.9,14-2-(1),"WS-II;Sw,HQW",2016-30,05/02/16,Noturus insignis,Margined Madtom,Ictaluridae,Intermediate,Insectivore,1,No,11,Good
+LBR,IF11,Drowning Cr,NC 73,Moore,35.18778,-79.64861,SH,31.9,14-2-(1),"WS-II;Sw,HQW",2016-30,05/02/16,Etheostoma olmstedi,Tessellated Darter,Percidae,Intermediate,Insectivore,6,Yes,11,Good
+LBR,IF11,Drowning Cr,NC 73,Moore,35.18778,-79.64861,SH,31.9,14-2-(1),"WS-II;Sw,HQW",2016-30,05/02/16,Nocomis leptocephalus,Bluehead Chub,Cyprinidae,Intermediate,Omnivore,17,Yes,11,Good
+LBR,IF11,Drowning Cr,NC 73,Moore,35.18778,-79.64861,SH,31.9,14-2-(1),"WS-II;Sw,HQW",2016-30,05/02/16,Lepomis macrochirus,Bluegill,Centrarchidae,Intermediate,Insectivore,3,No,11,Good
+LBR,IF11,Drowning Cr,NC 73,Moore,35.18778,-79.64861,SH,31.9,14-2-(1),"WS-II;Sw,HQW",2016-30,05/02/16,Semotilus lumbee,Sandhills Chub,Cyprinidae,Intolerant,Insectivore,3,Yes,11,Good
+LBR,IF11,Drowning Cr,NC 73,Moore,35.18778,-79.64861,SH,31.9,14-2-(1),"WS-II;Sw,HQW",2016-30,05/02/16,Esox americanus,Redfin Pickerel,Esocidae,Intermediate,Piscivore,4,Yes,11,Good
+LBR,IF11,Drowning Cr,NC 73,Moore,35.18778,-79.64861,SH,31.9,14-2-(1),"WS-II;Sw,HQW",2016-30,05/02/16,Lepomis marginatus,Dollar Sunfish,Centrarchidae,Intermediate,Insectivore,1,No,11,Good
+LBR,IF11,Drowning Cr,NC 73,Moore,35.18778,-79.64861,SH,31.9,14-2-(1),"WS-II;Sw,HQW",2016-30,05/02/16,Notropis chiliticus,Redlip Shiner,Cyprinidae,Intermediate,Insectivore,22,Yes,11,Good
+LBR,IF11,Drowning Cr,NC 73,Moore,35.18778,-79.64861,SH,31.9,14-2-(1),"WS-II;Sw,HQW",2016-30,05/02/16,Notropis cummingsae,Dusky Shiner,Cyprinidae,Intermediate,Insectivore,21,Yes,11,Good
+LBR,IF11,Drowning Cr,NC 73,Moore,35.18778,-79.64861,SH,31.9,14-2-(1),"WS-II;Sw,HQW",2016-30,05/02/16,Percina crassa,Piedmont Darter,Percidae,Intolerant,Insectivore,1,No,11,Good
+LBR,IF11,Drowning Cr,NC 73,Moore,35.18778,-79.64861,SH,31.9,14-2-(1),"WS-II;Sw,HQW",2016-30,05/02/16,Etheostoma mariae,Pinewoods Darter,Percidae,Intolerant,Insectivore,1,No,11,Good
+LBR,IF11,Drowning Cr,NC 73,Moore,35.18778,-79.64861,SH,31.9,14-2-(1),"WS-II;Sw,HQW",2016-30,05/02/16,Lepomis auritus,Redbreast Sunfish,Centrarchidae,Tolerant,Insectivore,1,No,11,Good
+LBR,IF10,Deep Cr,SR 1113,Moore,35.12306,-79.54278,SH,19.8,14-2-10-1-(1),"WS-II;B,HQW",2016-31,05/02/16,Etheostoma olmstedi,Tessellated Darter,Percidae,Intermediate,Insectivore,3,Yes,12,Good
+LBR,IF10,Deep Cr,SR 1113,Moore,35.12306,-79.54278,SH,19.8,14-2-10-1-(1),"WS-II;B,HQW",2016-31,05/02/16,Minytrema melanops,Spotted Sucker,Catostomidae,Intermediate,Insectivore,1,No,12,Good
+LBR,IF10,Deep Cr,SR 1113,Moore,35.12306,-79.54278,SH,19.8,14-2-10-1-(1),"WS-II;B,HQW",2016-31,05/02/16,Notropis cummingsae,Dusky Shiner,Cyprinidae,Intermediate,Insectivore,7,Yes,12,Good
+LBR,IF10,Deep Cr,SR 1113,Moore,35.12306,-79.54278,SH,19.8,14-2-10-1-(1),"WS-II;B,HQW",2016-31,05/02/16,Anguilla rostrata,American Eel,Anguillidae,Intermediate,Piscivore,1,No,12,Good
+LBR,IF10,Deep Cr,SR 1113,Moore,35.12306,-79.54278,SH,19.8,14-2-10-1-(1),"WS-II;B,HQW",2016-31,05/02/16,Esox americanus,Redfin Pickerel,Esocidae,Intermediate,Piscivore,1,No,12,Good
+LBR,IF18,Horse Cr,SR 1112,Moore,35.13222,-79.49222,SH,10.7,14-2-10,WS-II;HQW,2016-32,05/02/16,Erimyzon oblongus,Creek Chubsucker,Catostomidae,Intermediate,Omnivore,2,No,11,Good
+LBR,IF18,Horse Cr,SR 1112,Moore,35.13222,-79.49222,SH,10.7,14-2-10,WS-II;HQW,2016-32,05/02/16,Notropis cummingsae,Dusky Shiner,Cyprinidae,Intermediate,Insectivore,8,Yes,11,Good
+LBR,IF18,Horse Cr,SR 1112,Moore,35.13222,-79.49222,SH,10.7,14-2-10,WS-II;HQW,2016-32,05/02/16,Etheostoma olmstedi,Tessellated Darter,Percidae,Intermediate,Insectivore,2,No,11,Good
+LBR,IF18,Horse Cr,SR 1112,Moore,35.13222,-79.49222,SH,10.7,14-2-10,WS-II;HQW,2016-32,05/02/16,Etheostoma mariae,Pinewoods Darter,Percidae,Intolerant,Insectivore,8,Yes,11,Good
+LBR,IF18,Horse Cr,SR 1112,Moore,35.13222,-79.49222,SH,10.7,14-2-10,WS-II;HQW,2016-32,05/02/16,Anguilla rostrata,American Eel,Anguillidae,Intermediate,Piscivore,8,Yes,11,Good
+LBR,IF18,Horse Cr,SR 1112,Moore,35.13222,-79.49222,SH,10.7,14-2-10,WS-II;HQW,2016-32,05/02/16,Noturus insignis,Margined Madtom,Ictaluridae,Intermediate,Insectivore,8,Yes,11,Good
+LBR,IF18,Horse Cr,SR 1112,Moore,35.13222,-79.49222,SH,10.7,14-2-10,WS-II;HQW,2016-32,05/02/16,Lepomis macrochirus,Bluegill,Centrarchidae,Intermediate,Insectivore,2,No,11,Good
+LBR,IF18,Horse Cr,SR 1112,Moore,35.13222,-79.49222,SH,10.7,14-2-10,WS-II;HQW,2016-32,05/02/16,Lepomis auritus,Redbreast Sunfish,Centrarchidae,Tolerant,Insectivore,6,No,11,Good
+LBR,IF18,Horse Cr,SR 1112,Moore,35.13222,-79.49222,SH,10.7,14-2-10,WS-II;HQW,2016-32,05/02/16,Micropterus salmoides,Largemouth Bass,Centrarchidae,Intermediate,Piscivore,4,Yes,11,Good
+LBR,IF18,Horse Cr,SR 1112,Moore,35.13222,-79.49222,SH,10.7,14-2-10,WS-II;HQW,2016-32,05/02/16,Esox niger,Chain Pickerel,Esocidae,Intermediate,Piscivore,2,No,11,Good
+LBR,IF10,Deep Cr,SR 1113,Moore,35.12306,-79.54278,SH,19.8,14-2-10-1-(1),"WS-II;B,HQW",2021-16,06/16/21,Etheostoma mariae,Pinewoods Darter,Percidae,Intolerant,Insectivore,1,No,12,Good
+LBR,IF10,Deep Cr,SR 1113,Moore,35.12306,-79.54278,SH,19.8,14-2-10-1-(1),"WS-II;B,HQW",2021-16,06/16/21,Lepomis auritus,Redbreast Sunfish,Centrarchidae,Tolerant,Insectivore,1,No,12,Good
+LBR,IF10,Deep Cr,SR 1113,Moore,35.12306,-79.54278,SH,19.8,14-2-10-1-(1),"WS-II;B,HQW",2021-16,06/16/21,Esox niger,Chain Pickerel,Esocidae,Intermediate,Piscivore,1,No,12,Good
+LBR,IF10,Deep Cr,SR 1113,Moore,35.12306,-79.54278,SH,19.8,14-2-10-1-(1),"WS-II;B,HQW",2021-16,06/16/21,Notropis cummingsae,Dusky Shiner,Cyprinidae,Intermediate,Insectivore,25,Yes,12,Good
+LBR,IF10,Deep Cr,SR 1113,Moore,35.12306,-79.54278,SH,19.8,14-2-10-1-(1),"WS-II;B,HQW",2021-16,06/16/21,Noturus insignis,Margined Madtom,Ictaluridae,Intermediate,Insectivore,2,Yes,12,Good
+LBR,IF10,Deep Cr,SR 1113,Moore,35.12306,-79.54278,SH,19.8,14-2-10-1-(1),"WS-II;B,HQW",2021-16,06/16/21,Aphredoderus sayanus,Pirate Perch,Aphredoderidae,Intermediate,Insectivore,1,No,12,Good
+LBR,IF19,Jackson Cr,SR 1122,Moore,35.19167,-79.61861,SH,18.1,14-2-5,WS-II;HQW,2021-17,07/15/21,Esox americanus,Redfin Pickerel,Esocidae,Intermediate,Piscivore,4,Yes,12,Good
+LBR,IF19,Jackson Cr,SR 1122,Moore,35.19167,-79.61861,SH,18.1,14-2-5,WS-II;HQW,2021-17,07/15/21,Noturus insignis,Margined Madtom,Ictaluridae,Intermediate,Insectivore,2,No,12,Good
+LBR,IF19,Jackson Cr,SR 1122,Moore,35.19167,-79.61861,SH,18.1,14-2-5,WS-II;HQW,2021-17,07/15/21,etheostoma olmstedi,Tessellated Darter,Percidae,Intermediate,Insectivore,2,No,12,Good
+LBR,IF19,Jackson Cr,SR 1122,Moore,35.19167,-79.61861,SH,18.1,14-2-5,WS-II;HQW,2021-17,07/15/21,Notropis cummingsae,Dusky Shiner,Cyprinidae,Intermediate,Insectivore,31,Yes,12,Good
+LBR,IF19,Jackson Cr,SR 1122,Moore,35.19167,-79.61861,SH,18.1,14-2-5,WS-II;HQW,2021-17,07/15/21,Esox niger,Chain Pickerel,Esocidae,Intermediate,Piscivore,2,Yes,12,Good
+LBR,IF19,Jackson Cr,SR 1122,Moore,35.19167,-79.61861,SH,18.1,14-2-5,WS-II;HQW,2021-17,07/15/21,Lepomis auritus,Redbreast Sunfish,Centrarchidae,Tolerant,Insectivore,2,Yes,12,Good
+LBR,IF19,Jackson Cr,SR 1122,Moore,35.19167,-79.61861,SH,18.1,14-2-5,WS-II;HQW,2021-17,07/15/21,Lepomis macrochirus,Bluegill,Centrarchidae,Intermediate,Insectivore,2,No,12,Good
+LBR,IF19,Jackson Cr,SR 1122,Moore,35.19167,-79.61861,SH,18.1,14-2-5,WS-II;HQW,2021-17,07/15/21,Lepomis marginatus,Dollar Sunfish,Centrarchidae,Intermediate,Insectivore,1,No,12,Good
+LBR,IF11,Drowning Cr,NC 73,Moore,35.18778,-79.64861,SH,31.9,14-2-(1),"WS-II;Sw,HQW",2021-21,10/05/21,Esox americanus,Redfin Pickerel,Esocidae,Intermediate,Piscivore,2,Yes,14,Excellent
+LBR,IF11,Drowning Cr,NC 73,Moore,35.18778,-79.64861,SH,31.9,14-2-(1),"WS-II;Sw,HQW",2021-21,10/05/21,Aphredoderus sayanus,Pirate Perch,Aphredoderidae,Intermediate,Insectivore,1,No,14,Excellent
+LBR,IF11,Drowning Cr,NC 73,Moore,35.18778,-79.64861,SH,31.9,14-2-(1),"WS-II;Sw,HQW",2021-21,10/05/21,Percina crassa,Piedmont Darter,Percidae,Intolerant,Insectivore,3,Yes,14,Excellent
+LBR,IF11,Drowning Cr,NC 73,Moore,35.18778,-79.64861,SH,31.9,14-2-(1),"WS-II;Sw,HQW",2021-21,10/05/21,Etheostoma mariae,Pinewoods Darter,Percidae,Intolerant,Insectivore,2,No,14,Excellent
+LBR,IF11,Drowning Cr,NC 73,Moore,35.18778,-79.64861,SH,31.9,14-2-(1),"WS-II;Sw,HQW",2021-21,10/05/21,Etheostoma olmstedi,Tessellated Darter,Percidae,Intermediate,Insectivore,1,No,14,Excellent
+LBR,IF11,Drowning Cr,NC 73,Moore,35.18778,-79.64861,SH,31.9,14-2-(1),"WS-II;Sw,HQW",2021-21,10/05/21,Notropis cummingsae,Dusky Shiner,Cyprinidae,Intermediate,Insectivore,36,Yes,14,Excellent
+LBR,IF11,Drowning Cr,NC 73,Moore,35.18778,-79.64861,SH,31.9,14-2-(1),"WS-II;Sw,HQW",2021-21,10/05/21,Noturus insignis,Margined Madtom,Ictaluridae,Intermediate,Insectivore,3,Yes,14,Excellent
+LBR,IF11,Drowning Cr,NC 73,Moore,35.18778,-79.64861,SH,31.9,14-2-(1),"WS-II;Sw,HQW",2021-21,10/05/21,Lepomis auritus,Redbreast Sunfish,Centrarchidae,Tolerant,Insectivore,2,Yes,14,Excellent
+LBR,IF11,Drowning Cr,NC 73,Moore,35.18778,-79.64861,SH,31.9,14-2-(1),"WS-II;Sw,HQW",2021-21,10/05/21,Lepomis macrochirus,Bluegill,Centrarchidae,Intermediate,Insectivore,1,No,14,Excellent
+LBR,IF11,Drowning Cr,NC 73,Moore,35.18778,-79.64861,SH,31.9,14-2-(1),"WS-II;Sw,HQW",2021-21,10/05/21,Nocomis leptocephalus,Bluehead Chub,Cyprinidae,Intermediate,Omnivore,3,Yes,14,Excellent

@@ -1,0 +1,762 @@
+Basin,StationID,Waterbody,Station,County,Latitude,Longitude,Ecoregion,Drainage Area,Stream Index Number,Stream Classification,CC Num,Date,Scientific Name,Common Name,Family,Pollution Tolerance,Feeding Type,No Coll,Mult Ages,NCIBI Score,Bioclass
+HIW,FF12,Shooting Cr,SR 1340,Clay,35.02214,-83.68202,MT,22.9,1-5,C;Tr,2004-83,06/14/04,Percina evides,Gilt Darter,Percidae,Intolerant,Insectivore,2,No,40,Good-Fair
+HIW,FF12,Shooting Cr,SR 1340,Clay,35.02214,-83.68202,MT,22.9,1-5,C;Tr,2004-83,06/14/04,Cyprinella galactura,Whitetail Shiner,Cyprinidae,Intermediate,Insectivore,5,Yes,40,Good-Fair
+HIW,FF12,Shooting Cr,SR 1340,Clay,35.02214,-83.68202,MT,22.9,1-5,C;Tr,2004-83,06/14/04,Oncorhynchus mykiss,Rainbow Trout,Salmonidae,Intolerant,Insectivore,3,Yes,40,Good-Fair
+HIW,FF12,Shooting Cr,SR 1340,Clay,35.02214,-83.68202,MT,22.9,1-5,C;Tr,2004-83,06/14/04,Ichthyomyzon greeleyi,Mountain Brook Lamprey,Petromyzontidae,Intermediate,Non-feeding,24,Yes,40,Good-Fair
+HIW,FF12,Shooting Cr,SR 1340,Clay,35.02214,-83.68202,MT,22.9,1-5,C;Tr,2004-83,06/14/04,Micropterus salmoides,Largemouth Bass,Centrarchidae,Intermediate,Piscivore,1,No,40,Good-Fair
+HIW,FF12,Shooting Cr,SR 1340,Clay,35.02214,-83.68202,MT,22.9,1-5,C;Tr,2004-83,06/14/04,Moxostoma duquesnei,Black Redhorse,Catostomidae,Intermediate,Insectivore,2,No,40,Good-Fair
+HIW,FF12,Shooting Cr,SR 1340,Clay,35.02214,-83.68202,MT,22.9,1-5,C;Tr,2004-83,06/14/04,Ameiurus natalis,Yellow Bullhead,Ictaluridae,Tolerant,Omnivore,1,No,40,Good-Fair
+HIW,FF12,Shooting Cr,SR 1340,Clay,35.02214,-83.68202,MT,22.9,1-5,C;Tr,2004-83,06/14/04,Perca flavescens,Yellow Perch,Percidae,Intermediate,Piscivore,12,No,40,Good-Fair
+HIW,FF12,Shooting Cr,SR 1340,Clay,35.02214,-83.68202,MT,22.9,1-5,C;Tr,2004-83,06/14/04,Campostoma anomalum,Central Stoneroller,Cyprinidae,Intermediate,Herbivore,26,Yes,40,Good-Fair
+HIW,FF12,Shooting Cr,SR 1340,Clay,35.02214,-83.68202,MT,22.9,1-5,C;Tr,2004-83,06/14/04,Etheostoma rufilineatum,Redline Darter,Percidae,Intermediate,Insectivore,6,Yes,40,Good-Fair
+HIW,FF12,Shooting Cr,SR 1340,Clay,35.02214,-83.68202,MT,86.2,1-5,C;Tr,2004-83,06/14/04,Lepomis auritus,Redbreast Sunfish,Centrarchidae,Tolerant,Insectivore,1,No,40,Good-Fair
+HIW,FF12,Shooting Cr,SR 1340,Clay,35.02214,-83.68202,MT,22.9,1-5,C;Tr,2004-83,06/14/04,Ameiurus nebulosus,Brown Bullhead,Ictaluridae,Tolerant,Omnivore,1,No,40,Good-Fair
+HIW,FF12,Shooting Cr,SR 1340,Clay,35.02214,-83.68202,MT,22.9,1-5,C;Tr,2004-83,06/14/04,Cottus bairdii,Mottled Sculpin,Cottidae,Intermediate,Insectivore,294,Yes,40,Good-Fair
+HIW,FF12,Shooting Cr,SR 1340,Clay,35.02214,-83.68202,MT,22.9,1-5,C;Tr,2004-83,06/14/04,Rhinichthys cataractae,Longnose Dace,Cyprinidae,Intermediate,Insectivore,7,Yes,40,Good-Fair
+HIW,FF12,Shooting Cr,SR 1340,Clay,35.02214,-83.68202,MT,22.9,1-5,C;Tr,2004-83,06/14/04,Lepomis macrochirus,Bluegill,Centrarchidae,Intermediate,Insectivore,39,Yes,40,Good-Fair
+HIW,FF12,Shooting Cr,SR 1340,Clay,35.02214,-83.68202,MT,22.9,1-5,C;Tr,2004-83,06/14/04,Hypentelium nigricans,Northern Hogsucker,Catostomidae,Intermediate,Insectivore,6,Yes,40,Good-Fair
+HIW,FF13,Brasstown Cr,SR 1111,Clay,34.98807,-83.89466,MT,37.3,1-42,WS-IV,2004-84,06/14/04,Campostoma anomalum,Central Stoneroller,Cyprinidae,Intermediate,Herbivore,10,Yes,46,Good-Fair
+HIW,FF13,Brasstown Cr,SR 1111,Clay,34.98807,-83.89466,MT,37.3,1-42,WS-IV,2004-84,06/14/04,Cottus bairdii,Mottled Sculpin,Cottidae,Intermediate,Insectivore,173,Yes,46,Good-Fair
+HIW,FF13,Brasstown Cr,SR 1111,Clay,34.98807,-83.89466,MT,37.3,1-42,WS-IV,2004-84,06/14/04,Cyprinella galactura,Whitetail Shiner,Cyprinidae,Intermediate,Insectivore,2,No,46,Good-Fair
+HIW,FF13,Brasstown Cr,SR 1111,Clay,34.98807,-83.89466,MT,37.3,1-42,WS-IV,2004-84,06/14/04,Notropis spectrunculus,Mirror Shiner,Cyprinidae,Intermediate,Insectivore,7,No,46,Good-Fair
+HIW,FF13,Brasstown Cr,SR 1111,Clay,34.98807,-83.89466,MT,37.3,1-42,WS-IV,2004-84,06/14/04,Etheostoma zonale,Banded Darter,Percidae,Intermediate,Insectivore,7,Yes,46,Good-Fair
+HIW,FF13,Brasstown Cr,SR 1111,Clay,34.98807,-83.89466,MT,37.3,1-42,WS-IV,2004-84,06/14/04,Percina evides,Gilt Darter,Percidae,Intolerant,Insectivore,20,Yes,46,Good-Fair
+HIW,FF13,Brasstown Cr,SR 1111,Clay,34.98807,-83.89466,MT,37.3,1-42,WS-IV,2004-84,06/14/04,Notropis leuciodus,Tennessee Shiner,Cyprinidae,Intermediate,Insectivore,102,Yes,46,Good-Fair
+HIW,FF13,Brasstown Cr,SR 1111,Clay,34.98807,-83.89466,MT,37.3,1-42,WS-IV,2004-84,06/14/04,Micropterus salmoides,Largemouth Bass,Centrarchidae,Intermediate,Piscivore,1,No,46,Good-Fair
+HIW,FF13,Brasstown Cr,SR 1111,Clay,34.98807,-83.89466,MT,37.3,1-42,WS-IV,2004-84,06/14/04,Ichthyomyzon greeleyi,Mountain Brook Lamprey,Petromyzontidae,Intermediate,Non-feeding,6,No,46,Good-Fair
+HIW,FF13,Brasstown Cr,SR 1111,Clay,34.98807,-83.89466,MT,37.3,1-42,WS-IV,2004-84,06/14/04,Nocomis micropogon,River Chub,Cyprinidae,Intermediate,Omnivore,48,Yes,46,Good-Fair
+HIW,FF13,Brasstown Cr,SR 1111,Clay,34.98807,-83.89466,MT,37.3,1-42,WS-IV,2004-84,06/14/04,Etheostoma blennioides,Greenside Darter,Percidae,Intermediate,Insectivore,22,Yes,46,Good-Fair
+HIW,FF13,Brasstown Cr,SR 1111,Clay,34.98807,-83.89466,MT,37.3,1-42,WS-IV,2004-84,06/14/04,Hypentelium nigricans,Northern Hogsucker,Catostomidae,Intermediate,Insectivore,13,Yes,46,Good-Fair
+HIW,FF13,Brasstown Cr,SR 1111,Clay,34.98807,-83.89466,MT,37.3,1-42,WS-IV,2004-84,06/14/04,Hybopsis amblops,Bigeye Chub,Cyprinidae,Intermediate,Insectivore,5,No,46,Good-Fair
+HIW,FF13,Brasstown Cr,SR 1111,Clay,34.98807,-83.89466,MT,37.3,1-42,WS-IV,2004-84,06/14/04,Lepomis macrochirus,Bluegill,Centrarchidae,Intermediate,Insectivore,22,Yes,46,Good-Fair
+HIW,FF13,Brasstown Cr,SR 1111,Clay,34.98807,-83.89466,MT,37.3,1-42,WS-IV,2004-84,06/14/04,Ambloplites rupestris,Rock Bass,Centrarchidae,Intolerant,Piscivore,2,No,46,Good-Fair
+HIW,FF13,Brasstown Cr,SR 1111,Clay,34.98807,-83.89466,MT,37.3,1-42,WS-IV,2004-84,06/14/04,Lepomis cyanellus,Green Sunfish,Centrarchidae,Tolerant,Insectivore,1,No,46,Good-Fair
+HIW,FF13,Brasstown Cr,SR 1111,Clay,34.98807,-83.89466,MT,37.3,1-42,WS-IV,2004-84,06/14/04,Luxilus coccogenis,Warpaint Shiner,Cyprinidae,Intermediate,Insectivore,21,Yes,46,Good-Fair
+HIW,FF13,Brasstown Cr,SR 1111,Clay,34.98807,-83.89466,MT,37.3,1-42,WS-IV,2004-84,06/14/04,Etheostoma rufilineatum,Redline Darter,Percidae,Intermediate,Insectivore,35,Yes,46,Good-Fair
+HIW,FF8,Peachtree Cr,old US 64,Cherokee,35.07780,-83.97434,MT,18,1-44,C,2004-85,06/15/04,Semotilus atromaculatus,Creek Chub,Cyprinidae,Tolerant,Insectivore,6,Yes,58,Excellent
+HIW,FF8,Peachtree Cr,old US 64,Cherokee,35.07780,-83.97434,MT,18,1-44,C,2004-85,06/15/04,Cyprinella galactura,Whitetail Shiner,Cyprinidae,Intermediate,Insectivore,4,Yes,58,Excellent
+HIW,FF8,Peachtree Cr,old US 64,Cherokee,35.07780,-83.97434,MT,18,1-44,C,2004-85,06/15/04,Etheostoma blennioides,Greenside Darter,Percidae,Intermediate,Insectivore,3,No,58,Excellent
+HIW,FF8,Peachtree Cr,old US 64,Cherokee,35.07780,-83.97434,MT,18,1-44,C,2004-85,06/15/04,Percina evides,Gilt Darter,Percidae,Intolerant,Insectivore,2,No,58,Excellent
+HIW,FF8,Peachtree Cr,old US 64,Cherokee,35.07780,-83.97434,MT,18,1-44,C,2004-85,06/15/04,Etheostoma zonale,Banded Darter,Percidae,Intermediate,Insectivore,4,No,58,Excellent
+HIW,FF8,Peachtree Cr,old US 64,Cherokee,35.07780,-83.97434,MT,18,1-44,C,2004-85,06/15/04,Moxostoma erythrurum,Golden Redhorse,Catostomidae,Intermediate,Insectivore,1,No,58,Excellent
+HIW,FF8,Peachtree Cr,old US 64,Cherokee,35.07780,-83.97434,MT,18,1-44,C,2004-85,06/15/04,Notropis leuciodus,Tennessee Shiner,Cyprinidae,Intermediate,Insectivore,77,Yes,58,Excellent
+HIW,FF8,Peachtree Cr,old US 64,Cherokee,35.07780,-83.97434,MT,18,1-44,C,2004-85,06/15/04,Hybopsis amblops,Bigeye Chub,Cyprinidae,Intermediate,Insectivore,4,Yes,58,Excellent
+HIW,FF8,Peachtree Cr,old US 64,Cherokee,35.07780,-83.97434,MT,18,1-44,C,2004-85,06/15/04,Etheostoma rufilineatum,Redline Darter,Percidae,Intermediate,Insectivore,27,Yes,58,Excellent
+HIW,FF8,Peachtree Cr,old US 64,Cherokee,35.07780,-83.97434,MT,18,1-44,C,2004-85,06/15/04,Ichthyomyzon greeleyi,Mountain Brook Lamprey,Petromyzontidae,Intermediate,Non-feeding,9,Yes,58,Excellent
+HIW,FF8,Peachtree Cr,old US 64,Cherokee,35.07780,-83.97434,MT,18,1-44,C,2004-85,06/15/04,Notropis spectrunculus,Mirror Shiner,Cyprinidae,Intermediate,Insectivore,21,Yes,58,Excellent
+HIW,FF8,Peachtree Cr,old US 64,Cherokee,35.07780,-83.97434,MT,18,1-44,C,2004-85,06/15/04,Campostoma anomalum,Central Stoneroller,Cyprinidae,Intermediate,Herbivore,45,Yes,58,Excellent
+HIW,FF8,Peachtree Cr,old US 64,Cherokee,35.07780,-83.97434,MT,18,1-44,C,2004-85,06/15/04,Cottus bairdii,Mottled Sculpin,Cottidae,Intermediate,Insectivore,197,Yes,58,Excellent
+HIW,FF8,Peachtree Cr,old US 64,Cherokee,35.07780,-83.97434,MT,18,1-44,C,2004-85,06/15/04,Luxilus coccogenis,Warpaint Shiner,Cyprinidae,Intermediate,Insectivore,67,Yes,58,Excellent
+HIW,FF8,Peachtree Cr,old US 64,Cherokee,35.07780,-83.97434,MT,18,1-44,C,2004-85,06/15/04,Hypentelium nigricans,Northern Hogsucker,Catostomidae,Intermediate,Insectivore,21,Yes,58,Excellent
+HIW,FF8,Peachtree Cr,old US 64,Cherokee,35.07780,-83.97434,MT,18,1-44,C,2004-85,06/15/04,Moxostoma duquesnei,Black Redhorse,Catostomidae,Intermediate,Insectivore,1,No,58,Excellent
+HIW,FF8,Peachtree Cr,old US 64,Cherokee,35.07780,-83.97434,MT,18,1-44,C,2004-85,06/15/04,Lepomis auritus,Redbreast Sunfish,Centrarchidae,Tolerant,Insectivore,1,No,58,Excellent
+HIW,FF8,Peachtree Cr,old US 64,Cherokee,35.07780,-83.97434,MT,18,1-44,C,2004-85,06/15/04,Oncorhynchus mykiss,Rainbow Trout,Salmonidae,Intolerant,Insectivore,2,No,58,Excellent
+HIW,FF8,Peachtree Cr,old US 64,Cherokee,35.07780,-83.97434,MT,18,1-44,C,2004-85,06/15/04,Lepomis macrochirus,Bluegill,Centrarchidae,Intermediate,Insectivore,13,Yes,58,Excellent
+HIW,FF8,Peachtree Cr,old US 64,Cherokee,35.07780,-83.97434,MT,18,1-44,C,2004-85,06/15/04,Lepomis cyanellus,Green Sunfish,Centrarchidae,Tolerant,Insectivore,3,No,58,Excellent
+HIW,FF8,Peachtree Cr,old US 64,Cherokee,35.07780,-83.97434,MT,18,1-44,C,2004-85,06/15/04,Nocomis micropogon,River Chub,Cyprinidae,Intermediate,Omnivore,16,Yes,58,Excellent
+HIW,FF8,Peachtree Cr,old US 64,Cherokee,35.07780,-83.97434,MT,18,1-44,C,2004-85,06/15/04,Ambloplites rupestris,Rock Bass,Centrarchidae,Intolerant,Piscivore,11,Yes,58,Excellent
+HIW,FF10,Fires Cr,SR 1300,Clay,35.07722,-83.86444,MT,23,1-27-(5.5),"WS-IV;Tr,ORW",2004-86,06/15/04,Oncorhynchus mykiss,Rainbow Trout,Salmonidae,Intolerant,Insectivore,7,Yes,44,Not Rated
+HIW,FF10,Fires Cr,SR 1300,Clay,35.07722,-83.86444,MT,23,1-27-(5.5),"WS-IV;Tr,ORW",2004-86,06/15/04,Ichthyomyzon greeleyi,Mountain Brook Lamprey,Petromyzontidae,Intermediate,Non-feeding,3,No,44,Not Rated
+HIW,FF10,Fires Cr,SR 1300,Clay,35.07722,-83.86444,MT,23,1-27-(5.5),"WS-IV;Tr,ORW",2004-86,06/15/04,Rhinichthys cataractae,Longnose Dace,Cyprinidae,Intermediate,Insectivore,29,Yes,44,Not Rated
+HIW,FF10,Fires Cr,SR 1300,Clay,35.07722,-83.86444,MT,23,1-27-(5.5),"WS-IV;Tr,ORW",2004-86,06/15/04,Etheostoma rufilineatum,Redline Darter,Percidae,Intermediate,Insectivore,11,No,44,Not Rated
+HIW,FF10,Fires Cr,SR 1300,Clay,35.07722,-83.86444,MT,23,1-27-(5.5),"WS-IV;Tr,ORW",2004-86,06/15/04,Semotilus atromaculatus,Creek Chub,Cyprinidae,Tolerant,Insectivore,15,Yes,44,Not Rated
+HIW,FF10,Fires Cr,SR 1300,Clay,35.07722,-83.86444,MT,23,1-27-(5.5),"WS-IV;Tr,ORW",2004-86,06/15/04,Ambloplites rupestris,Rock Bass,Centrarchidae,Intolerant,Piscivore,3,No,44,Not Rated
+HIW,FF10,Fires Cr,SR 1300,Clay,35.07722,-83.86444,MT,23,1-27-(5.5),"WS-IV;Tr,ORW",2004-86,06/15/04,Hypentelium nigricans,Northern Hogsucker,Catostomidae,Intermediate,Insectivore,9,Yes,44,Not Rated
+HIW,FF10,Fires Cr,SR 1300,Clay,35.07722,-83.86444,MT,23,1-27-(5.5),"WS-IV;Tr,ORW",2004-86,06/15/04,Notropis spectrunculus,Mirror Shiner,Cyprinidae,Intermediate,Insectivore,11,Yes,44,Not Rated
+HIW,FF10,Fires Cr,SR 1300,Clay,35.07722,-83.86444,MT,23,1-27-(5.5),"WS-IV;Tr,ORW",2004-86,06/15/04,Notropis telescopus,Telescope Shiner,Cyprinidae,Intolerant,Insectivore,9,No,44,Not Rated
+HIW,FF10,Fires Cr,SR 1300,Clay,35.07722,-83.86444,MT,23,1-27-(5.5),"WS-IV;Tr,ORW",2004-86,06/15/04,Cottus bairdii,Mottled Sculpin,Cottidae,Intermediate,Insectivore,230,Yes,44,Not Rated
+HIW,FF10,Fires Cr,SR 1300,Clay,35.07722,-83.86444,MT,23,1-27-(5.5),"WS-IV;Tr,ORW",2004-86,06/15/04,Campostoma anomalum,Central Stoneroller,Cyprinidae,Intermediate,Herbivore,68,Yes,44,Not Rated
+HIW,FF9,Tusquitee Cr,SR 1330,Clay,35.08389,-83.72750,MT,22.8,1-21-(0.5),C;Tr,2004-87,06/15/04,Cottus bairdii,Mottled Sculpin,Cottidae,Intermediate,Insectivore,404,Yes,28,Not Rated
+HIW,FF9,Tusquitee Cr,SR 1330,Clay,35.08389,-83.72750,MT,22.8,1-21-(0.5),C;Tr,2004-87,06/15/04,Ichthyomyzon greeleyi,Mountain Brook Lamprey,Petromyzontidae,Intermediate,Non-feeding,10,Yes,28,Not Rated
+HIW,FF9,Tusquitee Cr,SR 1330,Clay,35.08389,-83.72750,MT,22.8,1-21-(0.5),C;Tr,2004-87,06/15/04,Campostoma anomalum,Central Stoneroller,Cyprinidae,Intermediate,Herbivore,2,No,28,Not Rated
+HIW,FF9,Tusquitee Cr,SR 1330,Clay,35.08389,-83.72750,MT,22.8,1-21-(0.5),C;Tr,2004-87,06/15/04,Semotilus atromaculatus,Creek Chub,Cyprinidae,Tolerant,Insectivore,2,No,28,Not Rated
+HIW,FF9,Tusquitee Cr,SR 1330,Clay,35.08389,-83.72750,MT,22.8,1-21-(0.5),C;Tr,2004-87,06/15/04,Rhinichthys cataractae,Longnose Dace,Cyprinidae,Intermediate,Insectivore,9,Yes,28,Not Rated
+HIW,FF9,Tusquitee Cr,SR 1330,Clay,35.08389,-83.72750,MT,22.8,1-21-(0.5),C;Tr,2004-87,06/15/04,Oncorhynchus mykiss,Rainbow Trout,Salmonidae,Intolerant,Insectivore,5,Yes,28,Not Rated
+HIW,FF5,Hanging Dog Cr,off SR 1342,Cherokee,35.15203,-84.06111,MT,21.7,1-57,C,2004-88,06/16/04,Lepomis macrochirus,Bluegill,Centrarchidae,Intermediate,Insectivore,1,No,56,Good
+HIW,FF5,Hanging Dog Cr,off SR 1342,Cherokee,35.15203,-84.06111,MT,21.7,1-57,C,2004-88,06/16/04,Notropis leuciodus,Tennessee Shiner,Cyprinidae,Intermediate,Insectivore,152,Yes,56,Good
+HIW,FF5,Hanging Dog Cr,off SR 1342,Cherokee,35.15203,-84.06111,MT,21.7,1-57,C,2004-88,06/16/04,Luxilus coccogenis,Warpaint Shiner,Cyprinidae,Intermediate,Insectivore,88,Yes,56,Good
+HIW,FF5,Hanging Dog Cr,off SR 1342,Cherokee,35.15203,-84.06111,MT,21.7,1-57,C,2004-88,06/16/04,Notropis spectrunculus,Mirror Shiner,Cyprinidae,Intermediate,Insectivore,14,Yes,56,Good
+HIW,FF5,Hanging Dog Cr,off SR 1342,Cherokee,35.15203,-84.06111,MT,21.7,1-57,C,2004-88,06/16/04,Percina evides,Gilt Darter,Percidae,Intolerant,Insectivore,2,No,56,Good
+HIW,FF5,Hanging Dog Cr,off SR 1342,Cherokee,35.15203,-84.06111,MT,21.7,1-57,C,2004-88,06/16/04,Ambloplites rupestris,Rock Bass,Centrarchidae,Intolerant,Piscivore,4,Yes,56,Good
+HIW,FF5,Hanging Dog Cr,off SR 1342,Cherokee,35.15203,-84.06111,MT,21.7,1-57,C,2004-88,06/16/04,Hypentelium nigricans,Northern Hogsucker,Catostomidae,Intermediate,Insectivore,15,Yes,56,Good
+HIW,FF5,Hanging Dog Cr,off SR 1342,Cherokee,35.15203,-84.06111,MT,21.7,1-57,C,2004-88,06/16/04,Oncorhynchus mykiss,Rainbow Trout,Salmonidae,Intolerant,Insectivore,1,No,56,Good
+HIW,FF5,Hanging Dog Cr,off SR 1342,Cherokee,35.15203,-84.06111,MT,21.7,1-57,C,2004-88,06/16/04,Etheostoma zonale,Banded Darter,Percidae,Intermediate,Insectivore,25,Yes,56,Good
+HIW,FF5,Hanging Dog Cr,off SR 1342,Cherokee,35.15203,-84.06111,MT,21.7,1-57,C,2004-88,06/16/04,Etheostoma rufilineatum,Redline Darter,Percidae,Intermediate,Insectivore,66,Yes,56,Good
+HIW,FF5,Hanging Dog Cr,off SR 1342,Cherokee,35.15203,-84.06111,MT,21.7,1-57,C,2004-88,06/16/04,Semotilus atromaculatus,Creek Chub,Cyprinidae,Tolerant,Insectivore,4,Yes,56,Good
+HIW,FF5,Hanging Dog Cr,off SR 1342,Cherokee,35.15203,-84.06111,MT,21.7,1-57,C,2004-88,06/16/04,Campostoma anomalum,Central Stoneroller,Cyprinidae,Intermediate,Herbivore,18,Yes,56,Good
+HIW,FF5,Hanging Dog Cr,off SR 1342,Cherokee,35.15203,-84.06111,MT,21.7,1-57,C,2004-88,06/16/04,Nocomis micropogon,River Chub,Cyprinidae,Intermediate,Omnivore,64,Yes,56,Good
+HIW,FF5,Hanging Dog Cr,off SR 1342,Cherokee,35.15203,-84.06111,MT,21.7,1-57,C,2004-88,06/16/04,Cottus bairdii,Mottled Sculpin,Cottidae,Intermediate,Insectivore,119,Yes,56,Good
+HIW,FF5,Hanging Dog Cr,off SR 1342,Cherokee,35.15203,-84.06111,MT,21.7,1-57,C,2004-88,06/16/04,Etheostoma blennioides,Greenside Darter,Percidae,Intermediate,Insectivore,1,No,56,Good
+HIW,FF2,Persimmon Cr,SR 1127,Cherokee,35.05232,-84.18192,MT,12,1-63,C,2004-89,06/16/04,Lepomis cyanellus,Green Sunfish,Centrarchidae,Tolerant,Insectivore,6,No,20,Poor
+HIW,FF2,Persimmon Cr,SR 1127,Cherokee,35.05232,-84.18192,MT,12,1-63,C,2004-89,06/16/04,Etheostoma blennioides,Greenside Darter,Percidae,Intermediate,Insectivore,3,Yes,20,Poor
+HIW,FF2,Persimmon Cr,SR 1127,Cherokee,35.05232,-84.18192,MT,12,1-63,C,2004-89,06/16/04,Semotilus atromaculatus,Creek Chub,Cyprinidae,Tolerant,Insectivore,5,Yes,20,Poor
+HIW,FF2,Persimmon Cr,SR 1127,Cherokee,35.05232,-84.18192,MT,12,1-63,C,2004-89,06/16/04,Ichthyomyzon greeleyi,Mountain Brook Lamprey,Petromyzontidae,Intermediate,Non-feeding,13,Yes,20,Poor
+HIW,FF2,Persimmon Cr,SR 1127,Cherokee,35.05232,-84.18192,MT,12,1-63,C,2004-89,06/16/04,Lepomis macrochirus,Bluegill,Centrarchidae,Intermediate,Insectivore,1,No,20,Poor
+HIW,FF2,Persimmon Cr,SR 1127,Cherokee,35.05232,-84.18192,MT,12,1-63,C,2004-89,06/16/04,Cottus bairdii,Mottled Sculpin,Cottidae,Intermediate,Insectivore,49,Yes,20,Poor
+HIW,FF2,Persimmon Cr,SR 1127,Cherokee,35.05232,-84.18192,MT,12,1-63,C,2004-89,06/16/04,Campostoma anomalum,Central Stoneroller,Cyprinidae,Intermediate,Herbivore,12,Yes,20,Poor
+HIW,FF2,Persimmon Cr,SR 1127,Cherokee,35.05232,-84.18192,MT,12,1-63,C,2004-89,06/16/04,Notropis spectrunculus,Mirror Shiner,Cyprinidae,Intermediate,Insectivore,30,Yes,20,Poor
+HIW,FF2,Persimmon Cr,SR 1127,Cherokee,35.05232,-84.18192,MT,12,1-63,C,2004-89,06/16/04,Micropterus punctulatus,Spotted Bass,Centrarchidae,Intermediate,Piscivore,2,No,20,Poor
+HIW,FF2,Persimmon Cr,SR 1127,Cherokee,35.05232,-84.18192,MT,12,1-63,C,2004-89,06/16/04,Hypentelium nigricans,Northern Hogsucker,Catostomidae,Intermediate,Insectivore,30,Yes,20,Poor
+HIW,FF2,Persimmon Cr,SR 1127,Cherokee,35.05232,-84.18192,MT,12,1-63,C,2004-89,06/16/04,Lepomis auritus,Redbreast Sunfish,Centrarchidae,Tolerant,Insectivore,48,Yes,20,Poor
+HIW,FF1,S Shoal Cr,SR 1314,Cherokee,35.11556,-84.23333,MT,13,1-77,C;Tr,2004-90,06/16/04,Semotilus atromaculatus,Creek Chub,Cyprinidae,Tolerant,Insectivore,13,Yes,20,Not Rated
+HIW,FF1,S Shoal Cr,SR 1314,Cherokee,35.11556,-84.23333,MT,13,1-77,C;Tr,2004-90,06/16/04,Oncorhynchus mykiss,Rainbow Trout,Salmonidae,Intolerant,Insectivore,9,Yes,20,Not Rated
+HIW,FF1,S Shoal Cr,SR 1314,Cherokee,35.11556,-84.23333,MT,13,1-77,C;Tr,2004-90,06/16/04,Cottus bairdii,Mottled Sculpin,Cottidae,Intermediate,Insectivore,90,Yes,20,Not Rated
+HIW,FF11,Little Brasstown Cr,SR 1565,Cherokee,35.03347,-83.96263,MT,8.9,1-42-11,WS-IV,2004-91,06/17/04,Ichthyomyzon greeleyi,Mountain Brook Lamprey,Petromyzontidae,Intermediate,Non-feeding,10,Yes,44,Good-Fair
+HIW,FF11,Little Brasstown Cr,SR 1565,Cherokee,35.03347,-83.96263,MT,8.9,1-42-11,WS-IV,2004-91,06/17/04,Etheostoma rufilineatum,Redline Darter,Percidae,Intermediate,Insectivore,9,Yes,44,Good-Fair
+HIW,FF11,Little Brasstown Cr,SR 1565,Cherokee,35.03347,-83.96263,MT,8.9,1-42-11,WS-IV,2004-91,06/17/04,Notropis telescopus,Telescope Shiner,Cyprinidae,Intolerant,Insectivore,1,No,44,Good-Fair
+HIW,FF11,Little Brasstown Cr,SR 1565,Cherokee,35.03347,-83.96263,MT,8.9,1-42-11,WS-IV,2004-91,06/17/04,Hybopsis amblops,Bigeye Chub,Cyprinidae,Intermediate,Insectivore,3,No,44,Good-Fair
+HIW,FF11,Little Brasstown Cr,SR 1565,Cherokee,35.03347,-83.96263,MT,8.9,1-42-11,WS-IV,2004-91,06/17/04,Luxilus coccogenis,Warpaint Shiner,Cyprinidae,Intermediate,Insectivore,1,No,44,Good-Fair
+HIW,FF11,Little Brasstown Cr,SR 1565,Cherokee,35.03347,-83.96263,MT,8.9,1-42-11,WS-IV,2004-91,06/17/04,Notropis spectrunculus,Mirror Shiner,Cyprinidae,Intermediate,Insectivore,10,No,44,Good-Fair
+HIW,FF11,Little Brasstown Cr,SR 1565,Cherokee,35.03347,-83.96263,MT,8.9,1-42-11,WS-IV,2004-91,06/17/04,Etheostoma zonale,Banded Darter,Percidae,Intermediate,Insectivore,2,No,44,Good-Fair
+HIW,FF11,Little Brasstown Cr,SR 1565,Cherokee,35.03347,-83.96263,MT,8.9,1-42-11,WS-IV,2004-91,06/17/04,Lepomis macrochirus,Bluegill,Centrarchidae,Intermediate,Insectivore,3,No,44,Good-Fair
+HIW,FF11,Little Brasstown Cr,SR 1565,Cherokee,35.03347,-83.96263,MT,8.9,1-42-11,WS-IV,2004-91,06/17/04,Moxostoma erythrurum,Golden Redhorse,Catostomidae,Intermediate,Insectivore,1,No,44,Good-Fair
+HIW,FF11,Little Brasstown Cr,SR 1565,Cherokee,35.03347,-83.96263,MT,8.9,1-42-11,WS-IV,2004-91,06/17/04,Notropis leuciodus,Tennessee Shiner,Cyprinidae,Intermediate,Insectivore,1,No,44,Good-Fair
+HIW,FF11,Little Brasstown Cr,SR 1565,Cherokee,35.03347,-83.96263,MT,8.9,1-42-11,WS-IV,2004-91,06/17/04,Lepomis auritus,Redbreast Sunfish,Centrarchidae,Tolerant,Insectivore,6,Yes,44,Good-Fair
+HIW,FF11,Little Brasstown Cr,SR 1565,Cherokee,35.03347,-83.96263,MT,8.9,1-42-11,WS-IV,2004-91,06/17/04,Lepomis cyanellus,Green Sunfish,Centrarchidae,Tolerant,Insectivore,27,Yes,44,Good-Fair
+HIW,FF11,Little Brasstown Cr,SR 1565,Cherokee,35.03347,-83.96263,MT,8.9,1-42-11,WS-IV,2004-91,06/17/04,Campostoma anomalum,Central Stoneroller,Cyprinidae,Intermediate,Herbivore,12,Yes,44,Good-Fair
+HIW,FF11,Little Brasstown Cr,SR 1565,Cherokee,35.03347,-83.96263,MT,8.9,1-42-11,WS-IV,2004-91,06/17/04,Cottus bairdii,Mottled Sculpin,Cottidae,Intermediate,Insectivore,49,Yes,44,Good-Fair
+HIW,FF11,Little Brasstown Cr,SR 1565,Cherokee,35.03347,-83.96263,MT,8.9,1-42-11,WS-IV,2004-91,06/17/04,Semotilus atromaculatus,Creek Chub,Cyprinidae,Tolerant,Insectivore,13,Yes,44,Good-Fair
+HIW,FF11,Little Brasstown Cr,SR 1565,Cherokee,35.03347,-83.96263,MT,8.9,1-42-11,WS-IV,2004-91,06/17/04,Nocomis micropogon,River Chub,Cyprinidae,Intermediate,Omnivore,16,Yes,44,Good-Fair
+HIW,FF11,Little Brasstown Cr,SR 1565,Cherokee,35.03347,-83.96263,MT,8.9,1-42-11,WS-IV,2004-91,06/17/04,Hypentelium nigricans,Northern Hogsucker,Catostomidae,Intermediate,Insectivore,17,Yes,44,Good-Fair
+HIW,FF11,Little Brasstown Cr,SR 1565,Cherokee,35.03347,-83.96263,MT,8.9,1-42-11,WS-IV,2004-91,06/17/04,Cyprinella galactura,Whitetail Shiner,Cyprinidae,Intermediate,Insectivore,8,Yes,44,Good-Fair
+HIW,FF11,Little Brasstown Cr,SR 1565,Cherokee,35.03347,-83.96263,MT,8.9,1-42-11,WS-IV,2004-91,06/17/04,Ambloplites rupestris,Rock Bass,Centrarchidae,Intolerant,Piscivore,5,Yes,44,Good-Fair
+HIW,FF11,Little Brasstown Cr,SR 1565,Cherokee,35.03347,-83.96263,MT,8.9,1-42-11,WS-IV,2004-91,06/17/04,Etheostoma blennioides,Greenside Darter,Percidae,Intermediate,Insectivore,1,No,44,Good-Fair
+HIW,FF7,Martin Cr,SR 1558,Cherokee,35.07541,-84.02062,MT,9,1-49,C,2004-92,06/17/04,Etheostoma rufilineatum,Redline Darter,Percidae,Intermediate,Insectivore,6,Yes,38,Fair
+HIW,FF7,Martin Cr,SR 1558,Cherokee,35.07541,-84.02062,MT,9,1-49,C,2004-92,06/17/04,Percina evides,Gilt Darter,Percidae,Intolerant,Insectivore,3,No,38,Fair
+HIW,FF7,Martin Cr,SR 1558,Cherokee,35.07541,-84.02062,MT,9,1-49,C,2004-92,06/17/04,Luxilus coccogenis,Warpaint Shiner,Cyprinidae,Intermediate,Insectivore,10,Yes,38,Fair
+HIW,FF7,Martin Cr,SR 1558,Cherokee,35.07541,-84.02062,MT,9,1-49,C,2004-92,06/17/04,Micropterus dolomieu,Smallmouth Bass,Centrarchidae,Intolerant,Piscivore,1,No,38,Fair
+HIW,FF7,Martin Cr,SR 1558,Cherokee,35.07541,-84.02062,MT,9,1-49,C,2004-92,06/17/04,Notropis spectrunculus,Mirror Shiner,Cyprinidae,Intermediate,Insectivore,1,No,38,Fair
+HIW,FF7,Martin Cr,SR 1558,Cherokee,35.07541,-84.02062,MT,9,1-49,C,2004-92,06/17/04,Ichthyomyzon greeleyi,Mountain Brook Lamprey,Petromyzontidae,Intermediate,Non-feeding,3,Yes,38,Fair
+HIW,FF7,Martin Cr,SR 1558,Cherokee,35.07541,-84.02062,MT,9,1-49,C,2004-92,06/17/04,Hypentelium nigricans,Northern Hogsucker,Catostomidae,Intermediate,Insectivore,8,Yes,38,Fair
+HIW,FF7,Martin Cr,SR 1558,Cherokee,35.07541,-84.02062,MT,9,1-49,C,2004-92,06/17/04,Notropis micropteryx,Highland Shiner,Cyprinidae,Intolerant,Insectivore,26,Yes,38,Fair
+HIW,FF7,Martin Cr,SR 1558,Cherokee,35.07541,-84.02062,MT,9,1-49,C,2004-92,06/17/04,Etheostoma zonale,Banded Darter,Percidae,Intermediate,Insectivore,1,No,38,Fair
+HIW,FF7,Martin Cr,SR 1558,Cherokee,35.07541,-84.02062,MT,9,1-49,C,2004-92,06/17/04,Notropis leuciodus,Tennessee Shiner,Cyprinidae,Intermediate,Insectivore,5,Yes,38,Fair
+HIW,FF7,Martin Cr,SR 1558,Cherokee,35.07541,-84.02062,MT,9,1-49,C,2004-92,06/17/04,Perca flavescens,Yellow Perch,Percidae,Intermediate,Piscivore,1,No,38,Fair
+HIW,FF7,Martin Cr,SR 1558,Cherokee,35.07541,-84.02062,MT,9,1-49,C,2004-92,06/17/04,Lepomis cyanellus,Green Sunfish,Centrarchidae,Tolerant,Insectivore,11,Yes,38,Fair
+HIW,FF7,Martin Cr,SR 1558,Cherokee,35.07541,-84.02062,MT,9,1-49,C,2004-92,06/17/04,Moxostoma duquesnei,Black Redhorse,Catostomidae,Intermediate,Insectivore,1,No,38,Fair
+HIW,FF7,Martin Cr,SR 1558,Cherokee,35.07541,-84.02062,MT,9,1-49,C,2004-92,06/17/04,Lepomis macrochirus,Bluegill,Centrarchidae,Intermediate,Insectivore,27,Yes,38,Fair
+HIW,FF7,Martin Cr,SR 1558,Cherokee,35.07541,-84.02062,MT,9,1-49,C,2004-92,06/17/04,Hybopsis amblops,Bigeye Chub,Cyprinidae,Intermediate,Insectivore,1,No,38,Fair
+HIW,FF7,Martin Cr,SR 1558,Cherokee,35.07541,-84.02062,MT,9,1-49,C,2004-92,06/17/04,Campostoma anomalum,Central Stoneroller,Cyprinidae,Intermediate,Herbivore,10,Yes,38,Fair
+HIW,FF7,Martin Cr,SR 1558,Cherokee,35.07541,-84.02062,MT,9,1-49,C,2004-92,06/17/04,Cottus bairdii,Mottled Sculpin,Cottidae,Intermediate,Insectivore,157,Yes,38,Fair
+HIW,FF7,Martin Cr,SR 1558,Cherokee,35.07541,-84.02062,MT,9,1-49,C,2004-92,06/17/04,Nocomis micropogon,River Chub,Cyprinidae,Intermediate,Omnivore,10,Yes,38,Fair
+HIW,FF7,Martin Cr,SR 1558,Cherokee,35.07541,-84.02062,MT,9,1-49,C,2004-92,06/17/04,Etheostoma blennioides,Greenside Darter,Percidae,Intermediate,Insectivore,6,Yes,38,Fair
+HIW,FF6,Vengeance Cr,NC 141/SR 1520,Cherokee,35.16018,-83.92006,MT,7.2,1-52-45,C;Tr,2004-93,06/17/04,Oncorhynchus mykiss,Rainbow Trout,Salmonidae,Intolerant,Insectivore,8,Yes,56,Good
+HIW,FF6,Vengeance Cr,NC 141/SR 1520,Cherokee,35.16018,-83.92006,MT,7.2,1-52-45,C;Tr,2004-93,06/17/04,Hybopsis amblops,Bigeye Chub,Cyprinidae,Intermediate,Insectivore,1,No,56,Good
+HIW,FF6,Vengeance Cr,NC 141/SR 1520,Cherokee,35.16018,-83.92006,MT,7.2,1-52-45,C;Tr,2004-93,06/17/04,Notropis spectrunculus,Mirror Shiner,Cyprinidae,Intermediate,Insectivore,7,No,56,Good
+HIW,FF6,Vengeance Cr,NC 141/SR 1520,Cherokee,35.16018,-83.92006,MT,7.2,1-52-45,C;Tr,2004-93,06/17/04,Clinostomus sp. cf. funduloides,"""Smoky"" Dace",Cyprinidae,Intermediate,Insectivore,6,No,56,Good
+HIW,FF6,Vengeance Cr,NC 141/SR 1520,Cherokee,35.16018,-83.92006,MT,7.2,1-52-45,C;Tr,2004-93,06/17/04,Notropis telescopus,Telescope Shiner,Cyprinidae,Intolerant,Insectivore,1,No,56,Good
+HIW,FF6,Vengeance Cr,NC 141/SR 1520,Cherokee,35.16018,-83.92006,MT,7.2,1-52-45,C;Tr,2004-93,06/17/04,Notropis leuciodus,Tennessee Shiner,Cyprinidae,Intermediate,Insectivore,95,Yes,56,Good
+HIW,FF6,Vengeance Cr,NC 141/SR 1520,Cherokee,35.16018,-83.92006,MT,7.2,1-52-45,C;Tr,2004-93,06/17/04,Ichthyomyzon greeleyi,Mountain Brook Lamprey,Petromyzontidae,Intermediate,Non-feeding,5,Yes,56,Good
+HIW,FF6,Vengeance Cr,NC 141/SR 1520,Cherokee,35.16018,-83.92006,MT,7.2,1-52-45,C;Tr,2004-93,06/17/04,Cottus bairdii,Mottled Sculpin,Cottidae,Intermediate,Insectivore,475,Yes,56,Good
+HIW,FF6,Vengeance Cr,NC 141/SR 1520,Cherokee,35.16018,-83.92006,MT,7.2,1-52-45,C;Tr,2004-93,06/17/04,Etheostoma blennioides,Greenside Darter,Percidae,Intermediate,Insectivore,4,Yes,56,Good
+HIW,FF6,Vengeance Cr,NC 141/SR 1520,Cherokee,35.16018,-83.92006,MT,7.2,1-52-45,C;Tr,2004-93,06/17/04,Luxilus coccogenis,Warpaint Shiner,Cyprinidae,Intermediate,Insectivore,99,Yes,56,Good
+HIW,FF6,Vengeance Cr,NC 141/SR 1520,Cherokee,35.16018,-83.92006,MT,7.2,1-52-45,C;Tr,2004-93,06/17/04,Etheostoma rufilineatum,Redline Darter,Percidae,Intermediate,Insectivore,64,Yes,56,Good
+HIW,FF6,Vengeance Cr,NC 141/SR 1520,Cherokee,35.16018,-83.92006,MT,7.2,1-52-45,C;Tr,2004-93,06/17/04,Hypentelium nigricans,Northern Hogsucker,Catostomidae,Intermediate,Insectivore,25,Yes,56,Good
+HIW,FF6,Vengeance Cr,NC 141/SR 1520,Cherokee,35.16018,-83.92006,MT,7.2,1-52-45,C;Tr,2004-93,06/17/04,Campostoma anomalum,Central Stoneroller,Cyprinidae,Intermediate,Herbivore,161,Yes,56,Good
+HIW,FF6,Vengeance Cr,NC 141/SR 1520,Cherokee,35.16018,-83.92006,MT,7.2,1-52-45,C;Tr,2004-93,06/17/04,Lepomis macrochirus,Bluegill,Centrarchidae,Intermediate,Insectivore,1,No,56,Good
+HIW,FF6,Vengeance Cr,NC 141/SR 1520,Cherokee,35.16018,-83.92006,MT,7.2,1-52-45,C;Tr,2004-93,06/17/04,Rhinichthys cataractae,Longnose Dace,Cyprinidae,Intermediate,Insectivore,34,Yes,56,Good
+HIW,FF6,Vengeance Cr,NC 141/SR 1520,Cherokee,35.16018,-83.92006,MT,7.2,1-52-45,C;Tr,2004-93,06/17/04,Semotilus atromaculatus,Creek Chub,Cyprinidae,Tolerant,Insectivore,18,Yes,56,Good
+HIW,FF6,Vengeance Cr,NC 141/SR 1520,Cherokee,35.16018,-83.92006,MT,7.2,1-52-45,C;Tr,2004-93,06/17/04,Nocomis micropogon,River Chub,Cyprinidae,Intermediate,Omnivore,3,Yes,56,Good
+HIW,FF6,Vengeance Cr,NC 141/SR 1520,Cherokee,35.16018,-83.92006,MT,7.2,1-52-45,C;Tr,2004-93,06/17/04,Ambloplites rupestris,Rock Bass,Centrarchidae,Intolerant,Piscivore,6,Yes,56,Good
+HIW,FF4,Taylor Cr,SR 1515,Cherokee,35.17768,-83.88781,MT,5.7,1-52-39,C;Tr,2004-94,06/18/04,Clinostomus sp. cf. funduloides,"""Smoky"" Dace",Cyprinidae,Intermediate,Insectivore,33,Yes,44,Good-Fair
+HIW,FF4,Taylor Cr,SR 1515,Cherokee,35.17768,-83.88781,MT,5.7,1-52-39,C;Tr,2004-94,06/18/04,Semotilus atromaculatus,Creek Chub,Cyprinidae,Tolerant,Insectivore,67,Yes,44,Good-Fair
+HIW,FF4,Taylor Cr,SR 1515,Cherokee,35.17768,-83.88781,MT,5.7,1-52-39,C;Tr,2004-94,06/18/04,Etheostoma blennioides,Greenside Darter,Percidae,Intermediate,Insectivore,2,Yes,44,Good-Fair
+HIW,FF4,Taylor Cr,SR 1515,Cherokee,35.17768,-83.88781,MT,5.7,1-52-39,C;Tr,2004-94,06/18/04,Etheostoma zonale,Banded Darter,Percidae,Intermediate,Insectivore,1,No,44,Good-Fair
+HIW,FF4,Taylor Cr,SR 1515,Cherokee,35.17768,-83.88781,MT,5.7,1-52-39,C;Tr,2004-94,06/18/04,Rhinichthys cataractae,Longnose Dace,Cyprinidae,Intermediate,Insectivore,6,No,44,Good-Fair
+HIW,FF4,Taylor Cr,SR 1515,Cherokee,35.17768,-83.88781,MT,5.7,1-52-39,C;Tr,2004-94,06/18/04,Luxilus coccogenis,Warpaint Shiner,Cyprinidae,Intermediate,Insectivore,7,Yes,44,Good-Fair
+HIW,FF4,Taylor Cr,SR 1515,Cherokee,35.17768,-83.88781,MT,5.7,1-52-39,C;Tr,2004-94,06/18/04,Ichthyomyzon greeleyi,Mountain Brook Lamprey,Petromyzontidae,Intermediate,Non-feeding,8,Yes,44,Good-Fair
+HIW,FF4,Taylor Cr,SR 1515,Cherokee,35.17768,-83.88781,MT,5.7,1-52-39,C;Tr,2004-94,06/18/04,Ambloplites rupestris,Rock Bass,Centrarchidae,Intolerant,Piscivore,2,No,44,Good-Fair
+HIW,FF4,Taylor Cr,SR 1515,Cherokee,35.17768,-83.88781,MT,5.7,1-52-39,C;Tr,2004-94,06/18/04,Etheostoma rufilineatum,Redline Darter,Percidae,Intermediate,Insectivore,33,Yes,44,Good-Fair
+HIW,FF4,Taylor Cr,SR 1515,Cherokee,35.17768,-83.88781,MT,5.7,1-52-39,C;Tr,2004-94,06/18/04,Campostoma anomalum,Central Stoneroller,Cyprinidae,Intermediate,Herbivore,52,Yes,44,Good-Fair
+HIW,FF4,Taylor Cr,SR 1515,Cherokee,35.17768,-83.88781,MT,5.7,1-52-39,C;Tr,2004-94,06/18/04,Hypentelium nigricans,Northern Hogsucker,Catostomidae,Intermediate,Insectivore,15,Yes,44,Good-Fair
+HIW,FF4,Taylor Cr,SR 1515,Cherokee,35.17768,-83.88781,MT,5.7,1-52-39,C;Tr,2004-94,06/18/04,Cottus bairdii,Mottled Sculpin,Cottidae,Intermediate,Insectivore,226,Yes,44,Good-Fair
+HIW,FF4,Taylor Cr,SR 1515,Cherokee,35.17768,-83.88781,MT,5.7,1-52-39,C;Tr,2004-94,06/18/04,Oncorhynchus mykiss,Rainbow Trout,Salmonidae,Intolerant,Insectivore,3,Yes,44,Good-Fair
+HIW,FF4,Taylor Cr,SR 1515,Cherokee,35.17768,-83.88781,MT,5.7,1-52-39,C;Tr,2004-94,06/18/04,Notropis spectrunculus,Mirror Shiner,Cyprinidae,Intermediate,Insectivore,13,No,44,Good-Fair
+HIW,FF4,Taylor Cr,SR 1515,Cherokee,35.17768,-83.88781,MT,5.7,1-52-39,C;Tr,2004-94,06/18/04,Notropis leuciodus,Tennessee Shiner,Cyprinidae,Intermediate,Insectivore,1,No,44,Good-Fair
+HIW,FF3,Valley R,SR 1409,Cherokee,35.20361,-83.79361,MT,16.8,1-52,C;Tr,2004-95,06/18/04,Etheostoma rufilineatum,Redline Darter,Percidae,Intermediate,Insectivore,32,Yes,40,Not Rated
+HIW,FF3,Valley R,SR 1409,Cherokee,35.20361,-83.79361,MT,16.8,1-52,C;Tr,2004-95,06/18/04,Semotilus atromaculatus,Creek Chub,Cyprinidae,Tolerant,Insectivore,12,Yes,40,Not Rated
+HIW,FF3,Valley R,SR 1409,Cherokee,35.20361,-83.79361,MT,16.8,1-52,C;Tr,2004-95,06/18/04,Ichthyomyzon greeleyi,Mountain Brook Lamprey,Petromyzontidae,Intermediate,Non-feeding,6,Yes,40,Not Rated
+HIW,FF3,Valley R,SR 1409,Cherokee,35.20361,-83.79361,MT,16.8,1-52,C;Tr,2004-95,06/18/04,Rhinichthys cataractae,Longnose Dace,Cyprinidae,Intermediate,Insectivore,43,Yes,40,Not Rated
+HIW,FF3,Valley R,SR 1409,Cherokee,35.20361,-83.79361,MT,16.8,1-52,C;Tr,2004-95,06/18/04,Notropis spectrunculus,Mirror Shiner,Cyprinidae,Intermediate,Insectivore,26,Yes,40,Not Rated
+HIW,FF3,Valley R,SR 1409,Cherokee,35.20361,-83.79361,MT,16.8,1-52,C;Tr,2004-95,06/18/04,Etheostoma blennioides,Greenside Darter,Percidae,Intermediate,Insectivore,3,No,40,Not Rated
+HIW,FF3,Valley R,SR 1409,Cherokee,35.20361,-83.79361,MT,16.8,1-52,C;Tr,2004-95,06/18/04,Ambloplites rupestris,Rock Bass,Centrarchidae,Intolerant,Piscivore,3,No,40,Not Rated
+HIW,FF3,Valley R,SR 1409,Cherokee,35.20361,-83.79361,MT,16.8,1-52,C;Tr,2004-95,06/18/04,Cottus bairdii,Mottled Sculpin,Cottidae,Intermediate,Insectivore,333,Yes,40,Not Rated
+HIW,FF3,Valley R,SR 1409,Cherokee,35.20361,-83.79361,MT,16.8,1-52,C;Tr,2004-95,06/18/04,Campostoma anomalum,Central Stoneroller,Cyprinidae,Intermediate,Herbivore,58,Yes,40,Not Rated
+HIW,FF3,Valley R,SR 1409,Cherokee,35.20361,-83.79361,MT,16.8,1-52,C;Tr,2004-95,06/18/04,Oncorhynchus mykiss,Rainbow Trout,Salmonidae,Intolerant,Insectivore,24,Yes,40,Not Rated
+HIW,FF3,Valley R,SR 1409,Cherokee,35.20361,-83.79361,MT,16.8,1-52,C;Tr,2004-95,06/18/04,Hypentelium nigricans,Northern Hogsucker,Catostomidae,Intermediate,Insectivore,18,Yes,40,Not Rated
+HIW,FF15,Peachtree Cr,SR 1537A,Cherokee,35.08944,-83.93056,MT,8.3,1-44,C,2006-01,03/22/06,Luxilus coccogenis,Warpaint Shiner,Cyprinidae,Intermediate,Insectivore,34,Yes,34,Not Rated
+HIW,FF15,Peachtree Cr,SR 1537A,Cherokee,35.08944,-83.93056,MT,8.3,1-44,C,2006-01,03/22/06,Ichthyomyzon greeleyi,Mountain Brook Lamprey,Petromyzontidae,Intermediate,Non-feeding,15,No,34,Not Rated
+HIW,FF15,Peachtree Cr,SR 1537A,Cherokee,35.08944,-83.93056,MT,8.3,1-44,C,2006-01,03/22/06,Notropis leuciodus,Tennessee Shiner,Cyprinidae,Intermediate,Insectivore,2,No,34,Not Rated
+HIW,FF15,Peachtree Cr,SR 1537A,Cherokee,35.08944,-83.93056,MT,8.3,1-44,C,2006-01,03/22/06,Etheostoma rufilineatum,Redline Darter,Percidae,Intermediate,Insectivore,2,No,34,Not Rated
+HIW,FF15,Peachtree Cr,SR 1537A,Cherokee,35.08944,-83.93056,MT,8.3,1-44,C,2006-01,03/22/06,Lepomis auritus,Redbreast Sunfish,Centrarchidae,Tolerant,Insectivore,1,No,34,Not Rated
+HIW,FF15,Peachtree Cr,SR 1537A,Cherokee,35.08944,-83.93056,MT,8.3,1-44,C,2006-01,03/22/06,Hypentelium nigricans,Northern Hogsucker,Catostomidae,Intermediate,Insectivore,13,Yes,34,Not Rated
+HIW,FF15,Peachtree Cr,SR 1537A,Cherokee,35.08944,-83.93056,MT,8.3,1-44,C,2006-01,03/22/06,Rhinichthys cataractae,Longnose Dace,Cyprinidae,Intermediate,Insectivore,33,Yes,34,Not Rated
+HIW,FF15,Peachtree Cr,SR 1537A,Cherokee,35.08944,-83.93056,MT,8.3,1-44,C,2006-01,03/22/06,Lepomis macrochirus,Bluegill,Centrarchidae,Intermediate,Insectivore,10,Yes,34,Not Rated
+HIW,FF15,Peachtree Cr,SR 1537A,Cherokee,35.08944,-83.93056,MT,8.3,1-44,C,2006-01,03/22/06,Notropis spectrunculus,Mirror Shiner,Cyprinidae,Intermediate,Insectivore,46,Yes,34,Not Rated
+HIW,FF15,Peachtree Cr,SR 1537A,Cherokee,35.08944,-83.93056,MT,8.3,1-44,C,2006-01,03/22/06,Campostoma anomalum,Central Stoneroller,Cyprinidae,Intermediate,Herbivore,36,Yes,34,Not Rated
+HIW,FF15,Peachtree Cr,SR 1537A,Cherokee,35.08944,-83.93056,MT,8.3,1-44,C,2006-01,03/22/06,Oncorhynchus mykiss,Rainbow Trout,Salmonidae,Intolerant,Insectivore,9,Yes,34,Not Rated
+HIW,FF15,Peachtree Cr,SR 1537A,Cherokee,35.08944,-83.93056,MT,8.3,1-44,C,2006-01,03/22/06,Cottus bairdii,Mottled Sculpin,Cottidae,Intermediate,Insectivore,615,Yes,34,Not Rated
+HIW,FF15,Peachtree Cr,SR 1537A,Cherokee,35.08944,-83.93056,MT,8.3,1-44,C,2006-01,03/22/06,Semotilus atromaculatus,Creek Chub,Cyprinidae,Tolerant,Insectivore,35,Yes,34,Not Rated
+HIW,FF16,Slow Cr,SR 1531,Cherokee,35.09250,-83.95583,MT,4.6,1-44-9,C,2006-02,03/22/06,Oncorhynchus mykiss,Rainbow Trout,Salmonidae,Intolerant,Insectivore,1,No,40,Good-Fair
+HIW,FF16,Slow Cr,SR 1531,Cherokee,35.09250,-83.95583,MT,4.6,1-44-9,C,2006-02,03/22/06,Lepomis sp.,,Centrarchidae,Tolerant,Insectivore,1,N/A,40,Good-Fair
+HIW,FF16,Slow Cr,SR 1531,Cherokee,35.09250,-83.95583,MT,4.6,1-44-9,C,2006-02,03/22/06,Ambloplites rupestris,Rock Bass,Centrarchidae,Intolerant,Piscivore,2,No,40,Good-Fair
+HIW,FF16,Slow Cr,SR 1531,Cherokee,35.09250,-83.95583,MT,4.6,1-44-9,C,2006-02,03/22/06,Ichthyomyzon greeleyi,Mountain Brook Lamprey,Petromyzontidae,Intermediate,Non-feeding,84,Yes,40,Good-Fair
+HIW,FF16,Slow Cr,SR 1531,Cherokee,35.09250,-83.95583,MT,4.6,1-44-9,C,2006-02,03/22/06,Notropis leuciodus,Tennessee Shiner,Cyprinidae,Intermediate,Insectivore,4,No,40,Good-Fair
+HIW,FF16,Slow Cr,SR 1531,Cherokee,35.09250,-83.95583,MT,4.6,1-44-9,C,2006-02,03/22/06,Lepomis cyanellus,Green Sunfish,Centrarchidae,Tolerant,Insectivore,5,Yes,40,Good-Fair
+HIW,FF16,Slow Cr,SR 1531,Cherokee,35.09250,-83.95583,MT,4.6,1-44-9,C,2006-02,03/22/06,Hypentelium nigricans,Northern Hogsucker,Catostomidae,Intermediate,Insectivore,26,Yes,40,Good-Fair
+HIW,FF16,Slow Cr,SR 1531,Cherokee,35.09250,-83.95583,MT,4.6,1-44-9,C,2006-02,03/22/06,Luxilus coccogenis,Warpaint Shiner,Cyprinidae,Intermediate,Insectivore,26,Yes,40,Good-Fair
+HIW,FF16,Slow Cr,SR 1531,Cherokee,35.09250,-83.95583,MT,4.6,1-44-9,C,2006-02,03/22/06,Campostoma anomalum,Central Stoneroller,Cyprinidae,Intermediate,Herbivore,47,Yes,40,Good-Fair
+HIW,FF16,Slow Cr,SR 1531,Cherokee,35.09250,-83.95583,MT,4.6,1-44-9,C,2006-02,03/22/06,Lepomis auritus,Redbreast Sunfish,Centrarchidae,Tolerant,Insectivore,21,Yes,40,Good-Fair
+HIW,FF16,Slow Cr,SR 1531,Cherokee,35.09250,-83.95583,MT,4.6,1-44-9,C,2006-02,03/22/06,Lepomis macrochirus,Bluegill,Centrarchidae,Intermediate,Insectivore,45,Yes,40,Good-Fair
+HIW,FF16,Slow Cr,SR 1531,Cherokee,35.09250,-83.95583,MT,4.6,1-44-9,C,2006-02,03/22/06,Cottus bairdii,Mottled Sculpin,Cottidae,Intermediate,Insectivore,130,Yes,40,Good-Fair
+HIW,FF16,Slow Cr,SR 1531,Cherokee,35.09250,-83.95583,MT,4.6,1-44-9,C,2006-02,03/22/06,Semotilus atromaculatus,Creek Chub,Cyprinidae,Tolerant,Insectivore,29,Yes,40,Good-Fair
+HIW,FF16,Slow Cr,SR 1531,Cherokee,35.09250,-83.95583,MT,4.6,1-44-9,C,2006-02,03/22/06,Micropterus salmoides,Largemouth Bass,Centrarchidae,Intermediate,Piscivore,3,Yes,40,Good-Fair
+HIW,FF7,Martin Cr,SR 1558,Cherokee,35.07541,-84.02062,MT,9,1-49,C,2006-03,03/23/06,Pimephales notatus,Bluntnose Minnow,Cyprinidae,Tolerant,Omnivore,2,No,46,Good-Fair
+HIW,FF7,Martin Cr,SR 1558,Cherokee,35.07541,-84.02062,MT,9,1-49,C,2006-03,03/23/06,Etheostoma zonale,Banded Darter,Percidae,Intermediate,Insectivore,1,No,46,Good-Fair
+HIW,FF7,Martin Cr,SR 1558,Cherokee,35.07541,-84.02062,MT,9,1-49,C,2006-03,03/23/06,Etheostoma blennioides,Greenside Darter,Percidae,Intermediate,Insectivore,1,No,46,Good-Fair
+HIW,FF7,Martin Cr,SR 1558,Cherokee,35.07541,-84.02062,MT,9,1-49,C,2006-03,03/23/06,Etheostoma rufilineatum,Redline Darter,Percidae,Intermediate,Insectivore,1,No,46,Good-Fair
+HIW,FF7,Martin Cr,SR 1558,Cherokee,35.07541,-84.02062,MT,9,1-49,C,2006-03,03/23/06,Moxostoma duquesnei,Black Redhorse,Catostomidae,Intermediate,Insectivore,1,No,46,Good-Fair
+HIW,FF7,Martin Cr,SR 1558,Cherokee,35.07541,-84.02062,MT,9,1-49,C,2006-03,03/23/06,Notropis micropteryx,Highland Shiner,Cyprinidae,Intolerant,Insectivore,22,Yes,46,Good-Fair
+HIW,FF7,Martin Cr,SR 1558,Cherokee,35.07541,-84.02062,MT,9,1-49,C,2006-03,03/23/06,Notropis spectrunculus,Mirror Shiner,Cyprinidae,Intermediate,Insectivore,2,No,46,Good-Fair
+HIW,FF7,Martin Cr,SR 1558,Cherokee,35.07541,-84.02062,MT,9,1-49,C,2006-03,03/23/06,Nocomis micropogon,River Chub,Cyprinidae,Intermediate,Omnivore,7,Yes,46,Good-Fair
+HIW,FF7,Martin Cr,SR 1558,Cherokee,35.07541,-84.02062,MT,9,1-49,C,2006-03,03/23/06,Cottus bairdii,Mottled Sculpin,Cottidae,Intermediate,Insectivore,116,Yes,46,Good-Fair
+HIW,FF7,Martin Cr,SR 1558,Cherokee,35.07541,-84.02062,MT,9,1-49,C,2006-03,03/23/06,Notropis leuciodus,Tennessee Shiner,Cyprinidae,Intermediate,Insectivore,8,Yes,46,Good-Fair
+HIW,FF7,Martin Cr,SR 1558,Cherokee,35.07541,-84.02062,MT,9,1-49,C,2006-03,03/23/06,Lepomis cyanellus,Green Sunfish,Centrarchidae,Tolerant,Insectivore,1,No,46,Good-Fair
+HIW,FF7,Martin Cr,SR 1558,Cherokee,35.07541,-84.02062,MT,9,1-49,C,2006-03,03/23/06,Lepomis auritus,Redbreast Sunfish,Centrarchidae,Tolerant,Insectivore,1,No,46,Good-Fair
+HIW,FF7,Martin Cr,SR 1558,Cherokee,35.07541,-84.02062,MT,9,1-49,C,2006-03,03/23/06,Hybopsis amblops,Bigeye Chub,Cyprinidae,Intermediate,Insectivore,6,Yes,46,Good-Fair
+HIW,FF7,Martin Cr,SR 1558,Cherokee,35.07541,-84.02062,MT,9,1-49,C,2006-03,03/23/06,Ichthyomyzon greeleyi,Mountain Brook Lamprey,Petromyzontidae,Intermediate,Non-feeding,8,Yes,46,Good-Fair
+HIW,FF7,Martin Cr,SR 1558,Cherokee,35.07541,-84.02062,MT,9,1-49,C,2006-03,03/23/06,Luxilus coccogenis,Warpaint Shiner,Cyprinidae,Intermediate,Insectivore,11,Yes,46,Good-Fair
+HIW,FF7,Martin Cr,SR 1558,Cherokee,35.07541,-84.02062,MT,9,1-49,C,2006-03,03/23/06,Cyprinella galactura,Whitetail Shiner,Cyprinidae,Intermediate,Insectivore,5,No,46,Good-Fair
+HIW,FF7,Martin Cr,SR 1558,Cherokee,35.07541,-84.02062,MT,9,1-49,C,2006-03,03/23/06,Semotilus atromaculatus,Creek Chub,Cyprinidae,Tolerant,Insectivore,1,No,46,Good-Fair
+HIW,FF7,Martin Cr,SR 1558,Cherokee,35.07541,-84.02062,MT,9,1-49,C,2006-03,03/23/06,Campostoma anomalum,Central Stoneroller,Cyprinidae,Intermediate,Herbivore,30,Yes,46,Good-Fair
+HIW,FF7,Martin Cr,SR 1558,Cherokee,35.07541,-84.02062,MT,9,1-49,C,2006-03,03/23/06,Hypentelium nigricans,Northern Hogsucker,Catostomidae,Intermediate,Insectivore,14,Yes,46,Good-Fair
+HIW,FF7,Martin Cr,SR 1558,Cherokee,35.07541,-84.02062,MT,9,1-49,C,2006-03,03/23/06,Lepomis macrochirus,Bluegill,Centrarchidae,Intermediate,Insectivore,24,Yes,46,Good-Fair
+HIW,FF14,Martin Cr,SR 1576,Cherokee,35.05333,-84.02444,MT,6.5,1-49,C,2006-04,03/23/06,Etheostoma blennioides,Greenside Darter,Percidae,Intermediate,Insectivore,4,Yes,40,Not Rated
+HIW,FF14,Martin Cr,SR 1576,Cherokee,35.05333,-84.02444,MT,6.5,1-49,C,2006-04,03/23/06,Notropis spectrunculus,Mirror Shiner,Cyprinidae,Intermediate,Insectivore,10,Yes,40,Not Rated
+HIW,FF14,Martin Cr,SR 1576,Cherokee,35.05333,-84.02444,MT,6.5,1-49,C,2006-04,03/23/06,Ichthyomyzon greeleyi,Mountain Brook Lamprey,Petromyzontidae,Intermediate,Non-feeding,12,Yes,40,Not Rated
+HIW,FF14,Martin Cr,SR 1576,Cherokee,35.05333,-84.02444,MT,6.5,1-49,C,2006-04,03/23/06,Cottus bairdii,Mottled Sculpin,Cottidae,Intermediate,Insectivore,252,Yes,40,Not Rated
+HIW,FF14,Martin Cr,SR 1576,Cherokee,35.05333,-84.02444,MT,6.5,1-49,C,2006-04,03/23/06,Hypentelium nigricans,Northern Hogsucker,Catostomidae,Intermediate,Insectivore,7,Yes,40,Not Rated
+HIW,FF14,Martin Cr,SR 1576,Cherokee,35.05333,-84.02444,MT,6.5,1-49,C,2006-04,03/23/06,Ambloplites rupestris,Rock Bass,Centrarchidae,Intolerant,Piscivore,3,Yes,40,Not Rated
+HIW,FF14,Martin Cr,SR 1576,Cherokee,35.05333,-84.02444,MT,6.5,1-49,C,2006-04,03/23/06,Campostoma anomalum,Central Stoneroller,Cyprinidae,Intermediate,Herbivore,80,Yes,40,Not Rated
+HIW,FF14,Martin Cr,SR 1576,Cherokee,35.05333,-84.02444,MT,6.5,1-49,C,2006-04,03/23/06,Semotilus atromaculatus,Creek Chub,Cyprinidae,Tolerant,Insectivore,7,Yes,40,Not Rated
+HIW,FF2,Persimmon Cr,SR 1127,Cherokee,35.05232,-84.18192,MT,12,1-63,C,2006-05,03/23/06,Semotilus atromaculatus,Creek Chub,Cyprinidae,Tolerant,Insectivore,4,Yes,26,Poor
+HIW,FF2,Persimmon Cr,SR 1127,Cherokee,35.05232,-84.18192,MT,12,1-63,C,2006-05,03/23/06,Ichthyomyzon greeleyi,Mountain Brook Lamprey,Petromyzontidae,Intermediate,Non-feeding,21,Yes,26,Poor
+HIW,FF2,Persimmon Cr,SR 1127,Cherokee,35.05232,-84.18192,MT,12,1-63,C,2006-05,03/23/06,Campostoma anomalum,Central Stoneroller,Cyprinidae,Intermediate,Herbivore,1,No,26,Poor
+HIW,FF2,Persimmon Cr,SR 1127,Cherokee,35.05232,-84.18192,MT,12,1-63,C,2006-05,03/23/06,Lepomis macrochirus,Bluegill,Centrarchidae,Intermediate,Insectivore,5,No,26,Poor
+HIW,FF2,Persimmon Cr,SR 1127,Cherokee,35.05232,-84.18192,MT,12,1-63,C,2006-05,03/23/06,Notropis spectrunculus,Mirror Shiner,Cyprinidae,Intermediate,Insectivore,62,Yes,26,Poor
+HIW,FF2,Persimmon Cr,SR 1127,Cherokee,35.05232,-84.18192,MT,12,1-63,C,2006-05,03/23/06,Lepomis auritus,Redbreast Sunfish,Centrarchidae,Tolerant,Insectivore,17,Yes,26,Poor
+HIW,FF2,Persimmon Cr,SR 1127,Cherokee,35.05232,-84.18192,MT,12,1-63,C,2006-05,03/23/06,Hypentelium nigricans,Northern Hogsucker,Catostomidae,Intermediate,Insectivore,39,Yes,26,Poor
+HIW,FF2,Persimmon Cr,SR 1127,Cherokee,35.05232,-84.18192,MT,12,1-63,C,2006-05,03/23/06,Cottus bairdii,Mottled Sculpin,Cottidae,Intermediate,Insectivore,378,Yes,26,Poor
+HIW,FF2,Persimmon Cr,SR 1127,Cherokee,35.05232,-84.18192,MT,12,1-63,C,2006-05,03/23/06,Etheostoma blennioides,Greenside Darter,Percidae,Intermediate,Insectivore,14,Yes,26,Poor
+HIW,FF12,Shooting Cr,SR 1340,Clay,35.02214,-83.68202,MT,22.9,1-5,C;Tr,2009-67,06/22/09,Cyprinella galactura,Whitetail Shiner,Cyprinidae,Intermediate,Insectivore,12,Yes,40,Good-Fair
+HIW,FF12,Shooting Cr,SR 1340,Clay,35.02214,-83.68202,MT,22.9,1-5,C;Tr,2009-67,06/22/09,Ichthyomyzon greeleyi,Mountain Brook Lamprey,Petromyzontidae,Intermediate,Non-feeding,9,Yes,40,Good-Fair
+HIW,FF12,Shooting Cr,SR 1340,Clay,35.02214,-83.68202,MT,22.9,1-5,C;Tr,2009-67,06/22/09,Etheostoma rufilineatum,Redline Darter,Percidae,Intermediate,Insectivore,14,Yes,40,Good-Fair
+HIW,FF12,Shooting Cr,SR 1340,Clay,35.02214,-83.68202,MT,22.9,1-5,C;Tr,2009-67,06/22/09,Lepomis auritus,Redbreast Sunfish,Centrarchidae,Tolerant,Insectivore,2,No,40,Good-Fair
+HIW,FF12,Shooting Cr,SR 1340,Clay,35.02214,-83.68202,MT,22.9,1-5,C;Tr,2009-67,06/22/09,Rhinichthys cataractae,Longnose Dace,Cyprinidae,Intermediate,Insectivore,16,Yes,40,Good-Fair
+HIW,FF12,Shooting Cr,SR 1340,Clay,35.02214,-83.68202,MT,22.9,1-5,C;Tr,2009-67,06/22/09,Lepomis macrochirus,Bluegill,Centrarchidae,Intermediate,Insectivore,19,Yes,40,Good-Fair
+HIW,FF12,Shooting Cr,SR 1340,Clay,35.02214,-83.68202,MT,22.9,1-5,C;Tr,2009-67,06/22/09,Campostoma anomalum,Central Stoneroller,Cyprinidae,Intermediate,Herbivore,147,Yes,40,Good-Fair
+HIW,FF12,Shooting Cr,SR 1340,Clay,35.02214,-83.68202,MT,22.9,1-5,C;Tr,2009-67,06/22/09,Hypentelium nigricans,Northern Hogsucker,Catostomidae,Intermediate,Insectivore,23,Yes,40,Good-Fair
+HIW,FF12,Shooting Cr,SR 1340,Clay,35.02214,-83.68202,MT,22.9,1-5,C;Tr,2009-67,06/22/09,Oncorhynchus mykiss,Rainbow Trout,Salmonidae,Intolerant,Insectivore,3,Yes,40,Good-Fair
+HIW,FF12,Shooting Cr,SR 1340,Clay,35.02214,-83.68202,MT,22.9,1-5,C;Tr,2009-67,06/22/09,Semotilus atromaculatus,Creek Chub,Cyprinidae,Tolerant,Insectivore,1,No,40,Good-Fair
+HIW,FF12,Shooting Cr,SR 1340,Clay,35.02214,-83.68202,MT,22.9,1-5,C;Tr,2009-67,06/22/09,Cottus bairdii,Mottled Sculpin,Cottidae,Intermediate,Insectivore,443,Yes,40,Good-Fair
+HIW,FF13,Brasstown Cr,SR 1111,Clay,34.98807,-83.89467,MT,37.3,1-42,WS-IV,2009-68,06/22/09,Notropis leuciodus,Tennessee Shiner,Cyprinidae,Intermediate,Insectivore,152,Yes,50,Good
+HIW,FF13,Brasstown Cr,SR 1111,Clay,34.98807,-83.89467,MT,37.3,1-42,WS-IV,2009-68,06/22/09,Cyprinella galactura,Whitetail Shiner,Cyprinidae,Intermediate,Insectivore,3,No,50,Good
+HIW,FF13,Brasstown Cr,SR 1111,Clay,34.98807,-83.89467,MT,37.3,1-42,WS-IV,2009-68,06/22/09,Ichthyomyzon greeleyi,Mountain Brook Lamprey,Petromyzontidae,Intermediate,Non-feeding,4,Yes,50,Good
+HIW,FF13,Brasstown Cr,SR 1111,Clay,34.98807,-83.89467,MT,37.3,1-42,WS-IV,2009-68,06/22/09,Etheostoma rufilineatum,Redline Darter,Percidae,Intermediate,Insectivore,30,Yes,50,Good
+HIW,FF13,Brasstown Cr,SR 1111,Clay,34.98807,-83.89467,MT,37.3,1-42,WS-IV,2009-68,06/22/09,Etheostoma zonale,Banded Darter,Percidae,Intermediate,Insectivore,15,Yes,50,Good
+HIW,FF13,Brasstown Cr,SR 1111,Clay,34.98807,-83.89467,MT,37.3,1-42,WS-IV,2009-68,06/22/09,Percina evides,Gilt Darter,Percidae,Intolerant,Insectivore,10,No,50,Good
+HIW,FF13,Brasstown Cr,SR 1111,Clay,34.98807,-83.89467,MT,37.3,1-42,WS-IV,2009-68,06/22/09,Etheostoma blennioides,Greenside Darter,Percidae,Intermediate,Insectivore,32,Yes,50,Good
+HIW,FF13,Brasstown Cr,SR 1111,Clay,34.98807,-83.89467,MT,37.3,1-42,WS-IV,2009-68,06/22/09,Notropis spectrunculus,Mirror Shiner,Cyprinidae,Intermediate,Insectivore,16,Yes,50,Good
+HIW,FF13,Brasstown Cr,SR 1111,Clay,34.98807,-83.89467,MT,37.3,1-42,WS-IV,2009-68,06/22/09,Lepomis macrochirus,Bluegill,Centrarchidae,Intermediate,Insectivore,6,Yes,50,Good
+HIW,FF13,Brasstown Cr,SR 1111,Clay,34.98807,-83.89467,MT,37.3,1-42,WS-IV,2009-68,06/22/09,Cottus bairdii,Mottled Sculpin,Cottidae,Intermediate,Insectivore,208,Yes,50,Good
+HIW,FF13,Brasstown Cr,SR 1111,Clay,34.98807,-83.89467,MT,37.3,1-42,WS-IV,2009-68,06/22/09,Semotilus atromaculatus,Creek Chub,Cyprinidae,Tolerant,Insectivore,15,Yes,50,Good
+HIW,FF13,Brasstown Cr,SR 1111,Clay,34.98807,-83.89467,MT,37.3,1-42,WS-IV,2009-68,06/22/09,Campostoma anomalum,Central Stoneroller,Cyprinidae,Intermediate,Herbivore,32,Yes,50,Good
+HIW,FF13,Brasstown Cr,SR 1111,Clay,34.98807,-83.89467,MT,37.3,1-42,WS-IV,2009-68,06/22/09,Nocomis micropogon,River Chub,Cyprinidae,Intermediate,Omnivore,54,Yes,50,Good
+HIW,FF13,Brasstown Cr,SR 1111,Clay,34.98807,-83.89467,MT,37.3,1-42,WS-IV,2009-68,06/22/09,Ambloplites rupestris,Rock Bass,Centrarchidae,Intolerant,Piscivore,3,Yes,50,Good
+HIW,FF13,Brasstown Cr,SR 1111,Clay,34.98807,-83.89467,MT,37.3,1-42,WS-IV,2009-68,06/22/09,Moxostoma duquesnei,Black Redhorse,Catostomidae,Intermediate,Insectivore,2,No,50,Good
+HIW,FF13,Brasstown Cr,SR 1111,Clay,34.98807,-83.89467,MT,37.3,1-42,WS-IV,2009-68,06/22/09,Hypentelium nigricans,Northern Hogsucker,Catostomidae,Intermediate,Insectivore,18,Yes,50,Good
+HIW,FF13,Brasstown Cr,SR 1111,Clay,34.98807,-83.89467,MT,37.3,1-42,WS-IV,2009-68,06/22/09,Lepomis cyanellus,Green Sunfish,Centrarchidae,Tolerant,Insectivore,1,No,50,Good
+HIW,FF10,Fires Cr,SR 1300,Clay,35.07722,-83.86444,MT,23,1-27-(5.5),"WS-IV;Tr, ORW",2009-69,06/23/09,Cottus bairdii,Mottled Sculpin,Cottidae,Intermediate,Insectivore,338,Yes,38,Not Rated
+HIW,FF10,Fires Cr,SR 1300,Clay,35.07722,-83.86444,MT,23,1-27-(5.5),"WS-IV;Tr, ORW",2009-69,06/23/09,Semotilus atromaculatus,Creek Chub,Cyprinidae,Tolerant,Insectivore,1,No,38,Not Rated
+HIW,FF10,Fires Cr,SR 1300,Clay,35.07722,-83.86444,MT,23,1-27-(5.5),"WS-IV;Tr, ORW",2009-69,06/23/09,Notropis telescopus,Telescope Shiner,Cyprinidae,Intolerant,Insectivore,2,No,38,Not Rated
+HIW,FF10,Fires Cr,SR 1300,Clay,35.07722,-83.86444,MT,23,1-27-(5.5),"WS-IV;Tr, ORW",2009-69,06/23/09,Notropis spectrunculus,Mirror Shiner,Cyprinidae,Intermediate,Insectivore,47,Yes,38,Not Rated
+HIW,FF10,Fires Cr,SR 1300,Clay,35.07722,-83.86444,MT,23,1-27-(5.5),"WS-IV;Tr, ORW",2009-69,06/23/09,Rhinichthys cataractae,Longnose Dace,Cyprinidae,Intermediate,Insectivore,23,Yes,38,Not Rated
+HIW,FF10,Fires Cr,SR 1300,Clay,35.07722,-83.86444,MT,23,1-27-(5.5),"WS-IV;Tr, ORW",2009-69,06/23/09,Ambloplites rupestris,Rock Bass,Centrarchidae,Intolerant,Piscivore,1,No,38,Not Rated
+HIW,FF10,Fires Cr,SR 1300,Clay,35.07722,-83.86444,MT,23,1-27-(5.5),"WS-IV;Tr, ORW",2009-69,06/23/09,Campostoma anomalum,Central Stoneroller,Cyprinidae,Intermediate,Herbivore,43,Yes,38,Not Rated
+HIW,FF10,Fires Cr,SR 1300,Clay,35.07722,-83.86444,MT,23,1-27-(5.5),"WS-IV;Tr, ORW",2009-69,06/23/09,Hypentelium nigricans,Northern Hogsucker,Catostomidae,Intermediate,Insectivore,11,Yes,38,Not Rated
+HIW,FF10,Fires Cr,SR 1300,Clay,35.07722,-83.86444,MT,23,1-27-(5.5),"WS-IV;Tr, ORW",2009-69,06/23/09,Oncorhynchus mykiss,Rainbow Trout,Salmonidae,Intolerant,Insectivore,3,Yes,38,Not Rated
+HIW,FF10,Fires Cr,SR 1300,Clay,35.07722,-83.86444,MT,23,1-27-(5.5),"WS-IV;Tr, ORW",2009-69,06/23/09,Ichthyomyzon greeleyi,Mountain Brook Lamprey,Petromyzontidae,Intermediate,Non-feeding,8,Yes,38,Not Rated
+HIW,FF10,Fires Cr,SR 1300,Clay,35.07722,-83.86444,MT,23,1-27-(5.5),"WS-IV;Tr, ORW",2009-69,06/23/09,Etheostoma rufilineatum,Redline Darter,Percidae,Intermediate,Insectivore,8,Yes,38,Not Rated
+HIW,FF11,Little Brasstown Cr,SR 1565,Cherokee,35.03347,-83.96263,MT,8.9,1-42-11,WS-IV,2009-70,06/23/09,Cottus bairdii,Mottled Sculpin,Cottidae,Intermediate,Insectivore,15,Yes,40,Good-Fair
+HIW,FF11,Little Brasstown Cr,SR 1565,Cherokee,35.03347,-83.96263,MT,8.9,1-42-11,WS-IV,2009-70,06/23/09,Moxostoma duquesnei,Black Redhorse,Catostomidae,Intermediate,Insectivore,2,No,40,Good-Fair
+HIW,FF11,Little Brasstown Cr,SR 1565,Cherokee,35.03347,-83.96263,MT,8.9,1-42-11,WS-IV,2009-70,06/23/09,Ichthyomyzon greeleyi,Mountain Brook Lamprey,Petromyzontidae,Intermediate,Non-feeding,3,Yes,40,Good-Fair
+HIW,FF11,Little Brasstown Cr,SR 1565,Cherokee,35.03347,-83.96263,MT,8.9,1-42-11,WS-IV,2009-70,06/23/09,Micropterus salmoides,Largemouth Bass,Centrarchidae,Intermediate,Piscivore,1,No,40,Good-Fair
+HIW,FF11,Little Brasstown Cr,SR 1565,Cherokee,35.03347,-83.96263,MT,8.9,1-42-11,WS-IV,2009-70,06/23/09,Etheostoma rufilineatum,Redline Darter,Percidae,Intermediate,Insectivore,5,Yes,40,Good-Fair
+HIW,FF11,Little Brasstown Cr,SR 1565,Cherokee,35.03347,-83.96263,MT,8.9,1-42-11,WS-IV,2009-70,06/23/09,Etheostoma blennioides,Greenside Darter,Percidae,Intermediate,Insectivore,4,Yes,40,Good-Fair
+HIW,FF11,Little Brasstown Cr,SR 1565,Cherokee,35.03347,-83.96263,MT,8.9,1-42-11,WS-IV,2009-70,06/23/09,Campostoma anomalum,Central Stoneroller,Cyprinidae,Intermediate,Herbivore,16,Yes,40,Good-Fair
+HIW,FF11,Little Brasstown Cr,SR 1565,Cherokee,35.03347,-83.96263,MT,8.9,1-42-11,WS-IV,2009-70,06/23/09,Semotilus atromaculatus,Creek Chub,Cyprinidae,Tolerant,Insectivore,29,Yes,40,Good-Fair
+HIW,FF11,Little Brasstown Cr,SR 1565,Cherokee,35.03347,-83.96263,MT,8.9,1-42-11,WS-IV,2009-70,06/23/09,Hybopsis amblops,Bigeye Chub,Cyprinidae,Intermediate,Insectivore,3,No,40,Good-Fair
+HIW,FF11,Little Brasstown Cr,SR 1565,Cherokee,35.03347,-83.96263,MT,8.9,1-42-11,WS-IV,2009-70,06/23/09,Luxilus coccogenis,Warpaint Shiner,Cyprinidae,Intermediate,Insectivore,2,No,40,Good-Fair
+HIW,FF11,Little Brasstown Cr,SR 1565,Cherokee,35.03347,-83.96263,MT,8.9,1-42-11,WS-IV,2009-70,06/23/09,Nocomis micropogon,River Chub,Cyprinidae,Intermediate,Omnivore,9,Yes,40,Good-Fair
+HIW,FF11,Little Brasstown Cr,SR 1565,Cherokee,35.03347,-83.96263,MT,8.9,1-42-11,WS-IV,2009-70,06/23/09,Notropis leuciodus,Tennessee Shiner,Cyprinidae,Intermediate,Insectivore,12,Yes,40,Good-Fair
+HIW,FF11,Little Brasstown Cr,SR 1565,Cherokee,35.03347,-83.96263,MT,8.9,1-42-11,WS-IV,2009-70,06/23/09,Cyprinella galactura,Whitetail Shiner,Cyprinidae,Intermediate,Insectivore,6,Yes,40,Good-Fair
+HIW,FF11,Little Brasstown Cr,SR 1565,Cherokee,35.03347,-83.96263,MT,8.9,1-42-11,WS-IV,2009-70,06/23/09,Lepomis cyanellus,Green Sunfish,Centrarchidae,Tolerant,Insectivore,8,Yes,40,Good-Fair
+HIW,FF11,Little Brasstown Cr,SR 1565,Cherokee,35.03347,-83.96263,MT,8.9,1-42-11,WS-IV,2009-70,06/23/09,Lepomis auritus,Redbreast Sunfish,Centrarchidae,Tolerant,Insectivore,6,Yes,40,Good-Fair
+HIW,FF11,Little Brasstown Cr,SR 1565,Cherokee,35.03347,-83.96263,MT,8.9,1-42-11,WS-IV,2009-70,06/23/09,Lepomis macrochirus,Bluegill,Centrarchidae,Intermediate,Insectivore,2,No,40,Good-Fair
+HIW,FF11,Little Brasstown Cr,SR 1565,Cherokee,35.03347,-83.96263,MT,8.9,1-42-11,WS-IV,2009-70,06/23/09,Ambloplites rupestris,Rock Bass,Centrarchidae,Intolerant,Piscivore,1,No,40,Good-Fair
+HIW,FF11,Little Brasstown Cr,SR 1565,Cherokee,35.03347,-83.96263,MT,8.9,1-42-11,WS-IV,2009-70,06/23/09,Hypentelium nigricans,Northern Hogsucker,Catostomidae,Intermediate,Insectivore,10,Yes,40,Good-Fair
+HIW,FF11,Little Brasstown Cr,SR 1565,Cherokee,35.03347,-83.96263,MT,8.9,1-42-11,WS-IV,2009-70,06/23/09,Notropis spectrunculus,Mirror Shiner,Cyprinidae,Intermediate,Insectivore,4,Yes,40,Good-Fair
+HIW,FF8,Peachtree Cr,old US 64,Cherokee,35.07780,-83.97434,MT,18,1-44,C,2009-71,06/23/09,Lepomis cyanellus,Green Sunfish,Centrarchidae,Tolerant,Insectivore,5,Yes,58,Excellent
+HIW,FF8,Peachtree Cr,old US 64,Cherokee,35.07780,-83.97434,MT,18,1-44,C,2009-71,06/23/09,Semotilus atromaculatus,Creek Chub,Cyprinidae,Tolerant,Insectivore,11,Yes,58,Excellent
+HIW,FF8,Peachtree Cr,old US 64,Cherokee,35.07780,-83.97434,MT,18,1-44,C,2009-71,06/23/09,Hybopsis amblops,Bigeye Chub,Cyprinidae,Intermediate,Insectivore,15,Yes,58,Excellent
+HIW,FF8,Peachtree Cr,old US 64,Cherokee,35.07780,-83.97434,MT,18,1-44,C,2009-71,06/23/09,Notropis spectrunculus,Mirror Shiner,Cyprinidae,Intermediate,Insectivore,27,Yes,58,Excellent
+HIW,FF8,Peachtree Cr,old US 64,Cherokee,35.07780,-83.97434,MT,18,1-44,C,2009-71,06/23/09,Etheostoma rufilineatum,Redline Darter,Percidae,Intermediate,Insectivore,41,Yes,58,Excellent
+HIW,FF8,Peachtree Cr,old US 64,Cherokee,35.07780,-83.97434,MT,18,1-44,C,2009-71,06/23/09,Etheostoma zonale,Banded Darter,Percidae,Intermediate,Insectivore,13,Yes,58,Excellent
+HIW,FF8,Peachtree Cr,old US 64,Cherokee,35.07780,-83.97434,MT,18,1-44,C,2009-71,06/23/09,Ichthyomyzon greeleyi,Mountain Brook Lamprey,Petromyzontidae,Intermediate,Non-feeding,6,Yes,58,Excellent
+HIW,FF8,Peachtree Cr,old US 64,Cherokee,35.07780,-83.97434,MT,18,1-44,C,2009-71,06/23/09,Moxostoma duquesnei,Black Redhorse,Catostomidae,Intermediate,Insectivore,1,No,58,Excellent
+HIW,FF8,Peachtree Cr,old US 64,Cherokee,35.07780,-83.97434,MT,18,1-44,C,2009-71,06/23/09,Notropis photogenis,Silver Shiner,Cyprinidae,Intolerant,Insectivore,1,No,58,Excellent
+HIW,FF8,Peachtree Cr,old US 64,Cherokee,35.07780,-83.97434,MT,18,1-44,C,2009-71,06/23/09,Rhinichthys cataractae,Longnose Dace,Cyprinidae,Intermediate,Insectivore,2,No,58,Excellent
+HIW,FF8,Peachtree Cr,old US 64,Cherokee,35.07780,-83.97434,MT,18,1-44,C,2009-71,06/23/09,Lepomis macrochirus,Bluegill,Centrarchidae,Intermediate,Insectivore,8,Yes,58,Excellent
+HIW,FF8,Peachtree Cr,old US 64,Cherokee,35.07780,-83.97434,MT,18,1-44,C,2009-71,06/23/09,Moxostoma erythrurum,Golden Redhorse,Catostomidae,Intermediate,Insectivore,1,No,58,Excellent
+HIW,FF8,Peachtree Cr,old US 64,Cherokee,35.07780,-83.97434,MT,18,1-44,C,2009-71,06/23/09,Ambloplites rupestris,Rock Bass,Centrarchidae,Intolerant,Piscivore,7,Yes,58,Excellent
+HIW,FF8,Peachtree Cr,old US 64,Cherokee,35.07780,-83.97434,MT,18,1-44,C,2009-71,06/23/09,Cyprinella galactura,Whitetail Shiner,Cyprinidae,Intermediate,Insectivore,8,Yes,58,Excellent
+HIW,FF8,Peachtree Cr,old US 64,Cherokee,35.07780,-83.97434,MT,18,1-44,C,2009-71,06/23/09,Hypentelium nigricans,Northern Hogsucker,Catostomidae,Intermediate,Insectivore,42,Yes,58,Excellent
+HIW,FF8,Peachtree Cr,old US 64,Cherokee,35.07780,-83.97434,MT,18,1-44,C,2009-71,06/23/09,Etheostoma blennioides,Greenside Darter,Percidae,Intermediate,Insectivore,8,Yes,58,Excellent
+HIW,FF8,Peachtree Cr,old US 64,Cherokee,35.07780,-83.97434,MT,18,1-44,C,2009-71,06/23/09,Nocomis micropogon,River Chub,Cyprinidae,Intermediate,Omnivore,46,Yes,58,Excellent
+HIW,FF8,Peachtree Cr,old US 64,Cherokee,35.07780,-83.97434,MT,18,1-44,C,2009-71,06/23/09,Perca flavescens,Yellow Perch,Percidae,Intermediate,Piscivore,4,Yes,58,Excellent
+HIW,FF8,Peachtree Cr,old US 64,Cherokee,35.07780,-83.97434,MT,18,1-44,C,2009-71,06/23/09,Percina evides,Gilt Darter,Percidae,Intolerant,Insectivore,1,No,58,Excellent
+HIW,FF8,Peachtree Cr,old US 64,Cherokee,35.07780,-83.97434,MT,18,1-44,C,2009-71,06/23/09,Campostoma anomalum,Central Stoneroller,Cyprinidae,Intermediate,Herbivore,90,Yes,58,Excellent
+HIW,FF8,Peachtree Cr,old US 64,Cherokee,35.07780,-83.97434,MT,18,1-44,C,2009-71,06/23/09,Lepomis auritus,Redbreast Sunfish,Centrarchidae,Tolerant,Insectivore,6,Yes,58,Excellent
+HIW,FF8,Peachtree Cr,old US 64,Cherokee,35.07780,-83.97434,MT,18,1-44,C,2009-71,06/23/09,Notropis leuciodus,Tennessee Shiner,Cyprinidae,Intermediate,Insectivore,284,Yes,58,Excellent
+HIW,FF8,Peachtree Cr,old US 64,Cherokee,35.07780,-83.97434,MT,18,1-44,C,2009-71,06/23/09,Luxilus coccogenis,Warpaint Shiner,Cyprinidae,Intermediate,Insectivore,28,Yes,58,Excellent
+HIW,FF8,Peachtree Cr,old US 64,Cherokee,35.07780,-83.97434,MT,18,1-44,C,2009-71,06/23/09,Cottus bairdii,Mottled Sculpin,Cottidae,Intermediate,Insectivore,327,Yes,58,Excellent
+HIW,FF7,Martin Cr,SR 1558,Cherokee,35.07541,-84.02062,MT,9,1-49,C,2009-72,06/23/09,Cyprinella galactura,Whitetail Shiner,Cyprinidae,Intermediate,Insectivore,5,Yes,38,Fair
+HIW,FF7,Martin Cr,SR 1558,Cherokee,35.07541,-84.02062,MT,9,1-49,C,2009-72,06/23/09,Etheostoma rufilineatum,Redline Darter,Percidae,Intermediate,Insectivore,9,No,38,Fair
+HIW,FF7,Martin Cr,SR 1558,Cherokee,35.07541,-84.02062,MT,9,1-49,C,2009-72,06/23/09,Semotilus atromaculatus,Creek Chub,Cyprinidae,Tolerant,Insectivore,1,No,38,Fair
+HIW,FF7,Martin Cr,SR 1558,Cherokee,35.07541,-84.02062,MT,9,1-49,C,2009-72,06/23/09,Hybopsis amblops,Bigeye Chub,Cyprinidae,Intermediate,Insectivore,11,Yes,38,Fair
+HIW,FF7,Martin Cr,SR 1558,Cherokee,35.07541,-84.02062,MT,9,1-49,C,2009-72,06/23/09,Lepomis cyanellus,Green Sunfish,Centrarchidae,Tolerant,Insectivore,2,No,38,Fair
+HIW,FF7,Martin Cr,SR 1558,Cherokee,35.07541,-84.02062,MT,9,1-49,C,2009-72,06/23/09,Moxostoma erythrurum,Golden Redhorse,Catostomidae,Intermediate,Insectivore,3,No,38,Fair
+HIW,FF7,Martin Cr,SR 1558,Cherokee,35.07541,-84.02062,MT,9,1-49,C,2009-72,06/23/09,Ichthyomyzon greeleyi,Mountain Brook Lamprey,Petromyzontidae,Intermediate,Non-feeding,3,Yes,38,Fair
+HIW,FF7,Martin Cr,SR 1558,Cherokee,35.07541,-84.02062,MT,9,1-49,C,2009-72,06/23/09,Notropis spectrunculus,Mirror Shiner,Cyprinidae,Intermediate,Insectivore,4,Yes,38,Fair
+HIW,FF7,Martin Cr,SR 1558,Cherokee,35.07541,-84.02062,MT,9,1-49,C,2009-72,06/23/09,Notropis leuciodus,Tennessee Shiner,Cyprinidae,Intermediate,Insectivore,40,Yes,38,Fair
+HIW,FF7,Martin Cr,SR 1558,Cherokee,35.07541,-84.02062,MT,9,1-49,C,2009-72,06/23/09,Lepomis auritus,Redbreast Sunfish,Centrarchidae,Tolerant,Insectivore,2,No,38,Fair
+HIW,FF7,Martin Cr,SR 1558,Cherokee,35.07541,-84.02062,MT,9,1-49,C,2009-72,06/23/09,Etheostoma zonale,Banded Darter,Percidae,Intermediate,Insectivore,1,No,38,Fair
+HIW,FF7,Martin Cr,SR 1558,Cherokee,35.07541,-84.02062,MT,9,1-49,C,2009-72,06/23/09,Hypentelium nigricans,Northern Hogsucker,Catostomidae,Intermediate,Insectivore,13,Yes,38,Fair
+HIW,FF7,Martin Cr,SR 1558,Cherokee,35.07541,-84.02062,MT,9,1-49,C,2009-72,06/23/09,Micropterus punctulatus,Spotted Bass,Centrarchidae,Intermediate,Piscivore,1,No,38,Fair
+HIW,FF7,Martin Cr,SR 1558,Cherokee,35.07541,-84.02062,MT,9,1-49,C,2009-72,06/23/09,Lepomis macrochirus,Bluegill,Centrarchidae,Intermediate,Insectivore,2,No,38,Fair
+HIW,FF7,Martin Cr,SR 1558,Cherokee,35.07541,-84.02062,MT,9,1-49,C,2009-72,06/23/09,Micropterus salmoides,Largemouth Bass,Centrarchidae,Intermediate,Piscivore,4,Yes,38,Fair
+HIW,FF7,Martin Cr,SR 1558,Cherokee,35.07541,-84.02062,MT,9,1-49,C,2009-72,06/23/09,Nocomis micropogon,River Chub,Cyprinidae,Intermediate,Omnivore,17,Yes,38,Fair
+HIW,FF7,Martin Cr,SR 1558,Cherokee,35.07541,-84.02062,MT,9,1-49,C,2009-72,06/23/09,Luxilus coccogenis,Warpaint Shiner,Cyprinidae,Intermediate,Insectivore,62,Yes,38,Fair
+HIW,FF7,Martin Cr,SR 1558,Cherokee,35.07541,-84.02062,MT,9,1-49,C,2009-72,06/23/09,Perca flavescens,Yellow Perch,Percidae,Intermediate,Piscivore,2,No,38,Fair
+HIW,FF7,Martin Cr,SR 1558,Cherokee,35.07541,-84.02062,MT,9,1-49,C,2009-72,06/23/09,Notropis micropteryx,Highland Shiner,Cyprinidae,Intolerant,Insectivore,233,Yes,38,Fair
+HIW,FF7,Martin Cr,SR 1558,Cherokee,35.07541,-84.02062,MT,9,1-49,C,2009-72,06/23/09,Cottus bairdii,Mottled Sculpin,Cottidae,Intermediate,Insectivore,15,Yes,38,Fair
+HIW,FF7,Martin Cr,SR 1558,Cherokee,35.07541,-84.02062,MT,9,1-49,C,2009-72,06/23/09,Etheostoma blennioides,Greenside Darter,Percidae,Intermediate,Insectivore,2,No,38,Fair
+HIW,FF7,Martin Cr,SR 1558,Cherokee,35.07541,-84.02062,MT,9,1-49,C,2009-72,06/23/09,Campostoma anomalum,Central Stoneroller,Cyprinidae,Intermediate,Herbivore,17,Yes,38,Fair
+HIW,FF17,Shuler Cr,SR 1323,Cherokee,35.18305,-84.28018,MT,17.6,1-86,C,2009-73,06/24/09,Luxilus coccogenis,Warpaint Shiner,Cyprinidae,Intermediate,Insectivore,30,Yes,48,Good
+HIW,FF17,Shuler Cr,SR 1323,Cherokee,35.18305,-84.28018,MT,17.6,1-86,C,2009-73,06/24/09,Catostomus commersonii,White Sucker,Catostomidae,Tolerant,Omnivore,1,No,48,Good
+HIW,FF17,Shuler Cr,SR 1323,Cherokee,35.18305,-84.28018,MT,17.6,1-86,C,2009-73,06/24/09,Etheostoma blennioides,Greenside Darter,Percidae,Intermediate,Insectivore,2,No,48,Good
+HIW,FF17,Shuler Cr,SR 1323,Cherokee,35.18305,-84.28018,MT,17.6,1-86,C,2009-73,06/24/09,Etheostoma zonale,Banded Darter,Percidae,Intermediate,Insectivore,1,No,48,Good
+HIW,FF17,Shuler Cr,SR 1323,Cherokee,35.18305,-84.28018,MT,17.6,1-86,C,2009-73,06/24/09,Etheostoma rufilineatum,Redline Darter,Percidae,Intermediate,Insectivore,56,Yes,48,Good
+HIW,FF17,Shuler Cr,SR 1323,Cherokee,35.18305,-84.28018,MT,17.6,1-86,C,2009-73,06/24/09,Notropis spectrunculus,Mirror Shiner,Cyprinidae,Intermediate,Insectivore,32,Yes,48,Good
+HIW,FF17,Shuler Cr,SR 1323,Cherokee,35.18305,-84.28018,MT,17.6,1-86,C,2009-73,06/24/09,Cottus bairdii,Mottled Sculpin,Cottidae,Intermediate,Insectivore,110,Yes,48,Good
+HIW,FF17,Shuler Cr,SR 1323,Cherokee,35.18305,-84.28018,MT,17.6,1-86,C,2009-73,06/24/09,Ichthyomyzon greeleyi,Mountain Brook Lamprey,Petromyzontidae,Intermediate,Non-feeding,1,No,48,Good
+HIW,FF17,Shuler Cr,SR 1323,Cherokee,35.18305,-84.28018,MT,17.6,1-86,C,2009-73,06/24/09,Notropis leuciodus,Tennessee Shiner,Cyprinidae,Intermediate,Insectivore,125,Yes,48,Good
+HIW,FF17,Shuler Cr,SR 1323,Cherokee,35.18305,-84.28018,MT,17.6,1-86,C,2009-73,06/24/09,Semotilus atromaculatus,Creek Chub,Cyprinidae,Tolerant,Insectivore,14,Yes,48,Good
+HIW,FF17,Shuler Cr,SR 1323,Cherokee,35.18305,-84.28018,MT,17.6,1-86,C,2009-73,06/24/09,Ambloplites rupestris,Rock Bass,Centrarchidae,Intolerant,Piscivore,13,Yes,48,Good
+HIW,FF17,Shuler Cr,SR 1323,Cherokee,35.18305,-84.28018,MT,17.6,1-86,C,2009-73,06/24/09,Nocomis micropogon,River Chub,Cyprinidae,Intermediate,Omnivore,40,Yes,48,Good
+HIW,FF17,Shuler Cr,SR 1323,Cherokee,35.18305,-84.28018,MT,17.6,1-86,C,2009-73,06/24/09,Hypentelium nigricans,Northern Hogsucker,Catostomidae,Intermediate,Insectivore,11,Yes,48,Good
+HIW,FF17,Shuler Cr,SR 1323,Cherokee,35.18305,-84.28018,MT,17.6,1-86,C,2009-73,06/24/09,Oncorhynchus mykiss,Rainbow Trout,Salmonidae,Intolerant,Insectivore,2,No,48,Good
+HIW,FF17,Shuler Cr,SR 1323,Cherokee,35.18305,-84.28018,MT,17.6,1-86,C,2009-73,06/24/09,Lepomis auritus,Redbreast Sunfish,Centrarchidae,Tolerant,Insectivore,4,Yes,48,Good
+HIW,FF17,Shuler Cr,SR 1323,Cherokee,35.18305,-84.28018,MT,17.6,1-86,C,2009-73,06/24/09,Campostoma anomalum,Central Stoneroller,Cyprinidae,Intermediate,Herbivore,10,Yes,48,Good
+HIW,FF18,Beaverdam Cr,off SR 1331,Cherokee,35.20549,-84.11877,MT,12.4,1-72,C;Tr,2009-74,06/24/09,Hypentelium nigricans,Northern Hogsucker,Catostomidae,Intermediate,Insectivore,27,Yes,26,Not Rated
+HIW,FF18,Beaverdam Cr,off SR 1331,Cherokee,35.20549,-84.11877,MT,12.4,1-72,C;Tr,2009-74,06/24/09,Etheostoma blennioides,Greenside Darter,Percidae,Intermediate,Insectivore,1,No,26,Not Rated
+HIW,FF18,Beaverdam Cr,off SR 1331,Cherokee,35.20549,-84.11877,MT,12.4,1-72,C;Tr,2009-74,06/24/09,Notropis leuciodus,Tennessee Shiner,Cyprinidae,Intermediate,Insectivore,27,Yes,26,Not Rated
+HIW,FF18,Beaverdam Cr,off SR 1331,Cherokee,35.20549,-84.11877,MT,12.4,1-72,C;Tr,2009-74,06/24/09,Cottus bairdii,Mottled Sculpin,Cottidae,Intermediate,Insectivore,104,Yes,26,Not Rated
+HIW,FF18,Beaverdam Cr,off SR 1331,Cherokee,35.20549,-84.11877,MT,12.4,1-72,C;Tr,2009-74,06/24/09,Luxilus coccogenis,Warpaint Shiner,Cyprinidae,Intermediate,Insectivore,9,Yes,26,Not Rated
+HIW,FF18,Beaverdam Cr,off SR 1331,Cherokee,35.20549,-84.11877,MT,12.4,1-72,C;Tr,2009-74,06/24/09,Etheostoma rufilineatum,Redline Darter,Percidae,Intermediate,Insectivore,16,Yes,26,Not Rated
+HIW,FF18,Beaverdam Cr,off SR 1331,Cherokee,35.20549,-84.11877,MT,12.4,1-72,C;Tr,2009-74,06/24/09,Notropis spectrunculus,Mirror Shiner,Cyprinidae,Intermediate,Insectivore,127,Yes,26,Not Rated
+HIW,FF18,Beaverdam Cr,off SR 1331,Cherokee,35.20549,-84.11877,MT,12.4,1-72,C;Tr,2009-74,06/24/09,Campostoma anomalum,Central Stoneroller,Cyprinidae,Intermediate,Herbivore,21,Yes,26,Not Rated
+HIW,FF18,Beaverdam Cr,off SR 1331,Cherokee,35.20549,-84.11877,MT,12.4,1-72,C;Tr,2009-74,06/24/09,Semotilus atromaculatus,Creek Chub,Cyprinidae,Tolerant,Insectivore,48,Yes,26,Not Rated
+HIW,FF18,Beaverdam Cr,off SR 1331,Cherokee,35.20549,-84.11877,MT,12.4,1-72,C;Tr,2009-74,06/24/09,Rhinichthys cataractae,Longnose Dace,Cyprinidae,Intermediate,Insectivore,11,Yes,26,Not Rated
+HIW,FF18,Beaverdam Cr,off SR 1331,Cherokee,35.20549,-84.11877,MT,12.4,1-72,C;Tr,2009-74,06/24/09,Nocomis micropogon,River Chub,Cyprinidae,Intermediate,Omnivore,8,Yes,26,Not Rated
+HIW,FF5,Hanging Dog Cr,off SR 1342,Cherokee,35.15203,-84.06111,MT,21.7,1-57,C,2009-75,06/24/09,Etheostoma zonale,Banded Darter,Percidae,Intermediate,Insectivore,15,Yes,50,Good
+HIW,FF5,Hanging Dog Cr,off SR 1342,Cherokee,35.15203,-84.06111,MT,21.7,1-57,C,2009-75,06/24/09,Moxostoma duquesnei,Black Redhorse,Catostomidae,Intermediate,Insectivore,1,No,50,Good
+HIW,FF5,Hanging Dog Cr,off SR 1342,Cherokee,35.15203,-84.06111,MT,21.7,1-57,C,2009-75,06/24/09,Semotilus atromaculatus,Creek Chub,Cyprinidae,Tolerant,Insectivore,5,Yes,50,Good
+HIW,FF5,Hanging Dog Cr,off SR 1342,Cherokee,35.15203,-84.06111,MT,21.7,1-57,C,2009-75,06/24/09,Campostoma anomalum,Central Stoneroller,Cyprinidae,Intermediate,Herbivore,10,Yes,50,Good
+HIW,FF5,Hanging Dog Cr,off SR 1342,Cherokee,35.15203,-84.06111,MT,21.7,1-57,C,2009-75,06/24/09,Percina evides,Gilt Darter,Percidae,Intolerant,Insectivore,5,Yes,50,Good
+HIW,FF5,Hanging Dog Cr,off SR 1342,Cherokee,35.15203,-84.06111,MT,21.7,1-57,C,2009-75,06/24/09,Etheostoma rufilineatum,Redline Darter,Percidae,Intermediate,Insectivore,41,Yes,50,Good
+HIW,FF5,Hanging Dog Cr,off SR 1342,Cherokee,35.15203,-84.06111,MT,21.7,1-57,C,2009-75,06/24/09,Notropis spectrunculus,Mirror Shiner,Cyprinidae,Intermediate,Insectivore,35,Yes,50,Good
+HIW,FF5,Hanging Dog Cr,off SR 1342,Cherokee,35.15203,-84.06111,MT,21.7,1-57,C,2009-75,06/24/09,Notropis leuciodus,Tennessee Shiner,Cyprinidae,Intermediate,Insectivore,233,Yes,50,Good
+HIW,FF5,Hanging Dog Cr,off SR 1342,Cherokee,35.15203,-84.06111,MT,21.7,1-57,C,2009-75,06/24/09,Cottus bairdii,Mottled Sculpin,Cottidae,Intermediate,Insectivore,80,Yes,50,Good
+HIW,FF5,Hanging Dog Cr,off SR 1342,Cherokee,35.15203,-84.06111,MT,21.7,1-57,C,2009-75,06/24/09,Micropterus dolomieu,Smallmouth Bass,Centrarchidae,Intolerant,Piscivore,1,No,50,Good
+HIW,FF5,Hanging Dog Cr,off SR 1342,Cherokee,35.15203,-84.06111,MT,21.7,1-57,C,2009-75,06/24/09,Hypentelium nigricans,Northern Hogsucker,Catostomidae,Intermediate,Insectivore,17,Yes,50,Good
+HIW,FF5,Hanging Dog Cr,off SR 1342,Cherokee,35.15203,-84.06111,MT,21.7,1-57,C,2009-75,06/24/09,Luxilus coccogenis,Warpaint Shiner,Cyprinidae,Intermediate,Insectivore,28,Yes,50,Good
+HIW,FF5,Hanging Dog Cr,off SR 1342,Cherokee,35.15203,-84.06111,MT,21.7,1-57,C,2009-75,06/24/09,Nocomis micropogon,River Chub,Cyprinidae,Intermediate,Omnivore,47,Yes,50,Good
+HIW,FF5,Hanging Dog Cr,off SR 1342,Cherokee,35.15203,-84.06111,MT,21.7,1-57,C,2009-75,06/24/09,Ambloplites rupestris,Rock Bass,Centrarchidae,Intolerant,Piscivore,2,No,50,Good
+HIW,FF5,Hanging Dog Cr,off SR 1342,Cherokee,35.15203,-84.06111,MT,21.7,1-57,C,2009-75,06/24/09,Etheostoma blennioides,Greenside Darter,Percidae,Intermediate,Insectivore,1,No,50,Good
+HIW,FF6,Vengeance Cr,NC 141/SR 1520,Cherokee,35.16018,-83.92028,MT,7.2,1-52-45,C;Tr,2009-76,06/25/09,Semotilus atromaculatus,Creek Chub,Cyprinidae,Tolerant,Insectivore,16,Yes,48,Good
+HIW,FF6,Vengeance Cr,NC 141/SR 1520,Cherokee,35.16018,-83.92028,MT,7.2,1-52-45,C;Tr,2009-76,06/25/09,Nocomis micropogon,River Chub,Cyprinidae,Intermediate,Omnivore,4,Yes,48,Good
+HIW,FF6,Vengeance Cr,NC 141/SR 1520,Cherokee,35.16018,-83.92028,MT,7.2,1-52-45,C;Tr,2009-76,06/25/09,Clinostomus sp. cf. funduloides,"""Smoky"" Dace",Cyprinidae,Intermediate,Insectivore,2,No,48,Good
+HIW,FF6,Vengeance Cr,NC 141/SR 1520,Cherokee,35.16018,-83.92028,MT,7.2,1-52-45,C;Tr,2009-76,06/25/09,Ichthyomyzon greeleyi,Mountain Brook Lamprey,Petromyzontidae,Intermediate,Non-feeding,6,Yes,48,Good
+HIW,FF6,Vengeance Cr,NC 141/SR 1520,Cherokee,35.16018,-83.92028,MT,7.2,1-52-45,C;Tr,2009-76,06/25/09,Rhinichthys cataractae,Longnose Dace,Cyprinidae,Intermediate,Insectivore,10,Yes,48,Good
+HIW,FF6,Vengeance Cr,NC 141/SR 1520,Cherokee,35.16018,-83.92028,MT,7.2,1-52-45,C;Tr,2009-76,06/25/09,Etheostoma blennioides,Greenside Darter,Percidae,Intermediate,Insectivore,1,No,48,Good
+HIW,FF6,Vengeance Cr,NC 141/SR 1520,Cherokee,35.16018,-83.92028,MT,7.2,1-52-45,C;Tr,2009-76,06/25/09,Ambloplites rupestris,Rock Bass,Centrarchidae,Intolerant,Piscivore,8,Yes,48,Good
+HIW,FF6,Vengeance Cr,NC 141/SR 1520,Cherokee,35.16018,-83.92028,MT,7.2,1-52-45,C;Tr,2009-76,06/25/09,Oncorhynchus mykiss,Rainbow Trout,Salmonidae,Intolerant,Insectivore,4,Yes,48,Good
+HIW,FF6,Vengeance Cr,NC 141/SR 1520,Cherokee,35.16018,-83.92028,MT,7.2,1-52-45,C;Tr,2009-76,06/25/09,Luxilus coccogenis,Warpaint Shiner,Cyprinidae,Intermediate,Insectivore,31,Yes,48,Good
+HIW,FF6,Vengeance Cr,NC 141/SR 1520,Cherokee,35.16018,-83.92028,MT,7.2,1-52-45,C;Tr,2009-76,06/25/09,Etheostoma rufilineatum,Redline Darter,Percidae,Intermediate,Insectivore,25,Yes,48,Good
+HIW,FF6,Vengeance Cr,NC 141/SR 1520,Cherokee,35.16018,-83.92028,MT,7.2,1-52-45,C;Tr,2009-76,06/25/09,Hypentelium nigricans,Northern Hogsucker,Catostomidae,Intermediate,Insectivore,20,Yes,48,Good
+HIW,FF6,Vengeance Cr,NC 141/SR 1520,Cherokee,35.16018,-83.92028,MT,7.2,1-52-45,C;Tr,2009-76,06/25/09,Campostoma anomalum,Central Stoneroller,Cyprinidae,Intermediate,Herbivore,129,Yes,48,Good
+HIW,FF6,Vengeance Cr,NC 141/SR 1520,Cherokee,35.16018,-83.92028,MT,7.2,1-52-45,C;Tr,2009-76,06/25/09,Cottus bairdii,Mottled Sculpin,Cottidae,Intermediate,Insectivore,361,Yes,48,Good
+HIW,FF6,Vengeance Cr,NC 141/SR 1520,Cherokee,35.16018,-83.92028,MT,7.2,1-52-45,C;Tr,2009-76,06/25/09,Notropis leuciodus,Tennessee Shiner,Cyprinidae,Intermediate,Insectivore,22,Yes,48,Good
+HIW,FF4,Taylor Cr,SR 1515,Cherokee,35.17768,-83.88781,MT,5.7,1-52-39,C;Tr,2009-77,06/25/09,Etheostoma rufilineatum,Redline Darter,Percidae,Intermediate,Insectivore,11,Yes,44,Good-Fair
+HIW,FF4,Taylor Cr,SR 1515,Cherokee,35.17768,-83.88781,MT,5.7,1-52-39,C;Tr,2009-77,06/25/09,Notropis spectrunculus,Mirror Shiner,Cyprinidae,Intermediate,Insectivore,22,Yes,44,Good-Fair
+HIW,FF4,Taylor Cr,SR 1515,Cherokee,35.17768,-83.88781,MT,5.7,1-52-39,C;Tr,2009-77,06/25/09,Rhinichthys cataractae,Longnose Dace,Cyprinidae,Intermediate,Insectivore,7,Yes,44,Good-Fair
+HIW,FF4,Taylor Cr,SR 1515,Cherokee,35.17768,-83.88781,MT,5.7,1-52-39,C;Tr,2009-77,06/25/09,Clinostomus sp. cf. funduloides,"""Smoky"" Dace",Cyprinidae,Intermediate,Insectivore,24,Yes,44,Good-Fair
+HIW,FF4,Taylor Cr,SR 1515,Cherokee,35.17768,-83.88781,MT,5.7,1-52-39,C;Tr,2009-77,06/25/09,Ichthyomyzon greeleyi,Mountain Brook Lamprey,Petromyzontidae,Intermediate,Non-feeding,2,No,44,Good-Fair
+HIW,FF4,Taylor Cr,SR 1515,Cherokee,35.17768,-83.88781,MT,5.7,1-52-39,C;Tr,2009-77,06/25/09,Campostoma anomalum,Central Stoneroller,Cyprinidae,Intermediate,Herbivore,88,Yes,44,Good-Fair
+HIW,FF4,Taylor Cr,SR 1515,Cherokee,35.17768,-83.88781,MT,5.7,1-52-39,C;Tr,2009-77,06/25/09,Moxostoma duquesnei,Black Redhorse,Catostomidae,Intermediate,Insectivore,1,No,44,Good-Fair
+HIW,FF4,Taylor Cr,SR 1515,Cherokee,35.17768,-83.88781,MT,5.7,1-52-39,C;Tr,2009-77,06/25/09,Etheostoma blennioides,Greenside Darter,Percidae,Intermediate,Insectivore,2,No,44,Good-Fair
+HIW,FF4,Taylor Cr,SR 1515,Cherokee,35.17768,-83.88781,MT,5.7,1-52-39,C;Tr,2009-77,06/25/09,Notropis leuciodus,Tennessee Shiner,Cyprinidae,Intermediate,Insectivore,1,No,44,Good-Fair
+HIW,FF4,Taylor Cr,SR 1515,Cherokee,35.17768,-83.88781,MT,5.7,1-52-39,C;Tr,2009-77,06/25/09,Cottus bairdii,Mottled Sculpin,Cottidae,Intermediate,Insectivore,330,Yes,44,Good-Fair
+HIW,FF4,Taylor Cr,SR 1515,Cherokee,35.17768,-83.88781,MT,5.7,1-52-39,C;Tr,2009-77,06/25/09,Luxilus coccogenis,Warpaint Shiner,Cyprinidae,Intermediate,Insectivore,11,Yes,44,Good-Fair
+HIW,FF4,Taylor Cr,SR 1515,Cherokee,35.17768,-83.88781,MT,5.7,1-52-39,C;Tr,2009-77,06/25/09,Semotilus atromaculatus,Creek Chub,Cyprinidae,Tolerant,Insectivore,94,Yes,44,Good-Fair
+HIW,FF4,Taylor Cr,SR 1515,Cherokee,35.17768,-83.88781,MT,5.7,1-52-39,C;Tr,2009-77,06/25/09,Hypentelium nigricans,Northern Hogsucker,Catostomidae,Intermediate,Insectivore,44,Yes,44,Good-Fair
+HIW,FF4,Taylor Cr,SR 1515,Cherokee,35.17768,-83.88781,MT,5.7,1-52-39,C;Tr,2009-77,06/25/09,Ambloplites rupestris,Rock Bass,Centrarchidae,Intolerant,Piscivore,5,Yes,44,Good-Fair
+HIW,FF4,Taylor Cr,SR 1515,Cherokee,35.17768,-83.88781,MT,5.7,1-52-39,C;Tr,2009-77,06/25/09,Hybopsis amblops,Bigeye Chub,Cyprinidae,Intermediate,Insectivore,4,Yes,44,Good-Fair
+HIW,FF19,Tatham Cr,US Bus 19,Cherokee,35.20023,-83.81293,MT,8.24,1-52-28,C;Tr,2009-78,06/25/09,Notropis spectrunculus,Mirror Shiner,Cyprinidae,Intermediate,Insectivore,8,No,24,Not Rated
+HIW,FF19,Tatham Cr,US Bus 19,Cherokee,35.20023,-83.81293,MT,8.24,1-52-28,C;Tr,2009-78,06/25/09,Hypentelium nigricans,Northern Hogsucker,Catostomidae,Intermediate,Insectivore,30,Yes,24,Not Rated
+HIW,FF19,Tatham Cr,US Bus 19,Cherokee,35.20023,-83.81293,MT,8.24,1-52-28,C;Tr,2009-78,06/25/09,Lepomis auritus,Redbreast Sunfish,Centrarchidae,Tolerant,Insectivore,2,No,24,Not Rated
+HIW,FF19,Tatham Cr,US Bus 19,Cherokee,35.20023,-83.81293,MT,8.24,1-52-28,C;Tr,2009-78,06/25/09,Campostoma anomalum,Central Stoneroller,Cyprinidae,Intermediate,Herbivore,100,Yes,24,Not Rated
+HIW,FF19,Tatham Cr,US Bus 19,Cherokee,35.20023,-83.81293,MT,8.24,1-52-28,C;Tr,2009-78,06/25/09,Cottus bairdii,Mottled Sculpin,Cottidae,Intermediate,Insectivore,822,Yes,24,Not Rated
+HIW,FF19,Tatham Cr,US Bus 19,Cherokee,35.20023,-83.81293,MT,8.24,1-52-28,C;Tr,2009-78,06/25/09,Oncorhynchus mykiss,Rainbow Trout,Salmonidae,Intolerant,Insectivore,16,Yes,24,Not Rated
+HIW,FF19,Tatham Cr,US Bus 19,Cherokee,35.20023,-83.81293,MT,8.24,1-52-28,C;Tr,2009-78,06/25/09,Semotilus atromaculatus,Creek Chub,Cyprinidae,Tolerant,Insectivore,86,Yes,24,Not Rated
+HIW,FF19,Tatham Cr,US Bus 19,Cherokee,35.20023,-83.81293,MT,8.24,1-52-28,C;Tr,2009-78,06/25/09,Rhinichthys cataractae,Longnose Dace,Cyprinidae,Intermediate,Insectivore,8,Yes,24,Not Rated
+HIW,FF3,Valley R,SR 1409,Cherokee,35.20361,-83.79361,MT,16.8,1-52,C;Tr,2009-79,06/25/09,Campostoma anomalum,Central Stoneroller,Cyprinidae,Intermediate,Herbivore,44,Yes,38,Not Rated
+HIW,FF3,Valley R,SR 1409,Cherokee,35.20361,-83.79361,MT,16.8,1-52,C;Tr,2009-79,06/25/09,Ichthyomyzon greeleyi,Mountain Brook Lamprey,Petromyzontidae,Intermediate,Non-feeding,1,No,38,Not Rated
+HIW,FF3,Valley R,SR 1409,Cherokee,35.20361,-83.79361,MT,16.8,1-52,C;Tr,2009-79,06/25/09,Ambloplites rupestris,Rock Bass,Centrarchidae,Intolerant,Piscivore,9,Yes,38,Not Rated
+HIW,FF3,Valley R,SR 1409,Cherokee,35.20361,-83.79361,MT,16.8,1-52,C;Tr,2009-79,06/25/09,Luxilus coccogenis,Warpaint Shiner,Cyprinidae,Intermediate,Insectivore,1,No,38,Not Rated
+HIW,FF3,Valley R,SR 1409,Cherokee,35.20361,-83.79361,MT,16.8,1-52,C;Tr,2009-79,06/25/09,Oncorhynchus mykiss,Rainbow Trout,Salmonidae,Intolerant,Insectivore,13,Yes,38,Not Rated
+HIW,FF3,Valley R,SR 1409,Cherokee,35.20361,-83.79361,MT,16.8,1-52,C;Tr,2009-79,06/25/09,Lepomis auritus,Redbreast Sunfish,Centrarchidae,Tolerant,Insectivore,1,No,38,Not Rated
+HIW,FF3,Valley R,SR 1409,Cherokee,35.20361,-83.79361,MT,16.8,1-52,C;Tr,2009-79,06/25/09,Notropis spectrunculus,Mirror Shiner,Cyprinidae,Intermediate,Insectivore,65,Yes,38,Not Rated
+HIW,FF3,Valley R,SR 1409,Cherokee,35.20361,-83.79361,MT,16.8,1-52,C;Tr,2009-79,06/25/09,Rhinichthys cataractae,Longnose Dace,Cyprinidae,Intermediate,Insectivore,39,Yes,38,Not Rated
+HIW,FF3,Valley R,SR 1409,Cherokee,35.20361,-83.79361,MT,16.8,1-52,C;Tr,2009-79,06/25/09,Nocomis micropogon,River Chub,Cyprinidae,Intermediate,Omnivore,2,No,38,Not Rated
+HIW,FF3,Valley R,SR 1409,Cherokee,35.20361,-83.79361,MT,16.8,1-52,C;Tr,2009-79,06/25/09,Semotilus atromaculatus,Creek Chub,Cyprinidae,Tolerant,Insectivore,40,Yes,38,Not Rated
+HIW,FF3,Valley R,SR 1409,Cherokee,35.20361,-83.79361,MT,16.8,1-52,C;Tr,2009-79,06/25/09,Hypentelium nigricans,Northern Hogsucker,Catostomidae,Intermediate,Insectivore,30,Yes,38,Not Rated
+HIW,FF3,Valley R,SR 1409,Cherokee,35.20361,-83.79361,MT,16.8,1-52,C;Tr,2009-79,06/25/09,Cottus bairdii,Mottled Sculpin,Cottidae,Intermediate,Insectivore,377,Yes,38,Not Rated
+HIW,FF3,Valley R,SR 1409,Cherokee,35.20361,-83.79361,MT,16.8,1-52,C;Tr,2009-79,06/25/09,Etheostoma rufilineatum,Redline Darter,Percidae,Intermediate,Insectivore,30,Yes,38,Not Rated
+HIW,FF12,Shooting Cr,SR 1340,Clay,35.02214,-83.68202,MT,22.9,1-5,C;Tr,2014-59,07/07/14,Cottus bairdii,Mottled Sculpin,Cottidae,Intermediate,Insectivore,203,Yes,40,Good-Fair
+HIW,FF12,Shooting Cr,SR 1340,Clay,35.02214,-83.68202,MT,22.9,1-5,C;Tr,2014-59,07/07/14,Hypentelium nigricans,Northern Hogsucker,Catostomidae,Intermediate,Insectivore,7,Yes,40,Good-Fair
+HIW,FF12,Shooting Cr,SR 1340,Clay,35.02214,-83.68202,MT,22.9,1-5,C;Tr,2014-59,07/07/14,Lepomis macrochirus,Bluegill,Centrarchidae,Intermediate,Insectivore,22,Yes,40,Good-Fair
+HIW,FF12,Shooting Cr,SR 1340,Clay,35.02214,-83.68202,MT,22.9,1-5,C;Tr,2014-59,07/07/14,Rhinichthys cataractae,Longnose Dace,Cyprinidae,Intermediate,Insectivore,8,Yes,40,Good-Fair
+HIW,FF12,Shooting Cr,SR 1340,Clay,35.02214,-83.68202,MT,22.9,1-5,C;Tr,2014-59,07/07/14,Campostoma anomalum,Central Stoneroller,Cyprinidae,Intermediate,Herbivore,51,Yes,40,Good-Fair
+HIW,FF12,Shooting Cr,SR 1340,Clay,35.02214,-83.68202,MT,22.9,1-5,C;Tr,2014-59,07/07/14,Ichthyomyzon greeleyi,Mountain Brook Lamprey,Petromyzontidae,Intermediate,Non-feeding,1,No,40,Good-Fair
+HIW,FF12,Shooting Cr,SR 1340,Clay,35.02214,-83.68202,MT,22.9,1-5,C;Tr,2014-59,07/07/14,Semotilus atromaculatus,Creek Chub,Cyprinidae,Tolerant,Insectivore,2,No,40,Good-Fair
+HIW,FF12,Shooting Cr,SR 1340,Clay,35.02214,-83.68202,MT,22.9,1-5,C;Tr,2014-59,07/07/14,Lepomis auritus,Redbreast Sunfish,Centrarchidae,Tolerant,Insectivore,3,No,40,Good-Fair
+HIW,FF12,Shooting Cr,SR 1340,Clay,35.02214,-83.68202,MT,22.9,1-5,C;Tr,2014-59,07/07/14,Oncorhynchus mykiss,Rainbow Trout,Salmonidae,Intolerant,Insectivore,3,Yes,40,Good-Fair
+HIW,FF12,Shooting Cr,SR 1340,Clay,35.02214,-83.68202,MT,22.9,1-5,C;Tr,2014-59,07/07/14,Cyprinella galactura,Whitetail Shiner,Cyprinidae,Intermediate,Insectivore,13,Yes,40,Good-Fair
+HIW,FF12,Shooting Cr,SR 1340,Clay,35.02214,-83.68202,MT,22.9,1-5,C;Tr,2014-59,07/07/14,Etheostoma rufilineatum,Redline Darter,Percidae,Intermediate,Insectivore,37,Yes,40,Good-Fair
+HIW,FF12,Shooting Cr,SR 1340,Clay,35.02214,-83.68202,MT,22.9,1-5,C;Tr,2014-59,07/07/14,Lepomis sp.,,Centrarchidae,Tolerant,Insectivore,1,N/A,40,Good-Fair
+HIW,FF20,Giesky Cr,SR 1353,Clay,35.02114,-83.68419,MT,8.1,1-5-7,C;Tr,2014-60,07/07/14,Lepomis cyanellus,Green Sunfish,Centrarchidae,Tolerant,Insectivore,3,Yes,44,Good-Fair
+HIW,FF20,Giesky Cr,SR 1353,Clay,35.02114,-83.68419,MT,8.1,1-5-7,C;Tr,2014-60,07/07/14,Ichthyomyzon greeleyi,Mountain Brook Lamprey,Petromyzontidae,Intermediate,Non-feeding,4,Yes,44,Good-Fair
+HIW,FF20,Giesky Cr,SR 1353,Clay,35.02114,-83.68419,MT,8.1,1-5-7,C;Tr,2014-60,07/07/14,Ameiurus brunneus,Snail Bullhead,Ictaluridae,Intermediate,Insectivore,1,No,44,Good-Fair
+HIW,FF20,Giesky Cr,SR 1353,Clay,35.02114,-83.68419,MT,8.1,1-5-7,C;Tr,2014-60,07/07/14,Rhinichthys cataractae,Longnose Dace,Cyprinidae,Intermediate,Insectivore,2,No,44,Good-Fair
+HIW,FF20,Giesky Cr,SR 1353,Clay,35.02114,-83.68419,MT,8.1,1-5-7,C;Tr,2014-60,07/07/14,Cyprinella galactura,Whitetail Shiner,Cyprinidae,Intermediate,Insectivore,4,No,44,Good-Fair
+HIW,FF20,Giesky Cr,SR 1353,Clay,35.02114,-83.68419,MT,8.1,1-5-7,C;Tr,2014-60,07/07/14,Catostomus commersonii,White Sucker,Catostomidae,Tolerant,Omnivore,2,No,44,Good-Fair
+HIW,FF20,Giesky Cr,SR 1353,Clay,35.02114,-83.68419,MT,8.1,1-5-7,C;Tr,2014-60,07/07/14,Lepomis auritus,Redbreast Sunfish,Centrarchidae,Tolerant,Insectivore,4,Yes,44,Good-Fair
+HIW,FF20,Giesky Cr,SR 1353,Clay,35.02114,-83.68419,MT,8.1,1-5-7,C;Tr,2014-60,07/07/14,Etheostoma rufilineatum,Redline Darter,Percidae,Intermediate,Insectivore,25,Yes,44,Good-Fair
+HIW,FF20,Giesky Cr,SR 1353,Clay,35.02114,-83.68419,MT,8.1,1-5-7,C;Tr,2014-60,07/07/14,Campostoma anomalum,Central Stoneroller,Cyprinidae,Intermediate,Herbivore,101,Yes,44,Good-Fair
+HIW,FF20,Giesky Cr,SR 1353,Clay,35.02114,-83.68419,MT,8.1,1-5-7,C;Tr,2014-60,07/07/14,Lepomis macrochirus,Bluegill,Centrarchidae,Intermediate,Insectivore,41,Yes,44,Good-Fair
+HIW,FF20,Giesky Cr,SR 1353,Clay,35.02114,-83.68419,MT,8.1,1-5-7,C;Tr,2014-60,07/07/14,Oncorhynchus mykiss,Rainbow Trout,Salmonidae,Intolerant,Insectivore,6,Yes,44,Good-Fair
+HIW,FF20,Giesky Cr,SR 1353,Clay,35.02114,-83.68419,MT,8.1,1-5-7,C;Tr,2014-60,07/07/14,Cottus bairdii,Mottled Sculpin,Cottidae,Intermediate,Insectivore,406,Yes,44,Good-Fair
+HIW,FF20,Giesky Cr,SR 1353,Clay,35.02114,-83.68419,MT,8.1,1-5-7,C;Tr,2014-60,07/07/14,Hypentelium nigricans,Northern Hogsucker,Catostomidae,Intermediate,Insectivore,10,Yes,44,Good-Fair
+HIW,FF20,Giesky Cr,SR 1353,Clay,35.02114,-83.68419,MT,8.1,1-5-7,C;Tr,2014-60,07/07/14,Semotilus atromaculatus,Creek Chub,Cyprinidae,Tolerant,Insectivore,6,Yes,44,Good-Fair
+HIW,FF13,Brasstown Cr,SR 1111,Clay,34.98807,-83.89467,MT,37.3,1-42,WS-IV,2014-61,07/08/14,Notropis spectrunculus,Mirror Shiner,Cyprinidae,Intermediate,Insectivore,11,Yes,50,Good
+HIW,FF13,Brasstown Cr,SR 1111,Clay,34.98807,-83.89467,MT,37.3,1-42,WS-IV,2014-61,07/08/14,Ichthyomyzon greeleyi,Mountain Brook Lamprey,Petromyzontidae,Intermediate,Non-feeding,40,Yes,50,Good
+HIW,FF13,Brasstown Cr,SR 1111,Clay,34.98807,-83.89467,MT,37.3,1-42,WS-IV,2014-61,07/08/14,Cyprinella galactura,Whitetail Shiner,Cyprinidae,Intermediate,Insectivore,4,Yes,50,Good
+HIW,FF13,Brasstown Cr,SR 1111,Clay,34.98807,-83.89467,MT,37.3,1-42,WS-IV,2014-61,07/08/14,Lepomis auritus,Redbreast Sunfish,Centrarchidae,Tolerant,Insectivore,1,No,50,Good
+HIW,FF13,Brasstown Cr,SR 1111,Clay,34.98807,-83.89467,MT,37.3,1-42,WS-IV,2014-61,07/08/14,Percina evides,Gilt Darter,Percidae,Intolerant,Insectivore,18,Yes,50,Good
+HIW,FF13,Brasstown Cr,SR 1111,Clay,34.98807,-83.89467,MT,37.3,1-42,WS-IV,2014-61,07/08/14,Hybopsis amblops,Bigeye Chub,Cyprinidae,Intermediate,Insectivore,3,No,50,Good
+HIW,FF13,Brasstown Cr,SR 1111,Clay,34.98807,-83.89467,MT,37.3,1-42,WS-IV,2014-61,07/08/14,Ambloplites rupestris,Rock Bass,Centrarchidae,Intolerant,Piscivore,5,Yes,50,Good
+HIW,FF13,Brasstown Cr,SR 1111,Clay,34.98807,-83.89467,MT,37.3,1-42,WS-IV,2014-61,07/08/14,Moxostoma sp. cf. carinatum,"""Sicklefin"" Redhorse",Catostomidae,Intermediate,Insectivore,1,No,50,Good
+HIW,FF13,Brasstown Cr,SR 1111,Clay,34.98807,-83.89467,MT,37.3,1-42,WS-IV,2014-61,07/08/14,Nocomis micropogon,River Chub,Cyprinidae,Intermediate,Omnivore,10,Yes,50,Good
+HIW,FF13,Brasstown Cr,SR 1111,Clay,34.98807,-83.89467,MT,37.3,1-42,WS-IV,2014-61,07/08/14,Moxostoma erythrurum,Golden Redhorse,Catostomidae,Intermediate,Insectivore,1,No,50,Good
+HIW,FF13,Brasstown Cr,SR 1111,Clay,34.98807,-83.89467,MT,37.3,1-42,WS-IV,2014-61,07/08/14,Luxilus coccogenis,Warpaint Shiner,Cyprinidae,Intermediate,Insectivore,25,Yes,50,Good
+HIW,FF13,Brasstown Cr,SR 1111,Clay,34.98807,-83.89467,MT,37.3,1-42,WS-IV,2014-61,07/08/14,Notropis leuciodus,Tennessee Shiner,Cyprinidae,Intermediate,Insectivore,64,Yes,50,Good
+HIW,FF13,Brasstown Cr,SR 1111,Clay,34.98807,-83.89467,MT,37.3,1-42,WS-IV,2014-61,07/08/14,Campostoma anomalum,Central Stoneroller,Cyprinidae,Intermediate,Herbivore,12,Yes,50,Good
+HIW,FF13,Brasstown Cr,SR 1111,Clay,34.98807,-83.89467,MT,37.3,1-42,WS-IV,2014-61,07/08/14,Hypentelium nigricans,Northern Hogsucker,Catostomidae,Intermediate,Insectivore,14,Yes,50,Good
+HIW,FF13,Brasstown Cr,SR 1111,Clay,34.98807,-83.89467,MT,37.3,1-42,WS-IV,2014-61,07/08/14,Semotilus atromaculatus,Creek Chub,Cyprinidae,Tolerant,Insectivore,2,No,50,Good
+HIW,FF13,Brasstown Cr,SR 1111,Clay,34.98807,-83.89467,MT,37.3,1-42,WS-IV,2014-61,07/08/14,Cottus bairdii,Mottled Sculpin,Cottidae,Intermediate,Insectivore,174,Yes,50,Good
+HIW,FF13,Brasstown Cr,SR 1111,Clay,34.98807,-83.89467,MT,37.3,1-42,WS-IV,2014-61,07/08/14,Etheostoma blennioides,Greenside Darter,Percidae,Intermediate,Insectivore,8,Yes,50,Good
+HIW,FF13,Brasstown Cr,SR 1111,Clay,34.98807,-83.89467,MT,37.3,1-42,WS-IV,2014-61,07/08/14,Etheostoma rufilineatum,Redline Darter,Percidae,Intermediate,Insectivore,42,Yes,50,Good
+HIW,FF13,Brasstown Cr,SR 1111,Clay,34.98807,-83.89467,MT,37.3,1-42,WS-IV,2014-61,07/08/14,Lepomis macrochirus,Bluegill,Centrarchidae,Intermediate,Insectivore,2,No,50,Good
+HIW,FF13,Brasstown Cr,SR 1111,Clay,34.98807,-83.89467,MT,37.3,1-42,WS-IV,2014-61,07/08/14,Etheostoma zonale,Banded Darter,Percidae,Intermediate,Insectivore,2,No,50,Good
+HIW,FF8,Peachtree Cr,old US 64,Cherokee,35.07780,-83.97434,MT,18,1-44,C,2014-62,07/08/14,Hybopsis amblops,Bigeye Chub,Cyprinidae,Intermediate,Insectivore,7,Yes,52,Good
+HIW,FF8,Peachtree Cr,old US 64,Cherokee,35.07780,-83.97434,MT,18,1-44,C,2014-62,07/08/14,Ambloplites rupestris,Rock Bass,Centrarchidae,Intolerant,Piscivore,9,Yes,52,Good
+HIW,FF8,Peachtree Cr,old US 64,Cherokee,35.07780,-83.97434,MT,18,1-44,C,2014-62,07/08/14,Moxostoma duquesnei,Black Redhorse,Catostomidae,Intermediate,Insectivore,1,No,52,Good
+HIW,FF8,Peachtree Cr,old US 64,Cherokee,35.07780,-83.97434,MT,18,1-44,C,2014-62,07/08/14,Cyprinella galactura,Whitetail Shiner,Cyprinidae,Intermediate,Insectivore,2,No,52,Good
+HIW,FF8,Peachtree Cr,old US 64,Cherokee,35.07780,-83.97434,MT,18,1-44,C,2014-62,07/08/14,Lepomis macrochirus,Bluegill,Centrarchidae,Intermediate,Insectivore,1,No,52,Good
+HIW,FF8,Peachtree Cr,old US 64,Cherokee,35.07780,-83.97434,MT,18,1-44,C,2014-62,07/08/14,Ichthyomyzon greeleyi,Mountain Brook Lamprey,Petromyzontidae,Intermediate,Non-feeding,12,Yes,52,Good
+HIW,FF8,Peachtree Cr,old US 64,Cherokee,35.07780,-83.97434,MT,18,1-44,C,2014-62,07/08/14,Semotilus atromaculatus,Creek Chub,Cyprinidae,Tolerant,Insectivore,9,Yes,52,Good
+HIW,FF8,Peachtree Cr,old US 64,Cherokee,35.07780,-83.97434,MT,18,1-44,C,2014-62,07/08/14,Nocomis micropogon,River Chub,Cyprinidae,Intermediate,Omnivore,41,Yes,52,Good
+HIW,FF8,Peachtree Cr,old US 64,Cherokee,35.07780,-83.97434,MT,18,1-44,C,2014-62,07/08/14,Notropis leuciodus,Tennessee Shiner,Cyprinidae,Intermediate,Insectivore,165,Yes,52,Good
+HIW,FF8,Peachtree Cr,old US 64,Cherokee,35.07780,-83.97434,MT,18,1-44,C,2014-62,07/08/14,Lepomis auritus,Redbreast Sunfish,Centrarchidae,Tolerant,Insectivore,2,No,52,Good
+HIW,FF8,Peachtree Cr,old US 64,Cherokee,35.07780,-83.97434,MT,18,1-44,C,2014-62,07/08/14,Etheostoma rufilineatum,Redline Darter,Percidae,Intermediate,Insectivore,40,Yes,52,Good
+HIW,FF8,Peachtree Cr,old US 64,Cherokee,35.07780,-83.97434,MT,18,1-44,C,2014-62,07/08/14,Etheostoma zonale,Banded Darter,Percidae,Intermediate,Insectivore,4,Yes,52,Good
+HIW,FF8,Peachtree Cr,old US 64,Cherokee,35.07780,-83.97434,MT,18,1-44,C,2014-62,07/08/14,Luxilus coccogenis,Warpaint Shiner,Cyprinidae,Intermediate,Insectivore,32,Yes,52,Good
+HIW,FF8,Peachtree Cr,old US 64,Cherokee,35.07780,-83.97434,MT,18,1-44,C,2014-62,07/08/14,Notropis spectrunculus,Mirror Shiner,Cyprinidae,Intermediate,Insectivore,4,No,52,Good
+HIW,FF8,Peachtree Cr,old US 64,Cherokee,35.07780,-83.97434,MT,18,1-44,C,2014-62,07/08/14,Hypentelium nigricans,Northern Hogsucker,Catostomidae,Intermediate,Insectivore,21,Yes,52,Good
+HIW,FF8,Peachtree Cr,old US 64,Cherokee,35.07780,-83.97434,MT,18,1-44,C,2014-62,07/08/14,Campostoma anomalum,Central Stoneroller,Cyprinidae,Intermediate,Herbivore,82,Yes,52,Good
+HIW,FF8,Peachtree Cr,old US 64,Cherokee,35.07780,-83.97434,MT,18,1-44,C,2014-62,07/08/14,Cottus bairdii,Mottled Sculpin,Cottidae,Intermediate,Insectivore,258,Yes,52,Good
+HIW,FF8,Peachtree Cr,old US 64,Cherokee,35.07780,-83.97434,MT,18,1-44,C,2014-62,07/08/14,Etheostoma blennioides,Greenside Darter,Percidae,Intermediate,Insectivore,3,Yes,52,Good
+HIW,FF11,Little Brasstown Cr,SR 1565,Cherokee,35.03347,-83.96263,MT,8.9,1-42-11,WS-IV,2014-63,07/08/14,Ichthyomyzon greeleyi,Mountain Brook Lamprey,Petromyzontidae,Intermediate,Non-feeding,7,Yes,46,Good-Fair
+HIW,FF11,Little Brasstown Cr,SR 1565,Cherokee,35.03347,-83.96263,MT,8.9,1-42-11,WS-IV,2014-63,07/08/14,Campostoma anomalum,Central Stoneroller,Cyprinidae,Intermediate,Herbivore,23,Yes,46,Good-Fair
+HIW,FF11,Little Brasstown Cr,SR 1565,Cherokee,35.03347,-83.96263,MT,8.9,1-42-11,WS-IV,2014-63,07/08/14,Etheostoma rufilineatum,Redline Darter,Percidae,Intermediate,Insectivore,13,Yes,46,Good-Fair
+HIW,FF11,Little Brasstown Cr,SR 1565,Cherokee,35.03347,-83.96263,MT,8.9,1-42-11,WS-IV,2014-63,07/08/14,Lepomis cyanellus,Green Sunfish,Centrarchidae,Tolerant,Insectivore,4,Yes,46,Good-Fair
+HIW,FF11,Little Brasstown Cr,SR 1565,Cherokee,35.03347,-83.96263,MT,8.9,1-42-11,WS-IV,2014-63,07/08/14,Cyprinella galactura,Whitetail Shiner,Cyprinidae,Intermediate,Insectivore,4,Yes,46,Good-Fair
+HIW,FF11,Little Brasstown Cr,SR 1565,Cherokee,35.03347,-83.96263,MT,8.9,1-42-11,WS-IV,2014-63,07/08/14,Luxilus coccogenis,Warpaint Shiner,Cyprinidae,Intermediate,Insectivore,12,Yes,46,Good-Fair
+HIW,FF11,Little Brasstown Cr,SR 1565,Cherokee,35.03347,-83.96263,MT,8.9,1-42-11,WS-IV,2014-63,07/08/14,Etheostoma zonale,Banded Darter,Percidae,Intermediate,Insectivore,1,No,46,Good-Fair
+HIW,FF11,Little Brasstown Cr,SR 1565,Cherokee,35.03347,-83.96263,MT,8.9,1-42-11,WS-IV,2014-63,07/08/14,Etheostoma blennioides,Greenside Darter,Percidae,Intermediate,Insectivore,2,No,46,Good-Fair
+HIW,FF11,Little Brasstown Cr,SR 1565,Cherokee,35.03347,-83.96263,MT,8.9,1-42-11,WS-IV,2014-63,07/08/14,Notropis spectrunculus,Mirror Shiner,Cyprinidae,Intermediate,Insectivore,2,No,46,Good-Fair
+HIW,FF11,Little Brasstown Cr,SR 1565,Cherokee,35.03347,-83.96263,MT,8.9,1-42-11,WS-IV,2014-63,07/08/14,Pimephales promelas,Fathead Minnow,Cyprinidae,Tolerant,Omnivore,1,No,46,Good-Fair
+HIW,FF11,Little Brasstown Cr,SR 1565,Cherokee,35.03347,-83.96263,MT,8.9,1-42-11,WS-IV,2014-63,07/08/14,Ambloplites rupestris,Rock Bass,Centrarchidae,Intolerant,Piscivore,3,Yes,46,Good-Fair
+HIW,FF11,Little Brasstown Cr,SR 1565,Cherokee,35.03347,-83.96263,MT,8.9,1-42-11,WS-IV,2014-63,07/08/14,Nocomis micropogon,River Chub,Cyprinidae,Intermediate,Omnivore,6,Yes,46,Good-Fair
+HIW,FF11,Little Brasstown Cr,SR 1565,Cherokee,35.03347,-83.96263,MT,8.9,1-42-11,WS-IV,2014-63,07/08/14,Semotilus atromaculatus,Creek Chub,Cyprinidae,Tolerant,Insectivore,12,Yes,46,Good-Fair
+HIW,FF11,Little Brasstown Cr,SR 1565,Cherokee,35.03347,-83.96263,MT,8.9,1-42-11,WS-IV,2014-63,07/08/14,Notropis leuciodus,Tennessee Shiner,Cyprinidae,Intermediate,Insectivore,11,Yes,46,Good-Fair
+HIW,FF11,Little Brasstown Cr,SR 1565,Cherokee,35.03347,-83.96263,MT,8.9,1-42-11,WS-IV,2014-63,07/08/14,Hypentelium nigricans,Northern Hogsucker,Catostomidae,Intermediate,Insectivore,18,Yes,46,Good-Fair
+HIW,FF11,Little Brasstown Cr,SR 1565,Cherokee,35.03347,-83.96263,MT,8.9,1-42-11,WS-IV,2014-63,07/08/14,Cottus bairdii,Mottled Sculpin,Cottidae,Intermediate,Insectivore,67,Yes,46,Good-Fair
+HIW,FF11,Little Brasstown Cr,SR 1565,Cherokee,35.03347,-83.96263,MT,8.9,1-42-11,WS-IV,2014-63,07/08/14,Lepomis macrochirus,Bluegill,Centrarchidae,Intermediate,Insectivore,6,Yes,46,Good-Fair
+HIW,FF11,Little Brasstown Cr,SR 1565,Cherokee,35.03347,-83.96263,MT,8.9,1-42-11,WS-IV,2014-63,07/08/14,Moxostoma erythrurum,Golden Redhorse,Catostomidae,Intermediate,Insectivore,4,Yes,46,Good-Fair
+HIW,FF7,Martin Cr,SR 1558,Cherokee,35.07541,-84.02062,MT,9,1-49,C,2014-64,07/09/14,Etheostoma rufilineatum,Redline Darter,Percidae,Intermediate,Insectivore,17,Yes,48,Good
+HIW,FF7,Martin Cr,SR 1558,Cherokee,35.07541,-84.02062,MT,9,1-49,C,2014-64,07/09/14,Etheostoma zonale,Banded Darter,Percidae,Intermediate,Insectivore,8,Yes,48,Good
+HIW,FF7,Martin Cr,SR 1558,Cherokee,35.07541,-84.02062,MT,9,1-49,C,2014-64,07/09/14,Ichthyomyzon greeleyi,Mountain Brook Lamprey,Petromyzontidae,Intermediate,Non-feeding,16,Yes,48,Good
+HIW,FF7,Martin Cr,SR 1558,Cherokee,35.07541,-84.02062,MT,9,1-49,C,2014-64,07/09/14,Percina evides,Gilt Darter,Percidae,Intolerant,Insectivore,5,Yes,48,Good
+HIW,FF7,Martin Cr,SR 1558,Cherokee,35.07541,-84.02062,MT,9,1-49,C,2014-64,07/09/14,Micropterus punctulatus,Spotted Bass,Centrarchidae,Intermediate,Piscivore,1,No,48,Good
+HIW,FF7,Martin Cr,SR 1558,Cherokee,35.07541,-84.02062,MT,9,1-49,C,2014-64,07/09/14,Perca flavescens,Yellow Perch,Percidae,Intermediate,Piscivore,3,No,48,Good
+HIW,FF7,Martin Cr,SR 1558,Cherokee,35.07541,-84.02062,MT,9,1-49,C,2014-64,07/09/14,Etheostoma blennioides,Greenside Darter,Percidae,Intermediate,Insectivore,2,No,48,Good
+HIW,FF7,Martin Cr,SR 1558,Cherokee,35.07541,-84.02062,MT,9,1-49,C,2014-64,07/09/14,Lepomis cyanellus,Green Sunfish,Centrarchidae,Tolerant,Insectivore,10,Yes,48,Good
+HIW,FF7,Martin Cr,SR 1558,Cherokee,35.07541,-84.02062,MT,9,1-49,C,2014-64,07/09/14,Semotilus atromaculatus,Creek Chub,Cyprinidae,Tolerant,Insectivore,2,No,48,Good
+HIW,FF7,Martin Cr,SR 1558,Cherokee,35.07541,-84.02062,MT,9,1-49,C,2014-64,07/09/14,Notropis leuciodus,Tennessee Shiner,Cyprinidae,Intermediate,Insectivore,41,Yes,48,Good
+HIW,FF7,Martin Cr,SR 1558,Cherokee,35.07541,-84.02062,MT,9,1-49,C,2014-64,07/09/14,Nocomis micropogon,River Chub,Cyprinidae,Intermediate,Omnivore,10,Yes,48,Good
+HIW,FF7,Martin Cr,SR 1558,Cherokee,35.07541,-84.02062,MT,9,1-49,C,2014-64,07/09/14,Cottus bairdii,Mottled Sculpin,Cottidae,Intermediate,Insectivore,129,Yes,48,Good
+HIW,FF7,Martin Cr,SR 1558,Cherokee,35.07541,-84.02062,MT,9,1-49,C,2014-64,07/09/14,Campostoma anomalum,Central Stoneroller,Cyprinidae,Intermediate,Herbivore,52,Yes,48,Good
+HIW,FF7,Martin Cr,SR 1558,Cherokee,35.07541,-84.02062,MT,9,1-49,C,2014-64,07/09/14,Hypentelium nigricans,Northern Hogsucker,Catostomidae,Intermediate,Insectivore,17,Yes,48,Good
+HIW,FF7,Martin Cr,SR 1558,Cherokee,35.07541,-84.02062,MT,9,1-49,C,2014-64,07/09/14,Hybopsis amblops,Bigeye Chub,Cyprinidae,Intermediate,Insectivore,7,Yes,48,Good
+HIW,FF7,Martin Cr,SR 1558,Cherokee,35.07541,-84.02062,MT,9,1-49,C,2014-64,07/09/14,Luxilus coccogenis,Warpaint Shiner,Cyprinidae,Intermediate,Insectivore,31,Yes,48,Good
+HIW,FF7,Martin Cr,SR 1558,Cherokee,35.07541,-84.02062,MT,9,1-49,C,2014-64,07/09/14,Notropis micropteryx,Highland Shiner,Cyprinidae,Intolerant,Insectivore,26,Yes,48,Good
+HIW,FF7,Martin Cr,SR 1558,Cherokee,35.07541,-84.02062,MT,9,1-49,C,2014-64,07/09/14,Lepomis macrochirus,Bluegill,Centrarchidae,Intermediate,Insectivore,5,Yes,48,Good
+HIW,FF21,Rapier Mill Cr,off SR 1124,Cherokee,35.01030,-84.14254,MT,16.2,1-58-6,C,2014-65,07/09/14,Campostoma anomalum,Central Stoneroller,Cyprinidae,Intermediate,Herbivore,2,No,22,Poor
+HIW,FF21,Rapier Mill Cr,off SR 1124,Cherokee,35.01030,-84.14254,MT,16.2,1-58-6,C,2014-65,07/09/14,Micropterus salmoides,Largemouth Bass,Centrarchidae,Intermediate,Piscivore,1,No,22,Poor
+HIW,FF21,Rapier Mill Cr,off SR 1124,Cherokee,35.01030,-84.14254,MT,16.2,1-58-6,C,2014-65,07/09/14,Notropis spectrunculus,Mirror Shiner,Cyprinidae,Intermediate,Insectivore,11,No,22,Poor
+HIW,FF21,Rapier Mill Cr,off SR 1124,Cherokee,35.01030,-84.14254,MT,16.2,1-58-6,C,2014-65,07/09/14,Lepomis macrochirus,Bluegill,Centrarchidae,Intermediate,Insectivore,7,Yes,22,Poor
+HIW,FF21,Rapier Mill Cr,off SR 1124,Cherokee,35.01030,-84.14254,MT,16.2,1-58-6,C,2014-65,07/09/14,Lepomis cyanellus,Green Sunfish,Centrarchidae,Tolerant,Insectivore,1,No,22,Poor
+HIW,FF21,Rapier Mill Cr,off SR 1124,Cherokee,35.01030,-84.14254,MT,16.2,1-58-6,C,2014-65,07/09/14,Cottus bairdii,Mottled Sculpin,Cottidae,Intermediate,Insectivore,60,Yes,22,Poor
+HIW,FF21,Rapier Mill Cr,off SR 1124,Cherokee,35.01030,-84.14254,MT,16.2,1-58-6,C,2014-65,07/09/14,Etheostoma rufilineatum,Redline Darter,Percidae,Intermediate,Insectivore,2,No,22,Poor
+HIW,FF21,Rapier Mill Cr,off SR 1124,Cherokee,35.01030,-84.14254,MT,16.2,1-58-6,C,2014-65,07/09/14,Hypentelium nigricans,Northern Hogsucker,Catostomidae,Intermediate,Insectivore,11,Yes,22,Poor
+HIW,FF21,Rapier Mill Cr,off SR 1124,Cherokee,35.01030,-84.14254,MT,16.2,1-58-6,C,2014-65,07/09/14,Ambloplites rupestris,Rock Bass,Centrarchidae,Intolerant,Piscivore,3,Yes,22,Poor
+HIW,FF21,Rapier Mill Cr,off SR 1124,Cherokee,35.01030,-84.14254,MT,16.2,1-58-6,C,2014-65,07/09/14,Cyprinella galactura,Whitetail Shiner,Cyprinidae,Intermediate,Insectivore,1,No,22,Poor
+HIW,FF21,Rapier Mill Cr,off SR 1124,Cherokee,35.01030,-84.14254,MT,16.2,1-58-6,C,2014-65,07/09/14,Lepomis auritus,Redbreast Sunfish,Centrarchidae,Tolerant,Insectivore,4,Yes,22,Poor
+HIW,FF2,Persimmon Cr,SR 1127,Cherokee,35.05232,-84.18192,MT,12,1-63,C,2014-66,07/09/14,Micropterus punctulatus,Spotted Bass,Centrarchidae,Intermediate,Piscivore,7,No,22,Poor
+HIW,FF2,Persimmon Cr,SR 1127,Cherokee,35.05232,-84.18192,MT,12,1-63,C,2014-66,07/09/14,Ichthyomyzon greeleyi,Mountain Brook Lamprey,Petromyzontidae,Intermediate,Non-feeding,4,Yes,22,Poor
+HIW,FF2,Persimmon Cr,SR 1127,Cherokee,35.05232,-84.18192,MT,12,1-63,C,2014-66,07/09/14,Notropis spectrunculus,Mirror Shiner,Cyprinidae,Intermediate,Insectivore,19,Yes,22,Poor
+HIW,FF2,Persimmon Cr,SR 1127,Cherokee,35.05232,-84.18192,MT,12,1-63,C,2014-66,07/09/14,Lepomis macrochirus,Bluegill,Centrarchidae,Intermediate,Insectivore,8,Yes,22,Poor
+HIW,FF2,Persimmon Cr,SR 1127,Cherokee,35.05232,-84.18192,MT,12,1-63,C,2014-66,07/09/14,Etheostoma blennioides,Greenside Darter,Percidae,Intermediate,Insectivore,3,No,22,Poor
+HIW,FF2,Persimmon Cr,SR 1127,Cherokee,35.05232,-84.18192,MT,12,1-63,C,2014-66,07/09/14,Lepomis auritus,Redbreast Sunfish,Centrarchidae,Tolerant,Insectivore,28,Yes,22,Poor
+HIW,FF2,Persimmon Cr,SR 1127,Cherokee,35.05232,-84.18192,MT,12,1-63,C,2014-66,07/09/14,Hypentelium nigricans,Northern Hogsucker,Catostomidae,Intermediate,Insectivore,40,Yes,22,Poor
+HIW,FF2,Persimmon Cr,SR 1127,Cherokee,35.05232,-84.18192,MT,12,1-63,C,2014-66,07/09/14,Cottus bairdii,Mottled Sculpin,Cottidae,Intermediate,Insectivore,82,Yes,22,Poor
+HIW,FF2,Persimmon Cr,SR 1127,Cherokee,35.05232,-84.18192,MT,12,1-63,C,2014-66,07/09/14,Campostoma anomalum,Central Stoneroller,Cyprinidae,Intermediate,Herbivore,18,Yes,22,Poor
+HIW,FF4,Taylor Cr,SR 1515,Cherokee,35.17768,-83.88781,MT,5.7,1-52-39,C;Tr,2014-67,07/10/14,Hypentelium nigricans,Northern Hogsucker,Catostomidae,Intermediate,Insectivore,32,Yes,40,Good-Fair
+HIW,FF4,Taylor Cr,SR 1515,Cherokee,35.17768,-83.88781,MT,5.7,1-52-39,C;Tr,2014-67,07/10/14,Rhinichthys cataractae,Longnose Dace,Cyprinidae,Intermediate,Insectivore,9,Yes,40,Good-Fair
+HIW,FF4,Taylor Cr,SR 1515,Cherokee,35.17768,-83.88781,MT,5.7,1-52-39,C;Tr,2014-67,07/10/14,Etheostoma blennioides,Greenside Darter,Percidae,Intermediate,Insectivore,3,Yes,40,Good-Fair
+HIW,FF4,Taylor Cr,SR 1515,Cherokee,35.17768,-83.88781,MT,5.7,1-52-39,C;Tr,2014-67,07/10/14,Notropis spectrunculus,Mirror Shiner,Cyprinidae,Intermediate,Insectivore,16,Yes,40,Good-Fair
+HIW,FF4,Taylor Cr,SR 1515,Cherokee,35.17768,-83.88781,MT,5.7,1-52-39,C;Tr,2014-67,07/10/14,Oncorhynchus mykiss,Rainbow Trout,Salmonidae,Intolerant,Insectivore,1,No,40,Good-Fair
+HIW,FF4,Taylor Cr,SR 1515,Cherokee,35.17768,-83.88781,MT,5.7,1-52-39,C;Tr,2014-67,07/10/14,Luxilus coccogenis,Warpaint Shiner,Cyprinidae,Intermediate,Insectivore,17,Yes,40,Good-Fair
+HIW,FF4,Taylor Cr,SR 1515,Cherokee,35.17768,-83.88781,MT,5.7,1-52-39,C;Tr,2014-67,07/10/14,Ichthyomyzon greeleyi,Mountain Brook Lamprey,Petromyzontidae,Intermediate,Non-feeding,6,Yes,40,Good-Fair
+HIW,FF4,Taylor Cr,SR 1515,Cherokee,35.17768,-83.88781,MT,5.7,1-52-39,C;Tr,2014-67,07/10/14,Notropis leuciodus,Tennessee Shiner,Cyprinidae,Intermediate,Insectivore,2,No,40,Good-Fair
+HIW,FF4,Taylor Cr,SR 1515,Cherokee,35.17768,-83.88781,MT,5.7,1-52-39,C;Tr,2014-67,07/10/14,Semotilus atromaculatus,Creek Chub,Cyprinidae,Tolerant,Insectivore,50,Yes,40,Good-Fair
+HIW,FF4,Taylor Cr,SR 1515,Cherokee,35.17768,-83.88781,MT,5.7,1-52-39,C;Tr,2014-67,07/10/14,Clinostomus sp. cf. funduloides,"""Smoky"" Dace",Cyprinidae,Intermediate,Insectivore,1,No,40,Good-Fair
+HIW,FF4,Taylor Cr,SR 1515,Cherokee,35.17768,-83.88781,MT,5.7,1-52-39,C;Tr,2014-67,07/10/14,Hybopsis amblops,Bigeye Chub,Cyprinidae,Intermediate,Insectivore,1,No,40,Good-Fair
+HIW,FF4,Taylor Cr,SR 1515,Cherokee,35.17768,-83.88781,MT,5.7,1-52-39,C;Tr,2014-67,07/10/14,Campostoma anomalum,Central Stoneroller,Cyprinidae,Intermediate,Herbivore,41,Yes,40,Good-Fair
+HIW,FF4,Taylor Cr,SR 1515,Cherokee,35.17768,-83.88781,MT,5.7,1-52-39,C;Tr,2014-67,07/10/14,Cottus bairdii,Mottled Sculpin,Cottidae,Intermediate,Insectivore,287,Yes,40,Good-Fair
+HIW,FF4,Taylor Cr,SR 1515,Cherokee,35.17768,-83.88781,MT,5.7,1-52-39,C;Tr,2014-67,07/10/14,Etheostoma rufilineatum,Redline Darter,Percidae,Intermediate,Insectivore,14,Yes,40,Good-Fair
+HIW,FF4,Taylor Cr,SR 1515,Cherokee,35.17768,-83.88781,MT,5.7,1-52-39,C;Tr,2014-67,07/10/14,Ambloplites rupestris,Rock Bass,Centrarchidae,Intolerant,Piscivore,5,Yes,40,Good-Fair
+HIW,FF6,Vengeance Cr,NC 141/SR 1520,Cherokee,35.16018,-83.92028,MT,7.2,1-52-45,C;Tr,2014-71,09/16/14,Percina evides,Gilt Darter,Percidae,Intolerant,Insectivore,2,No,60,Excellent
+HIW,FF6,Vengeance Cr,NC 141/SR 1520,Cherokee,35.16018,-83.92028,MT,7.2,1-52-45,C;Tr,2014-71,09/16/14,Notropis spectrunculus,Mirror Shiner,Cyprinidae,Intermediate,Insectivore,2,No,60,Excellent
+HIW,FF6,Vengeance Cr,NC 141/SR 1520,Cherokee,35.16018,-83.92028,MT,7.2,1-52-45,C;Tr,2014-71,09/16/14,Ichthyomyzon greeleyi,Mountain Brook Lamprey,Petromyzontidae,Intermediate,Non-feeding,7,Yes,60,Excellent
+HIW,FF6,Vengeance Cr,NC 141/SR 1520,Cherokee,35.16018,-83.92028,MT,7.2,1-52-45,C;Tr,2014-71,09/16/14,Lepomis auritus,Redbreast Sunfish,Centrarchidae,Tolerant,Insectivore,1,No,60,Excellent
+HIW,FF6,Vengeance Cr,NC 141/SR 1520,Cherokee,35.16018,-83.92028,MT,7.2,1-52-45,C;Tr,2014-71,09/16/14,Etheostoma zonale,Banded Darter,Percidae,Intermediate,Insectivore,1,No,60,Excellent
+HIW,FF6,Vengeance Cr,NC 141/SR 1520,Cherokee,35.16018,-83.92028,MT,7.2,1-52-45,C;Tr,2014-71,09/16/14,Nocomis micropogon,River Chub,Cyprinidae,Intermediate,Omnivore,1,No,60,Excellent
+HIW,FF6,Vengeance Cr,NC 141/SR 1520,Cherokee,35.16018,-83.92028,MT,7.2,1-52-45,C;Tr,2014-71,09/16/14,Rhinichthys cataractae,Longnose Dace,Cyprinidae,Intermediate,Insectivore,16,Yes,60,Excellent
+HIW,FF6,Vengeance Cr,NC 141/SR 1520,Cherokee,35.16018,-83.92028,MT,7.2,1-52-45,C;Tr,2014-71,09/16/14,Oncorhynchus mykiss,Rainbow Trout,Salmonidae,Intolerant,Insectivore,3,Yes,60,Excellent
+HIW,FF6,Vengeance Cr,NC 141/SR 1520,Cherokee,35.16018,-83.92028,MT,7.2,1-52-45,C;Tr,2014-71,09/16/14,Campostoma anomalum,Central Stoneroller,Cyprinidae,Intermediate,Herbivore,104,Yes,60,Excellent
+HIW,FF6,Vengeance Cr,NC 141/SR 1520,Cherokee,35.16018,-83.92028,MT,7.2,1-52-45,C;Tr,2014-71,09/16/14,Notropis leuciodus,Tennessee Shiner,Cyprinidae,Intermediate,Insectivore,107,Yes,60,Excellent
+HIW,FF6,Vengeance Cr,NC 141/SR 1520,Cherokee,35.16018,-83.92028,MT,7.2,1-52-45,C;Tr,2014-71,09/16/14,Semotilus atromaculatus,Creek Chub,Cyprinidae,Tolerant,Insectivore,4,Yes,60,Excellent
+HIW,FF6,Vengeance Cr,NC 141/SR 1520,Cherokee,35.16018,-83.92028,MT,7.2,1-52-45,C;Tr,2014-71,09/16/14,Ambloplites rupestris,Rock Bass,Centrarchidae,Intolerant,Piscivore,9,Yes,60,Excellent
+HIW,FF6,Vengeance Cr,NC 141/SR 1520,Cherokee,35.16018,-83.92028,MT,7.2,1-52-45,C;Tr,2014-71,09/16/14,Etheostoma rufilineatum,Redline Darter,Percidae,Intermediate,Insectivore,26,Yes,60,Excellent
+HIW,FF6,Vengeance Cr,NC 141/SR 1520,Cherokee,35.16018,-83.92028,MT,7.2,1-52-45,C;Tr,2014-71,09/16/14,Luxilus coccogenis,Warpaint Shiner,Cyprinidae,Intermediate,Insectivore,43,Yes,60,Excellent
+HIW,FF6,Vengeance Cr,NC 141/SR 1520,Cherokee,35.16018,-83.92028,MT,7.2,1-52-45,C;Tr,2014-71,09/16/14,Hypentelium nigricans,Northern Hogsucker,Catostomidae,Intermediate,Insectivore,16,Yes,60,Excellent
+HIW,FF6,Vengeance Cr,NC 141/SR 1520,Cherokee,35.16018,-83.92028,MT,7.2,1-52-45,C;Tr,2014-71,09/16/14,Cottus bairdii,Mottled Sculpin,Cottidae,Intermediate,Insectivore,202,Yes,60,Excellent
+HIW,FF6,Vengeance Cr,NC 141/SR 1520,Cherokee,35.16018,-83.92028,MT,7.2,1-52-45,C;Tr,2014-71,09/16/14,Etheostoma blennioides,Greenside Darter,Percidae,Intermediate,Insectivore,11,Yes,60,Excellent
+HIW,FF6,Vengeance Cr,NC 141/SR 1520,Cherokee,35.16018,-83.92028,MT,7.2,1-52-45,C;Tr,2014-71,09/16/14,Hybopsis amblops,Bigeye Chub,Cyprinidae,Intermediate,Insectivore,4,Yes,60,Excellent
+HIW,FF5,Hanging Dog Cr,off SR 1342,Cherokee,35.15203,-84.06111,MT,21.7,1-57,C,2014-72,09/17/14,Etheostoma zonale,Banded Darter,Percidae,Intermediate,Insectivore,15,Yes,56,Good
+HIW,FF5,Hanging Dog Cr,off SR 1342,Cherokee,35.15203,-84.06111,MT,21.7,1-57,C,2014-72,09/17/14,Notropis spectrunculus,Mirror Shiner,Cyprinidae,Intermediate,Insectivore,12,Yes,56,Good
+HIW,FF5,Hanging Dog Cr,off SR 1342,Cherokee,35.15203,-84.06111,MT,21.7,1-57,C,2014-72,09/17/14,Etheostoma blennioides,Greenside Darter,Percidae,Intermediate,Insectivore,2,No,56,Good
+HIW,FF5,Hanging Dog Cr,off SR 1342,Cherokee,35.15203,-84.06111,MT,21.7,1-57,C,2014-72,09/17/14,Etheostoma rufilineatum,Redline Darter,Percidae,Intermediate,Insectivore,32,Yes,56,Good
+HIW,FF5,Hanging Dog Cr,off SR 1342,Cherokee,35.15203,-84.06111,MT,21.7,1-57,C,2014-72,09/17/14,Rhinichthys cataractae,Longnose Dace,Cyprinidae,Intermediate,Insectivore,2,No,56,Good
+HIW,FF5,Hanging Dog Cr,off SR 1342,Cherokee,35.15203,-84.06111,MT,21.7,1-57,C,2014-72,09/17/14,Moxostoma duquesnei,Black Redhorse,Catostomidae,Intermediate,Insectivore,1,No,56,Good
+HIW,FF5,Hanging Dog Cr,off SR 1342,Cherokee,35.15203,-84.06111,MT,21.7,1-57,C,2014-72,09/17/14,Campostoma anomalum,Central Stoneroller,Cyprinidae,Intermediate,Herbivore,11,Yes,56,Good
+HIW,FF5,Hanging Dog Cr,off SR 1342,Cherokee,35.15203,-84.06111,MT,21.7,1-57,C,2014-72,09/17/14,Percina evides,Gilt Darter,Percidae,Intolerant,Insectivore,2,No,56,Good
+HIW,FF5,Hanging Dog Cr,off SR 1342,Cherokee,35.15203,-84.06111,MT,21.7,1-57,C,2014-72,09/17/14,Oncorhynchus mykiss,Rainbow Trout,Salmonidae,Intolerant,Insectivore,5,Yes,56,Good
+HIW,FF5,Hanging Dog Cr,off SR 1342,Cherokee,35.15203,-84.06111,MT,21.7,1-57,C,2014-72,09/17/14,Nocomis micropogon,River Chub,Cyprinidae,Intermediate,Omnivore,34,Yes,56,Good
+HIW,FF5,Hanging Dog Cr,off SR 1342,Cherokee,35.15203,-84.06111,MT,21.7,1-57,C,2014-72,09/17/14,Notropis leuciodus,Tennessee Shiner,Cyprinidae,Intermediate,Insectivore,108,Yes,56,Good
+HIW,FF5,Hanging Dog Cr,off SR 1342,Cherokee,35.15203,-84.06111,MT,21.7,1-57,C,2014-72,09/17/14,Luxilus coccogenis,Warpaint Shiner,Cyprinidae,Intermediate,Insectivore,23,Yes,56,Good
+HIW,FF5,Hanging Dog Cr,off SR 1342,Cherokee,35.15203,-84.06111,MT,21.7,1-57,C,2014-72,09/17/14,Hypentelium nigricans,Northern Hogsucker,Catostomidae,Intermediate,Insectivore,6,Yes,56,Good
+HIW,FF5,Hanging Dog Cr,off SR 1342,Cherokee,35.15203,-84.06111,MT,21.7,1-57,C,2014-72,09/17/14,Cottus bairdii,Mottled Sculpin,Cottidae,Intermediate,Insectivore,72,Yes,56,Good
+HIW,FF5,Hanging Dog Cr,off SR 1342,Cherokee,35.15203,-84.06111,MT,21.7,1-57,C,2014-72,09/17/14,Ambloplites rupestris,Rock Bass,Centrarchidae,Intolerant,Piscivore,6,Yes,56,Good
+HIW,FF17,Shuler Cr,SR 1323,Cherokee,35.18305,-84.28018,MT,17.6,1-86,C,2014-73,09/17/14,Etheostoma blennioides,Greenside Darter,Percidae,Intermediate,Insectivore,3,Yes,48,Good
+HIW,FF17,Shuler Cr,SR 1323,Cherokee,35.18305,-84.28018,MT,17.6,1-86,C,2014-73,09/17/14,Campostoma anomalum,Central Stoneroller,Cyprinidae,Intermediate,Herbivore,10,Yes,48,Good
+HIW,FF17,Shuler Cr,SR 1323,Cherokee,35.18305,-84.28018,MT,17.6,1-86,C,2014-73,09/17/14,Etheostoma rufilineatum,Redline Darter,Percidae,Intermediate,Insectivore,30,Yes,48,Good
+HIW,FF17,Shuler Cr,SR 1323,Cherokee,35.18305,-84.28018,MT,17.6,1-86,C,2014-73,09/17/14,Notropis leuciodus,Tennessee Shiner,Cyprinidae,Intermediate,Insectivore,79,Yes,48,Good
+HIW,FF17,Shuler Cr,SR 1323,Cherokee,35.18305,-84.28018,MT,17.6,1-86,C,2014-73,09/17/14,Cottus bairdii,Mottled Sculpin,Cottidae,Intermediate,Insectivore,82,Yes,48,Good
+HIW,FF17,Shuler Cr,SR 1323,Cherokee,35.18305,-84.28018,MT,17.6,1-86,C,2014-73,09/17/14,Salmo trutta,Brown Trout,Salmonidae,Intermediate,Piscivore,1,No,48,Good
+HIW,FF17,Shuler Cr,SR 1323,Cherokee,35.18305,-84.28018,MT,17.6,1-86,C,2014-73,09/17/14,Etheostoma zonale,Banded Darter,Percidae,Intermediate,Insectivore,1,No,48,Good
+HIW,FF17,Shuler Cr,SR 1323,Cherokee,35.18305,-84.28018,MT,17.6,1-86,C,2014-73,09/17/14,Notropis spectrunculus,Mirror Shiner,Cyprinidae,Intermediate,Insectivore,32,Yes,48,Good
+HIW,FF17,Shuler Cr,SR 1323,Cherokee,35.18305,-84.28018,MT,17.6,1-86,C,2014-73,09/17/14,Semotilus atromaculatus,Creek Chub,Cyprinidae,Tolerant,Insectivore,15,Yes,48,Good
+HIW,FF17,Shuler Cr,SR 1323,Cherokee,35.18305,-84.28018,MT,17.6,1-86,C,2014-73,09/17/14,Hypentelium nigricans,Northern Hogsucker,Catostomidae,Intermediate,Insectivore,11,Yes,48,Good
+HIW,FF17,Shuler Cr,SR 1323,Cherokee,35.18305,-84.28018,MT,17.6,1-86,C,2014-73,09/17/14,Luxilus coccogenis,Warpaint Shiner,Cyprinidae,Intermediate,Insectivore,19,Yes,48,Good
+HIW,FF17,Shuler Cr,SR 1323,Cherokee,35.18305,-84.28018,MT,17.6,1-86,C,2014-73,09/17/14,Nocomis micropogon,River Chub,Cyprinidae,Intermediate,Omnivore,22,Yes,48,Good
+HIW,FF17,Shuler Cr,SR 1323,Cherokee,35.18305,-84.28018,MT,17.6,1-86,C,2014-73,09/17/14,Ambloplites rupestris,Rock Bass,Centrarchidae,Intolerant,Piscivore,10,Yes,48,Good
+HIW,FF17,Shuler Cr,SR 1323,Cherokee,35.18305,-84.28018,MT,17.6,1-86,C,2014-73,09/17/14,Ichthyomyzon greeleyi,Mountain Brook Lamprey,Petromyzontidae,Intermediate,Non-feeding,14,Yes,48,Good
+HIW,FF21,Rapier Mill Cr,off SR 1124,Cherokee,35.01030,-84.14254,MT,16.2,1-58-6,C,2015-66,06/29/15,Notropis photogenis,Silver Shiner,Cyprinidae,Intolerant,Insectivore,1,No,26,Poor
+HIW,FF21,Rapier Mill Cr,off SR 1124,Cherokee,35.01030,-84.14254,MT,16.2,1-58-6,C,2015-66,06/29/15,Moxostoma duquesnei,Black Redhorse,Catostomidae,Intermediate,Insectivore,1,No,26,Poor
+HIW,FF21,Rapier Mill Cr,off SR 1124,Cherokee,35.01030,-84.14254,MT,16.2,1-58-6,C,2015-66,06/29/15,Ichthyomyzon greeleyi,Mountain Brook Lamprey,Petromyzontidae,Intermediate,Non-feeding,5,Yes,26,Poor
+HIW,FF21,Rapier Mill Cr,off SR 1124,Cherokee,35.01030,-84.14254,MT,16.2,1-58-6,C,2015-66,06/29/15,Lepomis cyanellus,Green Sunfish,Centrarchidae,Tolerant,Insectivore,1,No,26,Poor
+HIW,FF21,Rapier Mill Cr,off SR 1124,Cherokee,35.01030,-84.14254,MT,16.2,1-58-6,C,2015-66,06/29/15,Notropis spectrunculus,Mirror Shiner,Cyprinidae,Intermediate,Insectivore,20,Yes,26,Poor
+HIW,FF21,Rapier Mill Cr,off SR 1124,Cherokee,35.01030,-84.14254,MT,16.2,1-58-6,C,2015-66,06/29/15,Ambloplites rupestris,Rock Bass,Centrarchidae,Intolerant,Piscivore,2,No,26,Poor
+HIW,FF21,Rapier Mill Cr,off SR 1124,Cherokee,35.01030,-84.14254,MT,16.2,1-58-6,C,2015-66,06/29/15,Campostoma anomalum,Central Stoneroller,Cyprinidae,Intermediate,Herbivore,9,No,26,Poor
+HIW,FF21,Rapier Mill Cr,off SR 1124,Cherokee,35.01030,-84.14254,MT,16.2,1-58-6,C,2015-66,06/29/15,Lepomis macrochirus,Bluegill,Centrarchidae,Intermediate,Insectivore,1,No,26,Poor
+HIW,FF21,Rapier Mill Cr,off SR 1124,Cherokee,35.01030,-84.14254,MT,16.2,1-58-6,C,2015-66,06/29/15,Hypentelium nigricans,Northern Hogsucker,Catostomidae,Intermediate,Insectivore,18,Yes,26,Poor
+HIW,FF21,Rapier Mill Cr,off SR 1124,Cherokee,35.01030,-84.14254,MT,16.2,1-58-6,C,2015-66,06/29/15,Cottus bairdii,Mottled Sculpin,Cottidae,Intermediate,Insectivore,162,Yes,26,Poor
+HIW,FF21,Rapier Mill Cr,off SR 1124,Cherokee,35.01030,-84.14254,MT,16.2,1-58-6,C,2015-66,06/29/15,Etheostoma rufilineatum,Redline Darter,Percidae,Intermediate,Insectivore,2,No,26,Poor
+HIW,FF4,Taylor Cr,SR 1515,Cherokee,35.17768,-83.88781,MT,5.7,1-52-39,C;Tr,2019-39,07/16/19,Campostoma anomalum,Central Stoneroller,Cyprinidae,Intermediate,Herbivore,40,Yes,38,Fair
+HIW,FF4,Taylor Cr,SR 1515,Cherokee,35.17768,-83.88781,MT,5.7,1-52-39,C;Tr,2019-39,07/16/19,Notropis leuciodus,Tennessee Shiner,Cyprinidae,Intermediate,Insectivore,4,Yes,38,Fair
+HIW,FF4,Taylor Cr,SR 1515,Cherokee,35.17768,-83.88781,MT,5.7,1-52-39,C;Tr,2019-39,07/16/19,Oncorhynchus mykiss,Rainbow Trout,Salmonidae,Intolerant,Insectivore,2,Yes,38,Fair
+HIW,FF4,Taylor Cr,SR 1515,Cherokee,35.17768,-83.88781,MT,5.7,1-52-39,C;Tr,2019-39,07/16/19,Lepomis macrochirus,Bluegill,Centrarchidae,Intermediate,Insectivore,1,No,38,Fair
+HIW,FF4,Taylor Cr,SR 1515,Cherokee,35.17768,-83.88781,MT,5.7,1-52-39,C;Tr,2019-39,07/16/19,Etheostoma rufilineatum,Redline Darter,Percidae,Intermediate,Insectivore,18,Yes,38,Fair
+HIW,FF4,Taylor Cr,SR 1515,Cherokee,35.17768,-83.88781,MT,5.7,1-52-39,C;Tr,2019-39,07/16/19,Rhinichthys cataractae,Longnose Dace,Cyprinidae,Intermediate,Insectivore,20,Yes,38,Fair
+HIW,FF4,Taylor Cr,SR 1515,Cherokee,35.17768,-83.88781,MT,5.7,1-52-39,C;Tr,2019-39,07/16/19,Etheostoma blennioides,Greenside Darter,Percidae,Intermediate,Insectivore,5,Yes,38,Fair
+HIW,FF4,Taylor Cr,SR 1515,Cherokee,35.17768,-83.88781,MT,5.7,1-52-39,C;Tr,2019-39,07/16/19,Ichthyomyzon greeleyi,Mountain Brook Lamprey,Petromyzontidae,Intermediate,Non-feeding,21,Yes,38,Fair
+HIW,FF4,Taylor Cr,SR 1515,Cherokee,35.17768,-83.88781,MT,5.7,1-52-39,C;Tr,2019-39,07/16/19,Hybopsis amblops,Bigeye Chub,Cyprinidae,Intermediate,Insectivore,6,Yes,38,Fair
+HIW,FF4,Taylor Cr,SR 1515,Cherokee,35.17768,-83.88781,MT,5.7,1-52-39,C;Tr,2019-39,07/16/19,Notropis spectrunculus,Mirror Shiner,Cyprinidae,Intermediate,Insectivore,42,Yes,38,Fair
+HIW,FF4,Taylor Cr,SR 1515,Cherokee,35.17768,-83.88781,MT,5.7,1-52-39,C;Tr,2019-39,07/16/19,Luxilus coccogenis,Warpaint Shiner,Cyprinidae,Intermediate,Insectivore,12,Yes,38,Fair
+HIW,FF4,Taylor Cr,SR 1515,Cherokee,35.17768,-83.88781,MT,5.7,1-52-39,C;Tr,2019-39,07/16/19,Semotilus atromaculatus,Creek Chub,Cyprinidae,Tolerant,Insectivore,39,Yes,38,Fair
+HIW,FF4,Taylor Cr,SR 1515,Cherokee,35.17768,-83.88781,MT,5.7,1-52-39,C;Tr,2019-39,07/16/19,Hypentelium nigricans,Northern Hogsucker,Catostomidae,Intermediate,Insectivore,26,Yes,38,Fair
+HIW,FF4,Taylor Cr,SR 1515,Cherokee,35.17768,-83.88781,MT,5.7,1-52-39,C;Tr,2019-39,07/16/19,Cottus bairdii,Mottled Sculpin,Cottidae,Intermediate,Insectivore,276,Yes,38,Fair
+HIW,FF4,Taylor Cr,SR 1515,Cherokee,35.17768,-83.88781,MT,5.7,1-52-39,C;Tr,2019-39,07/16/19,Ambloplites rupestris,Rock Bass,Centrarchidae,Intolerant,Piscivore,7,Yes,38,Fair
+HIW,FF6,Vengeance Cr,NC 141/SR 1520,Cherokee,35.16018,-83.92028,MT,7.2,1-52-45,C;Tr,2019-40,07/16/19,Percina evides,Gilt Darter,Percidae,Intolerant,Insectivore,1,No,56,Good
+HIW,FF6,Vengeance Cr,NC 141/SR 1520,Cherokee,35.16018,-83.92028,MT,7.2,1-52-45,C;Tr,2019-40,07/16/19,Lepomis auritus,Redbreast Sunfish,Centrarchidae,Tolerant,Insectivore,2,No,56,Good
+HIW,FF6,Vengeance Cr,NC 141/SR 1520,Cherokee,35.16018,-83.92028,MT,7.2,1-52-45,C;Tr,2019-40,07/16/19,Hybopsis amblops,Bigeye Chub,Cyprinidae,Intermediate,Insectivore,5,Yes,56,Good
+HIW,FF6,Vengeance Cr,NC 141/SR 1520,Cherokee,35.16018,-83.92028,MT,7.2,1-52-45,C;Tr,2019-40,07/16/19,Etheostoma blennioides,Greenside Darter,Percidae,Intermediate,Insectivore,5,Yes,56,Good
+HIW,FF6,Vengeance Cr,NC 141/SR 1520,Cherokee,35.16018,-83.92028,MT,7.2,1-52-45,C;Tr,2019-40,07/16/19,Etheostoma rufilineatum,Redline Darter,Percidae,Intermediate,Insectivore,44,Yes,56,Good
+HIW,FF6,Vengeance Cr,NC 141/SR 1520,Cherokee,35.16018,-83.92028,MT,7.2,1-52-45,C;Tr,2019-40,07/16/19,Semotilus atromaculatus,Creek Chub,Cyprinidae,Tolerant,Insectivore,4,Yes,56,Good
+HIW,FF6,Vengeance Cr,NC 141/SR 1520,Cherokee,35.16018,-83.92028,MT,7.2,1-52-45,C;Tr,2019-40,07/16/19,Ichthyomyzon greeleyi,Mountain Brook Lamprey,Petromyzontidae,Intermediate,Non-feeding,15,Yes,56,Good
+HIW,FF6,Vengeance Cr,NC 141/SR 1520,Cherokee,35.16018,-83.92028,MT,7.2,1-52-45,C;Tr,2019-40,07/16/19,Oncorhynchus mykiss,Rainbow Trout,Salmonidae,Intolerant,Insectivore,6,Yes,56,Good
+HIW,FF6,Vengeance Cr,NC 141/SR 1520,Cherokee,35.16018,-83.92028,MT,7.2,1-52-45,C;Tr,2019-40,07/16/19,Notropis leuciodus,Tennessee Shiner,Cyprinidae,Intermediate,Insectivore,82,Yes,56,Good
+HIW,FF6,Vengeance Cr,NC 141/SR 1520,Cherokee,35.16018,-83.92028,MT,7.2,1-52-45,C;Tr,2019-40,07/16/19,Ambloplites rupestris,Rock Bass,Centrarchidae,Intolerant,Piscivore,4,Yes,56,Good
+HIW,FF6,Vengeance Cr,NC 141/SR 1520,Cherokee,35.16018,-83.92028,MT,7.2,1-52-45,C;Tr,2019-40,07/16/19,Hypentelium nigricans,Northern Hogsucker,Catostomidae,Intermediate,Insectivore,21,Yes,56,Good
+HIW,FF6,Vengeance Cr,NC 141/SR 1520,Cherokee,35.16018,-83.92028,MT,7.2,1-52-45,C;Tr,2019-40,07/16/19,Campostoma anomalum,Central Stoneroller,Cyprinidae,Intermediate,Herbivore,158,Yes,56,Good
+HIW,FF6,Vengeance Cr,NC 141/SR 1520,Cherokee,35.16018,-83.92028,MT,7.2,1-52-45,C;Tr,2019-40,07/16/19,Luxilus coccogenis,Warpaint Shiner,Cyprinidae,Intermediate,Insectivore,43,Yes,56,Good
+HIW,FF6,Vengeance Cr,NC 141/SR 1520,Cherokee,35.16018,-83.92028,MT,7.2,1-52-45,C;Tr,2019-40,07/16/19,Rhinichthys cataractae,Longnose Dace,Cyprinidae,Intermediate,Insectivore,32,Yes,56,Good
+HIW,FF6,Vengeance Cr,NC 141/SR 1520,Cherokee,35.16018,-83.92028,MT,7.2,1-52-45,C;Tr,2019-40,07/16/19,Cottus bairdii,Mottled Sculpin,Cottidae,Intermediate,Insectivore,330,Yes,56,Good
+HIW,FF13,Brasstown Cr,SR 1111,Clay,34.98807,-83.89467,MT,37.3,1-42,WS-IV,2019-41,07/17/19,Etheostoma blennioides,Greenside Darter,Percidae,Intermediate,Insectivore,20,Yes,48,Good
+HIW,FF13,Brasstown Cr,SR 1111,Clay,34.98807,-83.89467,MT,37.3,1-42,WS-IV,2019-41,07/17/19,Ichthyomyzon greeleyi,Mountain Brook Lamprey,Petromyzontidae,Intermediate,Non-feeding,11,Yes,48,Good
+HIW,FF13,Brasstown Cr,SR 1111,Clay,34.98807,-83.89467,MT,37.3,1-42,WS-IV,2019-41,07/17/19,Lepomis microlophus,Redear Sunfish,Centrarchidae,Intermediate,Insectivore,1,No,48,Good
+HIW,FF13,Brasstown Cr,SR 1111,Clay,34.98807,-83.89467,MT,37.3,1-42,WS-IV,2019-41,07/17/19,Moxostoma duquesnei,Black Redhorse,Catostomidae,Intermediate,Insectivore,2,Yes,48,Good
+HIW,FF13,Brasstown Cr,SR 1111,Clay,34.98807,-83.89467,MT,37.3,1-42,WS-IV,2019-41,07/17/19,Semotilus atromaculatus,Creek Chub,Cyprinidae,Tolerant,Insectivore,1,No,48,Good
+HIW,FF13,Brasstown Cr,SR 1111,Clay,34.98807,-83.89467,MT,37.3,1-42,WS-IV,2019-41,07/17/19,Etheostoma zonale,Banded Darter,Percidae,Intermediate,Insectivore,9,Yes,48,Good
+HIW,FF13,Brasstown Cr,SR 1111,Clay,34.98807,-83.89467,MT,37.3,1-42,WS-IV,2019-41,07/17/19,Etheostoma rufilineatum,Redline Darter,Percidae,Intermediate,Insectivore,58,Yes,48,Good
+HIW,FF13,Brasstown Cr,SR 1111,Clay,34.98807,-83.89467,MT,37.3,1-42,WS-IV,2019-41,07/17/19,Percina evides,Gilt Darter,Percidae,Intolerant,Insectivore,18,Yes,48,Good
+HIW,FF13,Brasstown Cr,SR 1111,Clay,34.98807,-83.89467,MT,37.3,1-42,WS-IV,2019-41,07/17/19,Lepomis macrochirus,Bluegill,Centrarchidae,Intermediate,Insectivore,3,Yes,48,Good
+HIW,FF13,Brasstown Cr,SR 1111,Clay,34.98807,-83.89467,MT,37.3,1-42,WS-IV,2019-41,07/17/19,Campostoma anomalum,Central Stoneroller,Cyprinidae,Intermediate,Herbivore,19,Yes,48,Good
+HIW,FF13,Brasstown Cr,SR 1111,Clay,34.98807,-83.89467,MT,37.3,1-42,WS-IV,2019-41,07/17/19,Ambloplites rupestris,Rock Bass,Centrarchidae,Intolerant,Piscivore,1,No,48,Good
+HIW,FF13,Brasstown Cr,SR 1111,Clay,34.98807,-83.89467,MT,37.3,1-42,WS-IV,2019-41,07/17/19,Hypentelium nigricans,Northern Hogsucker,Catostomidae,Intermediate,Insectivore,12,Yes,48,Good
+HIW,FF13,Brasstown Cr,SR 1111,Clay,34.98807,-83.89467,MT,37.3,1-42,WS-IV,2019-41,07/17/19,Notropis leuciodus,Tennessee Shiner,Cyprinidae,Intermediate,Insectivore,50,Yes,48,Good
+HIW,FF13,Brasstown Cr,SR 1111,Clay,34.98807,-83.89467,MT,37.3,1-42,WS-IV,2019-41,07/17/19,Notropis spectrunculus,Mirror Shiner,Cyprinidae,Intermediate,Insectivore,2,Yes,48,Good
+HIW,FF13,Brasstown Cr,SR 1111,Clay,34.98807,-83.89467,MT,37.3,1-42,WS-IV,2019-41,07/17/19,Nocomis micropogon,River Chub,Cyprinidae,Intermediate,Omnivore,8,Yes,48,Good
+HIW,FF13,Brasstown Cr,SR 1111,Clay,34.98807,-83.89467,MT,37.3,1-42,WS-IV,2019-41,07/17/19,Micropterus dolomieu,Smallmouth Bass,Centrarchidae,Intolerant,Piscivore,1,No,48,Good
+HIW,FF13,Brasstown Cr,SR 1111,Clay,34.98807,-83.89467,MT,37.3,1-42,WS-IV,2019-41,07/17/19,Cyprinella galactura,Whitetail Shiner,Cyprinidae,Intermediate,Insectivore,3,Yes,48,Good
+HIW,FF13,Brasstown Cr,SR 1111,Clay,34.98807,-83.89467,MT,37.3,1-42,WS-IV,2019-41,07/17/19,Cottus bairdii,Mottled Sculpin,Cottidae,Intermediate,Insectivore,118,Yes,48,Good
+HIW,FF13,Brasstown Cr,SR 1111,Clay,34.98807,-83.89467,MT,37.3,1-42,WS-IV,2019-41,07/17/19,Luxilus coccogenis,Warpaint Shiner,Cyprinidae,Intermediate,Insectivore,11,Yes,48,Good
+HIW,FF11,Little Brasstown Cr,SR 1565,Cherokee,35.03347,-83.96263,MT,8.9,1-42-11,WS-IV,2019-42,07/17/19,Campostoma anomalum,Central Stoneroller,Cyprinidae,Intermediate,Herbivore,9,Yes,34,Fair
+HIW,FF11,Little Brasstown Cr,SR 1565,Cherokee,35.03347,-83.96263,MT,8.9,1-42-11,WS-IV,2019-42,07/17/19,Etheostoma rufilineatum,Redline Darter,Percidae,Intermediate,Insectivore,2,No,34,Fair
+HIW,FF11,Little Brasstown Cr,SR 1565,Cherokee,35.03347,-83.96263,MT,8.9,1-42-11,WS-IV,2019-42,07/17/19,Etheostoma zonale,Banded Darter,Percidae,Intermediate,Insectivore,1,No,34,Fair
+HIW,FF11,Little Brasstown Cr,SR 1565,Cherokee,35.03347,-83.96263,MT,8.9,1-42-11,WS-IV,2019-42,07/17/19,Moxostoma duquesnei,Black Redhorse,Catostomidae,Intermediate,Insectivore,2,Yes,34,Fair
+HIW,FF11,Little Brasstown Cr,SR 1565,Cherokee,35.03347,-83.96263,MT,8.9,1-42-11,WS-IV,2019-42,07/17/19,Etheostoma blennioides,Greenside Darter,Percidae,Intermediate,Insectivore,1,No,34,Fair
+HIW,FF11,Little Brasstown Cr,SR 1565,Cherokee,35.03347,-83.96263,MT,8.9,1-42-11,WS-IV,2019-42,07/17/19,Nocomis micropogon,River Chub,Cyprinidae,Intermediate,Omnivore,2,No,34,Fair
+HIW,FF11,Little Brasstown Cr,SR 1565,Cherokee,35.03347,-83.96263,MT,8.9,1-42-11,WS-IV,2019-42,07/17/19,Hybopsis amblops,Bigeye Chub,Cyprinidae,Intermediate,Insectivore,1,No,34,Fair
+HIW,FF11,Little Brasstown Cr,SR 1565,Cherokee,35.03347,-83.96263,MT,8.9,1-42-11,WS-IV,2019-42,07/17/19,Notropis spectrunculus,Mirror Shiner,Cyprinidae,Intermediate,Insectivore,2,Yes,34,Fair
+HIW,FF11,Little Brasstown Cr,SR 1565,Cherokee,35.03347,-83.96263,MT,8.9,1-42-11,WS-IV,2019-42,07/17/19,Ichthyomyzon greeleyi,Mountain Brook Lamprey,Petromyzontidae,Intermediate,Non-feeding,1,No,34,Fair
+HIW,FF11,Little Brasstown Cr,SR 1565,Cherokee,35.03347,-83.96263,MT,8.9,1-42-11,WS-IV,2019-42,07/17/19,Ambloplites rupestris,Rock Bass,Centrarchidae,Intolerant,Piscivore,4,Yes,34,Fair
+HIW,FF11,Little Brasstown Cr,SR 1565,Cherokee,35.03347,-83.96263,MT,8.9,1-42-11,WS-IV,2019-42,07/17/19,Hypentelium nigricans,Northern Hogsucker,Catostomidae,Intermediate,Insectivore,11,Yes,34,Fair
+HIW,FF11,Little Brasstown Cr,SR 1565,Cherokee,35.03347,-83.96263,MT,8.9,1-42-11,WS-IV,2019-42,07/17/19,Semotilus atromaculatus,Creek Chub,Cyprinidae,Tolerant,Insectivore,9,Yes,34,Fair
+HIW,FF11,Little Brasstown Cr,SR 1565,Cherokee,35.03347,-83.96263,MT,8.9,1-42-11,WS-IV,2019-42,07/17/19,Cyprinella galactura,Whitetail Shiner,Cyprinidae,Intermediate,Insectivore,9,Yes,34,Fair
+HIW,FF11,Little Brasstown Cr,SR 1565,Cherokee,35.03347,-83.96263,MT,8.9,1-42-11,WS-IV,2019-42,07/17/19,Notropis leuciodus,Tennessee Shiner,Cyprinidae,Intermediate,Insectivore,22,Yes,34,Fair
+HIW,FF11,Little Brasstown Cr,SR 1565,Cherokee,35.03347,-83.96263,MT,8.9,1-42-11,WS-IV,2019-42,07/17/19,Luxilus coccogenis,Warpaint Shiner,Cyprinidae,Intermediate,Insectivore,14,Yes,34,Fair
+HIW,FF11,Little Brasstown Cr,SR 1565,Cherokee,35.03347,-83.96263,MT,8.9,1-42-11,WS-IV,2019-42,07/17/19,Lepomis auritus,Redbreast Sunfish,Centrarchidae,Tolerant,Insectivore,1,No,34,Fair
+HIW,FF11,Little Brasstown Cr,SR 1565,Cherokee,35.03347,-83.96263,MT,8.9,1-42-11,WS-IV,2019-42,07/17/19,Lepomis macrochirus,Bluegill,Centrarchidae,Intermediate,Insectivore,11,Yes,34,Fair
+HIW,FF11,Little Brasstown Cr,SR 1565,Cherokee,35.03347,-83.96263,MT,8.9,1-42-11,WS-IV,2019-42,07/17/19,Cottus bairdii,Mottled Sculpin,Cottidae,Intermediate,Insectivore,19,Yes,34,Fair
+HIW,FF11,Little Brasstown Cr,SR 1565,Cherokee,35.03347,-83.96263,MT,8.9,1-42-11,WS-IV,2019-42,07/17/19,Micropterus salmoides,Largemouth Bass,Centrarchidae,Intermediate,Piscivore,1,No,34,Fair
+HIW,FF7,Martin Cr,SR 1558,Cherokee,35.07541,-84.02062,MT,9,1-49,C,2019-43,07/18/19,Perca flavescens,Yellow Perch,Percidae,Intermediate,Piscivore,1,No,36,Fair
+HIW,FF7,Martin Cr,SR 1558,Cherokee,35.07541,-84.02062,MT,9,1-49,C,2019-43,07/18/19,Lepomis macrochirus,Bluegill,Centrarchidae,Intermediate,Insectivore,20,Yes,36,Fair
+HIW,FF7,Martin Cr,SR 1558,Cherokee,35.07541,-84.02062,MT,9,1-49,C,2019-43,07/18/19,Etheostoma rufilineatum,Redline Darter,Percidae,Intermediate,Insectivore,12,Yes,36,Fair
+HIW,FF7,Martin Cr,SR 1558,Cherokee,35.07541,-84.02062,MT,9,1-49,C,2019-43,07/18/19,Ichthyomyzon greeleyi,Mountain Brook Lamprey,Petromyzontidae,Intermediate,Non-feeding,6,Yes,36,Fair
+HIW,FF7,Martin Cr,SR 1558,Cherokee,35.07541,-84.02062,MT,9,1-49,C,2019-43,07/18/19,Luxilus coccogenis,Warpaint Shiner,Cyprinidae,Intermediate,Insectivore,46,Yes,36,Fair
+HIW,FF7,Martin Cr,SR 1558,Cherokee,35.07541,-84.02062,MT,9,1-49,C,2019-43,07/18/19,Cottus bairdii,Mottled Sculpin,Cottidae,Intermediate,Insectivore,102,Yes,36,Fair
+HIW,FF7,Martin Cr,SR 1558,Cherokee,35.07541,-84.02062,MT,9,1-49,C,2019-43,07/18/19,Etheostoma blennioides,Greenside Darter,Percidae,Intermediate,Insectivore,6,Yes,36,Fair
+HIW,FF7,Martin Cr,SR 1558,Cherokee,35.07541,-84.02062,MT,9,1-49,C,2019-43,07/18/19,Lepomis cyanellus,Green Sunfish,Centrarchidae,Tolerant,Insectivore,36,Yes,36,Fair
+HIW,FF7,Martin Cr,SR 1558,Cherokee,35.07541,-84.02062,MT,9,1-49,C,2019-43,07/18/19,Percina evides,Gilt Darter,Percidae,Intolerant,Insectivore,1,No,36,Fair
+HIW,FF7,Martin Cr,SR 1558,Cherokee,35.07541,-84.02062,MT,9,1-49,C,2019-43,07/18/19,Campostoma anomalum,Central Stoneroller,Cyprinidae,Intermediate,Herbivore,16,Yes,36,Fair
+HIW,FF7,Martin Cr,SR 1558,Cherokee,35.07541,-84.02062,MT,9,1-49,C,2019-43,07/18/19,Etheostoma flabellare,Fantail Darter,Percidae,Intermediate,Insectivore,1,No,36,Fair
+HIW,FF7,Martin Cr,SR 1558,Cherokee,35.07541,-84.02062,MT,9,1-49,C,2019-43,07/18/19,Notropis leuciodus,Tennessee Shiner,Cyprinidae,Intermediate,Insectivore,12,Yes,36,Fair
+HIW,FF7,Martin Cr,SR 1558,Cherokee,35.07541,-84.02062,MT,9,1-49,C,2019-43,07/18/19,Semotilus atromaculatus,Creek Chub,Cyprinidae,Tolerant,Insectivore,6,Yes,36,Fair
+HIW,FF7,Martin Cr,SR 1558,Cherokee,35.07541,-84.02062,MT,9,1-49,C,2019-43,07/18/19,Nocomis micropogon,River Chub,Cyprinidae,Intermediate,Omnivore,4,Yes,36,Fair
+HIW,FF7,Martin Cr,SR 1558,Cherokee,35.07541,-84.02062,MT,9,1-49,C,2019-43,07/18/19,Micropterus salmoides,Largemouth Bass,Centrarchidae,Intermediate,Piscivore,1,Yes,36,Fair
+HIW,FF7,Martin Cr,SR 1558,Cherokee,35.07541,-84.02062,MT,9,1-49,C,2019-43,07/18/19,Hypentelium nigricans,Northern Hogsucker,Catostomidae,Intermediate,Insectivore,18,Yes,36,Fair
+HIW,FF7,Martin Cr,SR 1558,Cherokee,35.07541,-84.02062,MT,9,1-49,C,2019-43,07/18/19,Notropis micropteryx,Highland Shiner,Cyprinidae,Intolerant,Insectivore,76,Yes,36,Fair
+HIW,FF7,Martin Cr,SR 1558,Cherokee,35.07541,-84.02062,MT,9,1-49,C,2019-43,07/18/19,Hybopsis amblops,Bigeye Chub,Cyprinidae,Intermediate,Insectivore,8,Yes,36,Fair
+HIW,FF8,Peachtree Cr,old US 64,Cherokee,35.07780,-83.97434,MT,18,1-44,C,2019-44,07/18/19,Ambloplites rupestris,Rock Bass,Centrarchidae,Intolerant,Piscivore,6,Yes,56,Good
+HIW,FF8,Peachtree Cr,old US 64,Cherokee,35.07780,-83.97434,MT,18,1-44,C,2019-44,07/18/19,Notropis spectrunculus,Mirror Shiner,Cyprinidae,Intermediate,Insectivore,6,Yes,56,Good
+HIW,FF8,Peachtree Cr,old US 64,Cherokee,35.07780,-83.97434,MT,18,1-44,C,2019-44,07/18/19,Micropterus salmoides,Largemouth Bass,Centrarchidae,Intermediate,Piscivore,1,Yes,56,Good
+HIW,FF8,Peachtree Cr,old US 64,Cherokee,35.07780,-83.97434,MT,18,1-44,C,2019-44,07/18/19,Etheostoma rufilineatum,Redline Darter,Percidae,Intermediate,Insectivore,34,Yes,56,Good
+HIW,FF8,Peachtree Cr,old US 64,Cherokee,35.07780,-83.97434,MT,18,1-44,C,2019-44,07/18/19,Lepomis auritus,Redbreast Sunfish,Centrarchidae,Tolerant,Insectivore,7,Yes,56,Good
+HIW,FF8,Peachtree Cr,old US 64,Cherokee,35.07780,-83.97434,MT,18,1-44,C,2019-44,07/18/19,Semotilus atromaculatus,Creek Chub,Cyprinidae,Tolerant,Insectivore,8,Yes,56,Good
+HIW,FF8,Peachtree Cr,old US 64,Cherokee,35.07780,-83.97434,MT,18,1-44,C,2019-44,07/18/19,Cottus bairdii,Mottled Sculpin,Cottidae,Intermediate,Insectivore,173,Yes,56,Good
+HIW,FF8,Peachtree Cr,old US 64,Cherokee,35.07780,-83.97434,MT,18,1-44,C,2019-44,07/18/19,Moxostoma duquesnei,Black Redhorse,Catostomidae,Intermediate,Insectivore,2,No,56,Good
+HIW,FF8,Peachtree Cr,old US 64,Cherokee,35.07780,-83.97434,MT,18,1-44,C,2019-44,07/18/19,Cyprinella galactura,Whitetail Shiner,Cyprinidae,Intermediate,Insectivore,5,Yes,56,Good
+HIW,FF8,Peachtree Cr,old US 64,Cherokee,35.07780,-83.97434,MT,18,1-44,C,2019-44,07/18/19,Lepomis cyanellus,Green Sunfish,Centrarchidae,Tolerant,Insectivore,3,No,56,Good
+HIW,FF8,Peachtree Cr,old US 64,Cherokee,35.07780,-83.97434,MT,18,1-44,C,2019-44,07/18/19,Etheostoma zonale,Banded Darter,Percidae,Intermediate,Insectivore,10,Yes,56,Good
+HIW,FF8,Peachtree Cr,old US 64,Cherokee,35.07780,-83.97434,MT,18,1-44,C,2019-44,07/18/19,Ichthyomyzon greeleyi,Mountain Brook Lamprey,Petromyzontidae,Intermediate,Non-feeding,21,Yes,56,Good
+HIW,FF8,Peachtree Cr,old US 64,Cherokee,35.07780,-83.97434,MT,18,1-44,C,2019-44,07/18/19,Oncorhynchus mykiss,Rainbow Trout,Salmonidae,Intolerant,Insectivore,1,No,56,Good
+HIW,FF8,Peachtree Cr,old US 64,Cherokee,35.07780,-83.97434,MT,18,1-44,C,2019-44,07/18/19,Campostoma anomalum,Central Stoneroller,Cyprinidae,Intermediate,Herbivore,52,Yes,56,Good
+HIW,FF8,Peachtree Cr,old US 64,Cherokee,35.07780,-83.97434,MT,18,1-44,C,2019-44,07/18/19,Luxilus coccogenis,Warpaint Shiner,Cyprinidae,Intermediate,Insectivore,15,Yes,56,Good
+HIW,FF8,Peachtree Cr,old US 64,Cherokee,35.07780,-83.97434,MT,18,1-44,C,2019-44,07/18/19,Perca flavescens,Yellow Perch,Percidae,Intermediate,Piscivore,3,Yes,56,Good
+HIW,FF8,Peachtree Cr,old US 64,Cherokee,35.07780,-83.97434,MT,18,1-44,C,2019-44,07/18/19,Nocomis micropogon,River Chub,Cyprinidae,Intermediate,Omnivore,36,Yes,56,Good
+HIW,FF8,Peachtree Cr,old US 64,Cherokee,35.07780,-83.97434,MT,18,1-44,C,2019-44,07/18/19,Lepomis macrochirus,Bluegill,Centrarchidae,Intermediate,Insectivore,17,Yes,56,Good
+HIW,FF8,Peachtree Cr,old US 64,Cherokee,35.07780,-83.97434,MT,18,1-44,C,2019-44,07/18/19,Etheostoma blennioides,Greenside Darter,Percidae,Intermediate,Insectivore,3,Yes,56,Good
+HIW,FF8,Peachtree Cr,old US 64,Cherokee,35.07780,-83.97434,MT,18,1-44,C,2019-44,07/18/19,Notropis leuciodus,Tennessee Shiner,Cyprinidae,Intermediate,Insectivore,203,Yes,56,Good
+HIW,FF8,Peachtree Cr,old US 64,Cherokee,35.07780,-83.97434,MT,18,1-44,C,2019-44,07/18/19,Hybopsis amblops,Bigeye Chub,Cyprinidae,Intermediate,Insectivore,3,Yes,56,Good
+HIW,FF8,Peachtree Cr,old US 64,Cherokee,35.07780,-83.97434,MT,18,1-44,C,2019-44,07/18/19,Erimystax insignis,Blotched Chub,Cyprinidae,Intermediate,Omnivore,2,No,56,Good
+HIW,FF8,Peachtree Cr,old US 64,Cherokee,35.07780,-83.97434,MT,18,1-44,C,2019-44,07/18/19,Hypentelium nigricans,Northern Hogsucker,Catostomidae,Intermediate,Insectivore,27,Yes,56,Good
+HIW,FF5,Hanging Dog Cr,off SR 1342,Cherokee,35.15203,-84.06111,MT,21.7,1-57,C,2019-45,07/19/19,Oncorhynchus mykiss,Rainbow Trout,Salmonidae,Intolerant,Insectivore,3,Yes,50,Good
+HIW,FF5,Hanging Dog Cr,off SR 1342,Cherokee,35.15203,-84.06111,MT,21.7,1-57,C,2019-45,07/19/19,Notropis spectrunculus,Mirror Shiner,Cyprinidae,Intermediate,Insectivore,8,Yes,50,Good
+HIW,FF5,Hanging Dog Cr,off SR 1342,Cherokee,35.15203,-84.06111,MT,21.7,1-57,C,2019-45,07/19/19,Rhinichthys cataractae,Longnose Dace,Cyprinidae,Intermediate,Insectivore,2,Yes,50,Good
+HIW,FF5,Hanging Dog Cr,off SR 1342,Cherokee,35.15203,-84.06111,MT,21.7,1-57,C,2019-45,07/19/19,Etheostoma zonale,Banded Darter,Percidae,Intermediate,Insectivore,5,Yes,50,Good
+HIW,FF5,Hanging Dog Cr,off SR 1342,Cherokee,35.15203,-84.06111,MT,21.7,1-57,C,2019-45,07/19/19,Etheostoma blennioides,Greenside Darter,Percidae,Intermediate,Insectivore,2,Yes,50,Good
+HIW,FF5,Hanging Dog Cr,off SR 1342,Cherokee,35.15203,-84.06111,MT,21.7,1-57,C,2019-45,07/19/19,Campostoma anomalum,Central Stoneroller,Cyprinidae,Intermediate,Herbivore,12,Yes,50,Good
+HIW,FF5,Hanging Dog Cr,off SR 1342,Cherokee,35.15203,-84.06111,MT,21.7,1-57,C,2019-45,07/19/19,Luxilus coccogenis,Warpaint Shiner,Cyprinidae,Intermediate,Insectivore,4,Yes,50,Good
+HIW,FF5,Hanging Dog Cr,off SR 1342,Cherokee,35.15203,-84.06111,MT,21.7,1-57,C,2019-45,07/19/19,Notropis leuciodus,Tennessee Shiner,Cyprinidae,Intermediate,Insectivore,73,Yes,50,Good
+HIW,FF5,Hanging Dog Cr,off SR 1342,Cherokee,35.15203,-84.06111,MT,21.7,1-57,C,2019-45,07/19/19,Percina evides,Gilt Darter,Percidae,Intolerant,Insectivore,5,Yes,50,Good
+HIW,FF5,Hanging Dog Cr,off SR 1342,Cherokee,35.15203,-84.06111,MT,21.7,1-57,C,2019-45,07/19/19,Etheostoma rufilineatum,Redline Darter,Percidae,Intermediate,Insectivore,84,Yes,50,Good
+HIW,FF5,Hanging Dog Cr,off SR 1342,Cherokee,35.15203,-84.06111,MT,21.7,1-57,C,2019-45,07/19/19,Hypentelium nigricans,Northern Hogsucker,Catostomidae,Intermediate,Insectivore,5,Yes,50,Good
+HIW,FF5,Hanging Dog Cr,off SR 1342,Cherokee,35.15203,-84.06111,MT,21.7,1-57,C,2019-45,07/19/19,Cottus bairdii,Mottled Sculpin,Cottidae,Intermediate,Insectivore,155,Yes,50,Good
+HIW,FF5,Hanging Dog Cr,off SR 1342,Cherokee,35.15203,-84.06111,MT,21.7,1-57,C,2019-45,07/19/19,Ambloplites rupestris,Rock Bass,Centrarchidae,Intolerant,Piscivore,7,Yes,50,Good
+HIW,FF5,Hanging Dog Cr,off SR 1342,Cherokee,35.15203,-84.06111,MT,21.7,1-57,C,2019-45,07/19/19,Nocomis micropogon,River Chub,Cyprinidae,Intermediate,Omnivore,33,Yes,50,Good
