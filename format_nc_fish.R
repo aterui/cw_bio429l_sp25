@@ -6,7 +6,7 @@ pacman::p_load(tidyverse)
 # read nc, combine --------------------------------------------------------
 
 df_nc_fish0 <- list.files("data_raw/nc_fish",
-           full.names = TRUE) %>% 
+                          full.names = TRUE) %>% 
   lapply(read_csv) %>% 
   bind_rows()
 
@@ -32,8 +32,8 @@ df_nc_fish <- df_nc_fish0 %>%
   mutate(ma = mean(drainage_area),
          diff = abs(drainage_area - ma),
          drainage_area = ifelse(diff != 0,
-                       drainage_area[which.min(diff)],
-                       drainage_area)) %>% 
+                                drainage_area[which.min(diff)],
+                                drainage_area)) %>% 
   ungroup() %>% 
   select(-c(ma, diff)) %>% 
   filter(drainage_area > 0)
@@ -49,6 +49,6 @@ df_nc_fish %>%
   geom_point() +
   scale_x_continuous(trans = "log10") +
   scale_y_continuous(trans = "log10")
-  
+
 ## export
 write_csv(df_nc_fish, file = "data/data_nc_fish.csv")
