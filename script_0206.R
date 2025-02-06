@@ -115,6 +115,12 @@ df_vir_sl <- iris_sub %>%
   filter(Species == "virginica") %>% 
   select(Sepal.Length)
 
+# exercise
+# Subset iris_sub by Species column (choose only "setosa" ) and add a new column pw_two_times by doubling values in column Petal.Width. Assign the resultant dataframe to iris_pipe. USE pipe %>% in this operation.
+iris_pipe <- iris_sub %>% 
+  filter(Species == "setosa") %>% 
+  mutate(pw_two_times = 2 * Petal.Width)
+
 
 
 
